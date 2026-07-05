@@ -1,0 +1,97 @@
+{
+  "topicId": "math-tsd",
+  "examId": "si",
+  "topicName": "Time, Speed & Distance",
+  "lastUpdated": "2025-01-01",
+  "examTip": "Train problems and Boat & Stream are the most frequently asked TSD types in WB SI. Master these two sub-types and you can solve any TSD question.",
+  "sections": [
+    {
+      "heading": "🔑 Core Formula",
+      "type": "keypoints",
+      "points": [
+        "Speed = Distance / Time",
+        "Distance = Speed × Time",
+        "Time = Distance / Speed",
+        "Unit conversions: 1 km/hr = 5/18 m/s → multiply by 5/18",
+        "Unit conversions: 1 m/s = 18/5 km/hr → multiply by 18/5",
+        "Average Speed (equal distance) = 2xy / (x+y) — NOT (x+y)/2"
+      ]
+    },
+    {
+      "heading": "🚂 Train Problems — 3 Types",
+      "type": "keypoints",
+      "points": [
+        "TYPE 1 — Train crossing a POLE/PERSON: Distance = Length of train only",
+        "TYPE 2 — Train crossing a PLATFORM/BRIDGE: Distance = Length of train + Length of platform",
+        "TYPE 3 — Two trains crossing each other:",
+        "  → Same direction: Relative Speed = |S1 − S2|, Distance = L1 + L2",
+        "  → Opposite direction: Relative Speed = S1 + S2, Distance = L1 + L2",
+        "Time = Distance / Relative Speed",
+        "TRAP: When a train passes a person SITTING in another train → distance = only your train's length"
+      ]
+    },
+    {
+      "heading": "🚣 Boat & Stream — Always Exam Tested",
+      "type": "keypoints",
+      "points": [
+        "Downstream speed (U) = Speed of boat + Speed of stream",
+        "Upstream speed (V) = Speed of boat − Speed of stream",
+        "Speed of boat in still water = (U + V) / 2",
+        "Speed of stream / current = (U − V) / 2",
+        "TRICK: If downstream time = T1 and upstream time = T2 for same distance:",
+        "  Boat speed : Stream speed = (T1+T2) : (T2−T1)"
+      ]
+    },
+    {
+      "heading": "📊 Meeting Point Problems",
+      "type": "keypoints",
+      "points": [
+        "Two people A and B walk toward each other from distance D apart:",
+        "  → They meet when combined distance = D",
+        "  → Time to meet = D / (Sa + Sb)",
+        "A and B start from same point in opposite directions on a circular track:",
+        "  → They meet every D/(Sa+Sb) time units",
+        "A and B in same direction, A faster:",
+        "  → A laps B when A gains one full lap → Time = Lap distance / (Sa − Sb)"
+      ]
+    },
+    {
+      "heading": "⚡ Average Speed Trap",
+      "type": "keypoints",
+      "points": [
+        "Journey at X km/hr for first half, Y km/hr for second half:",
+        "  Average = 2XY/(X+Y) — NOT (X+Y)/2",
+        "Example: 40 km/hr first half, 60 km/hr second half:",
+        "  Average = 2×40×60/(40+60) = 4800/100 = 48 km/hr",
+        "REMEMBER: When distances are equal, use harmonic mean (2XY/(X+Y))",
+        "When times are equal, simple average = (X+Y)/2 is correct"
+      ]
+    },
+    {
+      "heading": "📝 PYQ-style Solved Examples",
+      "type": "examples",
+      "items": [
+        {
+          "question": "A 200m train crosses a 300m platform in 25 seconds. Find speed in km/hr.",
+          "solution": "Distance = 200+300=500m. Speed = 500/25 = 20 m/s = 20 × 18/5 = 72 km/hr.",
+          "answer": "72 km/hr"
+        },
+        {
+          "question": "Boat speed in still water = 12 km/hr. Stream speed = 4 km/hr. Time to go 48 km downstream?",
+          "solution": "Downstream = 12+4 = 16 km/hr. Time = 48/16 = 3 hours.",
+          "answer": "3 hours"
+        },
+        {
+          "question": "Two trains 180m and 120m travel at 48 km/hr and 42 km/hr toward each other. Time to cross?",
+          "solution": "Relative speed = 48+42 = 90 km/hr = 25 m/s. Distance = 180+120 = 300m. Time = 300/25 = 12 sec.",
+          "answer": "12 seconds"
+        },
+        {
+          "question": "A person goes at 60 km/hr and returns at 40 km/hr. Find average speed.",
+          "solution": "Equal distances → Avg = 2×60×40/(60+40) = 4800/100 = 48 km/hr.",
+          "answer": "48 km/hr"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,96 @@
+{
+  "topicId": "gs-polity",
+  "examId": "si",
+  "topicName": "Indian Constitution & Polity",
+  "lastUpdated": "2025-01-01",
+  "examTip": "This topic appears in almost every WB Police SI exam — 5 to 8 questions guaranteed. Focus on Article numbers.",
+  "sections": [
+    {
+      "heading": "🔑 Must-Know Article Numbers",
+      "type": "keypoints",
+      "points": [
+        "Art 12–35 = Fundamental Rights (Part III)",
+        "Art 36–51 = Directive Principles of State Policy (Part IV)",
+        "Art 51A = Fundamental Duties (added by 42nd Amendment 1976)",
+        "Art 21A = Right to Education (added by 86th Amendment 2002) — Free education 6–14 years",
+        "Art 32 = Right to Constitutional Remedies — 'Heart & Soul of Constitution' (Dr. Ambedkar)",
+        "Art 17 = Abolition of Untouchability",
+        "Art 44 = Uniform Civil Code (DPSP)",
+        "Art 356 = President's Rule in states",
+        "Art 368 = Amendment of Constitution",
+        "Art 370 = (Was) Special Status to J&K — Abrogated August 2019",
+        "Art 123 = President's Ordinance Power",
+        "Art 124 = Establishment of Supreme Court",
+        "Art 214 = Establishment of High Courts",
+        "Art 243 = Panchayati Raj (73rd Amendment 1992)",
+        "Art 324 = Election Commission of India"
+      ]
+    },
+    {
+      "heading": "⚡ Exam Shortcuts — Constitutional Bodies",
+      "type": "table",
+      "rows": [
+        ["Body", "Article", "Key Fact"],
+        ["Election Commission", "324", "Constitutional, independent"],
+        ["UPSC", "315", "All India Services recruitment"],
+        ["CAG", "148", "Audits all govt accounts"],
+        ["Finance Commission", "280", "Every 5 years, tax devolution"],
+        ["Planning Commission", "—", "Replaced by NITI Aayog in 2015"],
+        ["Attorney General", "76", "Highest law officer, Union"],
+        ["Advocate General", "165", "Highest law officer, State"]
+      ]
+    },
+    {
+      "heading": "📅 Critical Amendments — Exam Favourites",
+      "type": "keypoints",
+      "points": [
+        "1st Amendment (1951): Added 9th Schedule (land reform laws, judicial review protected)",
+        "42nd Amendment (1976): Added Socialist, Secular, Integrity to Preamble; added Fundamental Duties",
+        "44th Amendment (1978): Removed Right to Property from FRs (now Art 300A — legal right only)",
+        "52nd Amendment (1985): Anti-defection law (10th Schedule)",
+        "61st Amendment (1988): Voting age 21 → 18",
+        "73rd Amendment (1992): Panchayati Raj constitutionalized",
+        "74th Amendment (1992): Municipalities constitutionalized",
+        "86th Amendment (2002): Art 21A — Right to Education",
+        "101st Amendment (2016): GST introduced",
+        "103rd Amendment (2019): 10% EWS reservation"
+      ]
+    },
+    {
+      "heading": "⚠️ Exam Traps — Common Wrong Answers",
+      "type": "warnings",
+      "points": [
+        "Governor is appointed by PRESIDENT — NOT by the state legislature or PM directly",
+        "Rajya Sabha is PERMANENT — cannot be dissolved. Only Lok Sabha can be dissolved.",
+        "Constitution was ADOPTED on 26 Nov 1949 but came into FORCE on 26 Jan 1950",
+        "India is a Republic since 26 Jan 1950 — NOT since 15 Aug 1947 (that was Independence)",
+        "Right to Property is NO LONGER a Fundamental Right — it's a Constitutional Right (Art 300A)",
+        "DPSP are NON-JUSTICIABLE — you cannot go to court to enforce them",
+        "Fundamental Duties are also NON-JUSTICIABLE but courts can use them for interpretation"
+      ]
+    },
+    {
+      "heading": "🏛️ Parliament — Quick Numbers",
+      "type": "keypoints",
+      "points": [
+        "Lok Sabha: max 552 members (530 states + 20 UTs + 2 Anglo-Indian nominated — nomination removed now)",
+        "Rajya Sabha: max 250 members (238 elected + 12 nominated by President)",
+        "Current Lok Sabha: 543 elected seats",
+        "Lok Sabha term: 5 years (can be dissolved early)",
+        "Rajya Sabha: No dissolution, 1/3 retire every 2 years, each member serves 6 years",
+        "Money Bill: Can only be introduced in Lok Sabha, Rajya Sabha has 14 days only",
+        "Joint Sitting: Presided by Speaker of Lok Sabha"
+      ]
+    },
+    {
+      "heading": "🔺 Emergency Provisions — Easily Confused",
+      "type": "table",
+      "rows": [
+        ["Type", "Article", "Grounds", "Proclaimed by"],
+        ["National Emergency", "352", "War/External Aggression/Armed Rebellion", "President on PM Cabinet advice"],
+        ["President's Rule", "356", "Constitutional failure in state", "President (Governor's report)"],
+        ["Financial Emergency", "360", "Financial stability/credit of India threatened", "President"]
+      ]
+    }
+  ]
+}

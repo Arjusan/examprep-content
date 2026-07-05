@@ -1,0 +1,57 @@
+name: Publish Approved Questions to Live
+
+on:
+  # Only triggered manually from Admin Panel
+  workflow_dispatch:
+    inputs:
+      exam:
+        description: 'Exam to publish (si/icds/panchayat/tet)'
+        required: true
+        default: 'si'
+      date:
+        description: 'Date to publish (YYYY-MM-DD, leave blank for today)'
+        required: false
+        default: ''
+      generate_current_affairs:
+        description: 'Also regenerate current affairs? (true/false)'
+        required: false
+        default: 'false'
+
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Install dependencies
+        run: npm install node-fetch@3
+
+      - name: Publish staging to live
+        env:
+          TARGET_EXAM: ${{ github.event.inputs.exam }}
+          TARGET_DATE: ${{ github.event.inputs.date }}
+        run: node .github/scripts/publish.js
+
+      - name: Generate current affairs (if requested)
+        if: ${{ github.event.inputs.generate_current_affairs == 'true' }}
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          TARGET_EXAM: ${{ github.event.inputs.exam }}
+        run: node .github/scripts/generate-current-affairs.js
+
+      - name: Commit published files
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "ExamPrep Bot"
+          git add live/ current-affairs/
+          git diff --staged --quiet || git commit -m "✅ Publish approved questions — ${{ github.event.inputs.exam }} $(date -u '+%Y-%m-%d')"
+          git push

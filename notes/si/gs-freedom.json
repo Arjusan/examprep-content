@@ -1,0 +1,85 @@
+{
+  "topicId": "gs-freedom",
+  "examId": "si",
+  "topicName": "Indian Freedom Struggle & Bengal",
+  "lastUpdated": "2025-01-01",
+  "examTip": "Bengal-specific events carry extra weight in WB Police SI. Know exact years and persons.",
+  "sections": [
+    {
+      "heading": "📅 Critical Dates — Bengal Focus",
+      "type": "table",
+      "rows": [
+        ["Year", "Event", "Key Person"],
+        ["1757", "Battle of Plassey", "Robert Clive vs Siraj-ud-Daulah"],
+        ["1793", "Permanent Settlement", "Lord Cornwallis"],
+        ["1857", "Sepoy Mutiny / First War of Independence", "Mangal Pandey, Rani Lakshmibai"],
+        ["1885", "Indian National Congress founded", "A.O. Hume (Bombay)"],
+        ["1905", "Partition of Bengal", "Lord Curzon"],
+        ["1906", "Muslim League founded", "Dhaka"],
+        ["1911", "Partition of Bengal annulled, Capital shifted Delhi", "Lord Hardinge"],
+        ["1919", "Jallianwala Bagh massacre", "General Dyer, 13 April"],
+        ["1920", "Non-Cooperation Movement launched", "Mahatma Gandhi"],
+        ["1922", "Chauri Chaura incident — NCM withdrawn", "February 5"],
+        ["1927", "Simon Commission (no Indian member)", "All-party boycott"],
+        ["1929", "Lahore Session — Purna Swaraj declared", "31 December, J. Nehru"],
+        ["1930", "Civil Disobedience / Dandi March", "Gandhi, 12 March"],
+        ["1930", "Chittagong Armory Raid", "Surya Sen (Masterda), 18 April"],
+        ["1931", "Gandhi-Irwin Pact", "5 March"],
+        ["1942", "Quit India Movement", "8 August, Bombay"],
+        ["1943", "INA reorganized by Netaji", "Southeast Asia"],
+        ["1947", "Independence of India", "15 August"]
+      ]
+    },
+    {
+      "heading": "🦁 Bengali Freedom Fighters — Must Know",
+      "type": "keypoints",
+      "points": [
+        "Khudiram Bose — youngest martyr, hanged 1908, age 18 (Muzaffarpur bomb case)",
+        "Surya Sen (Masterda) — led Chittagong Armory Raid 18 April 1930, hanged 1934",
+        "Bagha Jatin (Jatindra Nath Mukherjee) — fought British soldiers at Balasore 1915, died in battle",
+        "Subhash Chandra Bose — born 23 Jan 1897 Cuttack, formed Azad Hind Fauj (INA) 1943",
+        "Rabindranath Tagore — renounced Knighthood after Jallianwala Bagh 1919",
+        "Bipin Chandra Pal — 'Lal-Bal-Pal' trio with Tilak and Lajpat Rai, extremist nationalist",
+        "Aurobindo Ghose — revolutionary turned spiritual, Alipore bomb case 1908",
+        "Matangini Hazra — 'Gandhi Buri', shot by police in Tamluk 1942 while hoisting tricolor"
+      ]
+    },
+    {
+      "heading": "🔥 Major Movements — Quick Summary",
+      "type": "keypoints",
+      "points": [
+        "Swadeshi Movement (1905): Against Partition of Bengal. Boycott of British goods. Use Indian-made goods.",
+        "Non-Cooperation Movement (1920-22): Boycott courts, schools, titles. Ended after Chauri Chaura violence.",
+        "Civil Disobedience (1930): Gandhi's 241-mile Dandi March to break Salt Law. Mass arrests.",
+        "Quit India Movement (1942): 'Do or Die' — Gandhi. August Kranti. British arrested all leaders same night.",
+        "INA Trials (1945-46): Shah Nawaz Khan, P.K. Sehgal, G.S. Dhillon tried at Red Fort. National outrage."
+      ]
+    },
+    {
+      "heading": "⚡ Slogans & Their Persons",
+      "type": "table",
+      "rows": [
+        ["Slogan", "Person"],
+        ["'Do or Die'", "Mahatma Gandhi (Quit India 1942)"],
+        ["'Give me blood, I'll give you freedom'", "Subhash Chandra Bose"],
+        ["'Swaraj is my birthright'", "Bal Gangadhar Tilak"],
+        ["'Vande Mataram'", "Bankim Chandra Chattopadhyay (from Anandamath)"],
+        ["'Dilli Chalo'", "Subhash Chandra Bose (INA)"],
+        ["'Inquilab Zindabad'", "Bhagat Singh"],
+        ["'Simon Go Back'", "Lala Lajpat Rai (died after lathi charge)"],
+        ["'Jai Hind'", "Subhash Chandra Bose"]
+      ]
+    },
+    {
+      "heading": "📚 Bengal Renaissance — Key Persons",
+      "type": "keypoints",
+      "points": [
+        "Raja Ram Mohan Roy — Brahmo Samaj (1828), fought Sati, first Indian to visit England",
+        "Ishwar Chandra Vidyasagar — widow remarriage, women's education, Bengali alphabet reform",
+        "Derozio (H.L.V.) — Young Bengal Movement, Hindu College",
+        "Swami Vivekananda — Ramakrishna Mission (1897), Parliament of World's Religions Chicago 1893",
+        "Rabindranath Tagore — Nobel Prize Literature 1913 for Gitanjali, first Asian Nobel laureate"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,454 @@
+{
+  "exam": "si",
+  "examName": "WB Police Sub Inspector",
+  "conductedBy": "WBPRB",
+  "lastUpdated": "2025-01-01",
+  "prelims": {
+    "totalQuestions": 100,
+    "totalMarks": 200,
+    "duration": 90,
+    "negativeMarking": 0.5,
+    "subjects": [
+      {
+        "id": "gs",
+        "name": "General Studies",
+        "questions": 50,
+        "marks": 100,
+        "topics": [
+          {
+            "id": "gs-polity",
+            "name": "Indian Constitution & Polity",
+            "weight": "high",
+            "pyqFrequency": 92,
+            "lastAskedYear": 2024,
+            "subtopics": [
+              "Preamble & Constitutional Features",
+              "Fundamental Rights (Art 12-35)",
+              "Directive Principles (Art 36-51)",
+              "Fundamental Duties (Art 51A)",
+              "Parliament & State Legislature",
+              "President, Vice President, PM",
+              "Governor & State Government",
+              "Supreme Court & High Courts",
+              "Important Amendments",
+              "Emergency Provisions (Art 352, 356, 360)",
+              "Constitutional Bodies (ECI, CAG, UPSC)"
+            ]
+          },
+          {
+            "id": "gs-freedom",
+            "name": "Indian Freedom Struggle & Bengal",
+            "weight": "high",
+            "pyqFrequency": 90,
+            "lastAskedYear": 2024,
+            "subtopics": [
+              "Revolt of 1857",
+              "Indian National Congress (1885)",
+              "Partition of Bengal 1905",
+              "Swadeshi Movement",
+              "Non-Cooperation Movement 1920",
+              "Civil Disobedience & Dandi March 1930",
+              "Quit India Movement 1942",
+              "INA & Subhash Chandra Bose",
+              "Chittagong Armory Raid 1930",
+              "Bengal Renaissance",
+              "Famous Personalities of Bengal",
+              "Key Dates & Events"
+            ]
+          },
+          {
+            "id": "gs-wb-geo",
+            "name": "West Bengal Geography",
+            "weight": "high",
+            "pyqFrequency": 88,
+            "lastAskedYear": 2024,
+            "subtopics": [
+              "Districts & Administrative Divisions",
+              "Rivers of West Bengal",
+              "Sundarbans & Biodiversity",
+              "Siliguri Corridor (Chicken's Neck)",
+              "State Symbols (Animal, Bird, Flower, Tree)",
+              "International Borders",
+              "Major Cities & Industrial Areas",
+              "Soil Types & Agriculture",
+              "Physical Features (Hills, Plains, Coast)"
+            ]
+          },
+          {
+            "id": "gs-current",
+            "name": "Current Affairs (Last 12 Months)",
+            "weight": "high",
+            "pyqFrequency": 85,
+            "lastAskedYear": 2024,
+            "subtopics": [
+              "National Current Affairs",
+              "West Bengal Current Affairs",
+              "Sports Awards & Honours",
+              "Science & Technology News",
+              "Government Schemes 2024-25",
+              "International Events affecting India"
+            ]
+          },
+          {
+            "id": "gs-wb-schemes",
+            "name": "West Bengal Government Schemes",
+            "weight": "high",
+            "pyqFrequency": 82,
+            "lastAskedYear": 2024,
+            "subtopics": [
+              "Lakshmir Bhandar",
+              "Duare Sarkar",
+              "Swasthya Sathi",
+              "Kanyashree",
+              "Rupashree",
+              "Sabuj Sathi",
+              "Krishak Bandhu",
+              "Yuvashree",
+              "Biswa Bangla"
+            ]
+          },
+          {
+            "id": "gs-india-geo",
+            "name": "Indian Geography & Environment",
+            "weight": "medium",
+            "pyqFrequency": 75,
+            "lastAskedYear": 2023,
+            "subtopics": [
+              "Physical Features of India",
+              "Major Rivers & Dams",
+              "National Parks & Tiger Reserves",
+              "Climate & Seasons",
+              "Soils & Agriculture",
+              "Minerals & Industries",
+              "Environmental Issues & Biodiversity"
+            ]
+          },
+          {
+            "id": "gs-history",
+            "name": "Ancient & Medieval Indian History",
+            "weight": "medium",
+            "pyqFrequency": 70,
+            "lastAskedYear": 2023,
+            "subtopics": [
+              "Indus Valley Civilization",
+              "Vedic Period",
+              "Maurya Empire (Ashoka)",
+              "Gupta Empire",
+              "Delhi Sultanate",
+              "Mughal Empire",
+              "Vijayanagara & Maratha"
+            ]
+          },
+          {
+            "id": "gs-economy",
+            "name": "Indian Economy & Planning",
+            "weight": "medium",
+            "pyqFrequency": 68,
+            "lastAskedYear": 2023,
+            "subtopics": [
+              "Five Year Plans & NITI Aayog",
+              "GDP, Inflation, Fiscal Policy",
+              "Banking System (RBI, Nationalization)",
+              "Budget & Taxation basics",
+              "Agriculture & Green Revolution",
+              "Important Economic Surveys"
+            ]
+          },
+          {
+            "id": "gs-science",
+            "name": "General Science & Technology",
+            "weight": "low",
+            "pyqFrequency": 55,
+            "lastAskedYear": 2022,
+            "subtopics": [
+              "Biology — Human Body Basics",
+              "Physics — Everyday Applications",
+              "Chemistry — Common Substances",
+              "Inventions & Discoveries",
+              "Space Technology (ISRO)",
+              "Defence Technology"
+            ]
+          },
+          {
+            "id": "gs-culture",
+            "name": "Art, Culture & Literature",
+            "weight": "low",
+            "pyqFrequency": 50,
+            "lastAskedYear": 2022,
+            "subtopics": [
+              "Bengali Literature (Tagore, Bankim, Saratchandra)",
+              "Classical Dances of India",
+              "UNESCO Heritage Sites in India",
+              "Folk Art of West Bengal",
+              "Important Awards (Bharat Ratna, Nobel)"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "math",
+        "name": "Arithmetic",
+        "questions": 25,
+        "marks": 50,
+        "topics": [
+          {
+            "id": "math-percent",
+            "name": "Percentage & Profit-Loss",
+            "weight": "high",
+            "pyqFrequency": 95,
+            "lastAskedYear": 2024,
+            "subtopics": [
+              "Percentage Calculation",
+              "Percentage Increase & Decrease",
+              "Cost Price, Selling Price",
+              "Profit & Loss Percentage",
+              "Discount & Marked Price",
+              "Successive Discounts",
+              "Same SP equal P&L trap"
+            ]
+          },
+          {
+            "id": "math-interest",
+            "name": "Simple & Compound Interest",
+            "weight": "high",
+            "pyqFrequency": 90,
+            "lastAskedYear": 2024,
+            "subtopics": [
+              "Simple Interest Formula",
+              "Compound Interest Formula",
+              "CI-SI Difference for 2 years",
+              "Half-yearly & Quarterly compounding",
+              "Finding Principal, Rate, Time"
+            ]
+          },
+          {
+            "id": "math-tw",
+            "name": "Time, Work & Pipes",
+            "weight": "high",
+            "pyqFrequency": 88,
+            "lastAskedYear": 2024,
+            "subtopics": [
+              "Work done in N days",
+              "A and B together",
+              "Efficiency method",
+              "Pipes — Fill & Empty",
+              "Combined Pipe problems",
+              "Wages & Work"
+            ]
+          },
+          {
+            "id": "math-tsd",
+            "name": "Time, Speed & Distance",
+            "weight": "high",
+            "pyqFrequency": 85,
+            "lastAskedYear": 2024,
+            "subtopics": [
+              "Basic Speed-Distance-Time",
+              "Relative Speed (same & opposite direction)",
+              "Train Problems (pole, platform, bridge)",
+              "Boat & Stream (upstream, downstream)",
+              "Average Speed for equal distance",
+              "Meeting point problems"
+            ]
+          },
+          {
+            "id": "math-ratio",
+            "name": "Ratio, Proportion & Mixture",
+            "weight": "medium",
+            "pyqFrequency": 78,
+            "lastAskedYear": 2024,
+            "subtopics": [
+              "Ratio & Proportion basics",
+              "Partnership",
+              "Alligation Method",
+              "Mixture problems",
+              "Compounded Ratio"
+            ]
+          },
+          {
+            "id": "math-avg",
+            "name": "Average & Age Problems",
+            "weight": "medium",
+            "pyqFrequency": 75,
+            "lastAskedYear": 2023,
+            "subtopics": [
+              "Average formula",
+              "Weighted Average",
+              "Age Problems (present, past, future)",
+              "Combined age scenarios"
+            ]
+          },
+          {
+            "id": "math-number",
+            "name": "Number System & Simplification",
+            "weight": "medium",
+            "pyqFrequency": 70,
+            "lastAskedYear": 2023,
+            "subtopics": [
+              "LCM & HCF",
+              "Divisibility Rules",
+              "Prime & Composite Numbers",
+              "BODMAS Simplification",
+              "Surds & Indices"
+            ]
+          },
+          {
+            "id": "math-mensuration",
+            "name": "Mensuration & Geometry",
+            "weight": "low",
+            "pyqFrequency": 55,
+            "lastAskedYear": 2022,
+            "subtopics": [
+              "Area of Triangle, Rectangle, Circle",
+              "Perimeter problems",
+              "Volume of Cube, Cylinder",
+              "Pythagorean Theorem",
+              "Basic Trigonometry"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "reasoning",
+        "name": "Reasoning",
+        "questions": 25,
+        "marks": 50,
+        "topics": [
+          {
+            "id": "rs-coding",
+            "name": "Coding-Decoding",
+            "weight": "high",
+            "pyqFrequency": 92,
+            "lastAskedYear": 2024,
+            "subtopics": [
+              "Letter Coding (+N shift)",
+              "Number Coding",
+              "Symbol Coding",
+              "Mixed Coding",
+              "Reverse Alphabet Coding"
+            ]
+          },
+          {
+            "id": "rs-blood",
+            "name": "Blood Relations",
+            "weight": "high",
+            "pyqFrequency": 88,
+            "lastAskedYear": 2024,
+            "subtopics": [
+              "Family Tree method",
+              "Pointing/Referring questions",
+              "Coded Blood Relations",
+              "Mixed Gender scenarios"
+            ]
+          },
+          {
+            "id": "rs-direction",
+            "name": "Direction Sense",
+            "weight": "high",
+            "pyqFrequency": 85,
+            "lastAskedYear": 2024,
+            "subtopics": [
+              "8-direction compass",
+              "Left/Right turns",
+              "Distance calculation",
+              "Shadow problems (morning/evening)"
+            ]
+          },
+          {
+            "id": "rs-series",
+            "name": "Number & Letter Series",
+            "weight": "high",
+            "pyqFrequency": 90,
+            "lastAskedYear": 2024,
+            "subtopics": [
+              "Arithmetic difference series",
+              "Geometric series",
+              "Squares & Cubes series",
+              "Alternating series",
+              "Missing letter series",
+              "Alphabet position (A=1, Z=26)"
+            ]
+          },
+          {
+            "id": "rs-analogy",
+            "name": "Analogy & Classification",
+            "weight": "medium",
+            "pyqFrequency": 80,
+            "lastAskedYear": 2024,
+            "subtopics": [
+              "Word Analogy",
+              "Number Analogy",
+              "Alphabet Analogy",
+              "Odd one out"
+            ]
+          },
+          {
+            "id": "rs-arrangement",
+            "name": "Seating Arrangement & Ranking",
+            "weight": "medium",
+            "pyqFrequency": 75,
+            "lastAskedYear": 2023,
+            "subtopics": [
+              "Linear arrangement",
+              "Circular arrangement",
+              "Ranking from top & bottom",
+              "Position interchange"
+            ]
+          },
+          {
+            "id": "rs-clock",
+            "name": "Clocks, Calendars & Images",
+            "weight": "medium",
+            "pyqFrequency": 72,
+            "lastAskedYear": 2023,
+            "subtopics": [
+              "Clock angle formula",
+              "Mirror image of clock",
+              "Calendar day calculation",
+              "Mirror & Water images of words",
+              "Paper folding"
+            ]
+          },
+          {
+            "id": "rs-syllogism",
+            "name": "Statements & Conclusions",
+            "weight": "low",
+            "pyqFrequency": 60,
+            "lastAskedYear": 2022,
+            "subtopics": [
+              "All-Some-No statements",
+              "Valid conclusions",
+              "Syllogism rules",
+              "Implicit assumptions"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "mains": {
+    "papers": [
+      { "id": "mains-gs", "name": "General Studies + Arithmetic + Reasoning", "marks": 100, "duration": 120 },
+      { "id": "mains-english", "name": "English", "marks": 50, "duration": 60 },
+      { "id": "mains-bengali", "name": "Bengali", "marks": 50, "duration": 60 }
+    ]
+  },
+  "selection": {
+    "stages": [
+      "Preliminary Examination",
+      "PMT (Physical Measurement Test)",
+      "PET (Physical Efficiency Test)",
+      "Final Mains Examination",
+      "Personality Test (30 marks)",
+      "Medical Examination"
+    ],
+    "pmt": {
+      "male": { "height_general": "167 cm", "height_st": "160 cm", "chest_unexpanded": "79 cm", "chest_expanded": "84 cm" },
+      "female": { "height_general": "155 cm", "height_st": "150 cm", "weight_min": "45 kg" }
+    },
+    "pet": {
+      "male": { "distance": "800m", "time": "3 minutes" },
+      "female": { "distance": "400m", "time": "2 minutes" }
+    }
+  }
+}

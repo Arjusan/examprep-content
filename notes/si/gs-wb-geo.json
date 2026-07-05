@@ -1,0 +1,101 @@
+{
+  "topicId": "gs-wb-geo",
+  "examId": "si",
+  "topicName": "West Bengal Geography",
+  "lastUpdated": "2025-01-01",
+  "examTip": "WB Geography appears in nearly every exam. Focus on rivers, districts, borders, and state symbols — these are direct mark questions.",
+  "sections": [
+    {
+      "heading": "🗺️ West Bengal — Key Facts",
+      "type": "table",
+      "rows": [
+        ["Parameter", "Fact"],
+        ["Capital", "Kolkata"],
+        ["Area", "88,752 sq km (13th largest state)"],
+        ["Population", "~9.1 crore (4th most populous)"],
+        ["Districts", "23 districts"],
+        ["Official Language", "Bengali"],
+        ["State Formation", "1 November 1956"],
+        ["Chief Minister", "Mamata Banerjee (TMC)"],
+        ["Governor", "Appointed by President"],
+        ["Lok Sabha Seats", "42"],
+        ["Rajya Sabha Seats", "16"],
+        ["Assembly Seats", "294"]
+      ]
+    },
+    {
+      "heading": "🏳️ State Symbols — Must Know All",
+      "type": "table",
+      "rows": [
+        ["Symbol", "Name"],
+        ["State Animal", "Fishing Cat (Bagh rol)"],
+        ["State Bird", "White-throated Kingfisher (Maachrangi)"],
+        ["State Flower", "Night Jasmine / Shiuli (Nyctanthes arbor-tristis)"],
+        ["State Tree", "Chatim / Devil's Tree (Alstonia scholaris)"],
+        ["State Fish", "Hilsa / Ilish"],
+        ["State Game", "Kabaddi"],
+        ["State Song", "Amar Shonar Bangla (by Tagore, also Bangladesh national anthem)"]
+      ]
+    },
+    {
+      "heading": "🌊 Major Rivers of West Bengal",
+      "type": "keypoints",
+      "points": [
+        "Ganges (Ganga) → enters WB at Farakka, splits into Bhagirathi-Hooghly (India) and Padma (Bangladesh)",
+        "Hooghly River — main river through Kolkata, part of Ganga system",
+        "Damodar River — 'Sorrow of Bengal' (due to floods), now controlled by DVC (Damodar Valley Corporation)",
+        "Teesta River — flows through North Bengal, originates in Sikkim, disputed water-sharing with Bangladesh",
+        "Mahananda — flows through Malda and North Bengal",
+        "Torsa, Jaldhaka, Raidak — North Bengal rivers flowing from Bhutan/Sikkim",
+        "Rupnarayan — formed by Shilabati + Dwarkeswar, joins Hooghly at Geonkhali",
+        "Subarnarekha — flows through Medinipur, enters Odisha",
+        "Kangsabati (Kasai) — major river of Midnapore, Kangsabati reservoir project"
+      ]
+    },
+    {
+      "heading": "🗺️ International Borders",
+      "type": "table",
+      "rows": [
+        ["Border", "States/Countries"],
+        ["North", "Bhutan, Sikkim"],
+        ["East", "Bangladesh, Assam, Meghalaya"],
+        ["West", "Jharkhand, Bihar, Odisha"],
+        ["South", "Bay of Bengal"],
+        ["Total border length", "~2,509 km international border with Bangladesh"]
+      ]
+    },
+    {
+      "heading": "🏔️ Physical Regions",
+      "type": "keypoints",
+      "points": [
+        "Darjeeling Himalaya (North): Sandakphu (3,636m) — highest peak in WB",
+        "Terai & Dooars: Foothills zone, tea gardens, forests (North Bengal)",
+        "North Bengal Plains: Districts like Koch Bihar, Jalpaiguri, Malda",
+        "Rarh Bengal: Old hard-rock plateau region (Bankura, Purulia, Birbhum, Burdwan)",
+        "Delta Region: Ganga-Brahmaputra delta — most fertile, Nadia, Murshidabad",
+        "Sundarbans: World's largest mangrove forest, UNESCO World Heritage Site, shares with Bangladesh",
+        "Coastal Bengal: South 24 Parganas coast, Digha (nearest beach to Kolkata)",
+        "Siliguri Corridor (Chicken's Neck): Only 22-33 km wide strip connecting NE India to rest of India"
+      ]
+    },
+    {
+      "heading": "🏙️ Important Districts to Know",
+      "type": "table",
+      "rows": [
+        ["District", "Known For"],
+        ["Darjeeling", "Tea gardens, Tiger Hill, border with Nepal/Bhutan/Sikkim"],
+        ["Jalpaiguri", "Gorumara National Park, Dooars region"],
+        ["Koch Bihar", "Koch Kingdom, shares border with Assam & Bhutan"],
+        ["Malda", "Mango (Malda variety), border with Bihar & Bangladesh"],
+        ["Murshidabad", "Former Nawab capital, Hazarduari Palace, silk"],
+        ["Birbhum", "Santiniketan (Rabindranath Tagore), terracotta temples"],
+        ["Bankura", "Bishnupur temple (terracotta), Bankura horse"],
+        ["Purulia", "Tribal area, Dalma Wildlife Sanctuary, coal mines"],
+        ["Purba Medinipur", "Digha beach, Haldia port"],
+        ["South 24 Parganas", "Sundarbans, largest district by area"],
+        ["North 24 Parganas", "Highest population density"],
+        ["Kolkata", "State capital, largest city, River Hooghly"]
+      ]
+    }
+  ]
+}

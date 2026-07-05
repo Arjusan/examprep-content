@@ -1,0 +1,33 @@
+{
+  "topicId": "gs-wb-geo",
+  "examId": "si",
+  "topicName": "West Bengal Geography",
+  "totalCards": 25,
+  "cards": [
+    { "id": "fc-001", "front": "What is the State Animal of West Bengal?", "back": "Fishing Cat (Bengali: Bagh rol). Not the Royal Bengal Tiger — common exam trap!", "tag": "symbol" },
+    { "id": "fc-002", "front": "What is the State Bird of West Bengal?", "back": "White-throated Kingfisher (Bengali: Maachrangi / Maachranga).", "tag": "symbol" },
+    { "id": "fc-003", "front": "What is the State Flower of West Bengal?", "back": "Night Jasmine / Shiuli (Nyctanthes arbor-tristis). Blooms in autumn, used in worship.", "tag": "symbol" },
+    { "id": "fc-004", "front": "What is the State Tree of West Bengal?", "back": "Chatim / Devil's Tree (Alstonia scholaris). Connected to Rabindranath Tagore and Santiniketan.", "tag": "symbol" },
+    { "id": "fc-005", "front": "The Damodar River is called what and why?", "back": "'Sorrow of Bengal' — due to severe floods it caused historically. Now controlled by DVC (Damodar Valley Corporation), modeled on TVA (USA).", "tag": "river" },
+    { "id": "fc-006", "front": "What is the Siliguri Corridor and why is it strategic?", "back": "Called 'Chicken's Neck' — only 22-33 km wide strip connecting Northeast India to the rest of India. Sits between Bangladesh (south), Nepal (west), Bhutan (north).", "tag": "geography" },
+    { "id": "fc-007", "front": "Sundarbans — what is it, where, and what UNESCO status?", "back": "World's largest mangrove forest, shared between India (WB) and Bangladesh. UNESCO World Heritage Site. Home of Royal Bengal Tiger.", "tag": "geography" },
+    { "id": "fc-008", "front": "What is the highest peak in West Bengal and its height?", "back": "Sandakphu — 3,636 metres. Located in Darjeeling district, on the Nepal border.", "tag": "geography" },
+    { "id": "fc-009", "front": "The Teesta River is significant for what dispute?", "back": "Water-sharing dispute between India and Bangladesh. Teesta flows through Sikkim and North Bengal before entering Bangladesh. Agreement still pending.", "tag": "river" },
+    { "id": "fc-010", "front": "Farakka Barrage — what is it and on which river?", "back": "Built on the Ganges at Farakka, Murshidabad. Controls water flow to Hooghly river (India) vs Padma (Bangladesh). Causes water-sharing dispute.", "tag": "river" },
+    { "id": "fc-011", "front": "How many districts does West Bengal have?", "back": "23 districts (after recent reorganization). Kolkata is the smallest by area, South 24 Parganas is the largest.", "tag": "admin" },
+    { "id": "fc-012", "front": "West Bengal shares its longest international border with which country?", "back": "Bangladesh — approximately 2,509 km. WB is the only Indian state that borders 3 countries: Bangladesh, Nepal (tiny section), and Bhutan.", "tag": "border" },
+    { "id": "fc-013", "front": "Haldia Port is in which district and why is it significant?", "back": "Purba Medinipur. It is India's largest riverine port and a major petrochemical hub. Handles cargo that reduces load from Kolkata Port.", "tag": "port" },
+    { "id": "fc-014", "front": "Digha is located in which district and is famous for?", "back": "Purba Medinipur. It is the nearest beach resort to Kolkata, on the Bay of Bengal coast.", "tag": "geography" },
+    { "id": "fc-015", "front": "Santiniketan is in which district, founded by whom?", "back": "Birbhum district. Founded by Rabindranath Tagore. Visva-Bharati University is located here. UNESCO World Heritage Site (2023).", "tag": "culture" },
+    { "id": "fc-016", "front": "Bishnupur is famous for what and located in which district?", "back": "Bankura district. Famous for terracotta temples (Dakshina-Dihi, Rasmancha) and Baluchari sarees. Also known for Bankura horse (terracotta toy).", "tag": "culture" },
+    { "id": "fc-017", "front": "Hazarduari Palace is in which district and who built it?", "back": "Murshidabad district. Built by Nawab Nazim Humayun Jah (1829-37). Has 1000 doors (hazarduari means 1000 doors), 900 of which are false.", "tag": "culture" },
+    { "id": "fc-018", "front": "The Rarh region of Bengal includes which districts?", "back": "Bankura, Purulia, Birbhum, and parts of Burdwan. It's the ancient hard-rock plateau area, less fertile than the delta, known for tribal culture.", "tag": "geography" },
+    { "id": "fc-019", "front": "West Bengal's state song — what is it and who composed it?", "back": "'Amar Shonar Bangla' — composed by Rabindranath Tagore. Also happens to be Bangladesh's national anthem.", "tag": "symbol" },
+    { "id": "fc-020", "front": "Dooars region is in which part of WB and known for?", "back": "North Bengal (Jalpaiguri, Alipurduar districts). Known for tea gardens, elephant corridors, and forest reserves like Gorumara and Buxa.", "tag": "geography" },
+    { "id": "fc-021", "front": "Which river separates West Bengal from Bangladesh near Kolkata?", "back": "Ichamati River marks part of the WB-Bangladesh border near North 24 Parganas.", "tag": "river" },
+    { "id": "fc-022", "front": "Kangsabati (Kasai) river flows through which district and has what project?", "back": "Purba and Paschim Medinipur. Kangsabati reservoir project (Mukutmanipur dam) — one of WB's major irrigation projects.", "tag": "river" },
+    { "id": "fc-023", "front": "What is the Terai region in North Bengal?", "back": "Narrow belt between Darjeeling Himalayan foothills and the plains. Rich in forests and biodiversity. Districts: Darjeeling, Jalpaiguri foothills.", "tag": "geography" },
+    { "id": "fc-024", "front": "Which district has the highest population density in West Bengal?", "back": "North 24 Parganas (adjacent to Kolkata). It is also one of the most urbanized districts in India.", "tag": "admin" },
+    { "id": "fc-025", "front": "WB's Mahananda River — where does it flow and where does it end?", "back": "Flows through Darjeeling and Malda districts. It is a tributary of the Ganges and marks the border between Malda (WB) and Bihar near Farakka.", "tag": "river" }
+  ]
+}

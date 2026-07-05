@@ -1,0 +1,94 @@
+{
+  "topicId": "rs-blood",
+  "examId": "si",
+  "topicName": "Blood Relations",
+  "lastUpdated": "2025-01-01",
+  "examTip": "Blood Relations appears in almost every WB SI exam — 2 to 3 questions. Always draw a family tree. Never try to solve these mentally.",
+  "sections": [
+    {
+      "heading": "🌳 Family Tree Method — Always Draw First",
+      "type": "keypoints",
+      "points": [
+        "Step 1: Start with the person mentioned first. Place them at center.",
+        "Step 2: Add each relationship one by one using arrows.",
+        "Step 3: Male = □ (square), Female = ○ (circle), Unknown = △ (triangle)",
+        "Step 4: Horizontal line = couple (husband-wife), Vertical line = parent-child",
+        "Step 5: After drawing, trace the path between the two persons asked about."
+      ]
+    },
+    {
+      "heading": "📋 Key Relationship Terms",
+      "type": "table",
+      "rows": [
+        ["Relation Said", "Meaning"],
+        ["Son of my father", "My brother (or me)"],
+        ["Daughter of my mother", "My sister (or me)"],
+        ["Son/daughter of my grandfather", "My parent or my uncle/aunt"],
+        ["Father of my son", "My husband (if female says it)"],
+        ["Mother of my son", "My wife (if male says it)"],
+        ["Son of my father's father", "My father or my uncle"],
+        ["Brother of my mother", "My maternal uncle (Mama)"],
+        ["Sister of my father", "My paternal aunt (Bua/Pisi)"],
+        ["Father of my father", "My paternal grandfather (Dada)"],
+        ["Mother of my mother", "My maternal grandmother (Nani)"]
+      ]
+    },
+    {
+      "heading": "⚡ Quick Relation Shortcuts",
+      "type": "keypoints",
+      "points": [
+        "Uncle → son = Cousin",
+        "Uncle → daughter = Cousin",
+        "Grandfather → son's son = Grandson",
+        "Grandmother → daughter's daughter = Granddaughter",
+        "Mother's brother = Maternal uncle (Mama)",
+        "Father's brother = Paternal uncle (Chacha/Kaka)",
+        "Father's sister = Paternal aunt (Bua/Pishi)",
+        "Mother's sister = Maternal aunt (Mausi/Mashi)"
+      ]
+    },
+    {
+      "heading": "⚠️ Gender Trap Words",
+      "type": "warnings",
+      "points": [
+        "ONLY MEN: Father, Son, Brother, Grandfather, Grandson, Uncle, Nephew, Husband",
+        "ONLY WOMEN: Mother, Daughter, Sister, Grandmother, Granddaughter, Aunt, Niece, Wife",
+        "NEUTRAL — look for other clues: Cousin, Sibling, Child, Parent, Grandparent, Spouse",
+        "When the problem says 'she pointed to a photograph and said...' — track whose perspective!",
+        "EXAM TRAP: 'How is A related to B?' ≠ 'How is B related to A?' — reverse gives opposite"
+      ]
+    },
+    {
+      "heading": "📝 Coded Blood Relation Type",
+      "type": "keypoints",
+      "points": [
+        "Problem: A + B means A is father of B. A − B means A is wife of B. Find relation.",
+        "Method: Replace each symbol with its meaning and draw tree step by step.",
+        "Example: If P + Q − R, and P+Q = P is father of Q, Q-R = Q is wife of R.",
+        "  → P is father of Q. Q is wife of R. So P is father-in-law of R.",
+        "Always solve symbol by symbol — never guess or combine steps mentally."
+      ]
+    },
+    {
+      "heading": "📝 PYQ-style Solved Examples",
+      "type": "examples",
+      "items": [
+        {
+          "question": "Pointing to a woman, Ravi said 'She is the daughter of the only son of my grandfather.' How is the woman related to Ravi?",
+          "solution": "My grandfather's only son = my father. Daughter of my father = my sister.",
+          "answer": "Sister"
+        },
+        {
+          "question": "A is B's sister. C is B's mother. D is C's father. E is D's mother. How is A related to D?",
+          "solution": "A is sister of B. C is mother of B (so also mother of A). D is father of C. So D is A's grandfather.",
+          "answer": "Granddaughter (A is D's granddaughter)"
+        },
+        {
+          "question": "Introducing a man, a woman says 'His mother is the only daughter of my mother.' How is the man related to the woman?",
+          "solution": "Only daughter of my mother = me. So his mother = me (the woman). He is her son.",
+          "answer": "Son"
+        }
+      ]
+    }
+  ]
+}

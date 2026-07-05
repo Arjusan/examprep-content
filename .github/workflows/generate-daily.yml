@@ -1,0 +1,52 @@
+name: Generate Daily Question Sets
+
+on:
+  schedule:
+    # 6:00 AM IST = 00:30 UTC
+    - cron: '30 0 * * *'
+    # 6:00 PM IST = 12:30 UTC
+    - cron: '30 12 * * *'
+  # Allow manual trigger from Admin Panel
+  workflow_dispatch:
+    inputs:
+      exam:
+        description: 'Exam to generate for (si/icds/panchayat/tet/all)'
+        required: true
+        default: 'all'
+      subject:
+        description: 'Subject filter (optional, leave blank for all)'
+        required: false
+        default: ''
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Install dependencies
+        run: npm install node-fetch@3
+
+      - name: Generate question sets
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          TARGET_EXAM: ${{ github.event.inputs.exam || 'all' }}
+          TARGET_SUBJECT: ${{ github.event.inputs.subject || '' }}
+        run: node .github/scripts/generate.js
+
+      - name: Commit generated sets to staging
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "ExamPrep Bot"
+          git add staging/
+          git diff --staged --quiet || git commit -m "🤖 Auto-generate question sets $(date -u '+%Y-%m-%d %H:%M UTC')"
+          git push

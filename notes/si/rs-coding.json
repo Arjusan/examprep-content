@@ -1,0 +1,71 @@
+{
+  "topicId": "rs-coding",
+  "examId": "si",
+  "topicName": "Coding-Decoding",
+  "lastUpdated": "2025-01-01",
+  "examTip": "Highest frequency Reasoning topic in WB SI. Identify the pattern in first 2 letters, apply to rest. Usually solvable in under 15 seconds once pattern found.",
+  "sections": [
+    {
+      "heading": "🔑 5 Pattern Types You Must Know",
+      "type": "keypoints",
+      "points": [
+        "TYPE 1 — Letter Shift (+N): Each letter shifted by N positions. DELHI → EFMIJ (each +1). Find shift from first letter.",
+        "TYPE 2 — Reverse Alphabet: A=Z, B=Y, C=X... (A↔Z, B↔Y). PENCIL → KVMXRO. Formula: Code = 27 − Position.",
+        "TYPE 3 — Reverse word: DELHI → IHLED. Letters reversed.",
+        "TYPE 4 — Number coding: A=1, B=2... or A=2, B=3 (position+1). Look for pattern in given examples.",
+        "TYPE 5 — Mixed pattern: Alternate letters shifted differently. Check odd and even positions separately."
+      ]
+    },
+    {
+      "heading": "📍 Alphabet Position Chart (Memorize A–Z positions)",
+      "type": "table",
+      "rows": [
+        ["A=1", "B=2", "C=3", "D=4", "E=5", "F=6", "G=7"],
+        ["H=8", "I=9", "J=10", "K=11", "L=12", "M=13", "N=14"],
+        ["O=15", "P=16", "Q=17", "R=18", "S=19", "T=20", "U=21"],
+        ["V=22", "W=23", "X=24", "Y=25", "Z=26", "—", "—"]
+      ]
+    },
+    {
+      "heading": "⚡ Reverse Alphabet Pairs (memorize these 13 pairs)",
+      "type": "keypoints",
+      "points": [
+        "A ↔ Z, B ↔ Y, C ↔ X, D ↔ W, E ↔ V",
+        "F ↔ U, G ↔ T, H ↔ S, I ↔ R, J ↔ Q",
+        "K ↔ P, L ↔ O, M ↔ N",
+        "Trick: A+Z = B+Y = C+X = 27 always. So reverse of letter at position N = letter at position (27−N)"
+      ]
+    },
+    {
+      "heading": "🧠 3-Step Approach for Any Coding Question",
+      "type": "keypoints",
+      "points": [
+        "Step 1: Write down the given word and its code below it letter by letter",
+        "Step 2: Find the relationship between first 2 letters (shift? reverse? swap?)",
+        "Step 3: Verify with 3rd letter — if it matches, apply same pattern to new word",
+        "If pattern doesn't match uniformly → look for alternating patterns (odd positions different from even)"
+      ]
+    },
+    {
+      "heading": "📝 PYQ-style Solved Examples",
+      "type": "examples",
+      "items": [
+        {
+          "question": "If PENCIL = QFODJM, how is RUBBER coded?",
+          "solution": "P→Q(+1), E→F(+1), N→O(+1), C→D(+1), I→J(+1), L→M(+1). Each letter +1. R→S, U→V, B→C, B→C, E→F, R→S = SVCCFS",
+          "answer": "SVCCFS"
+        },
+        {
+          "question": "If CLOUD = DNPVF, how is STONE coded?",
+          "solution": "C→D(+1), L→N(+2), O→P(+1), U→V(+1), D→F(+2). Pattern: +1,+2,+1,+1,+2. S→T, T→V, O→P, N→O, E→G = TVPOG",
+          "answer": "TVPOG"
+        },
+        {
+          "question": "In a code: A=Z, B=Y (reverse). How is WEST coded?",
+          "solution": "W→D(27-23=4=D), E→V(27-5=22=V), S→H(27-19=8=H), T→G(27-20=7=G) = DVHG",
+          "answer": "DVHG"
+        }
+      ]
+    }
+  ]
+}
