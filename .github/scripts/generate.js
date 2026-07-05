@@ -1,33 +1,39 @@
 // .github/scripts/generate.js
-// Runs inside GitHub Actions — reads syllabus, calls Gemini, writes to /staging/
+// Node 24 built-in fetch — no npm install needed
 
 import { readFileSync, writeFileSync, mkdirSync, existsSync } from 'fs';
-import fetch from 'node-fetch';
 
 const GEMINI_KEY = process.env.GEMINI_API_KEY;
-const TARGET_EXAM = process.env.TARGET_EXAM || 'all';
+const TARGET_EXAM = process.env.TARGET_EXAM || 'si';
 const TARGET_SUBJECT = process.env.TARGET_SUBJECT || '';
 const GEMINI_URL = `https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent?key=${GEMINI_KEY}`;
 
 const EXAMS = ['si', 'icds', 'panchayat', 'tet'];
 const today = new Date().toISOString().split('T')[0];
 
-// ─── HELPERS ───────────────────────────────────────────────
+// ─── HELPERS ────────────────────────────────────────────────
 function sleep(ms) { return new Promise(r => setTimeout(r, ms)); }
 
-function loadJSON(path) {
-  try { return JSON.parse(readFileSync(path, 'utf8')); }
+function loadJSON(filePath) {
+  try { return JSON.parse(readFileSync(filePath, 'utf8')); }
   catch(e) { return null; }
 }
 
-function writeJSON(path, data) {
-  const dir = path.split('/').slice(0, -1).join('/');
-  if (!existsSync(dir)) mkdirSync(dir, { recursive: true });
-  writeFileSync(path, JSON.stringify(data, null, 2));
+function writeJSON(filePath, data) {
+  const dir = filePath.split('/').slice(0, -1).join('/');
+  if (dir && !existsSync(dir)) mkdirSync(dir, { recursive: true });
+  writeFileSync(filePath, JSON.stringify(data, null, 2));
 }
 
 // ─── GEMINI CALL ────────────────────────────────────────────
 async function callGemini(prompt, retries = 3) {
+  if (!GEMINI_KEY) {
+    console.error('❌ GEMINI_API_KEY secret is not set in this repo!');
+    console.error('   Go to: Settings → Secrets → Actions → New secret');
+    console.error('   Name: GEMINI_API_KEY, Value: your Gemini API key');
+    process.exit(1);
+  }
+
   for (let attempt = 0; attempt < retries; attempt++) {
     try {
       const res = await fetch(GEMINI_URL, {
@@ -35,83 +41,115 @@ async function callGemini(prompt, retries = 3) {
         headers: { 'Content-Type': 'application/json' },
         body: JSON.stringify({
           system_instruction: {
-            parts: [{ text: 'You are an expert MCQ setter for West Bengal government exams. Return ONLY valid JSON array. No markdown, no preamble.' }]
+            parts: [{ text: 'Expert MCQ setter for West Bengal government exams. Return ONLY a valid JSON array. No markdown fences, no explanation text, no preamble — just the raw JSON array starting with [ and ending with ].' }]
           },
           contents: [{ parts: [{ text: prompt }] }],
-          generationConfig: { temperature: 0.75, maxOutputTokens: 8192 }
+          generationConfig: {
+            temperature: 0.7,
+            maxOutputTokens: 8192,
+            responseMimeType: 'application/json'
+          }
         })
       });
 
+      if (!res.ok) {
+        const errText = await res.text();
+        throw new Error(`HTTP ${res.status}: ${errText}`);
+      }
+
       const data = await res.json();
-      if (data.error) throw new Error(data.error.message);
+
+      if (data.error) {
+        throw new Error(`Gemini API error: ${data.error.message}`);
+      }
+
+      if (!data.candidates?.[0]?.content?.parts?.[0]?.text) {
+        throw new Error('Empty response from Gemini');
+      }
 
       const raw = data.candidates[0].content.parts[0].text
         .trim()
-        .replace(/```json|```/g, '')
+        .replace(/^```json\s*/i, '')
+        .replace(/^```\s*/i, '')
+        .replace(/\s*```$/i, '')
         .trim();
 
-      return JSON.parse(raw);
+      const parsed = JSON.parse(raw);
+      if (!Array.isArray(parsed)) throw new Error('Response is not a JSON array');
+      return parsed;
+
     } catch(e) {
-      console.error(`Attempt ${attempt + 1} failed: ${e.message}`);
-      if (attempt < retries - 1) await sleep(5000);
+      console.error(`  Attempt ${attempt + 1}/${retries} failed: ${e.message}`);
+      if (attempt < retries - 1) {
+        console.log(`  Waiting 6s before retry...`);
+        await sleep(6000);
+      }
     }
   }
   return [];
 }
 
 // ─── BUILD PROMPT ───────────────────────────────────────────
-function buildPrompt(examName, subjectName, topicName, topicId, pyqSample, difficulty = 'Mixed') {
-  const sampleText = pyqSample?.length > 0
-    ? `\nHere are real PYQ examples from this topic for style reference:\n${pyqSample.slice(0, 3).map(q => `- "${q.question}" (Answer: ${q.options[q.correctIndex]})`).join('\n')}`
-    : '';
+function buildPrompt(examName, subjectName, topicName, topicId) {
+  return `Generate exactly 10 unique MCQ questions for the ${examName} government exam in West Bengal.
 
-  return `Generate exactly 20 unique MCQ questions for the ${examName} government exam.
 Subject: ${subjectName}
 Topic: ${topicName}
-Difficulty distribution: 6 Easy, 10 Medium, 4 Hard
-Focus: West Bengal context where applicable, real exam style
-${sampleText}
+Difficulty: Mix of Easy (3), Medium (5), Hard (2)
+Language: English
+Style: Match real WB government exam question style — direct, factual, no ambiguity.
 
-Rules:
-- Questions must be exam-accurate, no trick questions
-- Each question has exactly 4 options
-- Correct answer must be definitively correct
-- Explanation must be concise (1-2 sentences max)
-- No duplicate questions
+Requirements:
+- Each question must have exactly 4 options (A, B, C, D format as array)
+- correctIndex must be 0, 1, 2, or 3 (integer, not a letter)
+- Explanation must be 1 sentence max
+- Questions must be unique and exam-relevant
+- West Bengal specific content where applicable
 
-Return ONLY this JSON array:
-[{
-  "id": "ai_${topicId}_${today.replace(/-/g,'')}_001",
-  "question": "...",
-  "options": ["A", "B", "C", "D"],
-  "correctIndex": 0,
-  "explanation": "...",
-  "difficulty": "Easy|Medium|Hard",
-  "topicId": "${topicId}",
-  "source": "ai_generated",
-  "generatedDate": "${today}"
-}]
-
-Generate all 20 questions now. Number the id suffix sequentially 001 to 020.`;
+Return ONLY a JSON array (no other text):
+[
+  {
+    "question": "Question text here?",
+    "options": ["Option A", "Option B", "Option C", "Option D"],
+    "correctIndex": 0,
+    "explanation": "Brief explanation here.",
+    "difficulty": "Easy",
+    "topicId": "${topicId}",
+    "source": "ai_generated",
+    "generatedDate": "${today}"
+  }
+]`;
 }
 
 // ─── MAIN ───────────────────────────────────────────────────
 async function main() {
+  console.log(`\n🚀 ExamPrep Question Generator`);
+  console.log(`📅 Date: ${today}`);
+  console.log(`🎯 Target exam: ${TARGET_EXAM}`);
+  console.log(`📖 Target subject: ${TARGET_SUBJECT || 'all'}`);
+  console.log('');
+
+  // Validate API key exists
+  if (!GEMINI_KEY || GEMINI_KEY.trim() === '') {
+    console.error('❌ GEMINI_API_KEY is not set!');
+    console.error('   Add it: Settings → Secrets and variables → Actions → New repository secret');
+    process.exit(1);
+  }
+  console.log('✅ API key found');
+
   const examsToProcess = TARGET_EXAM === 'all' ? EXAMS : [TARGET_EXAM];
   let totalGenerated = 0;
-  let totalFailed = 0;
+  let totalTopics = 0;
+  let failedTopics = [];
 
   for (const exam of examsToProcess) {
-    console.log(`\n📚 Processing exam: ${exam.toUpperCase()}`);
+    console.log(`\n📚 Processing: ${exam.toUpperCase()}`);
 
     const syllabus = loadJSON(`syllabus/${exam}.json`);
-    if (!syllabus) {
-      console.warn(`  ⚠️ No syllabus found for ${exam}, skipping`);
+    if (!syllabus || !syllabus.prelims?.subjects?.length) {
+      console.warn(`  ⚠️  Syllabus empty or missing for ${exam} — skipping`);
       continue;
     }
-
-    const pyqBank = loadJSON(`pyq/${exam}.json`);
-    const allSubjects = syllabus.prelims?.subjects || [];
 
     const stagingBatch = {
       exam,
@@ -123,32 +161,27 @@ async function main() {
       subjects: {}
     };
 
-    for (const subject of allSubjects) {
-      // Filter by subject if specified
-      if (TARGET_SUBJECT && subject.name !== TARGET_SUBJECT) continue;
+    const allSubjects = syllabus.prelims.subjects;
 
-      console.log(`  📖 Subject: ${subject.name}`);
+    for (const subject of allSubjects) {
+      if (TARGET_SUBJECT && subject.name !== TARGET_SUBJECT) continue;
+      if (!subject.topics?.length) continue;
+
+      console.log(`\n  📖 ${subject.name}`);
       stagingBatch.subjects[subject.id] = {};
 
-      // Only process HIGH and MEDIUM weight topics to stay within quota
-      const priorityTopics = subject.topics.filter(t =>
-        t.weight === 'high' || t.weight === 'medium'
-      );
+      // Only HIGH weight topics to keep within free API quota
+      const highTopics = subject.topics.filter(t => t.weight === 'high');
 
-      for (const topic of priorityTopics) {
-        console.log(`    🎯 Topic: ${topic.name} (weight: ${topic.weight})`);
-
-        // Get PYQ samples for this topic for style reference
-        const pyqSample = pyqBank?.questions?.filter(q =>
-          q.topicId === topic.id
-        ) || [];
+      for (const topic of highTopics) {
+        totalTopics++;
+        console.log(`    🎯 ${topic.name}...`);
 
         const prompt = buildPrompt(
-          syllabus.examName,
+          syllabus.examName || exam,
           subject.name,
           topic.name,
-          topic.id,
-          pyqSample
+          topic.id
         );
 
         const questions = await callGemini(prompt);
@@ -162,32 +195,48 @@ async function main() {
           };
           stagingBatch.totalQuestions += questions.length;
           totalGenerated += questions.length;
-          console.log(`    ✅ Generated ${questions.length} questions`);
+          console.log(`    ✅ ${questions.length} questions generated`);
         } else {
-          totalFailed++;
-          console.warn(`    ❌ Failed to generate for ${topic.name}`);
+          failedTopics.push(`${exam}/${topic.name}`);
+          console.warn(`    ⚠️  No questions generated for ${topic.name} — skipping`);
         }
 
-        // Rate limiting — 15 req/min free tier = 4s between calls
-        await sleep(4500);
+        // Rate limit: free tier = 15 requests/minute
+        // 5 second gap = max 12/min, safely under limit
+        await sleep(5000);
       }
     }
 
-    // Write to staging
+    // Write staging file even if some topics failed
     const stagingPath = `staging/${exam}/${today}.json`;
     writeJSON(stagingPath, stagingBatch);
-    console.log(`\n  💾 Saved to ${stagingPath}`);
-    console.log(`  📊 Total: ${stagingBatch.totalQuestions} questions for ${exam}`);
+    console.log(`\n  💾 Saved → ${stagingPath}`);
+    console.log(`  📊 ${stagingBatch.totalQuestions} questions for ${exam}`);
   }
 
-  console.log(`\n🎉 Generation complete!`);
-  console.log(`   Total generated: ${totalGenerated} questions`);
-  console.log(`   Failed batches: ${totalFailed}`);
+  // Summary
+  console.log('\n' + '═'.repeat(50));
+  console.log(`🎉 Generation complete!`);
+  console.log(`   Topics processed : ${totalTopics}`);
+  console.log(`   Questions created: ${totalGenerated}`);
+  if (failedTopics.length > 0) {
+    console.log(`   Failed topics    : ${failedTopics.length}`);
+    failedTopics.forEach(t => console.log(`     - ${t}`));
+    console.log('   (These will be retried in the next run)');
+  }
+  console.log('═'.repeat(50));
 
-  if (totalFailed > 0) process.exit(1);
+  // Only fail if ZERO questions were generated
+  if (totalGenerated === 0) {
+    console.error('\n❌ No questions generated at all — check API key and syllabus files');
+    process.exit(1);
+  }
+
+  console.log('\n✅ Success — staging files ready for admin review');
 }
 
 main().catch(e => {
-  console.error('Fatal error:', e);
+  console.error('\n❌ Fatal error:', e.message);
+  console.error(e.stack);
   process.exit(1);
 });

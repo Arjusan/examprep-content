@@ -3,12 +3,13 @@
   "version": "1.0.0",
   "description": "ExamPrep content repo — syllabus, PYQs, AI-generated question sets",
   "type": "module",
+  "engines": {
+    "node": ">=24.0.0"
+  },
   "scripts": {
     "generate": "node .github/scripts/generate.js",
     "publish": "node .github/scripts/publish.js",
     "current-affairs": "node .github/scripts/generate-current-affairs.js"
   },
-  "dependencies": {
-    "node-fetch": "^3.3.2"
-  }
+  "dependencies": {}
 }

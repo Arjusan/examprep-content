@@ -1,20 +1,21 @@
 // .github/scripts/publish.js
-// Copies admin-approved questions from /staging/ to /live/
+// Copies approved questions from /staging/ to /live/
+// Node 24 built-in — no npm install needed
 
 import { readFileSync, writeFileSync, mkdirSync, existsSync } from 'fs';
 
 const TARGET_EXAM = process.env.TARGET_EXAM || 'si';
 const TARGET_DATE = process.env.TARGET_DATE || new Date().toISOString().split('T')[0];
 
-function loadJSON(path) {
-  try { return JSON.parse(readFileSync(path, 'utf8')); }
+function loadJSON(filePath) {
+  try { return JSON.parse(readFileSync(filePath, 'utf8')); }
   catch(e) { return null; }
 }
 
-function writeJSON(path, data) {
-  const dir = path.split('/').slice(0, -1).join('/');
-  if (!existsSync(dir)) mkdirSync(dir, { recursive: true });
-  writeFileSync(path, JSON.stringify(data, null, 2));
+function writeJSON(filePath, data) {
+  const dir = filePath.split('/').slice(0, -1).join('/');
+  if (dir && !existsSync(dir)) mkdirSync(dir, { recursive: true });
+  writeFileSync(filePath, JSON.stringify(data, null, 2));
 }
 
 function main() {
@@ -25,10 +26,12 @@ function main() {
 
   if (!staging) {
     console.error(`❌ No staging file found at ${stagingPath}`);
+    console.error(`   Run "Generate Daily Question Sets" workflow first`);
     process.exit(1);
   }
 
-  // Filter to only approved questions
+  console.log(`✅ Found staging file with ${staging.totalQuestions} questions`);
+
   const publishBatch = {
     ...staging,
     reviewStatus: 'published',
@@ -37,16 +40,16 @@ function main() {
   };
 
   let publishedCount = 0;
-  let removedCount = 0;
+  let rejectedCount = 0;
 
-  for (const [subjectId, topics] of Object.entries(staging.subjects)) {
+  for (const [subjectId, topics] of Object.entries(staging.subjects || {})) {
     publishBatch.subjects[subjectId] = {};
 
     for (const [topicId, topicData] of Object.entries(topics)) {
-      // Only include approved questions (not rejected ones)
       const approved = (topicData.questions || []).filter(q =>
         q.adminStatus !== 'rejected'
       );
+      const rejected = topicData.questions.length - approved.length;
 
       if (approved.length > 0) {
         publishBatch.subjects[subjectId][topicId] = {
@@ -55,7 +58,7 @@ function main() {
           questionCount: approved.length
         };
         publishedCount += approved.length;
-        removedCount += (topicData.questions.length - approved.length);
+        rejectedCount += rejected;
       }
     }
   }
@@ -66,17 +69,17 @@ function main() {
   const livePath = `live/${TARGET_EXAM}/${TARGET_DATE}.json`;
   writeJSON(livePath, publishBatch);
 
-  // Also write a "latest" pointer so student app always gets fresh questions
-  const latestPointer = {
+  // Update latest pointer — student app reads this first
+  writeJSON(`live/${TARGET_EXAM}/latest.json`, {
     latestDate: TARGET_DATE,
-    latestFile: `live/${TARGET_EXAM}/${TARGET_DATE}.json`,
+    latestFile: livePath,
+    totalQuestions: publishedCount,
     updatedAt: new Date().toISOString()
-  };
-  writeJSON(`live/${TARGET_EXAM}/latest.json`, latestPointer);
+  });
 
-  console.log(`✅ Published ${publishedCount} questions to ${livePath}`);
-  console.log(`🗑️  Removed ${removedCount} rejected questions`);
-  console.log(`📍 Updated latest pointer`);
+  console.log(`✅ Published ${publishedCount} questions → ${livePath}`);
+  if (rejectedCount > 0) console.log(`🗑️  Skipped ${rejectedCount} rejected questions`);
+  console.log(`📍 Updated latest.json pointer`);
 }
 
 main();

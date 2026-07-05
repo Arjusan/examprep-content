@@ -6,13 +6,12 @@ on:
     - cron: '30 0 * * *'
     # 6:00 PM IST = 12:30 UTC
     - cron: '30 12 * * *'
-  # Allow manual trigger from Admin Panel
   workflow_dispatch:
     inputs:
       exam:
         description: 'Exam to generate for (si/icds/panchayat/tet/all)'
         required: true
-        default: 'all'
+        default: 'si'
       subject:
         description: 'Subject filter (optional, leave blank for all)'
         required: false
@@ -31,15 +30,12 @@ jobs:
       - name: Setup Node.js
         uses: actions/setup-node@v4
         with:
-          node-version: '20'
-
-      - name: Install dependencies
-        run: npm install node-fetch@3
+          node-version: '24'
 
       - name: Generate question sets
         env:
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
-          TARGET_EXAM: ${{ github.event.inputs.exam || 'all' }}
+          TARGET_EXAM: ${{ github.event.inputs.exam || 'si' }}
           TARGET_SUBJECT: ${{ github.event.inputs.subject || '' }}
         run: node .github/scripts/generate.js
 
