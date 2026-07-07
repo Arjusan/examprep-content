@@ -1,119 +1,137 @@
-// .github/scripts/generate.js
-// Node 24 built-in fetch — no npm install needed
+// ExamPrep Question Generator
+// Uses Groq API (free tier — 14,400 req/day)
+// Node 24 built-in fetch, zero dependencies
 
 import { readFileSync, writeFileSync, mkdirSync, existsSync } from 'fs';
 
-const GEMINI_KEY = process.env.GEMINI_API_KEY;
-const TARGET_EXAM = process.env.TARGET_EXAM || 'si';
-const TARGET_SUBJECT = process.env.TARGET_SUBJECT || '';
-const GEMINI_URL = `https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent?key=${GEMINI_KEY}`;
+// ── CONFIG ────────────────────────────────────────────────────
+const API_KEY   = process.env.GEMINI_API_KEY; // same secret, now holds Groq key
+const EXAM      = process.env.TARGET_EXAM || 'si';
+const today     = new Date().toISOString().split('T')[0];
 
-const EXAMS = ['si', 'icds', 'panchayat', 'tet'];
-const today = new Date().toISOString().split('T')[0];
+// Groq endpoint
+const GROQ_URL  = 'https://api.groq.com/openai/v1/chat/completions';
 
-// ─── HELPERS ────────────────────────────────────────────────
-function sleep(ms) { return new Promise(r => setTimeout(r, ms)); }
+// Models to try in order (all free on Groq)
+const MODELS = [
+  'llama-3.1-8b-instant',    // 14,400 req/day — primary
+  'llama3-8b-8192',           // backup 1
+  'gemma2-9b-it',             // backup 2
+];
 
-function loadJSON(filePath) {
-  try { return JSON.parse(readFileSync(filePath, 'utf8')); }
+// ── HELPERS ───────────────────────────────────────────────────
+const sleep = ms => new Promise(r => setTimeout(r, ms));
+
+function loadJSON(p) {
+  try { return JSON.parse(readFileSync(p, 'utf8')); }
   catch(e) { return null; }
 }
 
-function writeJSON(filePath, data) {
-  const dir = filePath.split('/').slice(0, -1).join('/');
+function writeJSON(p, d) {
+  const dir = p.split('/').slice(0, -1).join('/');
   if (dir && !existsSync(dir)) mkdirSync(dir, { recursive: true });
-  writeFileSync(filePath, JSON.stringify(data, null, 2));
+  writeFileSync(p, JSON.stringify(d, null, 2));
 }
 
-// ─── GEMINI CALL ────────────────────────────────────────────
-async function callGemini(prompt, retries = 3) {
-  if (!GEMINI_KEY) {
-    console.error('❌ GEMINI_API_KEY secret is not set in this repo!');
-    console.error('   Go to: Settings → Secrets → Actions → New secret');
-    console.error('   Name: GEMINI_API_KEY, Value: your Gemini API key');
-    process.exit(1);
-  }
-
-  for (let attempt = 0; attempt < retries; attempt++) {
+// ── TEST WHICH MODEL WORKS ────────────────────────────────────
+async function findWorkingModel() {
+  for (const model of MODELS) {
+    console.log(`  Testing ${model}...`);
     try {
-      const res = await fetch(GEMINI_URL, {
+      const res = await fetch(GROQ_URL, {
         method: 'POST',
-        headers: { 'Content-Type': 'application/json' },
+        headers: {
+          'Content-Type': 'application/json',
+          'Authorization': `Bearer ${API_KEY}`
+        },
         body: JSON.stringify({
-          system_instruction: {
-            parts: [{ text: 'Expert MCQ setter for West Bengal government exams. Return ONLY a valid JSON array. No markdown fences, no explanation text, no preamble — just the raw JSON array starting with [ and ending with ].' }]
-          },
-          contents: [{ parts: [{ text: prompt }] }],
-          generationConfig: {
-            temperature: 0.7,
-            maxOutputTokens: 8192,
-            responseMimeType: 'application/json'
-          }
+          model,
+          messages: [{ role: 'user', content: 'Reply with the single word: OK' }],
+          max_tokens: 10,
+          temperature: 0
         })
       });
-
-      if (!res.ok) {
-        const errText = await res.text();
-        throw new Error(`HTTP ${res.status}: ${errText}`);
-      }
-
       const data = await res.json();
-
       if (data.error) {
-        throw new Error(`Gemini API error: ${data.error.message}`);
+        console.log(`  → ${data.error.message?.slice(0, 80)}`);
+        continue;
       }
-
-      if (!data.candidates?.[0]?.content?.parts?.[0]?.text) {
-        throw new Error('Empty response from Gemini');
+      if (data.choices?.[0]?.message?.content) {
+        console.log(`  ✅ ${model} working!`);
+        return model;
       }
-
-      const raw = data.candidates[0].content.parts[0].text
-        .trim()
-        .replace(/^```json\s*/i, '')
-        .replace(/^```\s*/i, '')
-        .replace(/\s*```$/i, '')
-        .trim();
-
-      const parsed = JSON.parse(raw);
-      if (!Array.isArray(parsed)) throw new Error('Response is not a JSON array');
-      return parsed;
-
     } catch(e) {
-      console.error(`  Attempt ${attempt + 1}/${retries} failed: ${e.message}`);
-      if (attempt < retries - 1) {
-        console.log(`  Waiting 6s before retry...`);
-        await sleep(6000);
-      }
+      console.log(`  → ${e.message.slice(0, 60)}`);
     }
+    await sleep(1000);
   }
-  return [];
+  return null;
 }
 
-// ─── BUILD PROMPT ───────────────────────────────────────────
+// ── CALL GROQ API ─────────────────────────────────────────────
+async function callGroq(model, prompt) {
+  const res = await fetch(GROQ_URL, {
+    method: 'POST',
+    headers: {
+      'Content-Type': 'application/json',
+      'Authorization': `Bearer ${API_KEY}`
+    },
+    body: JSON.stringify({
+      model,
+      messages: [
+        {
+          role: 'system',
+          content: 'You are an expert MCQ question setter for West Bengal government exams. You always return ONLY a valid JSON array. No markdown, no explanation, no preamble — just the raw JSON array.'
+        },
+        { role: 'user', content: prompt }
+      ],
+      max_tokens: 3000,
+      temperature: 0.7
+    })
+  });
+
+  if (!res.ok) {
+    const txt = await res.text();
+    throw new Error(`HTTP ${res.status}: ${txt.slice(0, 100)}`);
+  }
+
+  const data = await res.json();
+  if (data.error) throw new Error(data.error.message);
+
+  const text = data.choices[0].message.content.trim()
+    .replace(/^```json\s*/i, '')
+    .replace(/^```\s*/i, '')
+    .replace(/\s*```$/i, '')
+    .trim();
+
+  const parsed = JSON.parse(text);
+  if (!Array.isArray(parsed)) throw new Error('Not a JSON array');
+  return parsed;
+}
+
+// ── BUILD PROMPT ──────────────────────────────────────────────
 function buildPrompt(examName, subjectName, topicName, topicId) {
-  return `Generate exactly 10 unique MCQ questions for the ${examName} government exam in West Bengal.
+  return `Generate exactly 5 unique MCQ questions for the ${examName} government exam in West Bengal, India.
 
 Subject: ${subjectName}
 Topic: ${topicName}
-Difficulty: Mix of Easy (3), Medium (5), Hard (2)
-Language: English
-Style: Match real WB government exam question style — direct, factual, no ambiguity.
+Date: ${today}
 
-Requirements:
-- Each question must have exactly 4 options (A, B, C, D format as array)
-- correctIndex must be 0, 1, 2, or 3 (integer, not a letter)
-- Explanation must be 1 sentence max
-- Questions must be unique and exam-relevant
+Rules:
+- Questions must match real WB government exam style
+- Each question has exactly 4 options
 - West Bengal specific content where applicable
+- correctIndex is 0, 1, 2, or 3 (integer)
+- Explanation is 1 short sentence
 
-Return ONLY a JSON array (no other text):
+Return ONLY this JSON array (no other text whatsoever):
 [
   {
     "question": "Question text here?",
     "options": ["Option A", "Option B", "Option C", "Option D"],
     "correctIndex": 0,
-    "explanation": "Brief explanation here.",
-    "difficulty": "Easy",
+    "explanation": "Brief explanation.",
+    "difficulty": "Medium",
     "topicId": "${topicId}",
     "source": "ai_generated",
     "generatedDate": "${today}"
@@ -121,122 +139,140 @@ Return ONLY a JSON array (no other text):
 ]`;
 }
 
-// ─── MAIN ───────────────────────────────────────────────────
+// ── MAIN ──────────────────────────────────────────────────────
 async function main() {
-  console.log(`\n🚀 ExamPrep Question Generator`);
-  console.log(`📅 Date: ${today}`);
-  console.log(`🎯 Target exam: ${TARGET_EXAM}`);
-  console.log(`📖 Target subject: ${TARGET_SUBJECT || 'all'}`);
+  console.log('╔══════════════════════════════════════╗');
+  console.log('║   ExamPrep Question Generator        ║');
+  console.log('║   Powered by Groq (Free Tier)        ║');
+  console.log('╚══════════════════════════════════════╝');
+  console.log(`Date : ${today}`);
+  console.log(`Exam : ${EXAM}`);
   console.log('');
 
-  // Validate API key exists
-  if (!GEMINI_KEY || GEMINI_KEY.trim() === '') {
-    console.error('❌ GEMINI_API_KEY is not set!');
-    console.error('   Add it: Settings → Secrets and variables → Actions → New repository secret');
+  // Check API key
+  if (!API_KEY?.trim()) {
+    console.log('ERROR: GEMINI_API_KEY secret is empty!');
+    console.log('Add your Groq key: repo Settings → Secrets → Actions → GEMINI_API_KEY');
+    console.log('Get free Groq key at: https://console.groq.com');
     process.exit(1);
   }
-  console.log('✅ API key found');
 
-  const examsToProcess = TARGET_EXAM === 'all' ? EXAMS : [TARGET_EXAM];
-  let totalGenerated = 0;
-  let totalTopics = 0;
-  let failedTopics = [];
+  // Detect if it's a Groq key or Gemini key
+  if (!API_KEY.startsWith('gsk_')) {
+    console.log('WARNING: Key does not look like a Groq key (should start with gsk_)');
+    console.log('Get free Groq key at: https://console.groq.com → API Keys → Create API key');
+    console.log('Then update the GEMINI_API_KEY secret with this Groq key');
+    console.log('Continuing anyway...');
+  }
 
-  for (const exam of examsToProcess) {
-    console.log(`\n📚 Processing: ${exam.toUpperCase()}`);
+  console.log(`Key  : ${API_KEY.slice(0, 10)}...`);
+  console.log('');
 
-    const syllabus = loadJSON(`syllabus/${exam}.json`);
-    if (!syllabus || !syllabus.prelims?.subjects?.length) {
-      console.warn(`  ⚠️  Syllabus empty or missing for ${exam} — skipping`);
-      continue;
-    }
+  // Find working model
+  console.log('Finding working model...');
+  const model = await findWorkingModel();
+  if (!model) {
+    console.log('');
+    console.log('ERROR: No Groq model responded successfully.');
+    console.log('Check your Groq key at: https://console.groq.com');
+    process.exit(1);
+  }
+  console.log('');
 
-    const stagingBatch = {
-      exam,
-      generatedDate: today,
-      generatedAt: new Date().toISOString(),
-      source: 'ai_generated',
-      reviewStatus: 'pending',
-      totalQuestions: 0,
-      subjects: {}
-    };
+  // Load syllabus
+  const syllabus = loadJSON(`syllabus/${EXAM}.json`);
+  if (!syllabus?.prelims?.subjects?.length) {
+    console.log(`ERROR: Syllabus missing for ${EXAM}`);
+    console.log(`Check file: syllabus/${EXAM}.json`);
+    process.exit(1);
+  }
+  console.log(`Syllabus : ${syllabus.examName}`);
+  console.log(`Subjects : ${syllabus.prelims.subjects.length}`);
+  console.log('');
 
-    const allSubjects = syllabus.prelims.subjects;
+  // Setup staging batch
+  const batch = {
+    exam: EXAM,
+    generatedDate: today,
+    generatedAt: new Date().toISOString(),
+    model,
+    provider: 'groq',
+    source: 'ai_generated',
+    reviewStatus: 'pending',
+    totalQuestions: 0,
+    subjects: {}
+  };
 
-    for (const subject of allSubjects) {
-      if (TARGET_SUBJECT && subject.name !== TARGET_SUBJECT) continue;
-      if (!subject.topics?.length) continue;
+  let total = 0;
+  const failed = [];
 
-      console.log(`\n  📖 ${subject.name}`);
-      stagingBatch.subjects[subject.id] = {};
+  // Process HIGH weight topics only (conserves API quota)
+  for (const subject of syllabus.prelims.subjects) {
+    const topics = (subject.topics || []).filter(t => t.weight === 'high');
+    if (!topics.length) continue;
 
-      // Only HIGH weight topics to keep within free API quota
-      const highTopics = subject.topics.filter(t => t.weight === 'high');
+    console.log(`📖 ${subject.name} (${topics.length} topics)`);
+    batch.subjects[subject.id] = {};
 
-      for (const topic of highTopics) {
-        totalTopics++;
-        console.log(`    🎯 ${topic.name}...`);
+    for (const topic of topics) {
+      process.stdout.write(`   ${topic.name}... `);
 
-        const prompt = buildPrompt(
-          syllabus.examName || exam,
-          subject.name,
-          topic.name,
-          topic.id
-        );
-
-        const questions = await callGemini(prompt);
-
-        if (questions.length > 0) {
-          stagingBatch.subjects[subject.id][topic.id] = {
-            topicName: topic.name,
-            subjectName: subject.name,
-            questions,
-            questionCount: questions.length
-          };
-          stagingBatch.totalQuestions += questions.length;
-          totalGenerated += questions.length;
-          console.log(`    ✅ ${questions.length} questions generated`);
-        } else {
-          failedTopics.push(`${exam}/${topic.name}`);
-          console.warn(`    ⚠️  No questions generated for ${topic.name} — skipping`);
+      let questions = [];
+      for (let attempt = 1; attempt <= 3; attempt++) {
+        try {
+          questions = await callGroq(model, buildPrompt(
+            syllabus.examName, subject.name, topic.name, topic.id
+          ));
+          break;
+        } catch(e) {
+          if (attempt === 3) {
+            failed.push(topic.name);
+          } else {
+            await sleep(4000);
+          }
         }
-
-        // Rate limit: free tier = 15 requests/minute
-        // 5 second gap = max 12/min, safely under limit
-        await sleep(5000);
       }
+
+      if (questions.length > 0) {
+        batch.subjects[subject.id][topic.id] = {
+          topicName: topic.name,
+          subjectName: subject.name,
+          questions,
+          questionCount: questions.length
+        };
+        batch.totalQuestions += questions.length;
+        total += questions.length;
+        console.log(`✅ ${questions.length}Q`);
+      } else {
+        console.log('❌ failed');
+      }
+
+      // 2 second gap — Groq free tier is generous but let's be safe
+      await sleep(2000);
     }
-
-    // Write staging file even if some topics failed
-    const stagingPath = `staging/${exam}/${today}.json`;
-    writeJSON(stagingPath, stagingBatch);
-    console.log(`\n  💾 Saved → ${stagingPath}`);
-    console.log(`  📊 ${stagingBatch.totalQuestions} questions for ${exam}`);
   }
 
-  // Summary
-  console.log('\n' + '═'.repeat(50));
-  console.log(`🎉 Generation complete!`);
-  console.log(`   Topics processed : ${totalTopics}`);
-  console.log(`   Questions created: ${totalGenerated}`);
-  if (failedTopics.length > 0) {
-    console.log(`   Failed topics    : ${failedTopics.length}`);
-    failedTopics.forEach(t => console.log(`     - ${t}`));
-    console.log('   (These will be retried in the next run)');
-  }
-  console.log('═'.repeat(50));
+  // Save to staging
+  const stagingPath = `staging/${EXAM}/${today}.json`;
+  writeJSON(stagingPath, batch);
 
-  // Only fail if ZERO questions were generated
-  if (totalGenerated === 0) {
-    console.error('\n❌ No questions generated at all — check API key and syllabus files');
+  // Print summary
+  console.log('');
+  console.log('══════════════════════════════════════');
+  console.log(`✅ Generated : ${total} questions`);
+  console.log(`💾 Saved to  : ${stagingPath}`);
+  if (failed.length) {
+    console.log(`⚠️  Failed   : ${failed.join(', ')}`);
+  }
+  console.log('══════════════════════════════════════');
+
+  if (total === 0) {
+    console.log('ERROR: Zero questions generated.');
     process.exit(1);
   }
-
-  console.log('\n✅ Success — staging files ready for admin review');
 }
 
 main().catch(e => {
-  console.error('\n❌ Fatal error:', e.message);
-  console.error(e.stack);
+  console.log(`Fatal: ${e.message}`);
   process.exit(1);
 });
