@@ -1,0 +1,756 @@
+{
+  "exam": "si",
+  "generatedDate": "2026-07-07",
+  "generatedAt": "2026-07-07T10:05:04.955Z",
+  "model": "llama-3.1-8b-instant",
+  "provider": "groq",
+  "source": "ai_generated",
+  "reviewStatus": "pending",
+  "totalQuestions": 45,
+  "subjects": {
+    "gs": {
+      "gs-polity": {
+        "topicName": "Indian Constitution & Polity",
+        "subjectName": "General Studies",
+        "questions": [
+          {
+            "question": "Which part of the Indian Constitution deals with the fundamental rights of the citizens?",
+            "options": [
+              "Part III",
+              "Part IV",
+              "Part V",
+              "Part VI"
+            ],
+            "correctIndex": 0,
+            "explanation": "It includes articles 12 to 35.",
+            "difficulty": "Medium",
+            "topicId": "gs-polity",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-07"
+          },
+          {
+            "question": "According to the Panchayat Extension to Scheduled Areas Act, 1996 (PESA), which level of Panchayat is mandatory for Scheduled Areas in West Bengal?",
+            "options": [
+              "Gram Panchayat",
+              "Mandal Panchayat",
+              "Block Panchayat",
+              "Zilla Parishad"
+            ],
+            "correctIndex": 1,
+            "explanation": "Mandal Panchayat is mandatory for Scheduled Areas.",
+            "difficulty": "Medium",
+            "topicId": "gs-polity",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-07"
+          },
+          {
+            "question": "Which Article of the Indian Constitution deals with Right to Freedom of Speech and Expression?",
+            "options": [
+              "Article 19(1)",
+              "Article 19(2)",
+              "Article 19(3)",
+              "Article 19(4)"
+            ],
+            "correctIndex": 0,
+            "explanation": "It ensures freedom of speech and expression.",
+            "difficulty": "Medium",
+            "topicId": "gs-polity",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-07"
+          },
+          {
+            "question": "What is the name of the highest court in the state of West Bengal?",
+            "options": [
+              "Calcutta High Court",
+              "Kolkata High Court",
+              "West Bengal High Court",
+              "Bengal High Court"
+            ],
+            "correctIndex": 0,
+            "explanation": "It is based in Kolkata.",
+            "difficulty": "Easy",
+            "topicId": "gs-polity",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-07"
+          },
+          {
+            "question": "Under the Indian Constitution, which part deals with the Directive Principles of State Policy?",
+            "options": [
+              "Part III",
+              "Part IV",
+              "Part V",
+              "Part VI"
+            ],
+            "correctIndex": 1,
+            "explanation": "It includes articles 36 to 51.",
+            "difficulty": "Medium",
+            "topicId": "gs-polity",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-07"
+          }
+        ],
+        "questionCount": 5
+      },
+      "gs-freedom": {
+        "topicName": "Indian Freedom Struggle & Bengal",
+        "subjectName": "General Studies",
+        "questions": [
+          {
+            "question": "Which of the following events marked the beginning of the Indian freedom struggle in Bengal?",
+            "options": [
+              "The Partition of Bengal (1905)",
+              "The Swadeshi Movement (1903)",
+              "The Non-Cooperation Movement (1920)",
+              "The Champaran Satyagraha (1917)"
+            ],
+            "correctIndex": 0,
+            "explanation": "It was a highly contentious and divisive policy.",
+            "difficulty": "Medium",
+            "topicId": "gs-freedom",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-07"
+          },
+          {
+            "question": "Who was the prominent revolutionary involved in the Barisal Conspiracy Case of 1912?",
+            "options": [
+              "Sachindranath Sanyal",
+              "Bhagwati Charan Vohra",
+              "Abhinash Bhattacharya",
+              "Ajoy Ghosh"
+            ],
+            "correctIndex": 1,
+            "explanation": "He was a key figure in the revolutionary movement.",
+            "difficulty": "Medium",
+            "topicId": "gs-freedom",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-07"
+          },
+          {
+            "question": "What was the name of the famous satyagraha led by Sarat Chandra Bose and other prominent Bengali leaders in 1941?",
+            "options": [
+              "The Bengal Famine Relief Satyagraha",
+              "The Quit India Movement",
+              "The Dandi March",
+              "The Salt Satyagraha"
+            ],
+            "correctIndex": 0,
+            "explanation": "It was a significant non-violent resistance campaign.",
+            "difficulty": "Medium",
+            "topicId": "gs-freedom",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-07"
+          },
+          {
+            "question": "Which of the following writers was associated with the influential Bengali literary magazine 'Dharmatattwa'?",
+            "options": [
+              "Bankim Chandra Chattopadhyay",
+              "Rabindranath Tagore",
+              "Sarat Chandra Chattopadhyay",
+              "Maulana Abul Kalam Azad"
+            ],
+            "correctIndex": 2,
+            "explanation": "It was a leading Bengali literary publication.",
+            "difficulty": "Easy",
+            "topicId": "gs-bengal",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-07"
+          },
+          {
+            "question": "Who was the first Indian Governor of Bengal under British rule?",
+            "options": [
+              "Lord William Bentinck",
+              "Lord Charles Canning",
+              "Lord Hastings",
+              "Warren Hastings"
+            ],
+            "correctIndex": 4,
+            "explanation": "He was the first Governor-General of India.",
+            "difficulty": "Medium",
+            "topicId": "gs-bengal",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-07"
+          }
+        ],
+        "questionCount": 5
+      },
+      "gs-wb-geo": {
+        "topicName": "West Bengal Geography",
+        "subjectName": "General Studies",
+        "questions": [
+          {
+            "question": "Which of the following rivers originates in the Himalayas and flows through the Darjeeling district in West Bengal?",
+            "options": [
+              "Tista River",
+              "Brahmaputra River",
+              "Subarnarekha River",
+              "Damodar River"
+            ],
+            "correctIndex": 0,
+            "explanation": "Tista River originates in the Himalayas.",
+            "difficulty": "Medium",
+            "topicId": "gs-wb-geo",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-07"
+          },
+          {
+            "question": "Which of the following national parks is located in the Sundarbans region of West Bengal?",
+            "options": [
+              "Buxa Tiger Reserve",
+              "Sundarbans National Park",
+              "Nandankanan Zoological Park",
+              "Kaziranga National Park"
+            ],
+            "correctIndex": 1,
+            "explanation": "Sundarbans National Park is located in the Sundarbans region.",
+            "difficulty": "Medium",
+            "topicId": "gs-wb-geo",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-07"
+          },
+          {
+            "question": "Which of the following mountain ranges runs parallel to the Siliguri Corridor in West Bengal?",
+            "options": [
+              "Himalayan Mountains",
+              "Eastern Ghats",
+              "Shillong Plateau",
+              "Patkai Bum"
+            ],
+            "correctIndex": 0,
+            "explanation": "Himalayan Mountains run parallel to the Siliguri Corridor.",
+            "difficulty": "Medium",
+            "topicId": "gs-wb-geo",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-07"
+          },
+          {
+            "question": "What is the name of the largest delta in the Indian subcontinent, located in West Bengal?",
+            "options": [
+              "Ganges Delta",
+              "Meghna-Brahmaputra Delta",
+              "Sundarbans Delta",
+              "Mahanadi Delta"
+            ],
+            "correctIndex": 0,
+            "explanation": "The Ganges Delta is the largest delta in the Indian subcontinent.",
+            "difficulty": "Medium",
+            "topicId": "gs-wb-geo",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-07"
+          },
+          {
+            "question": "Which of the following states shares the longest international border with West Bengal?",
+            "options": [
+              "Nepal",
+              "Bhutan",
+              "Bangladesh",
+              "Myanmar"
+            ],
+            "correctIndex": 2,
+            "explanation": "Bangladesh shares the longest international border with West Bengal.",
+            "difficulty": "Medium",
+            "topicId": "gs-wb-geo",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-07"
+          }
+        ],
+        "questionCount": 5
+      },
+      "gs-current": {
+        "topicName": "Current Affairs (Last 12 Months)",
+        "subjectName": "General Studies",
+        "questions": [
+          {
+            "question": "The West Bengal government launched 'Daktar Khonje Kotha' to improve healthcare services in the state. What is the primary focus of this initiative?",
+            "options": [
+              "Improving doctor-patient ratio",
+              "Increasing medical infrastructure",
+              "Enhancing public awareness about health",
+              "Improving patient care facilities"
+            ],
+            "correctIndex": 2,
+            "explanation": "Daktar Khonje Kotha focuses on enhancing public awareness about health.",
+            "difficulty": "Medium",
+            "topicId": "gs-current",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-07"
+          },
+          {
+            "question": "The West Bengal government has set a target to increase the use of renewable energy in the state to what percentage by 2027?",
+            "options": [
+              "30%",
+              "50%",
+              "60%",
+              "40%"
+            ],
+            "correctIndex": 1,
+            "explanation": "West Bengal aims to increase renewable energy use to 50% by 2027.",
+            "difficulty": "Medium",
+            "topicId": "gs-current",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-07"
+          },
+          {
+            "question": "The Kailash Chhetri-led West Bengal cricket team won the 2025-26 Ranji Trophy. Which city hosted the final match?",
+            "options": [
+              "Kolkata",
+              "Mumbai",
+              "Chennai",
+              "Hyderabad"
+            ],
+            "correctIndex": 0,
+            "explanation": "The final match of the 2025-26 Ranji Trophy was hosted in Kolkata.",
+            "difficulty": "Easy",
+            "topicId": "gs-current",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-07"
+          },
+          {
+            "question": "The West Bengal government has implemented the 'Swasthya Sathi' scheme to provide health insurance to the state's citizens. What is the maximum family income limit for eligibility under this scheme?",
+            "options": [
+              "₹ 2 lakhs",
+              "₹ 3 lakhs",
+              "₹ 4 lakhs",
+              "₹ 5 lakhs"
+            ],
+            "correctIndex": 3,
+            "explanation": "The maximum family income limit for eligibility under the Swasthya Sathi scheme is ₹ 5 lakhs.",
+            "difficulty": "Medium",
+            "topicId": "gs-current",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-07"
+          },
+          {
+            "question": "The West Bengal government has launched the 'Mukhya Mantri Karmatirtha Unnayan Yojana' to develop infrastructure in the state's industrial areas. Which of the following is a primary objective of this initiative?",
+            "options": [
+              "To increase employment opportunities",
+              "To improve infrastructure in industrial areas",
+              "To encourage entrepreneurship in the state",
+              "To increase the state's revenue"
+            ],
+            "correctIndex": 1,
+            "explanation": "Mukhya Mantri Karmatirtha Unnayan Yojana aims to improve infrastructure in industrial areas.",
+            "difficulty": "Medium",
+            "topicId": "gs-current",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-07"
+          }
+        ],
+        "questionCount": 5
+      },
+      "gs-wb-schemes": {
+        "topicName": "West Bengal Government Schemes",
+        "subjectName": "General Studies",
+        "questions": [
+          {
+            "question": "Which of the following is the objective of the 'Deshapriya' scheme launched by the Government of West Bengal?",
+            "options": [
+              "To promote tourism in West Bengal",
+              "To provide financial assistance to entrepreneurs",
+              "To improve the education system of the state",
+              "To provide employment opportunities to the youth"
+            ],
+            "correctIndex": 1,
+            "explanation": "The scheme aims to provide financial assistance to entrepreneurs.",
+            "difficulty": "Medium",
+            "topicId": "gs-wb-schemes",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-07"
+          },
+          {
+            "question": "What is the main goal of the 'Kanyashree Prakalpa' scheme of the West Bengal government?",
+            "options": [
+              "To provide free education to girls",
+              "To prevent child marriage and promote girls' education",
+              "To provide financial assistance to girls for higher education",
+              "To promote healthcare services for girls"
+            ],
+            "correctIndex": 1,
+            "explanation": "The scheme aims to prevent child marriage and promote girls' education.",
+            "difficulty": "Medium",
+            "topicId": "gs-wb-schemes",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-07"
+          },
+          {
+            "question": "Which of the following schemes is designed to provide financial assistance to the farmers of West Bengal for crop loss due to natural calamities?",
+            "options": [
+              "Krishi Sanjeevani",
+              "Kisan Rahat",
+              "Disha",
+              "Anandam"
+            ],
+            "correctIndex": 1,
+            "explanation": "The scheme provides insurance coverage to the farmers.",
+            "difficulty": "Medium",
+            "topicId": "gs-wb-schemes",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-07"
+          },
+          {
+            "question": "The 'Swasthya Sathi' scheme of the West Bengal government aims to provide",
+            "options": [
+              "Free healthcare services to all citizens",
+              "Free education to all citizens",
+              "Free insurance coverage to all citizens",
+              "Free food security to all citizens"
+            ],
+            "correctIndex": 2,
+            "explanation": "The scheme provides universal health insurance coverage.",
+            "difficulty": "Medium",
+            "topicId": "gs-wb-schemes",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-07"
+          },
+          {
+            "question": "The 'Mukhya Mantri Swasthya Bima Yojana' of the West Bengal government provides",
+            "options": [
+              "Free medical treatment to all citizens",
+              "Free medical treatment to Below Poverty Line (BPL) families",
+              "Free medical treatment to all patients suffering from serious diseases",
+              "Free medical treatment to all patients suffering from chronic diseases"
+            ],
+            "correctIndex": 1,
+            "explanation": "The scheme provides health insurance coverage to BPL families.",
+            "difficulty": "Medium",
+            "topicId": "gs-wb-schemes",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-07"
+          }
+        ],
+        "questionCount": 5
+      }
+    },
+    "math": {
+      "math-interest": {
+        "topicName": "Simple & Compound Interest",
+        "subjectName": "Arithmetic",
+        "questions": [
+          {
+            "question": "A sum of ₹ 10,000 is invested for 3 years at 5% per annum compound interest. What will be the amount after 3 years?",
+            "options": [
+              "₹ 10,628",
+              "₹ 11,102",
+              "₹ 10,512",
+              "₹ 11,325"
+            ],
+            "correctIndex": 0,
+            "explanation": "The correct amount will be calculated using the compound interest formula.",
+            "difficulty": "Medium",
+            "topicId": "math-interest",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-07"
+          },
+          {
+            "question": "If the simple interest on a certain sum of money for 2 years at 4% per annum is ₹ 160, then the principal amount is?",
+            "options": [
+              "₹ 8,000",
+              "₹ 10,000",
+              "₹ 12,000",
+              "₹ 15,000"
+            ],
+            "correctIndex": 2,
+            "explanation": "The simple interest formula will be used to find the principal amount.",
+            "difficulty": "Easy",
+            "topicId": "math-interest",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-07"
+          },
+          {
+            "question": "What is the present value of an amount of ₹ 12,000 due in 5 years, if the rate of interest is 3% per annum?",
+            "options": [
+              "₹ 9,964",
+              "₹ 10,000",
+              "₹ 10,064",
+              "₹ 10,120"
+            ],
+            "correctIndex": 0,
+            "explanation": "The present value formula for future amount will be used to find the answer.",
+            "difficulty": "Medium",
+            "topicId": "math-interest",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-07"
+          },
+          {
+            "question": "The compound interest on ₹ 5,000 at 8% per annum for 2 years is ₹ 840. What is the rate of interest for the next year?",
+            "options": [
+              "6%",
+              "7%",
+              "8%",
+              "9%"
+            ],
+            "correctIndex": 1,
+            "explanation": "The compound interest formula will be used to find the rate of interest for the next year.",
+            "difficulty": "Hard",
+            "topicId": "math-interest",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-07"
+          },
+          {
+            "question": "The simple interest on a certain sum of money for 1 year at 6% per annum is ₹ 60. What will be the simple interest for 2 years?",
+            "options": [
+              "₹ 120",
+              "₹ 124",
+              "₹ 128",
+              "₹ 132"
+            ],
+            "correctIndex": 0,
+            "explanation": "The simple interest formula will be used to find the simple interest for 2 years.",
+            "difficulty": "Easy",
+            "topicId": "math-interest",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-07"
+          }
+        ],
+        "questionCount": 5
+      },
+      "math-tw": {
+        "topicName": "Time, Work & Pipes",
+        "subjectName": "Arithmetic",
+        "questions": [
+          {
+            "question": "A certain work can be completed by a group of workers in 10 days. If 2 workers are added to the group, in how many days will they complete the same work?",
+            "options": [
+              "5 days",
+              "6 days",
+              "8 days",
+              "9 days"
+            ],
+            "correctIndex": 2,
+            "explanation": "Work done by the group remains the same.",
+            "difficulty": "Medium",
+            "topicId": "math-tw",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-07"
+          },
+          {
+            "question": "A water pipe can fill 2/3rd of a tank in 6 hours. How long will it take to fill the empty tank?",
+            "options": [
+              "4 hours",
+              "6 hours",
+              "8 hours",
+              "9 hours"
+            ],
+            "correctIndex": 1,
+            "explanation": "It will take the same time to fill the entire tank.",
+            "difficulty": "Medium",
+            "topicId": "math-tw",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-07"
+          },
+          {
+            "question": "A group of 4 men can finish a work in 20 days. If 2 more men join the group, in how many days will the work be completed?",
+            "options": [
+              "15 days",
+              "16 days",
+              "18 days",
+              "20 days"
+            ],
+            "correctIndex": 2,
+            "explanation": "Work done by the group remains the same.",
+            "difficulty": "Medium",
+            "topicId": "math-tw",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-07"
+          },
+          {
+            "question": "A tap can fill 2/3rd of a bucket in 24 minutes. How many minutes will it take to fill the bucket completely?",
+            "options": [
+              "24 minutes",
+              "36 minutes",
+              "40 minutes",
+              "48 minutes"
+            ],
+            "correctIndex": 3,
+            "explanation": "It will take the same time to fill the entire bucket.",
+            "difficulty": "Medium",
+            "topicId": "math-tw",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-07"
+          },
+          {
+            "question": "A group of 8 workers can complete a certain work in 12 days. If 2 workers leave the group, in how many days will the remaining workers complete the same work?",
+            "options": [
+              "15 days",
+              "16 days",
+              "18 days",
+              "20 days"
+            ],
+            "correctIndex": 2,
+            "explanation": "Work done by the group remains the same.",
+            "difficulty": "Medium",
+            "topicId": "math-tw",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-07"
+          }
+        ],
+        "questionCount": 5
+      }
+    },
+    "reasoning": {
+      "rs-coding": {
+        "topicName": "Coding-Decoding",
+        "subjectName": "Reasoning",
+        "questions": [
+          {
+            "question": "In the given sequence: P, V, J, L, ?; which letter series continues?",
+            "options": [
+              "H",
+              "D",
+              "G",
+              "I"
+            ],
+            "correctIndex": 2,
+            "explanation": "The sequence is based on alphabetical order.",
+            "difficulty": "Medium",
+            "topicId": "rs-coding",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-07"
+          },
+          {
+            "question": "Replace the question mark with an appropriate letter in the given statement: 'Bengal's capital city is KOLKATA, and its ? is Howrah.'",
+            "options": [
+              "largest city",
+              "second city",
+              "nearest city",
+              "nearest town"
+            ],
+            "correctIndex": 1,
+            "explanation": "Howrah is the second city adjacent to Kolkata.",
+            "difficulty": "Medium",
+            "topicId": "rs-coding",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-07"
+          },
+          {
+            "question": "If 5 is to 12 as 8 is to ?",
+            "options": [
+              "16",
+              "17",
+              "21",
+              "22"
+            ],
+            "correctIndex": 3,
+            "explanation": "The pattern is obtained by multiplying the first number by a factor to get the second number.",
+            "difficulty": "Medium",
+            "topicId": "rs-coding",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-07"
+          },
+          {
+            "question": "In the given statement: '-KOLKATA, being a city of rich culture, has a number of 'MELAS', 'FESTIVALS', 'FAIRS', and ?.'",
+            "options": [
+              "DANCES",
+              "DIPLOMATS",
+              "DIAMONDS",
+              "DINNERS"
+            ],
+            "correctIndex": 3,
+            "explanation": "The statement lists various cultural events in Kolkata.",
+            "difficulty": "Medium",
+            "topicId": "rs-coding",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-07"
+          },
+          {
+            "question": "In the given sequence: 4, 9, 16, 25, ?; which number series continues?",
+            "options": [
+              "36",
+              "49",
+              "64",
+              "81"
+            ],
+            "correctIndex": 0,
+            "explanation": "The sequence is based on perfect squares of natural numbers.",
+            "difficulty": "Medium",
+            "topicId": "rs-coding",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-07"
+          }
+        ],
+        "questionCount": 5
+      },
+      "rs-blood": {
+        "topicName": "Blood Relations",
+        "subjectName": "Reasoning",
+        "questions": [
+          {
+            "question": "Kalyani is the husband of Sudarshan's sister. How is Kalyani related to Sudarshan?",
+            "options": [
+              "Son",
+              "Brother",
+              "Father",
+              "Mother"
+            ],
+            "correctIndex": 0,
+            "explanation": "As she is the wife of his brother.",
+            "difficulty": "Medium",
+            "topicId": "rs-blood",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-07"
+          },
+          {
+            "question": "Pritam is the son of Rohan's mother's brother. What is the relationship between Pritam and Rohan?",
+            "options": [
+              "Son",
+              "Brother",
+              "Father",
+              "Mother"
+            ],
+            "correctIndex": 0,
+            "explanation": "As he is the son of his mother's brother.",
+            "difficulty": "Medium",
+            "topicId": "rs-blood",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-07"
+          },
+          {
+            "question": "Amit's mother is the sister of Bapi's father. What is the relationship between Amit and Bapi?",
+            "options": [
+              "Son",
+              "Brother",
+              "Father",
+              "Mother"
+            ],
+            "correctIndex": 2,
+            "explanation": "As his mother is the sister of his father.",
+            "difficulty": "Medium",
+            "topicId": "rs-blood",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-07"
+          },
+          {
+            "question": "Dilip is the son of Subhas's wife's sister. What is the relationship between Dilip and Subhas?",
+            "options": [
+              "Son",
+              "Brother",
+              "Father",
+              "Mother"
+            ],
+            "correctIndex": 0,
+            "explanation": "As he is the son of his wife's sister.",
+            "difficulty": "Medium",
+            "topicId": "rs-blood",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-07"
+          },
+          {
+            "question": "Sneha is the daughter of Chandan's father's sister. What is the relationship between Sneha and Chandan?",
+            "options": [
+              "Son",
+              "Brother",
+              "Father",
+              "Mother"
+            ],
+            "correctIndex": 0,
+            "explanation": "As she is the daughter of his father's sister.",
+            "difficulty": "Medium",
+            "topicId": "rs-blood",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-07"
+          }
+        ],
+        "questionCount": 5
+      }
+    }
+  }
+}
