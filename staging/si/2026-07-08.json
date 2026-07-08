@@ -1,0 +1,756 @@
+{
+  "exam": "si",
+  "generatedDate": "2026-07-08",
+  "generatedAt": "2026-07-08T03:54:51.898Z",
+  "model": "llama-3.1-8b-instant",
+  "provider": "groq",
+  "source": "ai_generated",
+  "reviewStatus": "pending",
+  "totalQuestions": 45,
+  "subjects": {
+    "gs": {
+      "gs-polity": {
+        "topicName": "Indian Constitution & Polity",
+        "subjectName": "General Studies",
+        "questions": [
+          {
+            "question": "Which Article of the Constitution of India provides for the appointment of the Comptroller and Auditor General (CAG) of India?",
+            "options": [
+              "Article 146",
+              "Article 148",
+              "Article 149",
+              "Article 150"
+            ],
+            "correctIndex": 1,
+            "explanation": "The CAG is appointed under Article 148 of the Constitution.",
+            "difficulty": "Medium",
+            "topicId": "gs-polity",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-08"
+          },
+          {
+            "question": "What is the name of the highest court in the state of West Bengal?",
+            "options": [
+              "Calcutta High Court",
+              "Kolkata High Court",
+              "West Bengal High Court",
+              "Bengal High Court"
+            ],
+            "correctIndex": 0,
+            "explanation": "The highest court in the state is Calcutta High Court.",
+            "difficulty": "Easy",
+            "topicId": "gs-polity",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-08"
+          },
+          {
+            "question": "Which of the following is a fundamental duty as per Article 51A of the Constitution of India?",
+            "options": [
+              "To acquire knowledge of one's mother tongue",
+              "To protect and improve the natural environment",
+              "To defend the country and render national service when called upon to do so",
+              "To develop the scientific temper"
+            ],
+            "correctIndex": 3,
+            "explanation": "Article 51A (g) is to develop the scientific temper.",
+            "difficulty": "Medium",
+            "topicId": "gs-polity",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-08"
+          },
+          {
+            "question": "What is the name of the first Governor General of India under the British East India Company?",
+            "options": [
+              "Lord William Bentinck",
+              "Warren Hastings",
+              "Lord Cornwallis",
+              "Lord Curzon"
+            ],
+            "correctIndex": 1,
+            "explanation": "Warren Hastings was the first Governor General of India.",
+            "difficulty": "Medium",
+            "topicId": "gs-polity",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-08"
+          },
+          {
+            "question": "Which of the following is a feature of the Panchayati Raj system in India?",
+            "options": [
+              "Three-tier system of Panchayats",
+              "Single-tier system of Panchayats",
+              "Direct election of Panchayat members",
+              "Appointment of Panchayat members by the State Government"
+            ],
+            "correctIndex": 0,
+            "explanation": "The Panchayati Raj system in India is a three-tier system.",
+            "difficulty": "Medium",
+            "topicId": "gs-polity",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-08"
+          }
+        ],
+        "questionCount": 5
+      },
+      "gs-wb-geo": {
+        "topicName": "West Bengal Geography",
+        "subjectName": "General Studies",
+        "questions": [
+          {
+            "question": "Which of the following rivers forms the northern boundary of West Bengal?",
+            "options": [
+              "Brahmaputra River",
+              "Ganga River",
+              "Subarnarekha River",
+              "Kosi River"
+            ],
+            "correctIndex": 1,
+            "explanation": "Ganga River is the northern boundary of West Bengal.",
+            "difficulty": "Medium",
+            "topicId": "gs-wb-geo",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-08"
+          },
+          {
+            "question": "What is the name of the island district in West Bengal?",
+            "options": [
+              "South 24 Parganas",
+              "North 24 Parganas",
+              "Jalpaiguri",
+              "Sundarbans"
+            ],
+            "correctIndex": 3,
+            "explanation": "Sundarbans is the island district in West Bengal.",
+            "difficulty": "Easy",
+            "topicId": "gs-wb-geo",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-08"
+          },
+          {
+            "question": "Which of the following mountain ranges is located in the northern part of West Bengal?",
+            "options": [
+              "Bengal Dooars",
+              "Sikkim Himalayas",
+              "Chota Nagpur Plateau",
+              "Garo Hills"
+            ],
+            "correctIndex": 1,
+            "explanation": "Sikkim Himalayas are located in the northern part of West Bengal.",
+            "difficulty": "Medium",
+            "topicId": "gs-wb-geo",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-08"
+          },
+          {
+            "question": "What is the name of the largest mangrove forest in the world located in West Bengal?",
+            "options": [
+              "Bhitarkanika Mangroves",
+              "Sundarbans Mangroves",
+              "Pichavaram Mangroves",
+              "Bhagwanpur Mangroves"
+            ],
+            "correctIndex": 1,
+            "explanation": "Sundarbans Mangroves are the largest mangrove forest in the world located in West Bengal.",
+            "difficulty": "Medium",
+            "topicId": "gs-wb-geo",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-08"
+          },
+          {
+            "question": "Which of the following rivers is the main tributary of the Ganga River in West Bengal?",
+            "options": [
+              "Damodar River",
+              "Bhagirathi River",
+              "Rupnarayan River",
+              "Ajay River"
+            ],
+            "correctIndex": 1,
+            "explanation": "Bhagirathi River is the main tributary of the Ganga River in West Bengal.",
+            "difficulty": "Medium",
+            "topicId": "gs-wb-geo",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-08"
+          }
+        ],
+        "questionCount": 5
+      },
+      "gs-current": {
+        "topicName": "Current Affairs (Last 12 Months)",
+        "subjectName": "General Studies",
+        "questions": [
+          {
+            "question": "The 2026 annual 'Rathyatra' in Kolkata was themed around which social cause?",
+            "options": [
+              "Protection of Child Rights",
+              "Disaster Risk Reduction",
+              "Environmental Conservation",
+              "Promotion of Handicrafts"
+            ],
+            "correctIndex": 2,
+            "explanation": "The 2026 Rath Yatra was themed around environmental conservation.",
+            "difficulty": "Medium",
+            "topicId": "gs-current",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-08"
+          },
+          {
+            "question": "Which of the following Chief Ministers of West Bengal has launched the 'Duare Dwara' scheme?",
+            "options": [
+              "Mamata Banerjee",
+              "Biman Banerjee",
+              "Suvendu Adhikari",
+              "Yashwant Sinha"
+            ],
+            "correctIndex": 0,
+            "explanation": "Mamata Banerjee launched the 'Duare Dwara' scheme.",
+            "difficulty": "Easy",
+            "topicId": "gs-current",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-08"
+          },
+          {
+            "question": "The 'Dakshin Dweep' tourism project was inaugurated in which district of West Bengal in 2026?",
+            "options": [
+              "Howrah",
+              "24 Parganas North",
+              "24 Parganas South",
+              "North 24 Parganas"
+            ],
+            "correctIndex": 2,
+            "explanation": "The 'Dakshin Dweep' tourism project was inaugurated in 24 Parganas South.",
+            "difficulty": "Hard",
+            "topicId": "gs-current",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-08"
+          },
+          {
+            "question": "Which of the following is a key objective of the 'Mukhyamantri Swasthya Seva Yojana' in West Bengal?",
+            "options": [
+              "Free healthcare for all",
+              "Provision of Ayurvedic medicines",
+              "Free transportation for patients",
+              "Reduced waiting time at hospitals"
+            ],
+            "correctIndex": 0,
+            "explanation": "Mukhyamantri Swasthya Seva Yojana aims to provide free healthcare for all.",
+            "difficulty": "Medium",
+            "topicId": "gs-current",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-08"
+          },
+          {
+            "question": "The 'Kolkata Metro Line 6' project was inaugurated by the Chief Minister of West Bengal in which month of 2026?",
+            "options": [
+              "January",
+              "February",
+              "March",
+              "April"
+            ],
+            "correctIndex": 2,
+            "explanation": "Kolkata Metro Line 6 was inaugurated in March 2026.",
+            "difficulty": "Easy",
+            "topicId": "gs-current",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-08"
+          }
+        ],
+        "questionCount": 5
+      }
+    },
+    "math": {
+      "math-percent": {
+        "topicName": "Percentage & Profit-Loss",
+        "subjectName": "Arithmetic",
+        "questions": [
+          {
+            "question": "A shopkeeper in Kolkata sells a TV at a 20% discount and still gains 8%. If the cost price of the TV is Rs. 20,000, what is the marked price?",
+            "options": [
+              "Rs. 23,200",
+              "Rs. 24,000",
+              "Rs. 23,600",
+              "Rs. 24,500"
+            ],
+            "correctIndex": 1,
+            "explanation": "The selling price can be directly calculated using the formula: Selling Price = (Cost Price * (100 + Gain))/100.",
+            "difficulty": "Medium",
+            "topicId": "math-percent",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-08"
+          },
+          {
+            "question": "A person buys 15 kg of rice at the rate of Rs. 40 per kg and 8 kg of rice at the rate of Rs. 35 per kg. What is the approximate percentage decrease in the total cost of rice if it is sold at the rate of Rs. 38 per kg?",
+            "options": [
+              "10%",
+              "12%",
+              "15%",
+              "18%"
+            ],
+            "correctIndex": 0,
+            "explanation": "The total cost of rice can be directly calculated using the formula: Total Cost = (15 * 40) + (8 * 35).",
+            "difficulty": "Medium",
+            "topicId": "math-percent",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-08"
+          },
+          {
+            "question": "A person invests Rs. 12,000 in a business in Kolkata. After 2 years, the value of the investment increases by 12%. What is the approximate value of the investment after 2 years?",
+            "options": [
+              "Rs. 13,440",
+              "Rs. 13,632",
+              "Rs. 14,000",
+              "Rs. 14,400"
+            ],
+            "correctIndex": 2,
+            "explanation": "The value of the investment can be directly calculated using the formula: Value = (Initial Value * (100 + Increase)) / 100.",
+            "difficulty": "Medium",
+            "topicId": "math-percent",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-08"
+          },
+          {
+            "question": "A trader in Siliguri buys 240 dozen eggs at Rs. 20 per dozen. What is the total cost of eggs, and what percentage of the total cost is the profit if the eggs are sold at Rs. 24 per dozen?",
+            "options": [
+              "Cost: Rs. 4,800, Profit: 20%",
+              "Cost: Rs. 4,800, Profit: 25%",
+              "Cost: Rs. 5,400, Profit: 20%",
+              "Cost: Rs. 5,400, Profit: 25%"
+            ],
+            "correctIndex": 2,
+            "explanation": "The total cost of eggs can be directly calculated using the formula: Cost = (Quantity * Rate).",
+            "difficulty": "Medium",
+            "topicId": "math-percent",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-08"
+          },
+          {
+            "question": "A person in Darjeeling buys a bike at a 10% discount and sells it at a 12% profit. If the cost price of the bike is Rs. 8,000, what is the selling price?",
+            "options": [
+              "Rs. 8,640",
+              "Rs. 8,800",
+              "Rs. 9,000",
+              "Rs. 9,200"
+            ],
+            "correctIndex": 3,
+            "explanation": "The selling price can be directly calculated using the formula: Selling Price = (Cost Price * (100 + Profit))/100.",
+            "difficulty": "Medium",
+            "topicId": "math-percent",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-08"
+          }
+        ],
+        "questionCount": 5
+      },
+      "math-interest": {
+        "topicName": "Simple & Compound Interest",
+        "subjectName": "Arithmetic",
+        "questions": [
+          {
+            "question": "If a sum of ₹ 12,000 is invested at 10% per annum for 3 years, then what is the amount at the end of 3 years, if the interest is compounded annually?",
+            "options": [
+              "₹ 13,362.80",
+              "₹ 13,631.84",
+              "₹ 13,632.00",
+              "₹ 13,631.80"
+            ],
+            "correctIndex": 3,
+            "explanation": "The interest is calculated on the initial principal and the accumulated interest from previous periods.",
+            "difficulty": "Medium",
+            "topicId": "math-interest",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-08"
+          },
+          {
+            "question": "A person purchases a bond for ₹ 8,000 on which simple interest is payable at the rate of 8% per annum. How much interest will the person receive after 2 years?",
+            "options": [
+              "₹ 1,600",
+              "₹ 1,632",
+              "₹ 1,638.40",
+              "₹ 1,640.00"
+            ],
+            "correctIndex": 2,
+            "explanation": "Simple interest is directly proportional to the time period.",
+            "difficulty": "Easy",
+            "topicId": "math-interest",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-08"
+          },
+          {
+            "question": "A sum of ₹ 15,000 is invested at a certain rate of interest. If the compound interest for the first year is ₹ 1,050 and for the second year is ₹ 1,102.50, then what is the rate of interest per annum?",
+            "options": [
+              "8%",
+              "8.5%",
+              "8.75%",
+              "9%"
+            ],
+            "correctIndex": 0,
+            "explanation": "The interest for the second year is calculated on the initial principal and the accumulated interest from the previous year.",
+            "difficulty": "Hard",
+            "topicId": "math-interest",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-08"
+          },
+          {
+            "question": "A person borrows ₹ 24,000 for 2 years at a certain rate of interest. If the simple interest paid at the end of 2 years is ₹ 3,840, then what is the rate of interest per annum?",
+            "options": [
+              "8%",
+              "8.5%",
+              "8.75%",
+              "9%"
+            ],
+            "correctIndex": 2,
+            "explanation": "Simple interest is directly proportional to the principal and the time period.",
+            "difficulty": "Medium",
+            "topicId": "math-interest",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-08"
+          },
+          {
+            "question": "If the compound interest on ₹ 9,000 for 2 years at 5% per annum is ₹ 950, then what is the amount at the end of 2 years?",
+            "options": [
+              "₹ 9,572.50",
+              "₹ 9,550.00",
+              "₹ 9,575.00",
+              "₹ 9,525.00"
+            ],
+            "correctIndex": 3,
+            "explanation": "The amount at the end of the time period is the sum of the principal and the compound interest.",
+            "difficulty": "Easy",
+            "topicId": "math-interest",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-08"
+          }
+        ],
+        "questionCount": 5
+      },
+      "math-tw": {
+        "topicName": "Time, Work & Pipes",
+        "subjectName": "Arithmetic",
+        "questions": [
+          {
+            "question": "A contractor has to finish a work in 100 days. He engages 100 workers in the initial days but due to financial crises, he has to reduce the number of workers to 75. Calculate the number of days by which he will be delayed?",
+            "options": [
+              "20 days",
+              "25 days",
+              "30 days",
+              "35 days"
+            ],
+            "correctIndex": 1,
+            "explanation": "As the number of workers decreases, the time required to finish the work will increase.",
+            "difficulty": "Medium",
+            "topicId": "math-tw",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-08"
+          },
+          {
+            "question": "In a village, there are 30 handpumps which are used by people to fetch water. If the total water requirement of the village is 1000 KL and each handpump supplies 20 KL of water in a day, then how many handpumps should be used to meet the water requirement of 1000 KL in 10 days?",
+            "options": [
+              "15 handpumps",
+              "20 handpumps",
+              "25 handpumps",
+              "30 handpumps"
+            ],
+            "correctIndex": 2,
+            "explanation": "Total water requirement for 10 days = 1000 KL x 10 = 10000 KL, 10000 KL/20 KL per handpump per day = 500 handpumps.",
+            "difficulty": "Medium",
+            "topicId": "math-tw",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-08"
+          },
+          {
+            "question": "In Kolkata, a water tank can be filled by 1 pipe in 8 hours and by 2 pipes in 2 hours. How long will it take to fill the tank by 3 pipes?",
+            "options": [
+              "2 hours",
+              "4 hours",
+              "6 hours",
+              "8 hours"
+            ],
+            "correctIndex": 0,
+            "explanation": "Rate of 2 pipes = 1/2 tank per hour, Rate of 1 pipe = 1/8 tank per hour, Rate of 3 pipes = 3/8 tank per hour.",
+            "difficulty": "Medium",
+            "topicId": "math-tw",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-08"
+          },
+          {
+            "question": "A group of workers can finish a work in 20 days. But, if 4 workers are less, then the work will be finished in 30 days. How many workers were initially working on the work?",
+            "options": [
+              "10 workers",
+              "12 workers",
+              "14 workers",
+              "16 workers"
+            ],
+            "correctIndex": 2,
+            "explanation": "Let the total number of workers be x, (x-4) x 30 = x x 20, (x-4) x 3/2 = x.",
+            "difficulty": "Medium",
+            "topicId": "math-tw",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-08"
+          },
+          {
+            "question": "In a factory in Howrah, 6 pipes can fill a tank in 4 hours. If 3 pipes can fill the tank in 8 hours, how long will it take to fill the tank by 2 pipes?",
+            "options": [
+              "8 hours",
+              "12 hours",
+              "16 hours",
+              "20 hours"
+            ],
+            "correctIndex": 2,
+            "explanation": "Rate of 6 pipes = 1/4 tank per hour, Rate of 2 pipes = 1/8 tank per hour, Rate of 2 pipes = 1/16 tank per hour.",
+            "difficulty": "Medium",
+            "topicId": "math-tw",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-08"
+          }
+        ],
+        "questionCount": 5
+      },
+      "math-tsd": {
+        "topicName": "Time, Speed & Distance",
+        "subjectName": "Arithmetic",
+        "questions": [
+          {
+            "question": "A train runs from Sealdah to Howrah, covering a distance of 21 km in 30 minutes. What will be its speed in km/hr?",
+            "options": [
+              "45 km/hr",
+              "60 km/hr",
+              "90 km/hr",
+              "120 km/hr"
+            ],
+            "correctIndex": 2,
+            "explanation": "Speed can be calculated as distance divided by time.",
+            "difficulty": "Medium",
+            "topicId": "math-tsd",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-08"
+          },
+          {
+            "question": "A bus travels from Kolkata to Digha at an average speed of 70 km/hr and covers a distance of 210 km. How much time will it take to reach Digha?",
+            "options": [
+              "2.5 hours",
+              "3.0 hours",
+              "3.5 hours",
+              "4.0 hours"
+            ],
+            "correctIndex": 1,
+            "explanation": "Time can be calculated as distance divided by speed.",
+            "difficulty": "Medium",
+            "topicId": "math-tsd",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-08"
+          },
+          {
+            "question": "A person travels from Bongaon to Dankuni at a speed of 40 km/hr and covers half of the distance in 2 hours. What is the total distance between the two places?",
+            "options": [
+              "80 km",
+              "120 km",
+              "160 km",
+              "200 km"
+            ],
+            "correctIndex": 1,
+            "explanation": "Speed multiplied by time gives distance.",
+            "difficulty": "Medium",
+            "topicId": "math-tsd",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-08"
+          },
+          {
+            "question": "A train leaves Howrah station at 9:00 AM and reaches Durgapur at 11:30 AM, covering a distance of 180 km. What is its average speed?",
+            "options": [
+              "30 km/hr",
+              "40 km/hr",
+              "50 km/hr",
+              "60 km/hr"
+            ],
+            "correctIndex": 3,
+            "explanation": "Average speed can be calculated as total distance divided by total time.",
+            "difficulty": "Medium",
+            "topicId": "math-tsd",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-08"
+          },
+          {
+            "question": "A car travels from Barasat to Garia at an average speed of 60 km/hr and takes 2 hours to cover a certain distance. What is the distance between the two places?",
+            "options": [
+              "60 km",
+              "80 km",
+              "100 km",
+              "120 km"
+            ],
+            "correctIndex": 2,
+            "explanation": "Distance can be calculated as speed multiplied by time.",
+            "difficulty": "Medium",
+            "topicId": "math-tsd",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-08"
+          }
+        ],
+        "questionCount": 5
+      }
+    },
+    "reasoning": {
+      "rs-blood": {
+        "topicName": "Blood Relations",
+        "subjectName": "Reasoning",
+        "questions": [
+          {
+            "question": "Kakali is the daughter of Bapi's brother, who is the husband of Sati. How is Kakali related to Sati?",
+            "options": [
+              "Brother",
+              "Sister",
+              "Daughter",
+              "Wife"
+            ],
+            "correctIndex": 2,
+            "explanation": "Kakali is Sati's niece.",
+            "difficulty": "Medium",
+            "topicId": "rs-blood",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-08"
+          },
+          {
+            "question": "If a husband is the son of the father of his son's mother, what is the relationship between the husband and his son's mother?",
+            "options": [
+              "Father",
+              "Mother",
+              "Brother",
+              "Grandson"
+            ],
+            "correctIndex": 1,
+            "explanation": "The husband is the son's mother's father.",
+            "difficulty": "Hard",
+            "topicId": "rs-blood",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-08"
+          },
+          {
+            "question": "If a man is the son of his mother's sister, what is the relationship between the man and his own children?",
+            "options": [
+              "Father",
+              "Mother",
+              "Grandfather",
+              "Brother"
+            ],
+            "correctIndex": 2,
+            "explanation": "The man is the father of his own children.",
+            "difficulty": "Medium",
+            "topicId": "rs-blood",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-08"
+          },
+          {
+            "question": "If Rishi is the son of his mother's husband, what is the relationship between Rishi and his mother?",
+            "options": [
+              "Brother",
+              "Sister",
+              "Father",
+              "Wife"
+            ],
+            "correctIndex": 1,
+            "explanation": "Rishi is the son's mother's husband's son.",
+            "difficulty": "Hard",
+            "topicId": "rs-blood",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-08"
+          },
+          {
+            "question": "If a person is the daughter of the father of his wife's brother, what is the relationship between the person and his wife?",
+            "options": [
+              "Brother",
+              "Sister",
+              "Father",
+              "Grandson"
+            ],
+            "correctIndex": 1,
+            "explanation": "The person is the wife's brother's sister.",
+            "difficulty": "Medium",
+            "topicId": "rs-blood",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-08"
+          }
+        ],
+        "questionCount": 5
+      },
+      "rs-direction": {
+        "topicName": "Direction Sense",
+        "subjectName": "Reasoning",
+        "questions": [
+          {
+            "question": "You are standing at the intersection of Strand Road and B.B.D. Bag in Kolkata. If you walk 1.5 km north and then 750 m east, which direction are you facing?",
+            "options": [
+              "South",
+              "East",
+              "North",
+              "West"
+            ],
+            "correctIndex": 2,
+            "explanation": "You are facing the direction from which you came.",
+            "difficulty": "Easy",
+            "topicId": "rs-direction",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-08"
+          },
+          {
+            "question": "A person starts walking from Bhubaneswar towards Howrah Bridge in Kolkata. If he walks for 10 hours with a speed of 10 km/h, covering 100 km, in which direction should he walk next to reach Howrah Bridge?",
+            "options": [
+              "East",
+              "West",
+              "North",
+              "South"
+            ],
+            "correctIndex": 0,
+            "explanation": "He needs to walk east to reach Howrah Bridge.",
+            "difficulty": "Medium",
+            "topicId": "rs-direction",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-08"
+          },
+          {
+            "question": "A man is facing east in the middle of the Howrah Bridge. If he turns 180° to his left, which direction is he facing now?",
+            "options": [
+              "East",
+              "West",
+              "North",
+              "South"
+            ],
+            "correctIndex": 1,
+            "explanation": "He is facing west after turning.",
+            "difficulty": "Easy",
+            "topicId": "rs-direction",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-08"
+          },
+          {
+            "question": "You are standing at the Victoria Memorial in Kolkata. If you walk 200 m towards the north and then 150 m towards the west, which direction are you facing?",
+            "options": [
+              "South",
+              "North",
+              "East",
+              "West"
+            ],
+            "correctIndex": 3,
+            "explanation": "You are facing west after walking.",
+            "difficulty": "Medium",
+            "topicId": "rs-direction",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-08"
+          },
+          {
+            "question": "A tourist is traveling from Siliguri to Kalimpong. If he takes a left turn at the NH 31 junction, which direction is he heading now?",
+            "options": [
+              "South",
+              "North",
+              "East",
+              "West"
+            ],
+            "correctIndex": 1,
+            "explanation": "He is heading north after taking the left turn.",
+            "difficulty": "Easy",
+            "topicId": "rs-direction",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-08"
+          }
+        ],
+        "questionCount": 5
+      }
+    }
+  }
+}
