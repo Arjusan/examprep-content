@@ -1,0 +1,838 @@
+{
+  "exam": "si",
+  "generatedDate": "2026-07-09",
+  "generatedAt": "2026-07-09T04:31:31.334Z",
+  "model": "llama-3.1-8b-instant",
+  "provider": "groq",
+  "source": "ai_generated",
+  "reviewStatus": "pending",
+  "totalQuestions": 50,
+  "subjects": {
+    "gs": {
+      "gs-polity": {
+        "topicName": "Indian Constitution & Polity",
+        "subjectName": "General Studies",
+        "questions": [
+          {
+            "question": "Which article of the Indian Constitution provides for the Directive Principles of State Policy?",
+            "options": [
+              "Article 14",
+              "Article 15",
+              "Article 36",
+              "Article 37"
+            ],
+            "correctIndex": 3,
+            "explanation": "Article 37 provides for the Directive Principles of State Policy.",
+            "difficulty": "Medium",
+            "topicId": "gs-polity",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-09"
+          },
+          {
+            "question": "What is the name of the high court in West Bengal?",
+            "options": [
+              "Calcutta High Court",
+              "Kolkata High Court",
+              "West Bengal High Court",
+              "Bengal High Court"
+            ],
+            "correctIndex": 0,
+            "explanation": "The high court in West Bengal is known as the Calcutta High Court.",
+            "difficulty": "Easy",
+            "topicId": "gs-polity",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-09"
+          },
+          {
+            "question": "Which of the following is a fundamental right under the Indian Constitution?",
+            "options": [
+              "Right to education",
+              "Right to freedom of speech and expression",
+              "Right to equality",
+              "Right to constitutional remedies"
+            ],
+            "correctIndex": 1,
+            "explanation": "The right to freedom of speech and expression is a fundamental right.",
+            "difficulty": "Medium",
+            "topicId": "gs-polity",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-09"
+          },
+          {
+            "question": "What is the name of the governor of West Bengal?",
+            "options": [
+              "Raj Bhavan Governor",
+              "West Bengal Governor",
+              "Governor of Bengal",
+              "Governor of Calcutta"
+            ],
+            "correctIndex": 1,
+            "explanation": "The governor of West Bengal is often referred to as the West Bengal Governor.",
+            "difficulty": "Easy",
+            "topicId": "gs-polity",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-09"
+          },
+          {
+            "question": "Who is the President of India as per the Indian Constitution?",
+            "options": [
+              "President of West Bengal",
+              "Prime Minister of India",
+              "President of India",
+              "Vice President of India"
+            ],
+            "correctIndex": 2,
+            "explanation": "The head of the state under the Indian Constitution is the President of India.",
+            "difficulty": "Medium",
+            "topicId": "gs-polity",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-09"
+          }
+        ],
+        "questionCount": 5
+      },
+      "gs-wb-geo": {
+        "topicName": "West Bengal Geography",
+        "subjectName": "General Studies",
+        "questions": [
+          {
+            "question": "The longest river in West Bengal is:",
+            "options": [
+              "Ganges",
+              "Brahmaputra",
+              "Subarnarekha",
+              "Damodar"
+            ],
+            "correctIndex": 0,
+            "explanation": "It flows through northern West Bengal.",
+            "difficulty": "Medium",
+            "topicId": "gs-wb-geo",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-09"
+          },
+          {
+            "question": "The highest peak in West Bengal is:",
+            "options": [
+              "Sandakphu",
+              "Kanchenjunga Base Camp",
+              "Rajarata",
+              "Bhor Bander"
+            ],
+            "correctIndex": 0,
+            "explanation": "Located in the Himalayas, in the Darjeeling district.",
+            "difficulty": "Medium",
+            "topicId": "gs-wb-geo",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-09"
+          },
+          {
+            "question": "The Sundarbans is a part of which district in West Bengal?",
+            "options": [
+              "South 24 Parganas",
+              "North 24 Parganas",
+              "Howrah",
+              "Hooghly"
+            ],
+            "correctIndex": 0,
+            "explanation": "It is the largest mangrove forest in the world.",
+            "difficulty": "Medium",
+            "topicId": "gs-wb-geo",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-09"
+          },
+          {
+            "question": "The highest altitude tea garden in the world is located in:",
+            "options": [
+              "Darjeeling",
+              "Siliguri",
+              "Kurseong",
+              "Mirik"
+            ],
+            "correctIndex": 0,
+            "explanation": "At an elevation of 7,200 ft.",
+            "difficulty": "Medium",
+            "topicId": "gs-wb-geo",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-09"
+          },
+          {
+            "question": "The state of West Bengal borders which country?",
+            "options": [
+              "Nepal",
+              "Bhutan",
+              "Bangladesh",
+              "Myanmar"
+            ],
+            "correctIndex": 2,
+            "explanation": "Through the Sundarbans border.",
+            "difficulty": "Medium",
+            "topicId": "gs-wb-geo",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-09"
+          }
+        ],
+        "questionCount": 5
+      },
+      "gs-current": {
+        "topicName": "Current Affairs (Last 12 Months)",
+        "subjectName": "General Studies",
+        "questions": [
+          {
+            "question": "The Kolkata Metro Rail has recently extended its services up to which new station?",
+            "options": [
+              "Howrah Maidan",
+              "Esplanade",
+              "Joka",
+              "Barrackpore"
+            ],
+            "correctIndex": 2,
+            "explanation": "The Kolkata Metro Rail has extended its services up to Joka.",
+            "difficulty": "Easy",
+            "topicId": "gs-current",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-09"
+          },
+          {
+            "question": "The West Bengal government has recently launched an initiative to promote organic farming in which district?",
+            "options": [
+              "Nadia",
+              "Murshidabad",
+              "Birbhum",
+              "Medinipur"
+            ],
+            "correctIndex": 0,
+            "explanation": "The West Bengal government has launched an initiative to promote organic farming in Nadia.",
+            "difficulty": "Medium",
+            "topicId": "gs-current",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-09"
+          },
+          {
+            "question": "Which Bollywood film shot in the Darjeeling hills was released recently?",
+            "options": [
+              "The Kashmir Files",
+              "Atrangi Re",
+              "Udta Punjab",
+              "Mimi"
+            ],
+            "correctIndex": 1,
+            "explanation": "Atrangi Re was a Bollywood film shot in the Darjeeling hills and released recently.",
+            "difficulty": "Easy",
+            "topicId": "gs-current",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-09"
+          },
+          {
+            "question": "The West Bengal government has recently inaugurated a new medical college in which city?",
+            "options": [
+              "Kolkata",
+              "Siliguri",
+              "Asansol",
+              "Durgapur"
+            ],
+            "correctIndex": 2,
+            "explanation": "The West Bengal government has inaugurated a new medical college in Asansol.",
+            "difficulty": "Medium",
+            "topicId": "gs-current",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-09"
+          },
+          {
+            "question": "The West Bengal government has recently announced a new scheme to provide financial assistance to which type of women?",
+            "options": [
+              "Small business owners",
+              "Artisans",
+              "Small farmers",
+              "Unorganized sector workers"
+            ],
+            "correctIndex": 3,
+            "explanation": "The West Bengal government has announced a new scheme to provide financial assistance to unorganized sector workers.",
+            "difficulty": "Medium",
+            "topicId": "gs-current",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-09"
+          }
+        ],
+        "questionCount": 5
+      }
+    },
+    "math": {
+      "math-interest": {
+        "topicName": "Simple & Compound Interest",
+        "subjectName": "Arithmetic",
+        "questions": [
+          {
+            "question": "A sum of ₹ 12,000 is invested for 2 years at 8% p.a. simple interest. The interest earned will be?",
+            "options": [
+              "₹ 1,440",
+              "₹ 1,920",
+              "₹ 960",
+              "₹ 1,600"
+            ],
+            "correctIndex": 2,
+            "explanation": "Using simple interest formula.",
+            "difficulty": "Easy",
+            "topicId": "simple-interest",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-09"
+          },
+          {
+            "question": "A person invests ₹ 60,000 for 3 years at compound interest rate of 10% p.a. The interest earned will be approximately?",
+            "options": [
+              "₹ 23,000",
+              "₹ 24,000",
+              "₹ 25,000",
+              "₹ 26,000"
+            ],
+            "correctIndex": 0,
+            "explanation": "Using compound interest formula.",
+            "difficulty": "Medium",
+            "topicId": "compound-interest",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-09"
+          },
+          {
+            "question": "The amount of money that would become ₹ 80,000 in 2 years at compound interest rate of 12% p.a. compounded annually can be calculated using the formula?",
+            "options": [
+              "A = P (1 + r)^n",
+              "A = P (1 - r)^n",
+              "A = P (1 + r) / n",
+              "A = P (1 - r) / n"
+            ],
+            "correctIndex": 0,
+            "explanation": "Compound interest formula.",
+            "difficulty": "Hard",
+            "topicId": "math-interest",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-09"
+          },
+          {
+            "question": "A sum of ₹ 20,000 is invested for 5 years at compound interest rate of 15% p.a. compounded annually. The amount after 5 years will be?",
+            "options": [
+              "₹ 38,617",
+              "₹ 38,718",
+              "₹ 39,000",
+              "₹ 39,123"
+            ],
+            "correctIndex": 0,
+            "explanation": "Using compound interest formula.",
+            "difficulty": "Medium",
+            "topicId": "compound-interest",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-09"
+          },
+          {
+            "question": "A person invests ₹ 30,000 for 4 years at simple interest rate of 12% p.a. The interest earned will be?",
+            "options": [
+              "₹ 11,520",
+              "₹ 11,680",
+              "₹ 11,200",
+              "₹ 11,040"
+            ],
+            "correctIndex": 3,
+            "explanation": "Using simple interest formula.",
+            "difficulty": "Easy",
+            "topicId": "simple-interest",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-09"
+          }
+        ],
+        "questionCount": 5
+      },
+      "math-tw": {
+        "topicName": "Time, Work & Pipes",
+        "subjectName": "Arithmetic",
+        "questions": [
+          {
+            "question": "A pipe fills 1/4th of a tank in 10 minutes. How long will it take to fill the tank completely?",
+            "options": [
+              "20 minutes",
+              "25 minutes",
+              "30 minutes",
+              "40 minutes"
+            ],
+            "correctIndex": 3,
+            "explanation": "To find the total time, we need to multiply the given time by 4.",
+            "difficulty": "Medium",
+            "topicId": "math-tw",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-09"
+          },
+          {
+            "question": "A man can do a piece of work in 3 days. If he works 5 hours a day, how many days will he take to complete the work?",
+            "options": [
+              "2 days",
+              "2.5 days",
+              "4 days",
+              "5 days"
+            ],
+            "correctIndex": 1,
+            "explanation": "We need to calculate the total number of hours required to complete the work and then divide it by the number of working hours per day.",
+            "difficulty": "Medium",
+            "topicId": "math-tw",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-09"
+          },
+          {
+            "question": "A tap can fill 1/5th of a tank in 12 minutes. If there is a leak in the tank that can empty 1/10th of the tank in 10 minutes, how long will it take to fill the tank completely?",
+            "options": [
+              "50 minutes",
+              "60 minutes",
+              "70 minutes",
+              "80 minutes"
+            ],
+            "correctIndex": 2,
+            "explanation": "We need to find the net rate at which the tank is being filled and then calculate the time required to fill the tank completely.",
+            "difficulty": "High",
+            "topicId": "math-tw",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-09"
+          },
+          {
+            "question": "A group of 4 friends can paint a house in 2 days. How long will it take for 6 friends to paint the same house?",
+            "options": [
+              "1.5 days",
+              "2 days",
+              "2.5 days",
+              "3 days"
+            ],
+            "correctIndex": 0,
+            "explanation": "Since the work is directly proportional to the number of friends, we can use the proportionality concept to solve this problem.",
+            "difficulty": "Medium",
+            "topicId": "math-tw",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-09"
+          },
+          {
+            "question": "A worker can do a job in 20 days, working 8 hours a day. If he works for 9 hours a day, how many days will it take to complete the job?",
+            "options": [
+              "17.7 days",
+              "18 days",
+              "20 days",
+              "22 days"
+            ],
+            "correctIndex": 0,
+            "explanation": "We need to calculate the total number of hours required to complete the job and then divide it by the new number of working hours per day.",
+            "difficulty": "Medium",
+            "topicId": "math-tw",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-09"
+          }
+        ],
+        "questionCount": 5
+      },
+      "math-tsd": {
+        "topicName": "Time, Speed & Distance",
+        "subjectName": "Arithmetic",
+        "questions": [
+          {
+            "question": "A train travels from Howrah to Katwa, a distance of 126 km. If the speed of the train is 42 km/hr, how much time will it take to cover the distance?",
+            "options": [
+              "4 hours",
+              "5 hours",
+              "6 hours",
+              "7 hours"
+            ],
+            "correctIndex": 1,
+            "explanation": "Time = Distance / Speed.",
+            "difficulty": "Medium",
+            "topicId": "math-tsd",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-09"
+          },
+          {
+            "question": "A bus covers a distance of 420 km in 7 hours. What is the average speed of the bus?",
+            "options": [
+              "60 km/hr",
+              "55 km/hr",
+              "58 km/hr",
+              "62 km/hr"
+            ],
+            "correctIndex": 0,
+            "explanation": "Average speed = Total distance / Total time.",
+            "difficulty": "Medium",
+            "topicId": "math-tsd",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-09"
+          },
+          {
+            "question": "A person travels from Kolkata to Bardhaman at a speed of 30 km/hr and returns back to Kolkata at a speed of 40 km/hr. What is the average speed of the person for the whole journey?",
+            "options": [
+              "35 km/hr",
+              "36 km/hr",
+              "37 km/hr",
+              "38 km/hr"
+            ],
+            "correctIndex": 2,
+            "explanation": "Average speed = Total distance / Total time.",
+            "difficulty": "Medium",
+            "topicId": "math-tsd",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-09"
+          },
+          {
+            "question": "A car travels from Durgapur to Asansol, a distance of 70 km. If the car is moving at a speed of 35 km/hr, how much time will it take to cover the distance?",
+            "options": [
+              "2 hours",
+              "2.2 hours",
+              "2.5 hours",
+              "3 hours"
+            ],
+            "correctIndex": 2,
+            "explanation": "Time = Distance / Speed.",
+            "difficulty": "Medium",
+            "topicId": "math-tsd",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-09"
+          },
+          {
+            "question": "A train is moving at a speed of 25 km/hr from Siliguri to Jalpaiguri. How much time will it take to cover a distance of 175 km?",
+            "options": [
+              "7 hours",
+              "6.5 hours",
+              "6 hours",
+              "5.5 hours"
+            ],
+            "correctIndex": 3,
+            "explanation": "Time = Distance / Speed.",
+            "difficulty": "Medium",
+            "topicId": "math-tsd",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-09"
+          }
+        ],
+        "questionCount": 5
+      }
+    },
+    "reasoning": {
+      "rs-coding": {
+        "topicName": "Coding-Decoding",
+        "subjectName": "Reasoning",
+        "questions": [
+          {
+            "question": "If 2 is called 3, 3 is called 4, and so on, then what is the code for 10?",
+            "options": [
+              "5",
+              "6",
+              "7",
+              "8"
+            ],
+            "correctIndex": 0,
+            "explanation": "Following the given pattern, 2 is replaced by 3, so 10 is replaced by 13.",
+            "difficulty": "Medium",
+            "topicId": "rs-coding",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-09"
+          },
+          {
+            "question": "If A is called B, B is called C, and so on, then what is the code for AB",
+            "options": [
+              "AD",
+              "AE",
+              "AF",
+              "AG"
+            ],
+            "correctIndex": 2,
+            "explanation": "Following the given pattern, A is replaced by F, and B is replaced by C.",
+            "difficulty": "Easy",
+            "topicId": "rs-coding",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-09"
+          },
+          {
+            "question": "If in a code, S is represented by 7, P is represented by 4, and R is represented by 9, then what is the code for SPR?",
+            "options": [
+              "219",
+              "267",
+              "327",
+              "729"
+            ],
+            "correctIndex": 0,
+            "explanation": "Following the given pattern, S is replaced by 7, P is replaced by 4, and R is replaced by 9.",
+            "difficulty": "Medium",
+            "topicId": "rs-coding",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-09"
+          },
+          {
+            "question": "If in a code, 1 is called 2, 2 is called 4, and so on, then what is the code for 8?",
+            "options": [
+              "8",
+              "16",
+              "32",
+              "64"
+            ],
+            "correctIndex": 2,
+            "explanation": "Following the given pattern, 2 is called 4, 4 is called 8, 8 is called 16, 16 is called 32, and 32 is called 64.",
+            "difficulty": "Easy",
+            "topicId": "rs-coding",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-09"
+          },
+          {
+            "question": "If in a code, 1 is called 2, 2 is called 4, 4 is called 8, and so on, then what is the code for 15?",
+            "options": [
+              "4",
+              "8",
+              "16",
+              "32"
+            ],
+            "correctIndex": 2,
+            "explanation": "Following the given pattern, 2 is called 4, 4 is called 8, 8 is called 16, and 16 is called 32.",
+            "difficulty": "Medium",
+            "topicId": "rs-coding",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-09"
+          }
+        ],
+        "questionCount": 5
+      },
+      "rs-blood": {
+        "topicName": "Blood Relations",
+        "subjectName": "Reasoning",
+        "questions": [
+          {
+            "question": "Amar and Priya are siblings, Amar is the son of Dinesh. How is Priya related to Dinesh?",
+            "options": [
+              "Daughter",
+              "Sister",
+              "Niece",
+              "Aunt"
+            ],
+            "correctIndex": 1,
+            "explanation": "Priya is the daughter of Amar's father, Dinesh.",
+            "difficulty": "Medium",
+            "topicId": "rs-blood",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-09"
+          },
+          {
+            "question": "Rahul's son is the brother of Priya's daughter. How is Priya related to Rahul?",
+            "options": [
+              "Mother",
+              "Sister",
+              "Daughter",
+              "Wife"
+            ],
+            "correctIndex": 2,
+            "explanation": "Priya is the mother of Priya's daughter, which is Rahul's son's sister.",
+            "difficulty": "Medium",
+            "topicId": "rs-blood",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-09"
+          },
+          {
+            "question": "A woman is the mother of a boy and a girl. The boy's maternal uncle is the husband of the woman.",
+            "options": [
+              "Father",
+              "Brother",
+              "Grandfather",
+              "Uncle"
+            ],
+            "correctIndex": 3,
+            "explanation": "The boy's maternal uncle is the husband of the woman.",
+            "difficulty": "Easy",
+            "topicId": "rs-blood",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-09"
+          },
+          {
+            "question": "Manoj and Sunita are husband and wife. How is Sunita's sister related to Manoj?",
+            "options": [
+              "Sister-in-law",
+              "Mother-in-law",
+              "Wife",
+              "Daughter-in-law"
+            ],
+            "correctIndex": 0,
+            "explanation": "Sunita's sister is the wife of Manoj.",
+            "difficulty": "Medium",
+            "topicId": "rs-blood",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-09"
+          },
+          {
+            "question": "A person is the father of a boy and a girl. His sister is the mother of a girl. How is the girl related to the person?",
+            "options": [
+              "Daughter",
+              "Sister",
+              "Granddaughter",
+              "Niece"
+            ],
+            "correctIndex": 3,
+            "explanation": "The girl is the granddaughter of the person.",
+            "difficulty": "Medium",
+            "topicId": "rs-blood",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-09"
+          }
+        ],
+        "questionCount": 5
+      },
+      "rs-direction": {
+        "topicName": "Direction Sense",
+        "subjectName": "Reasoning",
+        "questions": [
+          {
+            "question": "A police officer is standing on the banks of Hooghly River, facing the river. If he walks 200 meters due east, turns left and walks 300 meters, then turns left and walks 400 meters, which direction is he facing now?",
+            "options": [
+              "North",
+              "South",
+              "East",
+              "West"
+            ],
+            "correctIndex": 1,
+            "explanation": "He is facing South after turning left.",
+            "difficulty": "Medium",
+            "topicId": "rs-direction",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-09"
+          },
+          {
+            "question": "A person is at the intersection of B.T. Road and Gariahat Road in Kolkata. If he walks 500 meters towards the east on B.T. Road, turns right and walks 250 meters, then turns left and walks 350 meters, which direction is he from the starting point?",
+            "options": [
+              "North",
+              "South",
+              "East",
+              "West"
+            ],
+            "correctIndex": 2,
+            "explanation": "He is 250 meters west from the starting point.",
+            "difficulty": "Medium",
+            "topicId": "rs-direction",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-09"
+          },
+          {
+            "question": "A police officer is standing at a crossroads. A road leads North, another leads South, the third leads East, and the fourth leads West. If he walks 200 meters due north and then 300 meters due east, and then 150 meters due south, which road is he standing on now?",
+            "options": [
+              "North",
+              "South",
+              "East",
+              "West"
+            ],
+            "correctIndex": 2,
+            "explanation": "He is standing on the East road.",
+            "difficulty": "Easy",
+            "topicId": "rs-direction",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-09"
+          },
+          {
+            "question": "A person is at the foot of the Darjeeling Himalayan Railway train station. If he walks 200 meters towards the north, turns left and walks 250 meters, then turns right and walks 150 meters, which direction is he from the starting point now?",
+            "options": [
+              "North",
+              "South",
+              "East",
+              "West"
+            ],
+            "correctIndex": 0,
+            "explanation": "He is 250 meters south from the starting point.",
+            "difficulty": "Easy",
+            "topicId": "rs-direction",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-09"
+          },
+          {
+            "question": "A police officer is standing on a road that leads to the Victoria Memorial in Kolkata. If he walks 500 meters towards the north and then 300 meters towards the west, and then 400 meters towards the south, which direction is he walking now?",
+            "options": [
+              "North",
+              "South",
+              "East",
+              "West"
+            ],
+            "correctIndex": 3,
+            "explanation": "He is walking towards South now.",
+            "difficulty": "Medium",
+            "topicId": "rs-direction",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-09"
+          }
+        ],
+        "questionCount": 5
+      },
+      "rs-series": {
+        "topicName": "Number & Letter Series",
+        "subjectName": "Reasoning",
+        "questions": [
+          {
+            "question": "If the pattern is A, B, D, F, H, J, what should be the next letter in the series?",
+            "options": [
+              "A",
+              "E",
+              "K",
+              "L"
+            ],
+            "correctIndex": 1,
+            "explanation": "The pattern follows an alphabetical sequence with a gap of 2 letters.",
+            "difficulty": "Medium",
+            "topicId": "letter-series",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-09"
+          },
+          {
+            "question": "Find the missing number in the series: 2, 5, 8, 11, 14, _, 19.",
+            "options": [
+              "15",
+              "16",
+              "17",
+              "18"
+            ],
+            "correctIndex": 0,
+            "explanation": "The series is formed by adding 3 to the previous number.",
+            "difficulty": "Medium",
+            "topicId": "number-series",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-09"
+          },
+          {
+            "question": "If the pattern is A, E, I, M, __, Y, what should be the next letter in the series?",
+            "options": [
+              "P",
+              "Q",
+              "R",
+              "S"
+            ],
+            "correctIndex": 1,
+            "explanation": "The pattern follows a sequence of letters with a gap of 4 letters.",
+            "difficulty": "Medium",
+            "topicId": "letter-series",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-09"
+          },
+          {
+            "question": "Find the missing number in the series: 1, 4, 9, 16, 25, 36, __.",
+            "options": [
+              "49",
+              "50",
+              "51",
+              "52"
+            ],
+            "correctIndex": 0,
+            "explanation": "The series is formed by squaring consecutive natural numbers.",
+            "difficulty": "Medium",
+            "topicId": "number-series",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-09"
+          },
+          {
+            "question": "If the pattern is A, B, C, D, E, F, G, H, what should be the next letter in the series?",
+            "options": [
+              "I",
+              "J",
+              "K",
+              "L"
+            ],
+            "correctIndex": 3,
+            "explanation": "The pattern follows an alphabetical sequence up to the 9th letter.",
+            "difficulty": "Medium",
+            "topicId": "letter-series",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-09"
+          }
+        ],
+        "questionCount": 5
+      }
+    }
+  }
+}
