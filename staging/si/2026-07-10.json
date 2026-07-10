@@ -1,0 +1,920 @@
+{
+  "exam": "si",
+  "generatedDate": "2026-07-10",
+  "generatedAt": "2026-07-10T04:34:17.825Z",
+  "model": "llama-3.1-8b-instant",
+  "provider": "groq",
+  "source": "ai_generated",
+  "reviewStatus": "pending",
+  "totalQuestions": 55,
+  "subjects": {
+    "gs": {
+      "gs-polity": {
+        "topicName": "Indian Constitution & Polity",
+        "subjectName": "General Studies",
+        "questions": [
+          {
+            "question": "Which part of the Indian Constitution deals with the fundamental rights of citizens?",
+            "options": [
+              "Part III",
+              "Part IV",
+              "Part V",
+              "Part VI"
+            ],
+            "correctIndex": 0,
+            "explanation": "It contains rights of individual citizens.",
+            "difficulty": "Medium",
+            "topicId": "gs-polity",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-10"
+          },
+          {
+            "question": "Which one of the following is a feature of the West Bengal Panchayat System?",
+            "options": [
+              "Gram Panchayat is the lowest level of Panchayat",
+              "Gram Panchayat is the highest level of Panchayat",
+              "Gram Panchayat is an intermediate level of Panchayat",
+              "Panchayats have no autonomy"
+            ],
+            "correctIndex": 0,
+            "explanation": "It is the basic unit of Panchayat Raj.",
+            "difficulty": "Easy",
+            "topicId": "gs-polity",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-10"
+          },
+          {
+            "question": "Which Article of the Indian Constitution talks about the Directive Principles of State Policy?",
+            "options": [
+              "Article 14",
+              "Article 15",
+              "Article 38",
+              "Article 51A"
+            ],
+            "correctIndex": 2,
+            "explanation": "It guides the government on social policies.",
+            "difficulty": "Medium",
+            "topicId": "gs-polity",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-10"
+          },
+          {
+            "question": "Which of the following is a feature of the Indian parliamentary system?",
+            "options": [
+              "Separation of Powers",
+              "Collective Responsibility",
+              "Independent Judiciary",
+              "Accountability of the Executive"
+            ],
+            "correctIndex": 1,
+            "explanation": "The government is collectively responsible to the Lok Sabha.",
+            "difficulty": "Medium",
+            "topicId": "gs-polity",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-10"
+          },
+          {
+            "question": "Which one of the following is a fundamental duty of the citizens of India?",
+            "options": [
+              "To promote harmony and the spirit of common brotherhood amongst all people",
+              "To renounce practices derogatory to the dignity of women",
+              "To preserve the rich heritage of our composite culture",
+              "To protect and improve the natural environment"
+            ],
+            "correctIndex": 0,
+            "explanation": "It promotes unity among citizens.",
+            "difficulty": "Easy",
+            "topicId": "gs-polity",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-10"
+          }
+        ],
+        "questionCount": 5
+      },
+      "gs-wb-geo": {
+        "topicName": "West Bengal Geography",
+        "subjectName": "General Studies",
+        "questions": [
+          {
+            "question": "Which river forms the northern border of West Bengal?",
+            "options": [
+              "Ganges",
+              "Brahmaputra",
+              "Meghna",
+              "Subarnarekha"
+            ],
+            "correctIndex": 0,
+            "explanation": "Forms the border with Bihar and Nepal.",
+            "difficulty": "Easy",
+            "topicId": "gs-wb-geo",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-10"
+          },
+          {
+            "question": "Which mountain range lies in the eastern part of West Bengal?",
+            "options": [
+              "Eastern Ghats",
+              "Sikkim Himalayas",
+              "Bhutan Himalayas",
+              "Assam Himalayas"
+            ],
+            "correctIndex": 1,
+            "explanation": "Includes the Darjeeling Himalayan Hill region.",
+            "difficulty": "Medium",
+            "topicId": "gs-wb-geo",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-10"
+          },
+          {
+            "question": "Which delta is located in the southern part of West Bengal?",
+            "options": [
+              "Ganges-Brahmaputra Delta",
+              "Sundarbans Delta",
+              "Meghna Delta",
+              "Mahanadi Delta"
+            ],
+            "correctIndex": 1,
+            "explanation": "The world's largest delta in terms of land area.",
+            "difficulty": "Medium",
+            "topicId": "gs-wb-geo",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-10"
+          },
+          {
+            "question": "What is the name of the Sundarbans National Park's location in West Bengal?",
+            "options": [
+              "North 24 Parganas",
+              "South 24 Parganas",
+              "Howrah",
+              "Hooghly"
+            ],
+            "correctIndex": 1,
+            "explanation": "Spans across several districts, but primarily in this one.",
+            "difficulty": "Medium",
+            "topicId": "gs-wb-geo",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-10"
+          },
+          {
+            "question": "Which island in West Bengal is known for its historic lighthouse?",
+            "options": [
+              "Sagar Island",
+              "Bakkhali Island",
+              "Henry Island",
+              "Dakshin Barasat Island"
+            ],
+            "correctIndex": 0,
+            "explanation": "Located at the mouth of the Ganges River.",
+            "difficulty": "Easy",
+            "topicId": "gs-wb-geo",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-10"
+          }
+        ],
+        "questionCount": 5
+      },
+      "gs-current": {
+        "topicName": "Current Affairs (Last 12 Months)",
+        "subjectName": "General Studies",
+        "questions": [
+          {
+            "question": "Which major festival was celebrated with grandeur in Kolkata in December 2025?",
+            "options": [
+              "Durga Puja",
+              "Lokkhi Puja",
+              "Dol Purnima",
+              "Basant Utsav"
+            ],
+            "correctIndex": 0,
+            "explanation": "It is the largest festival celebrated in Kolkata.",
+            "difficulty": "Medium",
+            "topicId": "gs-current",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-10"
+          },
+          {
+            "question": "Which new initiative was launched by the West Bengal government in March 2026 to promote digital literacy?",
+            "options": [
+              "Swavalamban",
+              "Sishu Shiksha Mission",
+              "Swasthya Sathi",
+              "Disha Digital"
+            ],
+            "correctIndex": 3,
+            "explanation": "It aims to enhance digital skills in the state.",
+            "difficulty": "Medium",
+            "topicId": "gs-current",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-10"
+          },
+          {
+            "question": "Who was the Chief Minister of West Bengal during the 2025 floods in the state?",
+            "options": [
+              "Mamata Banerjee",
+              "Suvendu Adhikari",
+              "Biman Banerjee",
+              "Partha Chatterjee"
+            ],
+            "correctIndex": 0,
+            "explanation": "She led the state's relief efforts.",
+            "difficulty": "Easy",
+            "topicId": "gs-current",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-10"
+          },
+          {
+            "question": "Which major infrastructure project was inaugurated by Prime Minister Narendra Modi in Kolkata in January 2026?",
+            "options": [
+              "Vidyasagar Setu Extension",
+              "Dum Dum Metro Line",
+              "East-West Metro Line",
+              "Sagardighi Flyover"
+            ],
+            "correctIndex": 2,
+            "explanation": "It aims to improve city connectivity.",
+            "difficulty": "Medium",
+            "topicId": "gs-current",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-10"
+          },
+          {
+            "question": "Who was appointed as the new Chairman of West Bengal State Pollution Control Board in June 2026?",
+            "options": [
+              "Dr. Saibal Dasgupta",
+              "Dr. Sabyasachi Dasgupta",
+              "Dr. Ajoy Dutta",
+              "Dr. Saptarshi Majumdar"
+            ],
+            "correctIndex": 0,
+            "explanation": "He is a renowned environmental scientist.",
+            "difficulty": "Hard",
+            "topicId": "gs-current",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-10"
+          }
+        ],
+        "questionCount": 5
+      },
+      "gs-wb-schemes": {
+        "topicName": "West Bengal Government Schemes",
+        "subjectName": "General Studies",
+        "questions": [
+          {
+            "question": "Which of the following is the primary objective of the 'Sikshashree' scholarship scheme launched by the Government of West Bengal?",
+            "options": [
+              "To provide financial assistance to students from economically backward classes",
+              "To provide free education to students from all classes",
+              "To provide interest-free loans to students from all classes",
+              "To provide free textbooks to students from all classes"
+            ],
+            "correctIndex": 0,
+            "explanation": "Financial assistance to students from economically backward classes.",
+            "difficulty": "Medium",
+            "topicId": "gs-wb-schemes",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-10"
+          },
+          {
+            "question": "Which of the following is a key component of the 'Sabooj Sathi' scheme launched by the Government of West Bengal?",
+            "options": [
+              "Distribution of bicycles to students",
+              "Distribution of laptops to students",
+              "Distribution of smartphones to students",
+              "Distribution of scholarships to students"
+            ],
+            "correctIndex": 0,
+            "explanation": "Distribution of bicycles to students.",
+            "difficulty": "Medium",
+            "topicId": "gs-wb-schemes",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-10"
+          },
+          {
+            "question": "Which of the following is the main focus of the 'Duare Duare Berojgarir Prokolpo' scheme launched by the Government of West Bengal?",
+            "options": [
+              "Unemployment allowance to youth",
+              "Skill development training to youth",
+              "Education assistance to students",
+              "Healthcare services to all citizens"
+            ],
+            "correctIndex": 1,
+            "explanation": "Skill development training to youth.",
+            "difficulty": "Medium",
+            "topicId": "gs-wb-schemes",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-10"
+          },
+          {
+            "question": "What is the primary goal of the 'Swasthya Sathi' healthcare scheme launched by the Government of West Bengal?",
+            "options": [
+              "To provide free healthcare services to all citizens",
+              "To provide health insurance coverage to all citizens",
+              "To provide financial assistance to patients from economically backward classes",
+              "To provide medical education to doctors"
+            ],
+            "correctIndex": 1,
+            "explanation": "To provide health insurance coverage to all citizens.",
+            "difficulty": "Medium",
+            "topicId": "gs-wb-schemes",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-10"
+          },
+          {
+            "question": "Which of the following is a key feature of the 'Kanyashree Prakalpa' scheme launched by the Government of West Bengal?",
+            "options": [
+              "Monthly stipend to girls from economically backward classes",
+              "Free education to girls from all classes",
+              "Free healthcare services to girls from all classes",
+              "Financial assistance to girls for higher education"
+            ],
+            "correctIndex": 0,
+            "explanation": "Monthly stipend to girls from economically backward classes.",
+            "difficulty": "Medium",
+            "topicId": "gs-wb-schemes",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-10"
+          }
+        ],
+        "questionCount": 5
+      }
+    },
+    "math": {
+      "math-percent": {
+        "topicName": "Percentage & Profit-Loss",
+        "subjectName": "Arithmetic",
+        "questions": [
+          {
+            "question": "A shopkeeper in Kolkata marks his goods at 130% of the cost price and sells them at 85% of the marked price. What is the overall percentage of profit?",
+            "options": [
+              "10%",
+              "15%",
+              "18%",
+              "20%"
+            ],
+            "correctIndex": 2,
+            "explanation": "This is calculated by finding the percentage of the difference between the selling price and the cost price.",
+            "difficulty": "Medium",
+            "topicId": "math-profit-loss",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-10"
+          },
+          {
+            "question": "If the price of a certain brand of tea increases by 25% and the price of a certain brand of coffee increases by 20%, by how much percentage does the cost of tea and coffee together increase?",
+            "options": [
+              "40%",
+              "45%",
+              "42%",
+              "38%"
+            ],
+            "correctIndex": 0,
+            "explanation": "This is a weighted average of the individual price increases.",
+            "difficulty": "Medium",
+            "topicId": "math-percent",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-10"
+          },
+          {
+            "question": "A person invests Rs. 100000 in shares of a company at the rate of 25% annual interest. How much will he get at the end of one year?",
+            "options": [
+              "Rs. 125000",
+              "Rs. 126250",
+              "Rs. 127500",
+              "Rs. 128750"
+            ],
+            "correctIndex": 1,
+            "explanation": "This is calculated by adding the interest to the principal amount.",
+            "difficulty": "Easy",
+            "topicId": "math-interest",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-10"
+          },
+          {
+            "question": "A shopkeeper in Siliguri sells an article at Rs. 420, which was bought at Rs. 300. What is the percentage of profit?",
+            "options": [
+              "40%",
+              "42%",
+              "38%",
+              "36%"
+            ],
+            "correctIndex": 3,
+            "explanation": "This is calculated by finding the percentage of the difference between the selling price and the cost price.",
+            "difficulty": "Medium",
+            "topicId": "math-profit-loss",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-10"
+          },
+          {
+            "question": "A person bought some goods at the rate of Rs. 120 per kg and sold them at the rate of Rs. 150 per kg. What is the percentage of profit?",
+            "options": [
+              "25%",
+              "20%",
+              "30%",
+              "28%"
+            ],
+            "correctIndex": 0,
+            "explanation": "This is calculated by finding the percentage of the difference between the selling price and the cost price.",
+            "difficulty": "Easy",
+            "topicId": "math-profit-loss",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-10"
+          }
+        ],
+        "questionCount": 5
+      },
+      "math-interest": {
+        "topicName": "Simple & Compound Interest",
+        "subjectName": "Arithmetic",
+        "questions": [
+          {
+            "question": "A sum of Rs. 20,000 is invested at a compound interest rate of 8% p.a. for 3 years. What is the total amount accrued at the end of the investment period?",
+            "options": [
+              "Rs. 22,272",
+              "Rs. 24,000",
+              "Rs. 22,400",
+              "Rs. 20,960"
+            ],
+            "correctIndex": 0,
+            "explanation": "Total amount is calculated using the formula A = P (1 + r/100)^n.",
+            "difficulty": "Medium",
+            "topicId": "math-interest",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-10"
+          },
+          {
+            "question": "A person borrows Rs. 10,000 from a bank at a simple interest rate of 10% p.a. for 2 years. How much interest is paid at the end of the loan period?",
+            "options": [
+              "Rs. 2,000",
+              "Rs. 1,200",
+              "Rs. 2,200",
+              "Rs. 1,000"
+            ],
+            "correctIndex": 0,
+            "explanation": "Interest is calculated using the formula I = (P * r * n) / 100.",
+            "difficulty": "Easy",
+            "topicId": "math-interest",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-10"
+          },
+          {
+            "question": "A sum of Rs. 15,000 is deposited into a savings account at a West Bengal Co-operative Bank, which offers a simple interest rate of 9% p.a. for 5 years. What is the total interest earned at the end of the investment period?",
+            "options": [
+              "Rs. 6,375",
+              "Rs. 6,150",
+              "Rs. 6,750",
+              "Rs. 6,225"
+            ],
+            "correctIndex": 2,
+            "explanation": "Interest is calculated using the formula I = (P * r * n) / 100.",
+            "difficulty": "Medium",
+            "topicId": "math-interest",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-10"
+          },
+          {
+            "question": "A person invests Rs. 12,000 in a fixed deposit at a Bank of Baroda for 4 years at a compound interest rate of 12% p.a. What is the total amount accrued at the end of the investment period?",
+            "options": [
+              "Rs. 19,049.92",
+              "Rs. 18,500",
+              "Rs. 18,000",
+              "Rs. 19,200"
+            ],
+            "correctIndex": 0,
+            "explanation": "Total amount is calculated using the formula A = P (1 + r/100)^n.",
+            "difficulty": "Medium",
+            "topicId": "math-interest",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-10"
+          },
+          {
+            "question": "A sum of Rs. 8,000 is invested at a simple interest rate of 6% p.a. for 3 years. What is the amount of interest earned at the end of the investment period?",
+            "options": [
+              "Rs. 1,200",
+              "Rs. 1,500",
+              "Rs. 1,440",
+              "Rs. 1,260"
+            ],
+            "correctIndex": 2,
+            "explanation": "Interest is calculated using the formula I = (P * r * n) / 100.",
+            "difficulty": "Easy",
+            "topicId": "math-interest",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-10"
+          }
+        ],
+        "questionCount": 5
+      },
+      "math-tw": {
+        "topicName": "Time, Work & Pipes",
+        "subjectName": "Arithmetic",
+        "questions": [
+          {
+            "question": "A water pump fills 2/7 of a tank in 24 minutes. How many minutes will it take to fill the entire tank if 3 such pumps are used?",
+            "options": [
+              "24 minutes",
+              "48 minutes",
+              "56 minutes",
+              "72 minutes"
+            ],
+            "correctIndex": 1,
+            "explanation": "The work rate increases with the number of pumps.",
+            "difficulty": "Medium",
+            "topicId": "math-tw",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-10"
+          },
+          {
+            "question": "A worker can complete 1/4 of a piece of work in 4 hours. How many hours will it take for 2 workers to complete the entire work?",
+            "options": [
+              "6 hours",
+              "8 hours",
+              "12 hours",
+              "16 hours"
+            ],
+            "correctIndex": 2,
+            "explanation": "The combined work rate increases with the number of workers.",
+            "difficulty": "Medium",
+            "topicId": "math-tw",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-10"
+          },
+          {
+            "question": "A pipe can fill a tank in 24 hours. If 2 pipes are used, how many hours will it take to fill the tank?",
+            "options": [
+              "12 hours",
+              "14 hours",
+              "18 hours",
+              "24 hours"
+            ],
+            "correctIndex": 0,
+            "explanation": "The work rate increases with the number of pipes.",
+            "difficulty": "Medium",
+            "topicId": "math-tw",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-10"
+          },
+          {
+            "question": "A group of workers can build a wall in 12 days. If 2/3 of the workers are absent, how many days will it take to complete the wall?",
+            "options": [
+              "15 days",
+              "18 days",
+              "21 days",
+              "24 days"
+            ],
+            "correctIndex": 3,
+            "explanation": "The work rate decreases with the number of absent workers.",
+            "difficulty": "Medium",
+            "topicId": "math-tw",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-10"
+          },
+          {
+            "question": "A water pipe fills 1/5 of a tank in 6 hours. If 2 pipes are used, how many hours will it take to fill 3/4 of the tank?",
+            "options": [
+              "4 hours",
+              "6 hours",
+              "9 hours",
+              "12 hours"
+            ],
+            "correctIndex": 1,
+            "explanation": "The combined work rate increases with the number of pipes.",
+            "difficulty": "Medium",
+            "topicId": "math-tw",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-10"
+          }
+        ],
+        "questionCount": 5
+      },
+      "math-tsd": {
+        "topicName": "Time, Speed & Distance",
+        "subjectName": "Arithmetic",
+        "questions": [
+          {
+            "question": "A bus is traveling from Kolkata to Durgapur. If the distance between Kolkata and Durgapur is 180 km and the bus covers a distance of 30 km in the first hour, then what is the ratio of the remaining distance to the total distance?",
+            "options": [
+              "1:3",
+              "2:3",
+              "3:5",
+              "1:1"
+            ],
+            "correctIndex": 0,
+            "explanation": "Remaining distance is 150 km and total distance is 180 km.",
+            "difficulty": "Medium",
+            "topicId": "math-tsd",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-10"
+          },
+          {
+            "question": "A man covers a certain distance in 40 hours by cycle and the same distance in 20 hours by scooter. How much time will he take to cover the same distance on foot at the rate of 5 kmph?",
+            "options": [
+              "24 hours",
+              "30 hours",
+              "40 hours",
+              "48 hours"
+            ],
+            "correctIndex": 3,
+            "explanation": "Man covers 1 kmph on scooter.",
+            "difficulty": "Medium",
+            "topicId": "math-tsd",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-10"
+          },
+          {
+            "question": "A car travels from Kolkata to Siliguri at an average speed of 60 kmph and comes back to Kolkata at an average speed of 40 kmph. What is its average speed for the whole trip?",
+            "options": [
+              "44 kmph",
+              "46 kmph",
+              "48 kmph",
+              "50 kmph"
+            ],
+            "correctIndex": 2,
+            "explanation": "Total distance is twice the distance from Kolkata to Siliguri.",
+            "difficulty": "Medium",
+            "topicId": "math-tsd",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-10"
+          },
+          {
+            "question": "A man covers a distance of 10 km in 5 hours on foot and the same distance in 2 hours by bus. What is the distance covered by the man in 1 hour on foot?",
+            "options": [
+              "2 km",
+              "2.5 km",
+              "3 km",
+              "4 km"
+            ],
+            "correctIndex": 1,
+            "explanation": "Distance covered on foot is half the time taken by bus.",
+            "difficulty": "Medium",
+            "topicId": "math-tsd",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-10"
+          },
+          {
+            "question": "A car travels from Howrah to Bhubaneswar at an average speed of 80 kmph and covers the distance in 4 hours. How much time will it take to cover the same distance at an average speed of 60 kmph?",
+            "options": [
+              "5 hours",
+              "6 hours",
+              "7 hours",
+              "8 hours"
+            ],
+            "correctIndex": 0,
+            "explanation": "Speed is inversely proportional to time.",
+            "difficulty": "Medium",
+            "topicId": "math-tsd",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-10"
+          }
+        ],
+        "questionCount": 5
+      }
+    },
+    "reasoning": {
+      "rs-coding": {
+        "topicName": "Coding-Decoding",
+        "subjectName": "Reasoning",
+        "questions": [
+          {
+            "question": "In a message, the word 'DARJEELING' is coded as 'DARJEEZLG'. Which of the following words will be the coded word for the message 'RABINDRANATH TAGORE'?",
+            "options": [
+              "RABINDRANTGAORE",
+              "RABINTRANHTAGORE",
+              "RABINDRANH TAGORE",
+              "RABINDRANTAGORE"
+            ],
+            "correctIndex": 0,
+            "explanation": "The pattern of coding is to drop the last letter from the original word.",
+            "difficulty": "Medium",
+            "topicId": "rs-coding",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-10"
+          },
+          {
+            "question": "The letters of the word 'KOLKATA' are coded as E, N, A, O, K, T. Which of the following words will be the coded word for the message 'SWARGOTEER'? ",
+            "options": [
+              "SWGTEEROE",
+              "SWGTEEREO",
+              "SWGTEEROE",
+              "SWGTEEREO"
+            ],
+            "correctIndex": 2,
+            "explanation": "The pattern of coding is to code each letter according to its position in the alphabet.",
+            "difficulty": "Medium",
+            "topicId": "rs-coding",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-10"
+          },
+          {
+            "question": "In a coded message, the word 'MIDNAPORE' is coded as 'IDNAREPM'. Which of the following words will be the coded word for the message 'SHYAMBAZAR'?",
+            "options": [
+              "SHYNBAZAR",
+              "SHYAMBAZAR",
+              "SHYAMBAZRA",
+              "SHYAMBAZRD"
+            ],
+            "correctIndex": 1,
+            "explanation": "The pattern of coding is to interchange the first and last letters of the original word.",
+            "difficulty": "Medium",
+            "topicId": "rs-coding",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-10"
+          },
+          {
+            "question": "The letters of the word 'SUKHBIR' are coded as S, U, Y, G, I, R. Which of the following words will be the coded word for the message 'RASHMONI'? ",
+            "options": [
+              "RASHMONI",
+              "RASHMONY",
+              "RAHYMONI",
+              "RAHYMONY"
+            ],
+            "correctIndex": 1,
+            "explanation": "The pattern of coding is to replace each letter with the next letter of the alphabet.",
+            "difficulty": "Medium",
+            "topicId": "rs-coding",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-10"
+          },
+          {
+            "question": "In a coded message, the word 'HOWRAH' is coded as 'HWRHAO'. Which of the following words will be the coded word for the message 'SEALDAH'?",
+            "options": [
+              "SEALDAH",
+              "SEALDAO",
+              "SEALDAH",
+              "SEALDAOH"
+            ],
+            "correctIndex": 2,
+            "explanation": "The pattern of coding is to drop the last letter of the word and add it at the beginning.",
+            "difficulty": "Medium",
+            "topicId": "rs-coding",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-10"
+          }
+        ],
+        "questionCount": 5
+      },
+      "rs-direction": {
+        "topicName": "Direction Sense",
+        "subjectName": "Reasoning",
+        "questions": [
+          {
+            "question": "If Pandal is 5 km north of Howrah Bridge, and a temple is 3 km north of Pandal, in which direction is the temple located from Howrah Bridge?",
+            "options": [
+              "East",
+              "West",
+              "North",
+              "South"
+            ],
+            "correctIndex": 2,
+            "explanation": "Temple is 3 km north of Pandal, and Pandal is 5 km north of Howrah Bridge.",
+            "difficulty": "Easy",
+            "topicId": "rs-direction",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-10"
+          },
+          {
+            "question": "A person is standing at the foot of a hill, looking up. His shadow is 10 meters long and 6 meters is the height of the person. What is the height of the hill?",
+            "options": [
+              "16 meters",
+              "18 meters",
+              "20 meters",
+              "22 meters"
+            ],
+            "correctIndex": 0,
+            "explanation": "As it is a right-angled triangle, we can use Pythagoras theorem.",
+            "difficulty": "Medium",
+            "topicId": "rs-direction",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-10"
+          },
+          {
+            "question": "A man walks 20 km in a certain direction, then turns left and walks 10 km, then turns left again and walks 10 km. How far is he from his initial point?",
+            "options": [
+              "0 km",
+              "5 km",
+              "10 km",
+              "20 km"
+            ],
+            "correctIndex": 0,
+            "explanation": "He walked 20 km in the initial direction, then 10 km in the opposite direction.",
+            "difficulty": "Easy",
+            "topicId": "rs-direction",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-10"
+          },
+          {
+            "question": "A tourist is at the Darjeeling Himalayan Railway station. If she walks 5 km east and then 8 km north, which direction is the station from her current location?",
+            "options": [
+              "North",
+              "South",
+              "East",
+              "West"
+            ],
+            "correctIndex": 3,
+            "explanation": "She is 8 km north and 5 km east of the railway station.",
+            "difficulty": "Medium",
+            "topicId": "rs-direction",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-10"
+          },
+          {
+            "question": "A person is at the bank of a river, and he can see a tree on the other bank which is 100 meters away. If he walks 25 meters to the right, the distance reduces to 75 meters. In which direction is the tree located from his initial position?",
+            "options": [
+              "Right",
+              "Left",
+              "North",
+              "South"
+            ],
+            "correctIndex": 1,
+            "explanation": "As the distance reduces to 75 meters, the tree must be on his left side.",
+            "difficulty": "Hard",
+            "topicId": "rs-direction",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-10"
+          }
+        ],
+        "questionCount": 5
+      },
+      "rs-series": {
+        "topicName": "Number & Letter Series",
+        "subjectName": "Reasoning",
+        "questions": [
+          {
+            "question": "Find the next term in the series: 5, 9, 13, 17, 21, ?",
+            "options": [
+              "24",
+              "25",
+              "26",
+              "27"
+            ],
+            "correctIndex": 2,
+            "explanation": "The series is formed by adding 4 to the previous term.",
+            "difficulty": "Medium",
+            "topicId": "num-series-arith",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-10"
+          },
+          {
+            "question": "Find the missing term in the series: 2, 6, 12, 20, ?, 40",
+            "options": [
+              "28",
+              "30",
+              "32",
+              "34"
+            ],
+            "correctIndex": 1,
+            "explanation": "The series is formed by adding consecutive multiples of 4 to the previous term.",
+            "difficulty": "Medium",
+            "topicId": "num-series-arith",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-10"
+          },
+          {
+            "question": "Find the next term in the series: A, C, E, G, I, ?",
+            "options": [
+              "K",
+              "L",
+              "M",
+              "N"
+            ],
+            "correctIndex": 0,
+            "explanation": "The series is formed by incrementing the first letter of the alphabet by 2.",
+            "difficulty": "Medium",
+            "topicId": "letter-series-alphabets",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-10"
+          },
+          {
+            "question": "Find the missing term in the series: 1, 2, 4, 7, 11, ?, 20",
+            "options": [
+              "16",
+              "17",
+              "18",
+              "19"
+            ],
+            "correctIndex": 2,
+            "explanation": "The series is formed by adding consecutive increments of 1, 2, 3, 4, and so on.",
+            "difficulty": "Medium",
+            "topicId": "num-series-arith",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-10"
+          },
+          {
+            "question": "Find the next term in the series: 1, 2, 4, 8, 16, ?",
+            "options": [
+              "32",
+              "64",
+              "128",
+              "256"
+            ],
+            "correctIndex": 1,
+            "explanation": "The series is formed by doubling the previous term.",
+            "difficulty": "Medium",
+            "topicId": "num-series-arith",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-10"
+          }
+        ],
+        "questionCount": 5
+      }
+    }
+  }
+}
