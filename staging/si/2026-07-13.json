@@ -1,0 +1,756 @@
+{
+  "exam": "si",
+  "generatedDate": "2026-07-13",
+  "generatedAt": "2026-07-13T04:09:16.706Z",
+  "model": "llama-3.1-8b-instant",
+  "provider": "groq",
+  "source": "ai_generated",
+  "reviewStatus": "pending",
+  "totalQuestions": 45,
+  "subjects": {
+    "gs": {
+      "gs-polity": {
+        "topicName": "Indian Constitution & Polity",
+        "subjectName": "General Studies",
+        "questions": [
+          {
+            "question": "Which part of the Indian Constitution deals with the relationship between the union and the states?",
+            "options": [
+              "Part III",
+              "Part IV",
+              "Part IX",
+              "Part XI"
+            ],
+            "correctIndex": 3,
+            "explanation": "Part XI defines the relationship between the union and the states.",
+            "difficulty": "Medium",
+            "topicId": "gs-polity",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-13"
+          },
+          {
+            "question": "Which of the following is a fundamental right as enshrined in the Indian Constitution?",
+            "options": [
+              "Right to Equality",
+              "Right to Freedom",
+              "Right to Life and Liberty",
+              "Right to Property"
+            ],
+            "correctIndex": 2,
+            "explanation": "Article 21 guarantees the Right to Life and Liberty.",
+            "difficulty": "Easy",
+            "topicId": "gs-polity",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-13"
+          },
+          {
+            "question": "What is the name of the highest court in the state of West Bengal?",
+            "options": [
+              "Calcutta High Court",
+              "West Bengal State Court",
+              "Kolkata District Court",
+              "Bengal Judicial Commission"
+            ],
+            "correctIndex": 0,
+            "explanation": "The Calcutta High Court is the highest court in the state of West Bengal.",
+            "difficulty": "Medium",
+            "topicId": "gs-polity",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-13"
+          },
+          {
+            "question": "Which of the following is an essential feature of the Indian Constitution?",
+            "options": [
+              "Centralized government",
+              "Unitary government",
+              "Federalism",
+              "Parliamentary system"
+            ],
+            "correctIndex": 2,
+            "explanation": "Federalism is an essential feature of the Indian Constitution.",
+            "difficulty": "Medium",
+            "topicId": "gs-polity",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-13"
+          },
+          {
+            "question": "Who was the Chairman of the Drafting Committee of the Indian Constitution?",
+            "options": [
+              "Dr. B.R. Ambedkar",
+              "Jawaharlal Nehru",
+              "Sardar Vallabhbhai Patel",
+              "C. Rajagopalachari"
+            ],
+            "correctIndex": 0,
+            "explanation": "Dr. B.R. Ambedkar was the Chairman of the Drafting Committee.",
+            "difficulty": "Easy",
+            "topicId": "gs-polity",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-13"
+          }
+        ],
+        "questionCount": 5
+      },
+      "gs-freedom": {
+        "topicName": "Indian Freedom Struggle & Bengal",
+        "subjectName": "General Studies",
+        "questions": [
+          {
+            "question": "The 1857 Indian Rebellion began in which Bengal region?",
+            "options": [
+              "Bengal Presidency",
+              "Bihar",
+              "Awadh",
+              "Odisha"
+            ],
+            "correctIndex": 0,
+            "explanation": "The rebellion started in Meerut, a city in the Bengal Presidency.",
+            "difficulty": "Medium",
+            "topicId": "gs-freedom",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-13"
+          },
+          {
+            "question": "Who was the president of the Indian National Congress during the Non-Cooperation Movement in Bengal?",
+            "options": [
+              "Subhas Chandra Bose",
+              "Satish Chandra Mukherjee",
+              "Surendranath Banerjee",
+              "Aurobindo Ghosh"
+            ],
+            "correctIndex": 2,
+            "explanation": "Surendranath Banerjee led the Congress during this period.",
+            "difficulty": "Medium",
+            "topicId": "gs-freedom",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-13"
+          },
+          {
+            "question": "In which year was the Bengal Tenancy Act passed?",
+            "options": [
+              "1859",
+              "1900",
+              "1919",
+              "1942"
+            ],
+            "correctIndex": 1,
+            "explanation": "The Act was aimed at reforming the Bengal tenancy system.",
+            "difficulty": "Easy",
+            "topicId": "gs-bengal",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-13"
+          },
+          {
+            "question": "Which of the following movements was closely associated with Bengal during the Indian Freedom Struggle?",
+            "options": [
+              "Khilafat Movement",
+              "Non-Cooperation Movement",
+              "Swadeshi Movement",
+              "All of the above"
+            ],
+            "correctIndex": 3,
+            "explanation": "Bengal played a significant role in all these movements.",
+            "difficulty": "Medium",
+            "topicId": "gs-freedom",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-13"
+          },
+          {
+            "question": "Who was the key figure in the Bengal Provincial Muslim League during the Indian Freedom Struggle?",
+            "options": [
+              "Abul Hashim",
+              "Abdul Halim Ghaznavi",
+              "Maulana Azad",
+              "Maulana Hasrat Mohani"
+            ],
+            "correctIndex": 1,
+            "explanation": "Abdul Halim Ghaznavi was a prominent figure in the Bengal Provincial Muslim League.",
+            "difficulty": "Medium",
+            "topicId": "gs-freedom",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-13"
+          }
+        ],
+        "questionCount": 5
+      },
+      "gs-wb-geo": {
+        "topicName": "West Bengal Geography",
+        "subjectName": "General Studies",
+        "questions": [
+          {
+            "question": "Which river originates from the Eastern Himalayas and flows through the state of West Bengal?",
+            "options": [
+              "Brahmaputra River",
+              "Ganges River",
+              "Mahananda River",
+              "Subarnarekha River"
+            ],
+            "correctIndex": 1,
+            "explanation": "It originates from the Gangotri glacier in the Himalayas.",
+            "difficulty": "Medium",
+            "topicId": "gs-wb-geo",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-13"
+          },
+          {
+            "question": "Which of the following islands is part of the Sundarbans Delta in West Bengal?",
+            "options": [
+              "Ghoramara Island",
+              "Sagar Island",
+              "Mousuni Island",
+              "Hemnagar Island"
+            ],
+            "correctIndex": 1,
+            "explanation": "It is the largest island in the Sundarbans Delta.",
+            "difficulty": "Easy",
+            "topicId": "gs-wb-geo",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-13"
+          },
+          {
+            "question": "Which mountain range runs through the northern part of West Bengal?",
+            "options": [
+              "Eastern Himalayas",
+              "Eastern Ghats",
+              "Sikkim Himalayas",
+              "Patkai Bhum"
+            ],
+            "correctIndex": 0,
+            "explanation": "It includes the Darjeeling Himalayan hill region.",
+            "difficulty": "Medium",
+            "topicId": "gs-wb-geo",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-13"
+          },
+          {
+            "question": "Which of the following rivers forms the border between the states of West Bengal and Odisha?",
+            "options": [
+              "Subarnarekha River",
+              "Mahananda River",
+              "Baitarani River",
+              "Kangsabati River"
+            ],
+            "correctIndex": 0,
+            "explanation": "It is a major tributary of the Mahanadi River.",
+            "difficulty": "Medium",
+            "topicId": "gs-wb-geo",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-13"
+          },
+          {
+            "question": "Which of the following districts in West Bengal is known as the 'Land of Paddy and Jute'?",
+            "options": [
+              "Howrah District",
+              "South 24 Parganas District",
+              "Murshidabad District",
+              "Maldaha District"
+            ],
+            "correctIndex": 2,
+            "explanation": "It is one of the most fertile districts in West Bengal.",
+            "difficulty": "Easy",
+            "topicId": "gs-wb-geo",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-13"
+          }
+        ],
+        "questionCount": 5
+      },
+      "gs-current": {
+        "topicName": "Current Affairs (Last 12 Months)",
+        "subjectName": "General Studies",
+        "questions": [
+          {
+            "question": "West Bengal's Chief Minister Shubhendu Adhikari launched a new initiative to improve digital literacy among rural women in the state. What is the name of this initiative?",
+            "options": [
+              "Swavalamban",
+              "Arogya Setu",
+              "Disha",
+              "Saksham"
+            ],
+            "correctIndex": 2,
+            "explanation": "The initiative aims to empower rural women through digital education.",
+            "difficulty": "Medium",
+            "topicId": "gs-current",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-13"
+          },
+          {
+            "question": "Which of the following ports in West Bengal has been upgraded to handle increased cargo traffic?",
+            "options": [
+              "Haldia Port",
+              "Kolkata Port",
+              "Nayachar Port",
+              "Uluberia Port"
+            ],
+            "correctIndex": 0,
+            "explanation": "The upgrade aims to enhance cargo handling capacity and reduce congestion.",
+            "difficulty": "Medium",
+            "topicId": "gs-current",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-13"
+          },
+          {
+            "question": "The West Bengal government has launched a new scheme to provide financial assistance to farmers affected by natural disasters. What is the name of this scheme?",
+            "options": [
+              "Krishi Samriddhi Yojana",
+              "Bhoomi Bhavan Yojana",
+              "Aaykar Sankalp",
+              "Madhumita Yojana"
+            ],
+            "correctIndex": 0,
+            "explanation": "The scheme aims to provide financial support to farmers during times of crisis.",
+            "difficulty": "Medium",
+            "topicId": "gs-current",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-13"
+          },
+          {
+            "question": "The West Bengal government has decided to rename the 'Howrah Bridge' in Kolkata. What will be the new name of the bridge?",
+            "options": [
+              "Rash Behari Bridge",
+              "Swami Vivekananda Bridge",
+              "Netaji Setu",
+              "Netaji Bridge"
+            ],
+            "correctIndex": 2,
+            "explanation": "The bridge will be renamed after a prominent historical figure.",
+            "difficulty": "Medium",
+            "topicId": "gs-current",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-13"
+          },
+          {
+            "question": "The West Bengal government has launched a new mobile app to help citizens report public grievances. What is the name of this app?",
+            "options": [
+              "Punarjani",
+              "BengalConnect",
+              "Grihapal",
+              "Jalshakti"
+            ],
+            "correctIndex": 1,
+            "explanation": "The app aims to enhance citizen engagement and grievance redressal.",
+            "difficulty": "Medium",
+            "topicId": "gs-current",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-13"
+          }
+        ],
+        "questionCount": 5
+      }
+    },
+    "math": {
+      "math-interest": {
+        "topicName": "Simple & Compound Interest",
+        "subjectName": "Arithmetic",
+        "questions": [
+          {
+            "question": "The simple interest on a certain sum of money is Rs. 120 for 4 years at 12% p.a. What will be the compound interest for the same sum for 2 years at the same rate?",
+            "options": [
+              "Rs. 173.76",
+              "Rs. 153.76",
+              "Rs. 193.76",
+              "Rs. 213.76"
+            ],
+            "correctIndex": 1,
+            "explanation": "Using the formula for compound interest.",
+            "difficulty": "Medium",
+            "topicId": "math-interest",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-13"
+          },
+          {
+            "question": "A sum of money is invested for 2 years at an annual rate of 5% compounded half-yearly. What is the amount after 2 years if the principal amount is Rs. 10,000?",
+            "options": [
+              "Rs. 10510.25",
+              "Rs. 10520.25",
+              "Rs. 10530.25",
+              "Rs. 10500.25"
+            ],
+            "correctIndex": 0,
+            "explanation": "Using the formula for compound interest with half-yearly compounding.",
+            "difficulty": "Medium",
+            "topicId": "math-interest",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-13"
+          },
+          {
+            "question": "The compound interest on Rs. 12,000 for 3 years at 10% p.a. is Rs. 1237.80. What is the simple interest for the same sum for 3 years at the same rate?",
+            "options": [
+              "Rs. 3600",
+              "Rs. 3700",
+              "Rs. 3800",
+              "Rs. 3900"
+            ],
+            "correctIndex": 2,
+            "explanation": "Using the formula for simple interest.",
+            "difficulty": "Medium",
+            "topicId": "math-interest",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-13"
+          },
+          {
+            "question": "If the simple interest on Rs. 800 for 2 years at 6% p.a. is Rs. 96, what is the amount after 3 years?",
+            "options": [
+              "Rs. 912",
+              "Rs. 922",
+              "Rs. 932",
+              "Rs. 942"
+            ],
+            "correctIndex": 0,
+            "explanation": "Adding the principal amount and the simple interest.",
+            "difficulty": "Medium",
+            "topicId": "math-interest",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-13"
+          },
+          {
+            "question": "The compound interest on Rs. 5000 for 1 year at 12% p.a. is Rs. 60. What is the rate of interest?",
+            "options": [
+              "10%",
+              "12%",
+              "15%",
+              "18%"
+            ],
+            "correctIndex": 1,
+            "explanation": "Using the formula for compound interest.",
+            "difficulty": "Medium",
+            "topicId": "math-interest",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-13"
+          }
+        ],
+        "questionCount": 5
+      },
+      "math-tw": {
+        "topicName": "Time, Work & Pipes",
+        "subjectName": "Arithmetic",
+        "questions": [
+          {
+            "question": "A worker takes 8 hours to complete a job working alone, while his friend takes 12 hours to complete the same job working alone. They work together for 4 hours. What fraction of the total work done will they do in their remaining time?",
+            "options": [
+              "1/4",
+              "1/6",
+              "1/8",
+              "1/12"
+            ],
+            "correctIndex": 2,
+            "explanation": "They complete 1/2 of the work in 4 hours.",
+            "difficulty": "Medium",
+            "topicId": "math-tw",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-13"
+          },
+          {
+            "question": "A water tank can be filled by a pipe in 6 hours. Due to a leak, the tank can now be filled in 12 hours. If the leak can drain 1/4 of the tank in 1 hour, how long will it take to fill the tank with the same pipe but without the leak?",
+            "options": [
+              "4.8 hours",
+              "5.2 hours",
+              "6 hours",
+              "6.4 hours"
+            ],
+            "correctIndex": 0,
+            "explanation": "The pipe fills the tank in 4.8 hours.",
+            "difficulty": "Medium",
+            "topicId": "math-pipes",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-13"
+          },
+          {
+            "question": "3 men and 8 women can complete a job in 4 days, while 6 men and 2 women can complete the same job in 2 days. How many days will 5 men and 11 women take to complete the same job?",
+            "options": [
+              "2 days",
+              "3.2 days",
+              "5 days",
+              "6.4 days"
+            ],
+            "correctIndex": 1,
+            "explanation": "The daily work rate of 1 man and 1 woman is 1/12 of the total work.",
+            "difficulty": "Hard",
+            "topicId": "math-tw",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-13"
+          },
+          {
+            "question": "A cistern can be filled by a pipe in 8 hours. A leak in the cistern can drain 1/2 of the cistern in 10 hours. How long will it take to fill the cistern with the same pipe but without the leak?",
+            "options": [
+              "6.4 hours",
+              "7.5 hours",
+              "8 hours",
+              "9.6 hours"
+            ],
+            "correctIndex": 2,
+            "explanation": "The pipe fills 1/2 of the cistern in 5 hours.",
+            "difficulty": "Medium",
+            "topicId": "math-pipes",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-13"
+          },
+          {
+            "question": "A pipe can fill 1/4 of a tank in 2 hours. How long will it take to fill the entire tank with 2 pipes of the same capacity?",
+            "options": [
+              "2 hours",
+              "4 hours",
+              "4.8 hours",
+              "6 hours"
+            ],
+            "correctIndex": 2,
+            "explanation": "The two pipes fill 1/2 of the tank in 2 hours.",
+            "difficulty": "Easy",
+            "topicId": "math-pipes",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-13"
+          }
+        ],
+        "questionCount": 5
+      }
+    },
+    "reasoning": {
+      "rs-coding": {
+        "topicName": "Coding-Decoding",
+        "subjectName": "Reasoning",
+        "questions": [
+          {
+            "question": "In a sequence where the first term is 'KOLKATA' and each subsequent term is obtained by taking the first letter of the previous term, what is the second term of the sequence?",
+            "options": [
+              "Kolkata",
+              "KOL",
+              "K",
+              "KOLC"
+            ],
+            "correctIndex": 1,
+            "explanation": "Sequence is based on taking the first letter of each term.",
+            "difficulty": "Medium",
+            "topicId": "rs-coding",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-13"
+          },
+          {
+            "question": "In a given encoded message 'SDU 3 12', where numbers represent the positions of letters in the English alphabet, what is the original message?",
+            "options": [
+              "YOU 3 12",
+              "YOU 12 3",
+              "YOU 3 12 1",
+              "YOU 1 12 3"
+            ],
+            "correctIndex": 0,
+            "explanation": "Numbers represent positions of letters in the English alphabet.",
+            "difficulty": "Medium",
+            "topicId": "rs-coding",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-13"
+          },
+          {
+            "question": "A man cycles from 'SILIGURI' to 'DARJEELING' at a speed of 12 km/h, and he covers the distance of 30 km. How many hours will he take to cover the remaining distance of 30 km at a speed of 15 km/h?",
+            "options": [
+              "2 hours",
+              "1.5 hours",
+              "2.5 hours",
+              "3 hours"
+            ],
+            "correctIndex": 1,
+            "explanation": "Time taken is inversely proportional to speed.",
+            "difficulty": "Medium",
+            "topicId": "rs-coding",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-13"
+          },
+          {
+            "question": "In a sequence where the first term is 'CALCUTTA' and each subsequent term is obtained by reversing the order of the letters, what is the second term of the sequence?",
+            "options": [
+              "ACULTLAC",
+              "ACULTLAC 123",
+              "CALCUTTA was",
+              "CUTTACAL"
+            ],
+            "correctIndex": 2,
+            "explanation": "Sequence is based on reversing the order of letters.",
+            "difficulty": "Medium",
+            "topicId": "rs-coding",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-13"
+          },
+          {
+            "question": "In a given encoded message 'WKLVLV 15 5', where numbers represent the positions of letters in the Bengali alphabet, what is the original message?",
+            "options": [
+              "বাংলা 15 5",
+              "বাংলা 5 15",
+              "বাংলা 15 5 1",
+              "বাংলা 1 15 5"
+            ],
+            "correctIndex": 0,
+            "explanation": "Numbers represent positions of letters in the Bengali alphabet.",
+            "difficulty": "Medium",
+            "topicId": "rs-coding",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-13"
+          }
+        ],
+        "questionCount": 5
+      },
+      "rs-direction": {
+        "topicName": "Direction Sense",
+        "subjectName": "Reasoning",
+        "questions": [
+          {
+            "question": "If you are facing north and walk 100 meters, then turn left and walk another 100 meters, which direction are you facing?",
+            "options": [
+              "West",
+              "East",
+              "North",
+              "South"
+            ],
+            "correctIndex": 1,
+            "explanation": "You turned left which is equivalent to turning 90 degrees counterclockwise, making you face east.",
+            "difficulty": "Medium",
+            "topicId": "rs-direction",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-13"
+          },
+          {
+            "question": "A man is standing at the bank of a river, which is 1 km wide. He can swim at a speed of 2 km/h in still water. The river is flowing at a speed of 1 km/h. How much time will it take for him to cross the river, if he swims 500 meters from the point directly opposite to the point where he is standing?",
+            "options": [
+              "1 hour",
+              "1.5 hours",
+              "2 hours",
+              "2.5 hours"
+            ],
+            "correctIndex": 0,
+            "explanation": "He swims 500 meters and then the river takes him 500 meters to the other side, making the total distance 1 km.",
+            "difficulty": "Medium",
+            "topicId": "rs-direction",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-13"
+          },
+          {
+            "question": "Kolkata is the capital of West Bengal. If a person is going from Kolkata to Siliguri, which direction is he generally heading?",
+            "options": [
+              "North",
+              "South",
+              "East",
+              "West"
+            ],
+            "correctIndex": 1,
+            "explanation": "Siliguri is generally located in the north direction from Kolkata.",
+            "difficulty": "Easy",
+            "topicId": "rs-direction",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-13"
+          },
+          {
+            "question": "A man is standing at a point A, which is 2 km away from a point B. He moves 1.5 km towards B, then he moves 1 km towards north. Then he moves 500 meters towards the east. After that, he moves 500 meters to the north. Finally, he moves 200 meters to the west. Which direction is he facing?",
+            "options": [
+              "North",
+              "North-East",
+              "East",
+              "South-West"
+            ],
+            "correctIndex": 0,
+            "explanation": "He moved 500 meters to the north and 200 meters to the west, making him face north.",
+            "difficulty": "Hard",
+            "topicId": "rs-direction",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-13"
+          },
+          {
+            "question": "You are in Howrah, which is on the opposite bank of the Hooghly River from Kolkata. If you walk east from Howrah, which city will you reach?",
+            "options": [
+              "Kolkata",
+              "Srirampore",
+              "Baidyabati",
+              "Uluberia"
+            ],
+            "correctIndex": 0,
+            "explanation": "Walking east from Howrah will take you to Kolkata.",
+            "difficulty": "Easy",
+            "topicId": "rs-direction",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-13"
+          }
+        ],
+        "questionCount": 5
+      },
+      "rs-series": {
+        "topicName": "Number & Letter Series",
+        "subjectName": "Reasoning",
+        "questions": [
+          {
+            "question": "Find the next number in the series: 3, 6, 9, 12, 15, ?",
+            "options": [
+              "18",
+              "20",
+              "22",
+              "25"
+            ],
+            "correctIndex": 0,
+            "explanation": "The pattern is adding 3 to each number.",
+            "difficulty": "Medium",
+            "topicId": "rs-series",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-13"
+          },
+          {
+            "question": "Arrange the following letters in order: A, C, E, G, ?, ?",
+            "options": [
+              "F",
+              "H",
+              "I",
+              "K"
+            ],
+            "correctIndex": 1,
+            "explanation": "The pattern is incrementing by 2 in the alphabet.",
+            "difficulty": "Medium",
+            "topicId": "rs-series",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-13"
+          },
+          {
+            "question": "Identify the next number in the series: 2, 6, 12, 20, 30, ?",
+            "options": [
+              "42",
+              "44",
+              "46",
+              "48"
+            ],
+            "correctIndex": 1,
+            "explanation": "The pattern is obtained by adding 4, 6, 8, 10, ...",
+            "difficulty": "Medium",
+            "topicId": "rs-series",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-13"
+          },
+          {
+            "question": "Find the missing number in the series: 1, 2, 4, 7, 11, 16, ?",
+            "options": [
+              "22",
+              "23",
+              "24",
+              "25"
+            ],
+            "correctIndex": 1,
+            "explanation": "The pattern is obtained by adding 1, 2, 3, 4, ...",
+            "difficulty": "Medium",
+            "topicId": "rs-series",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-13"
+          },
+          {
+            "question": "Identify the next number in the series: 1, 8, 27, 64, 125, ?",
+            "options": [
+              "216",
+              "216",
+              "219",
+              "250"
+            ],
+            "correctIndex": 0,
+            "explanation": "The pattern is obtained by cubing consecutive integers.",
+            "difficulty": "Medium",
+            "topicId": "rs-series",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-13"
+          }
+        ],
+        "questionCount": 5
+      }
+    }
+  }
+}
