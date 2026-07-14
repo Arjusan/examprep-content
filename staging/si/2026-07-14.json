@@ -1,0 +1,920 @@
+{
+  "exam": "si",
+  "generatedDate": "2026-07-14",
+  "generatedAt": "2026-07-14T03:44:34.265Z",
+  "model": "llama-3.1-8b-instant",
+  "provider": "groq",
+  "source": "ai_generated",
+  "reviewStatus": "pending",
+  "totalQuestions": 55,
+  "subjects": {
+    "gs": {
+      "gs-polity": {
+        "topicName": "Indian Constitution & Polity",
+        "subjectName": "General Studies",
+        "questions": [
+          {
+            "question": "The Panchayat system is based on the principles of which of the following Acts?",
+            "options": [
+              "The West Bengal Panchayat Act, 1973",
+              "The Panchayat (Extension to Scheduled Areas) Act, 1996",
+              "The Constitution (73rd Amendment) Act, 1992",
+              "The West Bengal Land Reforms Act, 1967"
+            ],
+            "correctIndex": 0,
+            "explanation": "The Panchayat system is based on the principles of the West Bengal Panchayat Act, 1973.",
+            "difficulty": "Easy",
+            "topicId": "gs-polity",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-14"
+          },
+          {
+            "question": "Article 355 of the Indian Constitution deals with the responsibility of the",
+            "options": [
+              "President of India towards the State Governments",
+              "State Governments towards the Centre",
+              "Centre towards the State Governments",
+              "State Governments towards the Local Bodies"
+            ],
+            "correctIndex": 2,
+            "explanation": "Article 355 of the Indian Constitution deals with the responsibility of the Centre towards the State Governments.",
+            "difficulty": "Medium",
+            "topicId": "gs-polity",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-14"
+          },
+          {
+            "question": "The first State to implement the Sixth Schedule of the Indian Constitution was",
+            "options": [
+              "Tripura",
+              "Mizoram",
+              "Meghalaya",
+              "Nagaland"
+            ],
+            "correctIndex": 0,
+            "explanation": "The first State to implement the Sixth Schedule of the Indian Constitution was Tripura.",
+            "difficulty": "Medium",
+            "topicId": "gs-polity",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-14"
+          },
+          {
+            "question": "The concept of Fundamental Duties of citizens is incorporated in the",
+            "options": [
+              "42nd Amendment Act, 1976",
+              "42nd Amendment Act, 1978",
+              "86th Amendment Act, 2002",
+              "100th Amendment Act, 2015"
+            ],
+            "correctIndex": 3,
+            "explanation": "The concept of Fundamental Duties of citizens is incorporated in the 42nd Amendment Act, 1976.",
+            "difficulty": "Easy",
+            "topicId": "gs-polity",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-14"
+          },
+          {
+            "question": "The West Bengal Panchayat Elections (Amendment) Act, 2021 provides for the reservation of 50% seats in the Panchayats for women",
+            "options": [
+              "in all three tiers of Panchayats",
+              "in two lower tiers of Panchayats",
+              "only in the district level Panchayats",
+              "only in the gram panchayat level"
+            ],
+            "correctIndex": 0,
+            "explanation": "The West Bengal Panchayat Elections (Amendment) Act, 2021 provides for the reservation of 50% seats in the Panchayats for women in all three tiers of Panchayats.",
+            "difficulty": "Medium",
+            "topicId": "gs-polity",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-14"
+          }
+        ],
+        "questionCount": 5
+      },
+      "gs-wb-geo": {
+        "topicName": "West Bengal Geography",
+        "subjectName": "General Studies",
+        "questions": [
+          {
+            "question": "Which of the following rivers forms the border between the Indian states of West Bengal and Bihar?",
+            "options": [
+              "Ganga River",
+              "Hooghly River",
+              "Brahmaputra River",
+              "Damodar River"
+            ],
+            "correctIndex": 0,
+            "explanation": "The Ganga River forms the border.",
+            "difficulty": "Easy",
+            "topicId": "gs-wb-geo",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-14"
+          },
+          {
+            "question": "What is the name of the largest island in the Sundarbans delta in West Bengal?",
+            "options": [
+              "Ghoramara Island",
+              "Lohachara Island",
+              "Sagardwip Island",
+              "Narikeljunga Island"
+            ],
+            "correctIndex": 2,
+            "explanation": "Sagardwip Island is the largest island.",
+            "difficulty": "Medium",
+            "topicId": "gs-wb-geo",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-14"
+          },
+          {
+            "question": "Which of the following mountain ranges is located in the northern part of West Bengal?",
+            "options": [
+              "The Himalayas",
+              "The Shivalik Hills",
+              "The Eastern Ghats",
+              "The Chhota Nagpur Plateau"
+            ],
+            "correctIndex": 0,
+            "explanation": "The Himalayas are located in the northern part.",
+            "difficulty": "Medium",
+            "topicId": "gs-wb-geo",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-14"
+          },
+          {
+            "question": "What is the name of the largest lake in West Bengal?",
+            "options": [
+              "Sundarbans Lake",
+              "Murshidabad Lake",
+              "Lake Purbasthali",
+              "Kalash River Lake"
+            ],
+            "correctIndex": 3,
+            "explanation": "The Kalash River Lake is the largest lake.",
+            "difficulty": "Hard",
+            "topicId": "gs-wb-geo",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-14"
+          },
+          {
+            "question": "Which of the following districts in West Bengal is known as the 'Land of Mangrove Forest'?",
+            "options": [
+              "South 24 Parganas",
+              "North 24 Parganas",
+              "Howrah",
+              "Hooghly"
+            ],
+            "correctIndex": 0,
+            "explanation": "South 24 Parganas is known as the 'Land of Mangrove Forest'.",
+            "difficulty": "Easy",
+            "topicId": "gs-wb-geo",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-14"
+          }
+        ],
+        "questionCount": 5
+      },
+      "gs-current": {
+        "topicName": "Current Affairs (Last 12 Months)",
+        "subjectName": "General Studies",
+        "questions": [
+          {
+            "question": "The Mamata Banerjee government in West Bengal launched a new scheme to provide financial assistance to women entrepreneurs in the state. Which scheme was launched?",
+            "options": [
+              "Navajeevan Scheme",
+              "Udayan Scheme",
+              "Jai Bangla Scheme",
+              "Bangla Nayika Scheme"
+            ],
+            "correctIndex": 1,
+            "explanation": "The Udayan Scheme was launched to provide financial assistance to women entrepreneurs.",
+            "difficulty": "Medium",
+            "topicId": "gs-current",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-14"
+          },
+          {
+            "question": "Which river in West Bengal has been affected by the recent floods in the state?",
+            "options": [
+              "Ganges",
+              "Hooghly",
+              "Brahmaputra",
+              "Damodar"
+            ],
+            "correctIndex": 0,
+            "explanation": "The Ganges river has been affected by the recent floods in West Bengal.",
+            "difficulty": "Medium",
+            "topicId": "gs-current",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-14"
+          },
+          {
+            "question": "The West Bengal government has announced a new policy to promote renewable energy in the state. What is the name of this policy?",
+            "options": [
+              "Bangla Green Policy",
+              "West Bengal Renewable Energy Policy",
+              "Sustainable Bengal Policy",
+              "Green Bengal Initiative"
+            ],
+            "correctIndex": 1,
+            "explanation": "The West Bengal Renewable Energy Policy was announced to promote renewable energy in the state.",
+            "difficulty": "Medium",
+            "topicId": "gs-current",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-14"
+          },
+          {
+            "question": "Which of the following festivals was celebrated with great enthusiasm in West Bengal in April 2026?",
+            "options": [
+              "Durga Puja",
+              "Rath Yatra",
+              "Saraswati Puja",
+              "Baisakhi"
+            ],
+            "correctIndex": 2,
+            "explanation": "Saraswati Puja was celebrated with great enthusiasm in West Bengal in April 2026.",
+            "difficulty": "Easy",
+            "topicId": "gs-current",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-14"
+          },
+          {
+            "question": "The West Bengal government has launched a new initiative to promote digital literacy in the state. What is the name of this initiative?",
+            "options": [
+              "Digital Bengal Initiative",
+              "Bangla Digital Scheme",
+              "West Bengal E-Learning Program",
+              "Sachet Scheme"
+            ],
+            "correctIndex": 0,
+            "explanation": "The Digital Bengal Initiative was launched to promote digital literacy in West Bengal.",
+            "difficulty": "Medium",
+            "topicId": "gs-current",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-14"
+          }
+        ],
+        "questionCount": 5
+      },
+      "gs-wb-schemes": {
+        "topicName": "West Bengal Government Schemes",
+        "subjectName": "General Studies",
+        "questions": [
+          {
+            "question": "Which of the following schemes of the West Bengal government aims to provide financial assistance to women who have been victims of acid attacks?",
+            "options": [
+              "Pathar Ghora",
+              "Swasthya Sathi",
+              "Nirbhaya Kanya Saathi Yojana",
+              "Sabooj Sangha"
+            ],
+            "correctIndex": 2,
+            "explanation": "It provides financial assistance to women who have been victims of acid attacks.",
+            "difficulty": "Medium",
+            "topicId": "gs-wb-schemes",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-14"
+          },
+          {
+            "question": "What is the name of the West Bengal government's scheme for providing health insurance to the people of the state?",
+            "options": [
+              "Swasthya Sathi",
+              "Biju Swasthya Kalyan Yojana",
+              "Ayushman Bharat",
+              "Ayushman West Bengal"
+            ],
+            "correctIndex": 0,
+            "explanation": "It provides health insurance to the people of the state.",
+            "difficulty": "Medium",
+            "topicId": "gs-wb-schemes",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-14"
+          },
+          {
+            "question": "The West Bengal government's 'Sabooj Sangha' scheme aims to provide assistance to which of the following groups?",
+            "options": [
+              "Scheduled Castes",
+              "Scheduled Tribes",
+              "Backward Classes",
+              "Minority Communities"
+            ],
+            "correctIndex": 3,
+            "explanation": "It aims to provide assistance to minority communities.",
+            "difficulty": "Medium",
+            "topicId": "gs-wb-schemes",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-14"
+          },
+          {
+            "question": "Which of the following is a key component of the West Bengal government's 'Palli Sakshya Abhijan' scheme?",
+            "options": [
+              "Literacy programs for women",
+              "Literacy programs for children",
+              "Skill development programs for youth",
+              "Vocational training for women"
+            ],
+            "correctIndex": 1,
+            "explanation": "It focuses on literacy programs for children.",
+            "difficulty": "Medium",
+            "topicId": "gs-wb-schemes",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-14"
+          },
+          {
+            "question": "The West Bengal government's 'Pathar Ghora' scheme aims to provide assistance to which of the following groups?",
+            "options": [
+              "Women and children",
+              "Youth and entrepreneurs",
+              "Farmers and agricultural laborers",
+              "Artisans and craftsmen"
+            ],
+            "correctIndex": 0,
+            "explanation": "It aims to provide assistance to women and children.",
+            "difficulty": "Medium",
+            "topicId": "gs-wb-schemes",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-14"
+          }
+        ],
+        "questionCount": 5
+      }
+    },
+    "math": {
+      "math-percent": {
+        "topicName": "Percentage & Profit-Loss",
+        "subjectName": "Arithmetic",
+        "questions": [
+          {
+            "question": "A fruit vendor in West Bengal sells apples at a profit of 10%. If the selling price of an apple is Rs. 18, what was the cost price of the apple?",
+            "options": [
+              "Rs. 14",
+              "Rs. 16",
+              "Rs. 18",
+              "Rs. 22"
+            ],
+            "correctIndex": 2,
+            "explanation": "Cost price is the original price of an item before the profit is added.",
+            "difficulty": "Medium",
+            "topicId": "math-percent",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-14"
+          },
+          {
+            "question": "A shopkeeper in Kolkata buys a TV at a discount of 12% from the market price of Rs. 25000. What amount did the shopkeeper pay for the TV?",
+            "options": [
+              "Rs. 21750",
+              "Rs. 22000",
+              "Rs. 22500",
+              "Rs. 23000"
+            ],
+            "correctIndex": 1,
+            "explanation": "Buying price is the price after the discount has been subtracted from the original price.",
+            "difficulty": "Medium",
+            "topicId": "math-percent",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-14"
+          },
+          {
+            "question": "A company in West Bengal sells 1000 units of a product at a profit of 20%. If the total revenue generated is Rs. 80000, what is the cost price of each unit?",
+            "options": [
+              "Rs. 60",
+              "Rs. 70",
+              "Rs. 80",
+              "Rs. 90"
+            ],
+            "correctIndex": 2,
+            "explanation": "Cost price is the original price of an item before the profit is added.",
+            "difficulty": "Hard",
+            "topicId": "math-percent",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-14"
+          },
+          {
+            "question": "A person in West Bengal invests Rs. 8000 in a business. If the annual profit is 15%, what is the total amount of profit earned in a year?",
+            "options": [
+              "Rs. 1000",
+              "Rs. 1200",
+              "Rs. 1400",
+              "Rs. 1600"
+            ],
+            "correctIndex": 2,
+            "explanation": "Profit is the return on an investment.",
+            "difficulty": "Easy",
+            "topicId": "math-percent",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-14"
+          },
+          {
+            "question": "A local vendor in West Bengal sells a product at a loss of 5%. If the selling price is Rs. 105, what is the cost price of the product?",
+            "options": [
+              "Rs. 100",
+              "Rs. 105",
+              "Rs. 110",
+              "Rs. 115"
+            ],
+            "correctIndex": 0,
+            "explanation": "Cost price is the original price of an item before the loss is subtracted.",
+            "difficulty": "Medium",
+            "topicId": "math-percent",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-14"
+          }
+        ],
+        "questionCount": 5
+      },
+      "math-interest": {
+        "topicName": "Simple & Compound Interest",
+        "subjectName": "Arithmetic",
+        "questions": [
+          {
+            "question": "A person deposits ₹ 5000 in a bank account, which earns compound interest at the rate of 8% per annum compounded annually. What will be the amount at the end of 2 years?",
+            "options": [
+              "₹ 8800",
+              "₹ 9000",
+              "₹ 9100",
+              "₹ 9200"
+            ],
+            "correctIndex": 0,
+            "explanation": "Amount can be calculated using the compound interest formula A = P(1 + r)^n.",
+            "difficulty": "Medium",
+            "topicId": "math-interest",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-14"
+          },
+          {
+            "question": "A bank offers a simple interest of 4% per annum on a deposit. What is the total interest earned by a deposit of ₹ 6000 for 3 years?",
+            "options": [
+              "₹ 720",
+              "₹ 730",
+              "₹ 740",
+              "₹ 750"
+            ],
+            "correctIndex": 2,
+            "explanation": "Interest can be calculated using the simple interest formula I = (P * r * t) / 100.",
+            "difficulty": "Easy",
+            "topicId": "math-interest",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-14"
+          },
+          {
+            "question": "If the compound interest for 2 years on a certain sum of money at 10% per annum is ₹ 550, what will be the simple interest earned on the same sum at 5% per annum for 5 years?",
+            "options": [
+              "₹ 2625",
+              "₹ 2750",
+              "₹ 2875",
+              "₹ 3000"
+            ],
+            "correctIndex": 2,
+            "explanation": "Simple interest can be calculated using the simple interest formula I = (P * r * t) / 100.",
+            "difficulty": "Hard",
+            "topicId": "math-interest",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-14"
+          },
+          {
+            "question": "What is the difference in the compound interest and simple interest earned on a deposit of ₹ 8000 at 6% per annum for 2 years?",
+            "options": [
+              "₹ 120",
+              "₹ 150",
+              "₹ 180",
+              "₹ 200"
+            ],
+            "correctIndex": 1,
+            "explanation": "Compound interest is calculated using the compound interest formula A = P(1 + r)^n.",
+            "difficulty": "Medium",
+            "topicId": "math-interest",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-14"
+          },
+          {
+            "question": "A sum of money at compound interest at the rate of 12% per annum for 3 years amounts to ₹ 12000. What is the sum?",
+            "options": [
+              "₹ 8000",
+              "₹ 9000",
+              "₹ 10000",
+              "₹ 11000"
+            ],
+            "correctIndex": 3,
+            "explanation": "Amount can be calculated using the compound interest formula A = P(1 + r)^n.",
+            "difficulty": "Hard",
+            "topicId": "math-interest",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-14"
+          }
+        ],
+        "questionCount": 5
+      },
+      "math-tsd": {
+        "topicName": "Time, Speed & Distance",
+        "subjectName": "Arithmetic",
+        "questions": [
+          {
+            "question": "A bus travelling from Kolkata to Durgapur covers a distance of 180 km in 6 hours. What is the speed of the bus?",
+            "options": [
+              "60 kmph",
+              "80 kmph",
+              "90 kmph",
+              "100 kmph"
+            ],
+            "correctIndex": 2,
+            "explanation": "Speed is distance divided by time.",
+            "difficulty": "Medium",
+            "topicId": "math-tsd",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-14"
+          },
+          {
+            "question": "A train from Sealdah to Howrah travels at an average speed of 40 kmph. How much time will it take to cover a distance of 120 km?",
+            "options": [
+              "2 hours",
+              "3 hours",
+              "4 hours",
+              "5 hours"
+            ],
+            "correctIndex": 1,
+            "explanation": "Time is distance divided by speed.",
+            "difficulty": "Medium",
+            "topicId": "math-tsd",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-14"
+          },
+          {
+            "question": "A car travels from Esplanade to Gariahat at an average speed of 25 kmph. If it covers a certain distance in 4 hours, how much distance will it cover in 8 hours?",
+            "options": [
+              "100 km",
+              "120 km",
+              "150 km",
+              "180 km"
+            ],
+            "correctIndex": 3,
+            "explanation": "Distance is speed multiplied by time.",
+            "difficulty": "Medium",
+            "topicId": "math-tsd",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-14"
+          },
+          {
+            "question": "A bus from Howrah to Budge Budge takes 3 hours to cover a certain distance. If the average speed of the bus is 30 kmph, how much distance does it cover?",
+            "options": [
+              "90 km",
+              "100 km",
+              "110 km",
+              "120 km"
+            ],
+            "correctIndex": 3,
+            "explanation": "Distance is speed multiplied by time.",
+            "difficulty": "Medium",
+            "topicId": "math-tsd",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-14"
+          },
+          {
+            "question": "A train travels from Park Circus to Tollygunge at an average speed of 50 kmph. If it takes 2 hours to cover a certain distance, how much distance will it cover?",
+            "options": [
+              "100 km",
+              "110 km",
+              "120 km",
+              "130 km"
+            ],
+            "correctIndex": 2,
+            "explanation": "Distance is speed multiplied by time.",
+            "difficulty": "Medium",
+            "topicId": "math-tsd",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-14"
+          }
+        ],
+        "questionCount": 5
+      }
+    },
+    "reasoning": {
+      "rs-coding": {
+        "topicName": "Coding-Decoding",
+        "subjectName": "Reasoning",
+        "questions": [
+          {
+            "question": "A certain code is given: B × F = C, C + D = E, E - B = A. If B = 3, find the value of A.",
+            "options": [
+              "6",
+              "9",
+              "12",
+              "15"
+            ],
+            "correctIndex": 0,
+            "explanation": "The code is based on simple arithmetic operations.",
+            "difficulty": "Medium",
+            "topicId": "rs-coding",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-14"
+          },
+          {
+            "question": "In a certain code, F is the code for 'Friend', H is the code for 'Hello', and the code for 'Hello Friend' is H F. What is the code for 'Friend Hello'?",
+            "options": [
+              "H F",
+              "F H",
+              "H F",
+              "F H"
+            ],
+            "correctIndex": 3,
+            "explanation": "The code is based on the order of words.",
+            "difficulty": "Medium",
+            "topicId": "rs-coding",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-14"
+          },
+          {
+            "question": "In a certain code, 1 2 3 4 5 6 7 8 9 0 represents the numbers 0 to 9. If the code for 'twenty five' is 2 5 8 1, what is the code for 'twenty one'?",
+            "options": [
+              "2 1 8 1",
+              "2 1 9 1",
+              "2 1 8 1",
+              "2 1 9 1"
+            ],
+            "correctIndex": 2,
+            "explanation": "The code is based on the numerical values of the digits.",
+            "difficulty": "Medium",
+            "topicId": "rs-coding",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-14"
+          },
+          {
+            "question": "If in a certain code, 1 = @, 2 = #, 3 = $, 4 = %, 5 = ^, then what is the code for 'house' if the code for 'use' is u#e and 'house' is related to 'use'?",
+            "options": [
+              "h@se",
+              "h^se",
+              "h@se",
+              "h#se"
+            ],
+            "correctIndex": 3,
+            "explanation": "The code is based on analogy.",
+            "difficulty": "Medium",
+            "topicId": "rs-coding",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-14"
+          },
+          {
+            "question": "In a certain code, if F = 1, E = 2, D = 3, C = 4, B = 5, A = 6, then what will be the code for 'seven'?",
+            "options": [
+              "6 5 4 3 2 1",
+              "6 5 4 3 2 2",
+              "6 5 4 3 2 1",
+              "6 5 4 3 2 2"
+            ],
+            "correctIndex": 0,
+            "explanation": "The code is based on alphabetical order.",
+            "difficulty": "Medium",
+            "topicId": "rs-coding",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-14"
+          }
+        ],
+        "questionCount": 5
+      },
+      "rs-blood": {
+        "topicName": "Blood Relations",
+        "subjectName": "Reasoning",
+        "questions": [
+          {
+            "question": "If A and B are siblings, and C is the mother of A and B, then what is the relationship of C to B?",
+            "options": [
+              "Grandmother",
+              "Mother",
+              "Aunt",
+              "Wife"
+            ],
+            "correctIndex": 1,
+            "explanation": "C is the mother of A and B.",
+            "difficulty": "Medium",
+            "topicId": "rs-blood",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-14"
+          },
+          {
+            "question": "A says that B is the son of her mother's husband. How is B related to A?",
+            "options": [
+              "Father",
+              "Grandfather",
+              "Brother",
+              "Son"
+            ],
+            "correctIndex": 2,
+            "explanation": "B is the husband of A's mother.",
+            "difficulty": "Medium",
+            "topicId": "rs-blood",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-14"
+          },
+          {
+            "question": "In a family, A is the father of B, and B is the father of C. What is the relationship of A to C?",
+            "options": [
+              "Son",
+              "Father",
+              "Grandfather",
+              "Brother"
+            ],
+            "correctIndex": 2,
+            "explanation": "A is the grandfather of C.",
+            "difficulty": "Medium",
+            "topicId": "rs-blood",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-14"
+          },
+          {
+            "question": "X says that Y is the daughter of her father's brother. What is the relationship of Y to X?",
+            "options": [
+              "Mother",
+              "Father",
+              "Aunt",
+              "Sister"
+            ],
+            "correctIndex": 2,
+            "explanation": "Y is the sister of X's mother.",
+            "difficulty": "Medium",
+            "topicId": "rs-blood",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-14"
+          },
+          {
+            "question": "A says that B is the daughter of her father's wife's father. How is B related to A?",
+            "options": [
+              "Mother",
+              "Father",
+              "Sister",
+              "Wife"
+            ],
+            "correctIndex": 0,
+            "explanation": "B is the grandmother of A.",
+            "difficulty": "Medium",
+            "topicId": "rs-blood",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-14"
+          }
+        ],
+        "questionCount": 5
+      },
+      "rs-direction": {
+        "topicName": "Direction Sense",
+        "subjectName": "Reasoning",
+        "questions": [
+          {
+            "question": "A man standing at the bank of Hooghly River sees a boat moving towards him. If the speed of the boat in still water is 5 km/hr and the river is flowing at 2 km/hr, what direction will the man see the boat after 20 minutes?",
+            "options": [
+              "North",
+              "South",
+              "East",
+              "West"
+            ],
+            "correctIndex": 2,
+            "explanation": "The boat will be moving in the direction of the river's flow.",
+            "difficulty": "Medium",
+            "topicId": "rs-direction",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-14"
+          },
+          {
+            "question": "If a person is moving towards the north and takes a left turn, which direction will he be facing?",
+            "options": [
+              "North",
+              "South",
+              "East",
+              "West"
+            ],
+            "correctIndex": 2,
+            "explanation": "He will be facing the east direction.",
+            "difficulty": "Easy",
+            "topicId": "rs-direction",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-14"
+          },
+          {
+            "question": "A person starts walking from Sealdah Railway Station and takes 8 turns to the left. Which direction will he be facing now?",
+            "options": [
+              "North",
+              "South",
+              "East",
+              "West"
+            ],
+            "correctIndex": 1,
+            "explanation": "He will be facing the south direction.",
+            "difficulty": "Medium",
+            "topicId": "rs-direction",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-14"
+          },
+          {
+            "question": "If a person is standing at the Howrah Bridge and sees a train coming from the south, which direction will the train be moving?",
+            "options": [
+              "North",
+              "South",
+              "East",
+              "West"
+            ],
+            "correctIndex": 3,
+            "explanation": "The train will be moving towards the west.",
+            "difficulty": "Easy",
+            "topicId": "rs-direction",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-14"
+          },
+          {
+            "question": "A person walks 20 meters towards the east and then turns right. He walks 15 meters. Now, if he turns left and walks 30 meters, which direction will he be facing?",
+            "options": [
+              "North",
+              "South",
+              "East",
+              "West"
+            ],
+            "correctIndex": 0,
+            "explanation": "He will be facing the north direction.",
+            "difficulty": "Medium",
+            "topicId": "rs-direction",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-14"
+          }
+        ],
+        "questionCount": 5
+      },
+      "rs-series": {
+        "topicName": "Number & Letter Series",
+        "subjectName": "Reasoning",
+        "questions": [
+          {
+            "question": "If the pattern continues, the next number in the series 1, 2, 4, 7, 11, ? is:",
+            "options": [
+              "13",
+              "16",
+              "18",
+              "20"
+            ],
+            "correctIndex": 2,
+            "explanation": "The pattern in the series is obtained by adding 1, 2, 3, 4, 5 and so on, to the previous number.",
+            "difficulty": "Medium",
+            "topicId": "rs-series",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-14"
+          },
+          {
+            "question": "What is the next letter in the series G, H, J, K, M ?",
+            "options": [
+              "O",
+              "P",
+              "Q",
+              "R"
+            ],
+            "correctIndex": 3,
+            "explanation": "The pattern in the series is obtained by adding 1, 2, 2, 1, to the corresponding alphabets.",
+            "difficulty": "Easy",
+            "topicId": "ls-series",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-14"
+          },
+          {
+            "question": "If the pattern continues, the next number in the series 2, 6, 12, 20, 30, ? is:",
+            "options": [
+              "42",
+              "42",
+              "42",
+              "42"
+            ],
+            "correctIndex": 0,
+            "explanation": "The pattern in the series is obtained by adding 4, 6, 8, 10 to the previous number.",
+            "difficulty": "Medium",
+            "topicId": "rs-series",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-14"
+          },
+          {
+            "question": "What is the next number in the series 14, 24, 34, 44, 54, ?",
+            "options": [
+              "64",
+              "65",
+              "66",
+              "67"
+            ],
+            "correctIndex": 0,
+            "explanation": "The pattern in the series is obtained by adding 10 to each number.",
+            "difficulty": "Easy",
+            "topicId": "rs-series",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-14"
+          },
+          {
+            "question": "What is the next letter in the series A, D, G, J, M ?",
+            "options": [
+              "P",
+              "Q",
+              "R",
+              "S"
+            ],
+            "correctIndex": 0,
+            "explanation": "The pattern in the series is obtained by adding 3, 3, 3, 3 to the corresponding alphabets.",
+            "difficulty": "Easy",
+            "topicId": "ls-series",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-14"
+          }
+        ],
+        "questionCount": 5
+      }
+    }
+  }
+}
