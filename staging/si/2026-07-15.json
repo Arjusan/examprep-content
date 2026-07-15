@@ -1,0 +1,999 @@
+{
+  "exam": "si",
+  "generatedDate": "2026-07-15",
+  "generatedAt": "2026-07-15T03:44:53.538Z",
+  "model": "llama-3.1-8b-instant",
+  "provider": "groq",
+  "source": "ai_generated",
+  "reviewStatus": "pending",
+  "totalQuestions": 60,
+  "subjects": {
+    "gs": {
+      "gs-polity": {
+        "topicName": "Indian Constitution & Polity",
+        "subjectName": "General Studies",
+        "questions": [
+          {
+            "question": "Which of the following is a fundamental right guaranteed by the Constitution of India?",
+            "options": [
+              "Right to Equality",
+              "Right to Freedom",
+              "Right to Life",
+              "Right to Property"
+            ],
+            "correctIndex": 2,
+            "explanation": "It is guaranteed under Article 21 of the Indian Constitution.",
+            "difficulty": "Medium",
+            "topicId": "gs-polity",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-15"
+          },
+          {
+            "question": "What is the name of the committee that suggested the implementation of the three-language formula in India?",
+            "options": [
+              "Kothari Commission",
+              "Fazl Ali Commission",
+              "Lokur Committee",
+              "Venkataramiah Committee"
+            ],
+            "correctIndex": 0,
+            "explanation": "The three-language formula was implemented in West Bengal as per the recommendations of the Kothari Commission.",
+            "difficulty": "Medium",
+            "topicId": "gs-polity",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-15"
+          },
+          {
+            "question": "Which of the following amendments to the Indian Constitution introduced the concept of anti-defection law?",
+            "options": [
+              "52nd Amendment",
+              "54th Amendment",
+              "55th Amendment",
+              "91st Amendment"
+            ],
+            "correctIndex": 2,
+            "explanation": "The anti-defection law was introduced by the 52nd Constitutional Amendment Act, 1985.",
+            "difficulty": "Medium",
+            "topicId": "gs-polity",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-15"
+          },
+          {
+            "question": "In West Bengal, the Police Commmissioner is headed by?",
+            "options": [
+              "DGP",
+              "IGP",
+              "CPM (Commissioner of Police, Metropolitan)",
+              "CP (Commissioner of Police)"
+            ],
+            "correctIndex": 3,
+            "explanation": "The CP (Commissioner of Police) in West Bengal is headed by the Police Commmissioner.",
+            "difficulty": "Easy",
+            "topicId": "gs-administration",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-15"
+          },
+          {
+            "question": "Which of the following is a provision of the Sixth Schedule of the Indian Constitution?",
+            "options": [
+              "Creation of autonomous districts",
+              "Creation of tribal areas",
+              "Creation of autonomous councils",
+              "Creation of district councils"
+            ],
+            "correctIndex": 3,
+            "explanation": "The Sixth Schedule of the Indian Constitution provides for the creation of district councils.",
+            "difficulty": "Medium",
+            "topicId": "gs-polity",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-15"
+          }
+        ],
+        "questionCount": 5
+      },
+      "gs-freedom": {
+        "topicName": "Indian Freedom Struggle & Bengal",
+        "subjectName": "General Studies",
+        "questions": [
+          {
+            "question": "Who led the historic Chittagong Armory Raid in 1930?",
+            "options": [
+              "Netaji Subhas Chandra Bose",
+              "Sukumar Roy",
+              "Surya Sen",
+              "Abdul Hamid Lashkar"
+            ],
+            "correctIndex": 2,
+            "explanation": "Surya Sen was the mastermind behind the raid.",
+            "difficulty": "Medium",
+            "topicId": "gs-freedom",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-15"
+          },
+          {
+            "question": "Which famous Indian revolutionary was born in Barisal, Bengal in 1897?",
+            "options": [
+              "Bhagat Singh",
+              "Chandrasekhar Azad",
+              "Sachindranath Sanyal",
+              "Bipin Chandra Pal"
+            ],
+            "correctIndex": 2,
+            "explanation": "Sachindranath Sanyal was a key figure in the Indian independence movement.",
+            "difficulty": "Medium",
+            "topicId": "gs-freedom",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-15"
+          },
+          {
+            "question": "What was the name of the newspaper started by Bankim Chandra Chattopadhyay in Bengali in 1873?",
+            "options": [
+              "Bangabasi",
+              "Tattwabodhini Patrika",
+              "Bengal Hurkaru",
+              "Sambad Prabhakar"
+            ],
+            "correctIndex": 2,
+            "explanation": "Tattwabodhini Patrika was a prominent Bengali newspaper.",
+            "difficulty": "Easy",
+            "topicId": "gs-bengal",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-15"
+          },
+          {
+            "question": "Who wrote the famous novel 'Durgeshnandini' in 1865?",
+            "options": [
+              "Bankim Chandra Chattopadhyay",
+              "Rabindranath Tagore",
+              "Sharadindu Bandyopadhyay",
+              "Satyajit Ray"
+            ],
+            "correctIndex": 0,
+            "explanation": "Bankim Chandra Chattopadhyay was a prominent Bengali novelist.",
+            "difficulty": "Medium",
+            "topicId": "gs-bengal",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-15"
+          },
+          {
+            "question": "Which of the following events marked the beginning of the Swadeshi movement in Bengal in 1905?",
+            "options": [
+              "Partition of Bengal",
+              "Swadeshi Exhibition in Calcutta",
+              "Annie Besant visit to India",
+              "Rabindranath Tagore's visit to England"
+            ],
+            "correctIndex": 0,
+            "explanation": "The partition of Bengal triggered the Swadeshi movement.",
+            "difficulty": "Medium",
+            "topicId": "gs-freedom",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-15"
+          }
+        ],
+        "questionCount": 5
+      },
+      "gs-wb-geo": {
+        "topicName": "West Bengal Geography",
+        "subjectName": "General Studies",
+        "questions": [
+          {
+            "question": "Which of the following rivers originates from the Darjeeling Himalayan hill region?",
+            "options": [
+              "Brahmaputra River",
+              "Ganges River",
+              "Tista River",
+              "Meghana River"
+            ],
+            "correctIndex": 2,
+            "explanation": "It originates from the Chomutanne Himal in the Singalila Ridge.",
+            "difficulty": "Medium",
+            "topicId": "gs-wb-geo",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-15"
+          },
+          {
+            "question": "Which one of the following passes is located in the Sikkim Himalayas?",
+            "options": [
+              "Nathu La Pass",
+              "Jelep La Pass",
+              "Cho La Pass",
+              "Boras La Pass"
+            ],
+            "correctIndex": 1,
+            "explanation": "It connects Sikkim to Tibet.",
+            "difficulty": "Medium",
+            "topicId": "gs-wb-geo",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-15"
+          },
+          {
+            "question": "What is the name of the largest mangrove forest in the world located in West Bengal?",
+            "options": [
+              "Bhagirathi River",
+              "Ganges River",
+              "Sundarbans",
+              "Hooghly River"
+            ],
+            "correctIndex": 2,
+            "explanation": "It is the largest mangrove forest in the world.",
+            "difficulty": "Medium",
+            "topicId": "gs-wb-geo",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-15"
+          },
+          {
+            "question": "Which of the following districts is the largest district in West Bengal?",
+            "options": [
+              "North 24 Parganas",
+              "South 24 Parganas",
+              "Murshidabad",
+              "Malda"
+            ],
+            "correctIndex": 3,
+            "explanation": "It covers an area of 3,850 sq km.",
+            "difficulty": "Easy",
+            "topicId": "gs-wb-geo",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-15"
+          },
+          {
+            "question": "Which of the following mountain peaks is located in the Eastern part of the Darjeeling Himalayan hill region?",
+            "options": [
+              "Kangchenjunga",
+              "Lhotse",
+              "Makalu",
+              "Siniolchu"
+            ],
+            "correctIndex": 0,
+            "explanation": "It is the highest peak in India.",
+            "difficulty": "Medium",
+            "topicId": "gs-wb-geo",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-15"
+          }
+        ],
+        "questionCount": 5
+      },
+      "gs-wb-schemes": {
+        "topicName": "West Bengal Government Schemes",
+        "subjectName": "General Studies",
+        "questions": [
+          {
+            "question": "Which of the following schemes is launched by the Government of West Bengal for the welfare of SC/ST students?",
+            "options": [
+              "Pathar Khana Yojana",
+              "Kanyashree Prakalpa",
+              "Swami Vivekananda Merit Cum Means Scholarship",
+              "Jai Bangla Health Mission"
+            ],
+            "correctIndex": 1,
+            "explanation": "It provides financial assistance to girls from SC/ST families.",
+            "difficulty": "Medium",
+            "topicId": "gs-wb-schemes",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-15"
+          },
+          {
+            "question": "What is the main objective of the 'Mukhya Mantri Shramik Bima Yojana' launched by the Government of West Bengal?",
+            "options": [
+              "To provide insurance coverage to unorganized sector workers",
+              "To provide financial assistance to small business owners",
+              "To provide loan at low interest rate to entrepreneurs",
+              "To provide employment opportunities to rural youth"
+            ],
+            "correctIndex": 0,
+            "explanation": "It provides insurance coverage to unorganized sector workers.",
+            "difficulty": "Medium",
+            "topicId": "gs-wb-schemes",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-15"
+          },
+          {
+            "question": "Which of the following is a key component of the 'Sabuj Sangha' initiative launched by the Government of West Bengal?",
+            "options": [
+              "Afforestation",
+              "Watershed Development",
+              "Rural Electrification",
+              "Digital Literacy"
+            ],
+            "correctIndex": 1,
+            "explanation": "It aims to promote sustainable livelihoods through natural resource management.",
+            "difficulty": "Medium",
+            "topicId": "gs-wb-schemes",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-15"
+          },
+          {
+            "question": "The 'Karmayogi Prakalpa' is a scheme launched by the Government of West Bengal for the empowerment of?",
+            "options": [
+              "Women",
+              "Youth",
+              "Small Business Owners",
+              "Senior Citizens"
+            ],
+            "correctIndex": 0,
+            "explanation": "It aims to provide vocational training and employment opportunities to women.",
+            "difficulty": "Medium",
+            "topicId": "gs-wb-schemes",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-15"
+          },
+          {
+            "question": "Which of the following is the primary focus area of the 'Jai Bangla Health Mission' launched by the Government of West Bengal?",
+            "options": [
+              "Preventive Healthcare",
+              "Curative Healthcare",
+              "Reproductive and Child Health",
+              "Mental Healthcare"
+            ],
+            "correctIndex": 2,
+            "explanation": "It aims to improve the health outcomes of women and children.",
+            "difficulty": "Medium",
+            "topicId": "gs-wb-schemes",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-15"
+          }
+        ],
+        "questionCount": 5
+      }
+    },
+    "math": {
+      "math-percent": {
+        "topicName": "Percentage & Profit-Loss",
+        "subjectName": "Arithmetic",
+        "questions": [
+          {
+            "question": "By selling a scooter at a loss of 10%, a shopkeeper gets Rs. 4200. If he sells it at the marked price, he would get Rs. 4600. What is the cost price of the scooter?",
+            "options": [
+              "Rs. 4000",
+              "Rs. 4080",
+              "Rs. 4500",
+              "Rs. 4800"
+            ],
+            "correctIndex": 1,
+            "explanation": "Selling price at loss is 90% of the cost price.",
+            "difficulty": "Medium",
+            "topicId": "math-profit-loss",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-15"
+          },
+          {
+            "question": "In a shop in Kolkata, a TV set is marked at Rs. 18000. A customer buys it at 18% discount. How much amount will he have to pay?",
+            "options": [
+              "Rs. 14760",
+              "Rs. 15840",
+              "Rs. 14700",
+              "Rs. 15800"
+            ],
+            "correctIndex": 0,
+            "explanation": "Discounted price is 82% of the marked price.",
+            "difficulty": "Medium",
+            "topicId": "math-percent",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-15"
+          },
+          {
+            "question": "Aman buys a mobile for Rs. 12000 and sells it for Rs. 11000. What is his loss percentage?",
+            "options": [
+              "5%",
+              "7.5%",
+              "10%",
+              "15%"
+            ],
+            "correctIndex": 2,
+            "explanation": "Loss percentage is (loss/cost price)*100.",
+            "difficulty": "Medium",
+            "topicId": "math-profit-loss",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-15"
+          },
+          {
+            "question": "A shopkeeper purchases a saree for Rs. 800 and sells it for Rs. 960. What is his profit percentage?",
+            "options": [
+              "10%",
+              "12%",
+              "15%",
+              "20%"
+            ],
+            "correctIndex": 2,
+            "explanation": "Profit percentage is (profit/cost price)*100.",
+            "difficulty": "Medium",
+            "topicId": "math-profit-loss",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-15"
+          },
+          {
+            "question": "A person gets a 12% commission on the sale of a product. If he sells a product for Rs. 15000, how much commission does he get?",
+            "options": [
+              "Rs. 1200",
+              "Rs. 1440",
+              "Rs. 1800",
+              "Rs. 2400"
+            ],
+            "correctIndex": 1,
+            "explanation": "Commission is 12% of the selling price.",
+            "difficulty": "Medium",
+            "topicId": "math-percent",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-15"
+          }
+        ],
+        "questionCount": 5
+      },
+      "math-interest": {
+        "topicName": "Simple & Compound Interest",
+        "subjectName": "Arithmetic",
+        "questions": [
+          {
+            "question": "A certain sum of money is invested in West Bengal Government Saving Bond at a compound interest rate of 8% per annum for 2 years. If the maturity amount is Rs 1,21,638, then the principal amount is?",
+            "options": [
+              "Rs 80,000",
+              "Rs 90,000",
+              "Rs 1,00,000",
+              "Rs 1,10,000"
+            ],
+            "correctIndex": 2,
+            "explanation": "Compound interest formula",
+            "difficulty": "Medium",
+            "topicId": "math-interest",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-15"
+          },
+          {
+            "question": "A person bought a property in Kolkata for Rs 25 lakhs and sold it after 5 years at a simple interest rate of 6% per annum. The selling price of the property is Rs 40 lakhs. What percentage of profit has the person earned?",
+            "options": [
+              "10%",
+              "12%",
+              "15%",
+              "18%"
+            ],
+            "correctIndex": 1,
+            "explanation": "Simple interest formula",
+            "difficulty": "Medium",
+            "topicId": "math-interest",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-15"
+          },
+          {
+            "question": "A company in West Bengal invests Rs 10 lakhs in a business for 3 years at a compound interest rate of 10% per annum. What is the amount of money that the company will have at the end of 3 years?",
+            "options": [
+              "Rs 15,15,510",
+              "Rs 16,03,900",
+              "Rs 16,32,600",
+              "Rs 17,01,100"
+            ],
+            "correctIndex": 1,
+            "explanation": "Compound interest formula",
+            "difficulty": "Medium",
+            "topicId": "math-interest",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-15"
+          },
+          {
+            "question": "A certain sum of money is invested in a fixed deposit account in a bank in West Bengal for 2 years at a simple interest rate of 9% per annum. If the interest earned is Rs 17,880, then the principal amount is?",
+            "options": [
+              "Rs 80,000",
+              "Rs 1,00,000",
+              "Rs 1,20,000",
+              "Rs 1,40,000"
+            ],
+            "correctIndex": 2,
+            "explanation": "Simple interest formula",
+            "difficulty": "Medium",
+            "topicId": "math-interest",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-15"
+          },
+          {
+            "question": "A West Bengal Government employee invested Rs 50,000 in a post office scheme at a compound interest rate of 12% per annum for 2 years. Find the amount of money the employee will get at the end of 2 years?",
+            "options": [
+              "Rs 71,120",
+              "Rs 71,240",
+              "Rs 71,320",
+              "Rs 71,440"
+            ],
+            "correctIndex": 0,
+            "explanation": "Compound interest formula",
+            "difficulty": "Medium",
+            "topicId": "math-interest",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-15"
+          }
+        ],
+        "questionCount": 5
+      },
+      "math-tw": {
+        "topicName": "Time, Work & Pipes",
+        "subjectName": "Arithmetic",
+        "questions": [
+          {
+            "question": "A worker can finish 1/4th of a work in 2 hours. How long will it take for 3 workers to complete the work?",
+            "options": [
+              "6 hours",
+              "8 hours",
+              "10 hours",
+              "12 hours"
+            ],
+            "correctIndex": 0,
+            "explanation": "Using the concept of inverse proportion.",
+            "difficulty": "Medium",
+            "topicId": "math-tw",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-15"
+          },
+          {
+            "question": "A pipe can fill 1/3rd of a tank in 5 minutes. How long will it take to fill the remaining 2/3rd part of the tank?",
+            "options": [
+              "15 minutes",
+              "20 minutes",
+              "25 minutes",
+              "30 minutes"
+            ],
+            "correctIndex": 2,
+            "explanation": "Using the concept of inverse proportion.",
+            "difficulty": "Medium",
+            "topicId": "math-pipes",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-15"
+          },
+          {
+            "question": "6 men can finish a work in 9 days. In how many days will 12 men finish the same work?",
+            "options": [
+              "4.5 days",
+              "6 days",
+              "7.5 days",
+              "9 days"
+            ],
+            "correctIndex": 0,
+            "explanation": "Using the concept of inverse proportion.",
+            "difficulty": "Medium",
+            "topicId": "math-tw",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-15"
+          },
+          {
+            "question": "A tap can fill 1/5th of a bucket in 10 minutes. How long will it take to fill 3/5th of the bucket?",
+            "options": [
+              "20 minutes",
+              "25 minutes",
+              "30 minutes",
+              "35 minutes"
+            ],
+            "correctIndex": 2,
+            "explanation": "Using the concept of inverse proportion.",
+            "difficulty": "Medium",
+            "topicId": "math-pipes",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-15"
+          },
+          {
+            "question": "A person can finish 1/2nd of a work in 12 hours. How long will it take for 2 persons to complete the remaining work?",
+            "options": [
+              "8 hours",
+              "10 hours",
+              "12 hours",
+              "16 hours"
+            ],
+            "correctIndex": 2,
+            "explanation": "Using the concept of inverse proportion.",
+            "difficulty": "Medium",
+            "topicId": "math-tw",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-15"
+          }
+        ],
+        "questionCount": 5
+      },
+      "math-tsd": {
+        "topicName": "Time, Speed & Distance",
+        "subjectName": "Arithmetic",
+        "questions": [
+          {
+            "question": "A train covers a distance of 120 km from Sealdah to Bandel in 2 hours. How much time will it take to cover a distance of 240 km?",
+            "options": [
+              "2 hours",
+              "4 hours",
+              "6 hours",
+              "8 hours"
+            ],
+            "correctIndex": 1,
+            "explanation": "Distance is directly proportional to time.",
+            "difficulty": "Medium",
+            "topicId": "math-tsd",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-15"
+          },
+          {
+            "question": "A bus travels from Kolkata to Durgapur covering a distance of 175 km in 5.5 hours. What is the speed of the bus in km/h?",
+            "options": [
+              "20 km/h",
+              "30 km/h",
+              "32 km/h",
+              "40 km/h"
+            ],
+            "correctIndex": 2,
+            "explanation": "Speed is distance divided by time.",
+            "difficulty": "Easy",
+            "topicId": "math-tsd",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-15"
+          },
+          {
+            "question": "A person travels from Dakshineswar to Howrah at an average speed of 20 km/h. If he reaches Howrah in 3 hours, what distance has he covered?",
+            "options": [
+              "60 km",
+              "80 km",
+              "60 km",
+              "None of the above"
+            ],
+            "correctIndex": 0,
+            "explanation": "Speed multiplied by time is equal to distance.",
+            "difficulty": "Medium",
+            "topicId": "math-tsd",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-15"
+          },
+          {
+            "question": "A car travels from Siliguri to Jalpaiguri at an average speed of 25 km/h and covers a distance of 125 km in 5 hours. What is the ratio of time taken to distance travelled?",
+            "options": [
+              "1:5",
+              "1:10",
+              "1:20",
+              "1:25"
+            ],
+            "correctIndex": 0,
+            "explanation": "Time is directly proportional to distance.",
+            "difficulty": "Medium",
+            "topicId": "math-tsd",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-15"
+          },
+          {
+            "question": "A train leaves Howrah at 8:00 AM and reaches Asansol at 11:00 AM. If the distance between the two stations is 165 km and the train travels at a constant speed, what is the speed of the train in km/h?",
+            "options": [
+              "22.5 km/h",
+              "25 km/h",
+              "30 km/h",
+              "32.5 km/h"
+            ],
+            "correctIndex": 2,
+            "explanation": "Speed is distance divided by time.",
+            "difficulty": "Medium",
+            "topicId": "math-tsd",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-15"
+          }
+        ],
+        "questionCount": 5
+      }
+    },
+    "reasoning": {
+      "rs-coding": {
+        "topicName": "Coding-Decoding",
+        "subjectName": "Reasoning",
+        "questions": [
+          {
+            "question": "A person is standing at a distance from his friend. To reach his friend he takes 7 steps forward and 3 steps backward. Then he takes 5 steps forward and 4 steps backward. How many steps will he take to reach his friend?",
+            "options": [
+              "5 steps",
+              "10 steps",
+              "15 steps",
+              "20 steps"
+            ],
+            "correctIndex": 0,
+            "explanation": "The correct answer is found by calculating the net displacement.",
+            "difficulty": "Medium",
+            "topicId": "rs-coding",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-15"
+          },
+          {
+            "question": "A shopkeeper buys fruits from a local market in Kolkata. He buys 240 kg of fruits at the rate of Rs. 40 per kg. What is the total cost of the fruits he bought?",
+            "options": [
+              "9600",
+              "96000",
+              "960000",
+              "9600000"
+            ],
+            "correctIndex": 1,
+            "explanation": "The total cost can be calculated by multiplying the weight of fruits with the cost per kg.",
+            "difficulty": "Easy",
+            "topicId": "rs-coding",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-15"
+          },
+          {
+            "question": "If the word 'KOLKATA' is coded as 'K T A L O K', then the code for the word 'BENGAL' is?",
+            "options": [
+              "B N G L A"
+            ],
+            "correctIndex": 0,
+            "explanation": "The code follows a pattern where each alphabetic character shifts one position forward in the alphabet.",
+            "difficulty": "Easy",
+            "topicId": "rs-coding",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-15"
+          },
+          {
+            "question": "In a row of 8 houses, each house is painted with one of 8 different colors. The colors are - Red, Blue, Green, White, Yellow, Black, Grey, and Orange. What is the total number of ways to paint these 8 houses with different colors?",
+            "options": [
+              "40320",
+              "403200",
+              "4032000",
+              "40320000"
+            ],
+            "correctIndex": 0,
+            "explanation": "The total number of ways can be calculated by using the concept of permutations.",
+            "difficulty": "Medium",
+            "topicId": "rs-coding",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-15"
+          },
+          {
+            "question": "A man is standing in a queue. He moves 5 steps forward and 2 steps backward. Then he moves 3 steps forward and 4 steps backward. What is the net number of steps he moved?",
+            "options": [
+              "-5 steps",
+              "-2 steps",
+              "2 steps",
+              "5 steps"
+            ],
+            "correctIndex": 3,
+            "explanation": "The net displacement is calculated by adding the total forward steps and total backward steps.",
+            "difficulty": "Easy",
+            "topicId": "rs-coding",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-15"
+          }
+        ],
+        "questionCount": 5
+      },
+      "rs-blood": {
+        "topicName": "Blood Relations",
+        "subjectName": "Reasoning",
+        "questions": [
+          {
+            "question": "Rajiv's wife is the sister of Kavita's husband, how is Kavita related to Rajiv?",
+            "options": [
+              "Mother",
+              "Sister",
+              "Daughter",
+              "Father"
+            ],
+            "correctIndex": 1,
+            "explanation": "Kavita is Rajiv's sister-in-law.",
+            "difficulty": "Medium",
+            "topicId": "rs-blood",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-15"
+          },
+          {
+            "question": "Dipti is the daughter of Kishore's wife's mother. How is Dipti related to Kishore?",
+            "options": [
+              "Mother",
+              "Sister",
+              "Daughter",
+              "Brother"
+            ],
+            "correctIndex": 2,
+            "explanation": "Dipti is Kishore's daughter.",
+            "difficulty": "Medium",
+            "topicId": "rs-blood",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-15"
+          },
+          {
+            "question": "Pritam is the son of Kishore's father's brother's son. How is Pritam related to Kishore?",
+            "options": [
+              "Father",
+              "Uncle",
+              "Cousin",
+              "Brother"
+            ],
+            "correctIndex": 2,
+            "explanation": "Pritam is Kishore's cousin.",
+            "difficulty": "Medium",
+            "topicId": "rs-blood",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-15"
+          },
+          {
+            "question": "Bidyut's wife's sister is married to Rakesh. How is Bikash related to Rakesh?",
+            "options": [
+              "Brother",
+              "Father",
+              "Son",
+              "Uncle"
+            ],
+            "correctIndex": 2,
+            "explanation": "Bikash is Rakesh's brother-in-law.",
+            "difficulty": "Medium",
+            "topicId": "rs-blood",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-15"
+          },
+          {
+            "question": "Supriya is the daughter of Biman's wife's mother. How is Supriya related to Biman?",
+            "options": [
+              "Son",
+              "Daughter",
+              "Mother",
+              "Father"
+            ],
+            "correctIndex": 1,
+            "explanation": "Supriya is Biman's daughter.",
+            "difficulty": "Medium",
+            "topicId": "rs-blood",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-15"
+          }
+        ],
+        "questionCount": 5
+      },
+      "rs-direction": {
+        "topicName": "Direction Sense",
+        "subjectName": "Reasoning",
+        "questions": [
+          {
+            "question": "From the top of Howrah Bridge, if you walk 250 meters towards the north and then 150 meters towards the east, which direction is South-East?",
+            "options": [
+              "North-West",
+              "South-East",
+              "North-East",
+              "South-West"
+            ],
+            "correctIndex": 1,
+            "explanation": "North and East directions were walked.",
+            "difficulty": "Medium",
+            "topicId": "rs-direction",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-15"
+          },
+          {
+            "question": "If a person travels 8 km eastwards, then 2 km towards north and then 4 km towards west, how far and in which direction is the person now from the starting point?",
+            "options": [
+              "5 km North",
+              "5 km South",
+              "5 km East",
+              "5 km West"
+            ],
+            "correctIndex": 3,
+            "explanation": "East and West directions cancel each other.",
+            "difficulty": "Medium",
+            "topicId": "rs-direction",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-15"
+          },
+          {
+            "question": "A man is facing east direction. If he turns 135 degrees to his left, in which direction is he facing now?",
+            "options": [
+              "North-East",
+              "North-West",
+              "South-East",
+              "South-West"
+            ],
+            "correctIndex": 0,
+            "explanation": "He turned 135 degrees to his left.",
+            "difficulty": "Easy",
+            "topicId": "rs-direction",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-15"
+          },
+          {
+            "question": "After walking 200 meters south and then 300 meters east, a person finds himself at a point 400 meters away from his starting point. In which direction is the starting point from his current position?",
+            "options": [
+              "North-East",
+              "North-West",
+              "South-East",
+              "South-West"
+            ],
+            "correctIndex": 2,
+            "explanation": "Pythagorean Theorem can be used.",
+            "difficulty": "Hard",
+            "topicId": "rs-direction",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-15"
+          },
+          {
+            "question": "A person is standing at a point X. He walks 12 km in the east direction and then 5 km in the north direction. After that, he walks 8 km in the west direction. In which direction is point X from his current position?",
+            "options": [
+              "North",
+              "South",
+              "East",
+              "West"
+            ],
+            "correctIndex": 2,
+            "explanation": "East and West directions cancel each other.",
+            "difficulty": "Medium",
+            "topicId": "rs-direction",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-15"
+          }
+        ],
+        "questionCount": 5
+      },
+      "rs-series": {
+        "topicName": "Number & Letter Series",
+        "subjectName": "Reasoning",
+        "questions": [
+          {
+            "question": "Find the missing number in the series: 3, 5, 7, 9, ?, 13",
+            "options": [
+              "8",
+              "10",
+              "11",
+              "12"
+            ],
+            "correctIndex": 2,
+            "explanation": "The pattern in the series is adding 2 to each number.",
+            "difficulty": "Medium",
+            "topicId": "rs-series",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-15"
+          },
+          {
+            "question": "Which of the following series would continue with 27, if the pattern is maintained?",
+            "options": [
+              "24, 25, 26, 27",
+              "26, 27, 28, 29",
+              "25, 26, 27, 28",
+              "27, 28, 29, 30"
+            ],
+            "correctIndex": 0,
+            "explanation": "The series increases by 1 each time.",
+            "difficulty": "Medium",
+            "topicId": "rs-series",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-15"
+          },
+          {
+            "question": "Find the missing number in the series: 1, 2, 6, 24, ?, 144",
+            "options": [
+              "8",
+              "10",
+              "12",
+              "16"
+            ],
+            "correctIndex": 3,
+            "explanation": "The pattern in the series is squaring the number and then multiplying by 1, 2, 4, 8, etc.",
+            "difficulty": "Hard",
+            "topicId": "rs-series",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-15"
+          },
+          {
+            "question": "Which of the following series would continue with 27, if the pattern is maintained?",
+            "options": [
+              "24, 26, 28, 30",
+              "23, 25, 27, 29",
+              "25, 26, 27, 28",
+              "26, 27, 28, 29"
+            ],
+            "correctIndex": 2,
+            "explanation": "The series increases by 1 each time.",
+            "difficulty": "Medium",
+            "topicId": "rs-series",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-15"
+          },
+          {
+            "question": "Find the missing number in the series: G, H, J, L, ?, P",
+            "options": [
+              "I",
+              "K",
+              "M",
+              "N"
+            ],
+            "correctIndex": 2,
+            "explanation": "The series is based on the alphabetical order.",
+            "difficulty": "Easy",
+            "topicId": "rs-series",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-15"
+          }
+        ],
+        "questionCount": 5
+      }
+    }
+  }
+}
