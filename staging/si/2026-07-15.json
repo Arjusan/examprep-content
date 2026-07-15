@@ -1,12 +1,12 @@
 {
   "exam": "si",
   "generatedDate": "2026-07-15",
-  "generatedAt": "2026-07-15T03:44:53.538Z",
+  "generatedAt": "2026-07-15T14:18:15.614Z",
   "model": "llama-3.1-8b-instant",
   "provider": "groq",
   "source": "ai_generated",
   "reviewStatus": "pending",
-  "totalQuestions": 60,
+  "totalQuestions": 35,
   "subjects": {
     "gs": {
       "gs-polity": {
@@ -14,159 +14,77 @@
         "subjectName": "General Studies",
         "questions": [
           {
-            "question": "Which of the following is a fundamental right guaranteed by the Constitution of India?",
+            "question": "Which Article of the Indian Constitution grants fundamental rights to Indian citizens?",
             "options": [
-              "Right to Equality",
-              "Right to Freedom",
-              "Right to Life",
-              "Right to Property"
-            ],
-            "correctIndex": 2,
-            "explanation": "It is guaranteed under Article 21 of the Indian Constitution.",
-            "difficulty": "Medium",
-            "topicId": "gs-polity",
-            "source": "ai_generated",
-            "generatedDate": "2026-07-15"
-          },
-          {
-            "question": "What is the name of the committee that suggested the implementation of the three-language formula in India?",
-            "options": [
-              "Kothari Commission",
-              "Fazl Ali Commission",
-              "Lokur Committee",
-              "Venkataramiah Committee"
+              "Article 14",
+              "Article 15",
+              "Article 16",
+              "Article 17"
             ],
             "correctIndex": 0,
-            "explanation": "The three-language formula was implemented in West Bengal as per the recommendations of the Kothari Commission.",
+            "explanation": "It deals with equality and non-discrimination.",
             "difficulty": "Medium",
             "topicId": "gs-polity",
             "source": "ai_generated",
             "generatedDate": "2026-07-15"
           },
           {
-            "question": "Which of the following amendments to the Indian Constitution introduced the concept of anti-defection law?",
+            "question": "The Panchayati Raj system is closely related to which provision of the West Bengal Panchayat Act?",
             "options": [
-              "52nd Amendment",
-              "54th Amendment",
-              "55th Amendment",
-              "91st Amendment"
+              "Schedule 5 of the Indian Constitution",
+              "Article 243(B) of the Indian Constitution",
+              "Section 3 of the West Bengal Panchayat Act",
+              "Article 19 of the Indian Constitution"
             ],
-            "correctIndex": 2,
-            "explanation": "The anti-defection law was introduced by the 52nd Constitutional Amendment Act, 1985.",
+            "correctIndex": 1,
+            "explanation": "It deals with the three-tier Panchayat system.",
             "difficulty": "Medium",
             "topicId": "gs-polity",
             "source": "ai_generated",
             "generatedDate": "2026-07-15"
           },
           {
-            "question": "In West Bengal, the Police Commmissioner is headed by?",
+            "question": "The concept of Judicial Review is derived from which provision of the Indian Constitution?",
             "options": [
-              "DGP",
-              "IGP",
-              "CPM (Commissioner of Police, Metropolitan)",
-              "CP (Commissioner of Police)"
+              "Article 14",
+              "Article 32",
+              "Article 21",
+              "Article 124"
             ],
-            "correctIndex": 3,
-            "explanation": "The CP (Commissioner of Police) in West Bengal is headed by the Police Commmissioner.",
-            "difficulty": "Easy",
-            "topicId": "gs-administration",
-            "source": "ai_generated",
-            "generatedDate": "2026-07-15"
-          },
-          {
-            "question": "Which of the following is a provision of the Sixth Schedule of the Indian Constitution?",
-            "options": [
-              "Creation of autonomous districts",
-              "Creation of tribal areas",
-              "Creation of autonomous councils",
-              "Creation of district councils"
-            ],
-            "correctIndex": 3,
-            "explanation": "The Sixth Schedule of the Indian Constitution provides for the creation of district councils.",
+            "correctIndex": 1,
+            "explanation": "It provides for the power of the Supreme Court to review laws and actions.",
             "difficulty": "Medium",
             "topicId": "gs-polity",
             "source": "ai_generated",
             "generatedDate": "2026-07-15"
-          }
-        ],
-        "questionCount": 5
-      },
-      "gs-freedom": {
-        "topicName": "Indian Freedom Struggle & Bengal",
-        "subjectName": "General Studies",
-        "questions": [
+          },
           {
-            "question": "Who led the historic Chittagong Armory Raid in 1930?",
+            "question": "The West Bengal State Election Commission is responsible for the conduct of which type of elections?",
             "options": [
-              "Netaji Subhas Chandra Bose",
-              "Sukumar Roy",
-              "Surya Sen",
-              "Abdul Hamid Lashkar"
+              "Panchayat elections",
+              "Municipal Corporation elections",
+              "Assembly elections",
+              "Parliamentary elections"
+            ],
+            "correctIndex": 1,
+            "explanation": "It is responsible for conducting elections to the three-tier Panchayat system.",
+            "difficulty": "Medium",
+            "topicId": "gs-polity",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-15"
+          },
+          {
+            "question": "Which Article of the Indian Constitution deals with the Directive Principles of State Policy?",
+            "options": [
+              "Article 12",
+              "Article 14",
+              "Article 38",
+              "Article 37"
             ],
             "correctIndex": 2,
-            "explanation": "Surya Sen was the mastermind behind the raid.",
+            "explanation": "It provides guidance to the state for the well-being of its citizens.",
             "difficulty": "Medium",
-            "topicId": "gs-freedom",
-            "source": "ai_generated",
-            "generatedDate": "2026-07-15"
-          },
-          {
-            "question": "Which famous Indian revolutionary was born in Barisal, Bengal in 1897?",
-            "options": [
-              "Bhagat Singh",
-              "Chandrasekhar Azad",
-              "Sachindranath Sanyal",
-              "Bipin Chandra Pal"
-            ],
-            "correctIndex": 2,
-            "explanation": "Sachindranath Sanyal was a key figure in the Indian independence movement.",
-            "difficulty": "Medium",
-            "topicId": "gs-freedom",
-            "source": "ai_generated",
-            "generatedDate": "2026-07-15"
-          },
-          {
-            "question": "What was the name of the newspaper started by Bankim Chandra Chattopadhyay in Bengali in 1873?",
-            "options": [
-              "Bangabasi",
-              "Tattwabodhini Patrika",
-              "Bengal Hurkaru",
-              "Sambad Prabhakar"
-            ],
-            "correctIndex": 2,
-            "explanation": "Tattwabodhini Patrika was a prominent Bengali newspaper.",
-            "difficulty": "Easy",
-            "topicId": "gs-bengal",
-            "source": "ai_generated",
-            "generatedDate": "2026-07-15"
-          },
-          {
-            "question": "Who wrote the famous novel 'Durgeshnandini' in 1865?",
-            "options": [
-              "Bankim Chandra Chattopadhyay",
-              "Rabindranath Tagore",
-              "Sharadindu Bandyopadhyay",
-              "Satyajit Ray"
-            ],
-            "correctIndex": 0,
-            "explanation": "Bankim Chandra Chattopadhyay was a prominent Bengali novelist.",
-            "difficulty": "Medium",
-            "topicId": "gs-bengal",
-            "source": "ai_generated",
-            "generatedDate": "2026-07-15"
-          },
-          {
-            "question": "Which of the following events marked the beginning of the Swadeshi movement in Bengal in 1905?",
-            "options": [
-              "Partition of Bengal",
-              "Swadeshi Exhibition in Calcutta",
-              "Annie Besant visit to India",
-              "Rabindranath Tagore's visit to England"
-            ],
-            "correctIndex": 0,
-            "explanation": "The partition of Bengal triggered the Swadeshi movement.",
-            "difficulty": "Medium",
-            "topicId": "gs-freedom",
+            "topicId": "gs-polity",
             "source": "ai_generated",
             "generatedDate": "2026-07-15"
           }
@@ -178,75 +96,75 @@
         "subjectName": "General Studies",
         "questions": [
           {
-            "question": "Which of the following rivers originates from the Darjeeling Himalayan hill region?",
+            "question": "Which river is the main water source of the Sundarbans?",
             "options": [
-              "Brahmaputra River",
-              "Ganges River",
-              "Tista River",
-              "Meghana River"
-            ],
-            "correctIndex": 2,
-            "explanation": "It originates from the Chomutanne Himal in the Singalila Ridge.",
-            "difficulty": "Medium",
-            "topicId": "gs-wb-geo",
-            "source": "ai_generated",
-            "generatedDate": "2026-07-15"
-          },
-          {
-            "question": "Which one of the following passes is located in the Sikkim Himalayas?",
-            "options": [
-              "Nathu La Pass",
-              "Jelep La Pass",
-              "Cho La Pass",
-              "Boras La Pass"
-            ],
-            "correctIndex": 1,
-            "explanation": "It connects Sikkim to Tibet.",
-            "difficulty": "Medium",
-            "topicId": "gs-wb-geo",
-            "source": "ai_generated",
-            "generatedDate": "2026-07-15"
-          },
-          {
-            "question": "What is the name of the largest mangrove forest in the world located in West Bengal?",
-            "options": [
-              "Bhagirathi River",
-              "Ganges River",
-              "Sundarbans",
-              "Hooghly River"
-            ],
-            "correctIndex": 2,
-            "explanation": "It is the largest mangrove forest in the world.",
-            "difficulty": "Medium",
-            "topicId": "gs-wb-geo",
-            "source": "ai_generated",
-            "generatedDate": "2026-07-15"
-          },
-          {
-            "question": "Which of the following districts is the largest district in West Bengal?",
-            "options": [
-              "North 24 Parganas",
-              "South 24 Parganas",
-              "Murshidabad",
-              "Malda"
-            ],
-            "correctIndex": 3,
-            "explanation": "It covers an area of 3,850 sq km.",
-            "difficulty": "Easy",
-            "topicId": "gs-wb-geo",
-            "source": "ai_generated",
-            "generatedDate": "2026-07-15"
-          },
-          {
-            "question": "Which of the following mountain peaks is located in the Eastern part of the Darjeeling Himalayan hill region?",
-            "options": [
-              "Kangchenjunga",
-              "Lhotse",
-              "Makalu",
-              "Siniolchu"
+              "Ganges",
+              "Brahmaputra",
+              "Hooghly",
+              "Meghna"
             ],
             "correctIndex": 0,
-            "explanation": "It is the highest peak in India.",
+            "explanation": "The Ganges River is the main water source of the Sundarbans.",
+            "difficulty": "Medium",
+            "topicId": "gs-wb-geo",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-15"
+          },
+          {
+            "question": "Which of the following mountains is located in the Eastern Himalayas of West Bengal?",
+            "options": [
+              "Kangchenjunga",
+              "Makalu",
+              "Lhotse",
+              "Mount Everest"
+            ],
+            "correctIndex": 0,
+            "explanation": "The Kangchenjunga mountain is located in the Eastern Himalayas of West Bengal.",
+            "difficulty": "Medium",
+            "topicId": "gs-wb-geo",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-15"
+          },
+          {
+            "question": "Which of the following rivers flows through the Darjeeling Himalayan hill region?",
+            "options": [
+              "Tista River",
+              "Rai River",
+              "Mechi River",
+              "Kosi River"
+            ],
+            "correctIndex": 0,
+            "explanation": "The Tista River flows through the Darjeeling Himalayan hill region.",
+            "difficulty": "Medium",
+            "topicId": "gs-wb-geo",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-15"
+          },
+          {
+            "question": "Which of the following islands is located off the coast of West Bengal?",
+            "options": [
+              "Narcondam Island",
+              "North Andaman Island",
+              "South Andaman Island",
+              "Baratang Island"
+            ],
+            "correctIndex": 0,
+            "explanation": "The Narcondam Island is located off the coast of West Bengal.",
+            "difficulty": "Medium",
+            "topicId": "gs-wb-geo",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-15"
+          },
+          {
+            "question": "Which of the following mountain passes is located on the Sikkim-Bhutan border?",
+            "options": [
+              "Jelep La Pass",
+              " Nathu La Pass",
+              "Chola Pass",
+              "Shipkila Pass"
+            ],
+            "correctIndex": 1,
+            "explanation": "The Nathu La Pass is located on the Sikkim-Bhutan border.",
             "difficulty": "Medium",
             "topicId": "gs-wb-geo",
             "source": "ai_generated",
@@ -260,75 +178,75 @@
         "subjectName": "General Studies",
         "questions": [
           {
-            "question": "Which of the following schemes is launched by the Government of West Bengal for the welfare of SC/ST students?",
+            "question": "Which of the following is a flagship scheme of West Bengal government for providing housing to the urban poor?",
             "options": [
-              "Pathar Khana Yojana",
-              "Kanyashree Prakalpa",
-              "Swami Vivekananda Merit Cum Means Scholarship",
-              "Jai Bangla Health Mission"
-            ],
-            "correctIndex": 1,
-            "explanation": "It provides financial assistance to girls from SC/ST families.",
-            "difficulty": "Medium",
-            "topicId": "gs-wb-schemes",
-            "source": "ai_generated",
-            "generatedDate": "2026-07-15"
-          },
-          {
-            "question": "What is the main objective of the 'Mukhya Mantri Shramik Bima Yojana' launched by the Government of West Bengal?",
-            "options": [
-              "To provide insurance coverage to unorganized sector workers",
-              "To provide financial assistance to small business owners",
-              "To provide loan at low interest rate to entrepreneurs",
-              "To provide employment opportunities to rural youth"
-            ],
-            "correctIndex": 0,
-            "explanation": "It provides insurance coverage to unorganized sector workers.",
-            "difficulty": "Medium",
-            "topicId": "gs-wb-schemes",
-            "source": "ai_generated",
-            "generatedDate": "2026-07-15"
-          },
-          {
-            "question": "Which of the following is a key component of the 'Sabuj Sangha' initiative launched by the Government of West Bengal?",
-            "options": [
-              "Afforestation",
-              "Watershed Development",
-              "Rural Electrification",
-              "Digital Literacy"
-            ],
-            "correctIndex": 1,
-            "explanation": "It aims to promote sustainable livelihoods through natural resource management.",
-            "difficulty": "Medium",
-            "topicId": "gs-wb-schemes",
-            "source": "ai_generated",
-            "generatedDate": "2026-07-15"
-          },
-          {
-            "question": "The 'Karmayogi Prakalpa' is a scheme launched by the Government of West Bengal for the empowerment of?",
-            "options": [
-              "Women",
-              "Youth",
-              "Small Business Owners",
-              "Senior Citizens"
-            ],
-            "correctIndex": 0,
-            "explanation": "It aims to provide vocational training and employment opportunities to women.",
-            "difficulty": "Medium",
-            "topicId": "gs-wb-schemes",
-            "source": "ai_generated",
-            "generatedDate": "2026-07-15"
-          },
-          {
-            "question": "Which of the following is the primary focus area of the 'Jai Bangla Health Mission' launched by the Government of West Bengal?",
-            "options": [
-              "Preventive Healthcare",
-              "Curative Healthcare",
-              "Reproductive and Child Health",
-              "Mental Healthcare"
+              "Jal Jeevan Mission",
+              "Swachh Bharat Abhiyan",
+              "Bangla Abas Yojana",
+              "Pradhan Mantri Awas Yojana"
             ],
             "correctIndex": 2,
-            "explanation": "It aims to improve the health outcomes of women and children.",
+            "explanation": "Bangla Abas Yojana provides housing to the urban poor in West Bengal.",
+            "difficulty": "Medium",
+            "topicId": "gs-wb-schemes",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-15"
+          },
+          {
+            "question": "What is the name of the West Bengal government's scheme for providing financial assistance to farmers for crop insurance?",
+            "options": [
+              "Krishi Sinchayee Yojana",
+              "Kisan Credit Card Scheme",
+              "Swarna Jayanti Gram Swarozgar Yojana",
+              "Krishi Proshikshan Yojana"
+            ],
+            "correctIndex": "2",
+            "explanation": "The scheme provides financial assistance to farmers for crop insurance in West Bengal.",
+            "difficulty": "Medium",
+            "topicId": "gs-wb-schemes",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-15"
+          },
+          {
+            "question": "Which of the following schemes is launched by the West Bengal government for promoting entrepreneurship among the youth?",
+            "options": [
+              "Udyog Mitra Yojana",
+              "Udyaan Yojana",
+              "Udyog Vikas Yojana",
+              "Udyog Nidhi Yojana"
+            ],
+            "correctIndex": "0",
+            "explanation": "The scheme promotes entrepreneurship among the youth in West Bengal.",
+            "difficulty": "Medium",
+            "topicId": "gs-wb-schemes",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-15"
+          },
+          {
+            "question": "What is the name of the West Bengal government's scheme for providing free education to girls from economically backward families?",
+            "options": [
+              "Shiksha Sambal Yojana",
+              "Shiksha Kalyan Yojana",
+              "Shiksha Sahayata Yojana",
+              "Shiksha Swarojgar Yojana"
+            ],
+            "correctIndex": "2",
+            "explanation": "The scheme provides free education to girls from economically backward families in West Bengal.",
+            "difficulty": "Medium",
+            "topicId": "gs-wb-schemes",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-15"
+          },
+          {
+            "question": "Which of the following schemes is launched by the West Bengal government for providing financial assistance to the elderly for their healthcare?",
+            "options": [
+              "Anandadhara Yojana",
+              "Pension Yojana",
+              "Anandashree Yojana",
+              "Anandamoyi Yojana"
+            ],
+            "correctIndex": "0",
+            "explanation": "The scheme provides financial assistance to the elderly for their healthcare in West Bengal.",
             "difficulty": "Medium",
             "topicId": "gs-wb-schemes",
             "source": "ai_generated",
@@ -339,162 +257,80 @@
       }
     },
     "math": {
-      "math-percent": {
-        "topicName": "Percentage & Profit-Loss",
-        "subjectName": "Arithmetic",
-        "questions": [
-          {
-            "question": "By selling a scooter at a loss of 10%, a shopkeeper gets Rs. 4200. If he sells it at the marked price, he would get Rs. 4600. What is the cost price of the scooter?",
-            "options": [
-              "Rs. 4000",
-              "Rs. 4080",
-              "Rs. 4500",
-              "Rs. 4800"
-            ],
-            "correctIndex": 1,
-            "explanation": "Selling price at loss is 90% of the cost price.",
-            "difficulty": "Medium",
-            "topicId": "math-profit-loss",
-            "source": "ai_generated",
-            "generatedDate": "2026-07-15"
-          },
-          {
-            "question": "In a shop in Kolkata, a TV set is marked at Rs. 18000. A customer buys it at 18% discount. How much amount will he have to pay?",
-            "options": [
-              "Rs. 14760",
-              "Rs. 15840",
-              "Rs. 14700",
-              "Rs. 15800"
-            ],
-            "correctIndex": 0,
-            "explanation": "Discounted price is 82% of the marked price.",
-            "difficulty": "Medium",
-            "topicId": "math-percent",
-            "source": "ai_generated",
-            "generatedDate": "2026-07-15"
-          },
-          {
-            "question": "Aman buys a mobile for Rs. 12000 and sells it for Rs. 11000. What is his loss percentage?",
-            "options": [
-              "5%",
-              "7.5%",
-              "10%",
-              "15%"
-            ],
-            "correctIndex": 2,
-            "explanation": "Loss percentage is (loss/cost price)*100.",
-            "difficulty": "Medium",
-            "topicId": "math-profit-loss",
-            "source": "ai_generated",
-            "generatedDate": "2026-07-15"
-          },
-          {
-            "question": "A shopkeeper purchases a saree for Rs. 800 and sells it for Rs. 960. What is his profit percentage?",
-            "options": [
-              "10%",
-              "12%",
-              "15%",
-              "20%"
-            ],
-            "correctIndex": 2,
-            "explanation": "Profit percentage is (profit/cost price)*100.",
-            "difficulty": "Medium",
-            "topicId": "math-profit-loss",
-            "source": "ai_generated",
-            "generatedDate": "2026-07-15"
-          },
-          {
-            "question": "A person gets a 12% commission on the sale of a product. If he sells a product for Rs. 15000, how much commission does he get?",
-            "options": [
-              "Rs. 1200",
-              "Rs. 1440",
-              "Rs. 1800",
-              "Rs. 2400"
-            ],
-            "correctIndex": 1,
-            "explanation": "Commission is 12% of the selling price.",
-            "difficulty": "Medium",
-            "topicId": "math-percent",
-            "source": "ai_generated",
-            "generatedDate": "2026-07-15"
-          }
-        ],
-        "questionCount": 5
-      },
       "math-interest": {
         "topicName": "Simple & Compound Interest",
         "subjectName": "Arithmetic",
         "questions": [
           {
-            "question": "A certain sum of money is invested in West Bengal Government Saving Bond at a compound interest rate of 8% per annum for 2 years. If the maturity amount is Rs 1,21,638, then the principal amount is?",
+            "question": "At a rate of 7.5% per annum compound interest, how much will Rs. 9,000 become after 2 years?",
             "options": [
-              "Rs 80,000",
-              "Rs 90,000",
-              "Rs 1,00,000",
-              "Rs 1,10,000"
-            ],
-            "correctIndex": 2,
-            "explanation": "Compound interest formula",
-            "difficulty": "Medium",
-            "topicId": "math-interest",
-            "source": "ai_generated",
-            "generatedDate": "2026-07-15"
-          },
-          {
-            "question": "A person bought a property in Kolkata for Rs 25 lakhs and sold it after 5 years at a simple interest rate of 6% per annum. The selling price of the property is Rs 40 lakhs. What percentage of profit has the person earned?",
-            "options": [
-              "10%",
-              "12%",
-              "15%",
-              "18%"
-            ],
-            "correctIndex": 1,
-            "explanation": "Simple interest formula",
-            "difficulty": "Medium",
-            "topicId": "math-interest",
-            "source": "ai_generated",
-            "generatedDate": "2026-07-15"
-          },
-          {
-            "question": "A company in West Bengal invests Rs 10 lakhs in a business for 3 years at a compound interest rate of 10% per annum. What is the amount of money that the company will have at the end of 3 years?",
-            "options": [
-              "Rs 15,15,510",
-              "Rs 16,03,900",
-              "Rs 16,32,600",
-              "Rs 17,01,100"
-            ],
-            "correctIndex": 1,
-            "explanation": "Compound interest formula",
-            "difficulty": "Medium",
-            "topicId": "math-interest",
-            "source": "ai_generated",
-            "generatedDate": "2026-07-15"
-          },
-          {
-            "question": "A certain sum of money is invested in a fixed deposit account in a bank in West Bengal for 2 years at a simple interest rate of 9% per annum. If the interest earned is Rs 17,880, then the principal amount is?",
-            "options": [
-              "Rs 80,000",
-              "Rs 1,00,000",
-              "Rs 1,20,000",
-              "Rs 1,40,000"
-            ],
-            "correctIndex": 2,
-            "explanation": "Simple interest formula",
-            "difficulty": "Medium",
-            "topicId": "math-interest",
-            "source": "ai_generated",
-            "generatedDate": "2026-07-15"
-          },
-          {
-            "question": "A West Bengal Government employee invested Rs 50,000 in a post office scheme at a compound interest rate of 12% per annum for 2 years. Find the amount of money the employee will get at the end of 2 years?",
-            "options": [
-              "Rs 71,120",
-              "Rs 71,240",
-              "Rs 71,320",
-              "Rs 71,440"
+              "Rs. 9,563.10",
+              "Rs. 9,649.10",
+              "Rs. 9,735.10",
+              "Rs. 9,821.10"
             ],
             "correctIndex": 0,
-            "explanation": "Compound interest formula",
+            "explanation": "Using the formula A = P(1 + r/100)^n.",
+            "difficulty": "Medium",
+            "topicId": "math-interest",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-15"
+          },
+          {
+            "question": "An amount becomes Rs. 5,000 in 4 years at compound interest rate of 5% per annum. What was the principal amount?",
+            "options": [
+              "Rs. 4,384.21",
+              "Rs. 4,500.00",
+              "Rs. 4,615.94",
+              "Rs. 4,750.00"
+            ],
+            "correctIndex": 1,
+            "explanation": "Using the formula A = P(1 + r/100)^n.",
+            "difficulty": "Medium",
+            "topicId": "math-interest",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-15"
+          },
+          {
+            "question": "What is the simple interest on a sum of Rs. 7,000 at 9% per annum for 3 years?",
+            "options": [
+              "Rs. 1,845.00",
+              "Rs. 1,950.00",
+              "Rs. 2,070.00",
+              "Rs. 2,200.00"
+            ],
+            "correctIndex": 0,
+            "explanation": "Using the formula SI = (P * r * t)/100.",
+            "difficulty": "Easy",
+            "topicId": "math-interest",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-15"
+          },
+          {
+            "question": "The simple interest on Rs. 12,000 at 6% per annum for 2 years is Rs. 1,440. What is the amount after 2 years?",
+            "options": [
+              "Rs. 13,440.00",
+              "Rs. 13,540.00",
+              "Rs. 13,640.00",
+              "Rs. 13,800.00"
+            ],
+            "correctIndex": 0,
+            "explanation": "Adding the principal amount with the simple interest.",
+            "difficulty": "Medium",
+            "topicId": "math-interest",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-15"
+          },
+          {
+            "question": "A sum of Rs. 10,000 is invested at 8% per annum compound interest. What will be the amount after 5 years?",
+            "options": [
+              "Rs. 14,492.71",
+              "Rs. 14,649.10",
+              "Rs. 14,806.49",
+              "Rs. 15,000.00"
+            ],
+            "correctIndex": 1,
+            "explanation": "Using the formula A = P(1 + r/100)^n.",
             "difficulty": "Medium",
             "topicId": "math-interest",
             "source": "ai_generated",
@@ -508,159 +344,77 @@
         "subjectName": "Arithmetic",
         "questions": [
           {
-            "question": "A worker can finish 1/4th of a work in 2 hours. How long will it take for 3 workers to complete the work?",
+            "question": "A pipe can fill 1/4th of a tank in 1 hour. If 3 such pipes are used, then the time taken to fill the tank will be?",
             "options": [
+              "3 hours",
+              "1.5 hours",
               "6 hours",
-              "8 hours",
-              "10 hours",
-              "12 hours"
-            ],
-            "correctIndex": 0,
-            "explanation": "Using the concept of inverse proportion.",
-            "difficulty": "Medium",
-            "topicId": "math-tw",
-            "source": "ai_generated",
-            "generatedDate": "2026-07-15"
-          },
-          {
-            "question": "A pipe can fill 1/3rd of a tank in 5 minutes. How long will it take to fill the remaining 2/3rd part of the tank?",
-            "options": [
-              "15 minutes",
-              "20 minutes",
-              "25 minutes",
-              "30 minutes"
-            ],
-            "correctIndex": 2,
-            "explanation": "Using the concept of inverse proportion.",
-            "difficulty": "Medium",
-            "topicId": "math-pipes",
-            "source": "ai_generated",
-            "generatedDate": "2026-07-15"
-          },
-          {
-            "question": "6 men can finish a work in 9 days. In how many days will 12 men finish the same work?",
-            "options": [
-              "4.5 days",
-              "6 days",
-              "7.5 days",
-              "9 days"
-            ],
-            "correctIndex": 0,
-            "explanation": "Using the concept of inverse proportion.",
-            "difficulty": "Medium",
-            "topicId": "math-tw",
-            "source": "ai_generated",
-            "generatedDate": "2026-07-15"
-          },
-          {
-            "question": "A tap can fill 1/5th of a bucket in 10 minutes. How long will it take to fill 3/5th of the bucket?",
-            "options": [
-              "20 minutes",
-              "25 minutes",
-              "30 minutes",
-              "35 minutes"
-            ],
-            "correctIndex": 2,
-            "explanation": "Using the concept of inverse proportion.",
-            "difficulty": "Medium",
-            "topicId": "math-pipes",
-            "source": "ai_generated",
-            "generatedDate": "2026-07-15"
-          },
-          {
-            "question": "A person can finish 1/2nd of a work in 12 hours. How long will it take for 2 persons to complete the remaining work?",
-            "options": [
-              "8 hours",
-              "10 hours",
-              "12 hours",
-              "16 hours"
-            ],
-            "correctIndex": 2,
-            "explanation": "Using the concept of inverse proportion.",
-            "difficulty": "Medium",
-            "topicId": "math-tw",
-            "source": "ai_generated",
-            "generatedDate": "2026-07-15"
-          }
-        ],
-        "questionCount": 5
-      },
-      "math-tsd": {
-        "topicName": "Time, Speed & Distance",
-        "subjectName": "Arithmetic",
-        "questions": [
-          {
-            "question": "A train covers a distance of 120 km from Sealdah to Bandel in 2 hours. How much time will it take to cover a distance of 240 km?",
-            "options": [
-              "2 hours",
-              "4 hours",
-              "6 hours",
-              "8 hours"
+              "4 hours"
             ],
             "correctIndex": 1,
-            "explanation": "Distance is directly proportional to time.",
+            "explanation": "Using 3 pipes will fill 3/4th of the tank in 1 hour.",
             "difficulty": "Medium",
-            "topicId": "math-tsd",
+            "topicId": "math-tw",
             "source": "ai_generated",
             "generatedDate": "2026-07-15"
           },
           {
-            "question": "A bus travels from Kolkata to Durgapur covering a distance of 175 km in 5.5 hours. What is the speed of the bus in km/h?",
+            "question": "A man can finish 1/2 of a work in 2 days. How many days will he take to finish the whole work?",
             "options": [
-              "20 km/h",
-              "30 km/h",
-              "32 km/h",
-              "40 km/h"
+              "4 days",
+              "2 days",
+              "3 days",
+              "1 day"
             ],
             "correctIndex": 2,
-            "explanation": "Speed is distance divided by time.",
+            "explanation": "Since he can finish half the work in 2 days, he will finish the whole work in 3 days.",
             "difficulty": "Easy",
-            "topicId": "math-tsd",
+            "topicId": "math-tw",
             "source": "ai_generated",
             "generatedDate": "2026-07-15"
           },
           {
-            "question": "A person travels from Dakshineswar to Howrah at an average speed of 20 km/h. If he reaches Howrah in 3 hours, what distance has he covered?",
+            "question": "In a school, 12 students can clean the school in 8 hours. How many students are needed to clean the school in 6 hours?",
             "options": [
-              "60 km",
-              "80 km",
-              "60 km",
-              "None of the above"
+              "10 students",
+              "8 students",
+              "12 students",
+              "15 students"
+            ],
+            "correctIndex": 1,
+            "explanation": "Since 12 students can clean the school in 8 hours, 16 students will be needed to clean it in 6 hours.",
+            "difficulty": "Medium",
+            "topicId": "math-tw",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-15"
+          },
+          {
+            "question": "A worker can complete 1/5th of a job in 4 hours. How many hours will he take to complete 3/5th of the job?",
+            "options": [
+              "8 hours",
+              "4 hours",
+              "3 hours",
+              "6 hours"
             ],
             "correctIndex": 0,
-            "explanation": "Speed multiplied by time is equal to distance.",
+            "explanation": "Since he can complete 1/5th of the job in 4 hours, he will complete 3/5th of the job in 12 hours.",
             "difficulty": "Medium",
-            "topicId": "math-tsd",
+            "topicId": "math-tw",
             "source": "ai_generated",
             "generatedDate": "2026-07-15"
           },
           {
-            "question": "A car travels from Siliguri to Jalpaiguri at an average speed of 25 km/h and covers a distance of 125 km in 5 hours. What is the ratio of time taken to distance travelled?",
+            "question": "A pump can fill a tank in 3 hours. However, a pipe also fills the tank in 6 hours. If both the pump and the pipe are opened together, then the time taken to fill the tank will be?",
             "options": [
-              "1:5",
-              "1:10",
-              "1:20",
-              "1:25"
+              "1.5 hours",
+              "2 hours",
+              "4 hours",
+              "6 hours"
             ],
-            "correctIndex": 0,
-            "explanation": "Time is directly proportional to distance.",
+            "correctIndex": 1,
+            "explanation": "Together, they will fill 1/3rd of the tank in 1 hour and 1/6th of the tank in 1 hour.",
             "difficulty": "Medium",
-            "topicId": "math-tsd",
-            "source": "ai_generated",
-            "generatedDate": "2026-07-15"
-          },
-          {
-            "question": "A train leaves Howrah at 8:00 AM and reaches Asansol at 11:00 AM. If the distance between the two stations is 165 km and the train travels at a constant speed, what is the speed of the train in km/h?",
-            "options": [
-              "22.5 km/h",
-              "25 km/h",
-              "30 km/h",
-              "32.5 km/h"
-            ],
-            "correctIndex": 2,
-            "explanation": "Speed is distance divided by time.",
-            "difficulty": "Medium",
-            "topicId": "math-tsd",
+            "topicId": "math-tw",
             "source": "ai_generated",
             "generatedDate": "2026-07-15"
           }
@@ -674,73 +428,76 @@
         "subjectName": "Reasoning",
         "questions": [
           {
-            "question": "A person is standing at a distance from his friend. To reach his friend he takes 7 steps forward and 3 steps backward. Then he takes 5 steps forward and 4 steps backward. How many steps will he take to reach his friend?",
+            "question": "Which of the following represents the correct decoding of the word 'মহামায়া'?",
             "options": [
-              "5 steps",
-              "10 steps",
-              "15 steps",
-              "20 steps"
-            ],
-            "correctIndex": 0,
-            "explanation": "The correct answer is found by calculating the net displacement.",
-            "difficulty": "Medium",
-            "topicId": "rs-coding",
-            "source": "ai_generated",
-            "generatedDate": "2026-07-15"
-          },
-          {
-            "question": "A shopkeeper buys fruits from a local market in Kolkata. He buys 240 kg of fruits at the rate of Rs. 40 per kg. What is the total cost of the fruits he bought?",
-            "options": [
-              "9600",
-              "96000",
-              "960000",
-              "9600000"
+              "মাহামায়া",
+              "মহামায়া",
+              "মহামাদাই",
+              "মাহামাদাই"
             ],
             "correctIndex": 1,
-            "explanation": "The total cost can be calculated by multiplying the weight of fruits with the cost per kg.",
-            "difficulty": "Easy",
-            "topicId": "rs-coding",
-            "source": "ai_generated",
-            "generatedDate": "2026-07-15"
-          },
-          {
-            "question": "If the word 'KOLKATA' is coded as 'K T A L O K', then the code for the word 'BENGAL' is?",
-            "options": [
-              "B N G L A"
-            ],
-            "correctIndex": 0,
-            "explanation": "The code follows a pattern where each alphabetic character shifts one position forward in the alphabet.",
-            "difficulty": "Easy",
-            "topicId": "rs-coding",
-            "source": "ai_generated",
-            "generatedDate": "2026-07-15"
-          },
-          {
-            "question": "In a row of 8 houses, each house is painted with one of 8 different colors. The colors are - Red, Blue, Green, White, Yellow, Black, Grey, and Orange. What is the total number of ways to paint these 8 houses with different colors?",
-            "options": [
-              "40320",
-              "403200",
-              "4032000",
-              "40320000"
-            ],
-            "correctIndex": 0,
-            "explanation": "The total number of ways can be calculated by using the concept of permutations.",
+            "explanation": "It is the correct Bengali word.",
             "difficulty": "Medium",
             "topicId": "rs-coding",
             "source": "ai_generated",
             "generatedDate": "2026-07-15"
           },
           {
-            "question": "A man is standing in a queue. He moves 5 steps forward and 2 steps backward. Then he moves 3 steps forward and 4 steps backward. What is the net number of steps he moved?",
+            "question": "In the given series 3, 5, 8, 12, 17, 23, ?, the pattern is:",
             "options": [
-              "-5 steps",
-              "-2 steps",
-              "2 steps",
-              "5 steps"
+              "38",
+              "32",
+              "35",
+              "40"
             ],
             "correctIndex": 3,
-            "explanation": "The net displacement is calculated by adding the total forward steps and total backward steps.",
-            "difficulty": "Easy",
+            "explanation": "The pattern involves adding consecutive increments.",
+            "difficulty": "Medium",
+            "topicId": "rs-coding",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-15"
+          },
+          {
+            "question": "Which of the following is the correct code for the word 'Bengal'?",
+            "options": [
+              "B - 1, E - 2, N - 3, G - 4, A - 5, L - 6",
+              "B - 2, E - 3, N - 4, G - 5, A - 6, L - 7",
+              "B - 3, E - 4, N - 5, G - 6, A - 7, L - 8",
+              "B - 4, E - 5, N - 6, G - 7, A - 8, L - 9"
+            ],
+            "correctIndex": 2,
+            "explanation": "It is a standard alphabetical coding.",
+            "difficulty": "Medium",
+            "topicId": "rs-coding",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-15"
+          },
+          {
+            "question": "Which of the following series follows the pattern of addition and subtraction?",
+            "options": [
+              "6, 8, 9, 10, 11",
+              "5, 6, 8, 9, 11",
+              "10, 8, 6, 4, 2",
+              "7, 8, 9, 10, 11"
+            ],
+            "correctIndex": 1,
+            "explanation": "It involves alternating addition and subtraction.",
+            "difficulty": "Medium",
+            "topicId": "rs-coding",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-15"
+          },
+          {
+            "question": "Which of the following represents the correct decoding of the word 'মৃত্যু'?",
+            "options": [
+              "মৃত",
+              "মৃত্যু",
+              "মৃত্যাবতী",
+              "মৃত্যুকূল"
+            ],
+            "correctIndex": 1,
+            "explanation": "It is the correct Bengali word.",
+            "difficulty": "Medium",
             "topicId": "rs-coding",
             "source": "ai_generated",
             "generatedDate": "2026-07-15"
@@ -753,241 +510,77 @@
         "subjectName": "Reasoning",
         "questions": [
           {
-            "question": "Rajiv's wife is the sister of Kavita's husband, how is Kavita related to Rajiv?",
+            "question": "Rashmi is the daughter of Kalyani. Ramesh is the husband of Kalyani, then who is the father of Rashmi?",
             "options": [
-              "Mother",
-              "Sister",
-              "Daughter",
-              "Father"
-            ],
-            "correctIndex": 1,
-            "explanation": "Kavita is Rajiv's sister-in-law.",
-            "difficulty": "Medium",
-            "topicId": "rs-blood",
-            "source": "ai_generated",
-            "generatedDate": "2026-07-15"
-          },
-          {
-            "question": "Dipti is the daughter of Kishore's wife's mother. How is Dipti related to Kishore?",
-            "options": [
-              "Mother",
-              "Sister",
-              "Daughter",
-              "Brother"
-            ],
-            "correctIndex": 2,
-            "explanation": "Dipti is Kishore's daughter.",
-            "difficulty": "Medium",
-            "topicId": "rs-blood",
-            "source": "ai_generated",
-            "generatedDate": "2026-07-15"
-          },
-          {
-            "question": "Pritam is the son of Kishore's father's brother's son. How is Pritam related to Kishore?",
-            "options": [
-              "Father",
-              "Uncle",
-              "Cousin",
-              "Brother"
-            ],
-            "correctIndex": 2,
-            "explanation": "Pritam is Kishore's cousin.",
-            "difficulty": "Medium",
-            "topicId": "rs-blood",
-            "source": "ai_generated",
-            "generatedDate": "2026-07-15"
-          },
-          {
-            "question": "Bidyut's wife's sister is married to Rakesh. How is Bikash related to Rakesh?",
-            "options": [
-              "Brother",
-              "Father",
-              "Son",
-              "Uncle"
-            ],
-            "correctIndex": 2,
-            "explanation": "Bikash is Rakesh's brother-in-law.",
-            "difficulty": "Medium",
-            "topicId": "rs-blood",
-            "source": "ai_generated",
-            "generatedDate": "2026-07-15"
-          },
-          {
-            "question": "Supriya is the daughter of Biman's wife's mother. How is Supriya related to Biman?",
-            "options": [
-              "Son",
-              "Daughter",
-              "Mother",
-              "Father"
-            ],
-            "correctIndex": 1,
-            "explanation": "Supriya is Biman's daughter.",
-            "difficulty": "Medium",
-            "topicId": "rs-blood",
-            "source": "ai_generated",
-            "generatedDate": "2026-07-15"
-          }
-        ],
-        "questionCount": 5
-      },
-      "rs-direction": {
-        "topicName": "Direction Sense",
-        "subjectName": "Reasoning",
-        "questions": [
-          {
-            "question": "From the top of Howrah Bridge, if you walk 250 meters towards the north and then 150 meters towards the east, which direction is South-East?",
-            "options": [
-              "North-West",
-              "South-East",
-              "North-East",
-              "South-West"
-            ],
-            "correctIndex": 1,
-            "explanation": "North and East directions were walked.",
-            "difficulty": "Medium",
-            "topicId": "rs-direction",
-            "source": "ai_generated",
-            "generatedDate": "2026-07-15"
-          },
-          {
-            "question": "If a person travels 8 km eastwards, then 2 km towards north and then 4 km towards west, how far and in which direction is the person now from the starting point?",
-            "options": [
-              "5 km North",
-              "5 km South",
-              "5 km East",
-              "5 km West"
-            ],
-            "correctIndex": 3,
-            "explanation": "East and West directions cancel each other.",
-            "difficulty": "Medium",
-            "topicId": "rs-direction",
-            "source": "ai_generated",
-            "generatedDate": "2026-07-15"
-          },
-          {
-            "question": "A man is facing east direction. If he turns 135 degrees to his left, in which direction is he facing now?",
-            "options": [
-              "North-East",
-              "North-West",
-              "South-East",
-              "South-West"
+              "Ramesh",
+              "Brother of Ramesh",
+              "Son of Ramesh",
+              "Father of Ramesh"
             ],
             "correctIndex": 0,
-            "explanation": "He turned 135 degrees to his left.",
-            "difficulty": "Easy",
-            "topicId": "rs-direction",
-            "source": "ai_generated",
-            "generatedDate": "2026-07-15"
-          },
-          {
-            "question": "After walking 200 meters south and then 300 meters east, a person finds himself at a point 400 meters away from his starting point. In which direction is the starting point from his current position?",
-            "options": [
-              "North-East",
-              "North-West",
-              "South-East",
-              "South-West"
-            ],
-            "correctIndex": 2,
-            "explanation": "Pythagorean Theorem can be used.",
-            "difficulty": "Hard",
-            "topicId": "rs-direction",
-            "source": "ai_generated",
-            "generatedDate": "2026-07-15"
-          },
-          {
-            "question": "A person is standing at a point X. He walks 12 km in the east direction and then 5 km in the north direction. After that, he walks 8 km in the west direction. In which direction is point X from his current position?",
-            "options": [
-              "North",
-              "South",
-              "East",
-              "West"
-            ],
-            "correctIndex": 2,
-            "explanation": "East and West directions cancel each other.",
+            "explanation": "Rashmi's father is Kalyani's husband.",
             "difficulty": "Medium",
-            "topicId": "rs-direction",
-            "source": "ai_generated",
-            "generatedDate": "2026-07-15"
-          }
-        ],
-        "questionCount": 5
-      },
-      "rs-series": {
-        "topicName": "Number & Letter Series",
-        "subjectName": "Reasoning",
-        "questions": [
-          {
-            "question": "Find the missing number in the series: 3, 5, 7, 9, ?, 13",
-            "options": [
-              "8",
-              "10",
-              "11",
-              "12"
-            ],
-            "correctIndex": 2,
-            "explanation": "The pattern in the series is adding 2 to each number.",
-            "difficulty": "Medium",
-            "topicId": "rs-series",
+            "topicId": "rs-blood",
             "source": "ai_generated",
             "generatedDate": "2026-07-15"
           },
           {
-            "question": "Which of the following series would continue with 27, if the pattern is maintained?",
+            "question": "Sudipta is the sister of Bimal, then what is the relationship between Sudipta and her daughter, Srijita?",
             "options": [
-              "24, 25, 26, 27",
-              "26, 27, 28, 29",
-              "25, 26, 27, 28",
-              "27, 28, 29, 30"
+              "Srijita is the mother of Sudipta",
+              "Srijita is the daughter of Sudipta's brother",
+              "Sudipta is the mother of Srijita",
+              "Srijita is the sister of Sudipta"
+            ],
+            "correctIndex": 2,
+            "explanation": "Sudipta is the mother of Srijita.",
+            "difficulty": "Medium",
+            "topicId": "rs-blood",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-15"
+          },
+          {
+            "question": "Bikash and Debjit are brothers. If Bikash's wife is the sister of Debjit's wife, then what is Debjit's relationship with Bikash's wife?",
+            "options": [
+              "Wife of Debjit",
+              "Sister of Debjit",
+              "Wife of Bikash",
+              "Wife of Debjit's brother"
             ],
             "correctIndex": 0,
-            "explanation": "The series increases by 1 each time.",
+            "explanation": "Debjit's wife is the sister of Bikash's wife.",
             "difficulty": "Medium",
-            "topicId": "rs-series",
+            "topicId": "rs-blood",
             "source": "ai_generated",
             "generatedDate": "2026-07-15"
           },
           {
-            "question": "Find the missing number in the series: 1, 2, 6, 24, ?, 144",
+            "question": "Amit and Pritam are brothers. If Pritam's wife is the daughter of Amit's wife's brother, then what is Amit's wife's relationship with Pritam's wife?",
             "options": [
-              "8",
-              "10",
-              "12",
-              "16"
+              "Sister of Pritam's wife",
+              "Daughter of Pritam's wife",
+              "Mother of Pritam's wife",
+              "Wife of Amit"
             ],
-            "correctIndex": 3,
-            "explanation": "The pattern in the series is squaring the number and then multiplying by 1, 2, 4, 8, etc.",
-            "difficulty": "Hard",
-            "topicId": "rs-series",
-            "source": "ai_generated",
-            "generatedDate": "2026-07-15"
-          },
-          {
-            "question": "Which of the following series would continue with 27, if the pattern is maintained?",
-            "options": [
-              "24, 26, 28, 30",
-              "23, 25, 27, 29",
-              "25, 26, 27, 28",
-              "26, 27, 28, 29"
-            ],
-            "correctIndex": 2,
-            "explanation": "The series increases by 1 each time.",
+            "correctIndex": 0,
+            "explanation": "Amit's wife is the sister of Pritam's wife.",
             "difficulty": "Medium",
-            "topicId": "rs-series",
+            "topicId": "rs-blood",
             "source": "ai_generated",
             "generatedDate": "2026-07-15"
           },
           {
-            "question": "Find the missing number in the series: G, H, J, L, ?, P",
+            "question": "Rabindra is the son of Ratan. If Ratan's sister's son is married to Rabindra's daughter, then what is Rabindra's relationship with Rabindra's daughter's husband?",
             "options": [
-              "I",
-              "K",
-              "M",
-              "N"
+              "Father of Rabindra's daughter's husband",
+              "Son of Rabindra's daughter's husband",
+              "Husband of Rabindra's daughter",
+              "Brother of Rabindra's daughter's husband"
             ],
-            "correctIndex": 2,
-            "explanation": "The series is based on the alphabetical order.",
-            "difficulty": "Easy",
-            "topicId": "rs-series",
+            "correctIndex": 0,
+            "explanation": "Rabindra is the father of Rabindra's daughter's husband.",
+            "difficulty": "Medium",
+            "topicId": "rs-blood",
             "source": "ai_generated",
             "generatedDate": "2026-07-15"
           }
