@@ -1,0 +1,838 @@
+{
+  "exam": "si",
+  "generatedDate": "2026-07-16",
+  "generatedAt": "2026-07-16T03:47:45.350Z",
+  "model": "llama-3.1-8b-instant",
+  "provider": "groq",
+  "source": "ai_generated",
+  "reviewStatus": "pending",
+  "totalQuestions": 50,
+  "subjects": {
+    "gs": {
+      "gs-polity": {
+        "topicName": "Indian Constitution & Polity",
+        "subjectName": "General Studies",
+        "questions": [
+          {
+            "question": "The Panchayati Raj system was introduced in West Bengal in the year?",
+            "options": [
+              "1959",
+              "1968",
+              "1973",
+              "1978"
+            ],
+            "correctIndex": 0,
+            "explanation": "The Panchayati Raj system was introduced in West Bengal in the year 1968.",
+            "difficulty": "Easy",
+            "topicId": "gs-polity",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-16"
+          },
+          {
+            "question": "Which of the following articles in the Indian Constitution deals with the principles of state policy?",
+            "options": [
+              "Article 14",
+              "Article 15",
+              "Article 25",
+              "Article 51A"
+            ],
+            "correctIndex": 3,
+            "explanation": "Article 51A deals with the principles of state policy.",
+            "difficulty": "Medium",
+            "topicId": "gs-polity",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-16"
+          },
+          {
+            "question": "The President of India serves as the head of the state in India, but in terms of administration and governance, the actual head is the?",
+            "options": [
+              "Prime Minister",
+              "President",
+              "Governor",
+              "Chief Minister"
+            ],
+            "correctIndex": 1,
+            "explanation": "The President of India serves as the head of the state but the actual head in terms of administration is the Governor.",
+            "difficulty": "Easy",
+            "topicId": "gs-polity",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-16"
+          },
+          {
+            "question": "West Bengal has a three-tier Panchayat system as per the 73rd Constitutional Amendment Act. Which level of Panchayat is the highest?",
+            "options": [
+              "Gram Panchayat",
+              "Panchayat Samiti",
+              "Zilla Parishad",
+              "Block Development Officer"
+            ],
+            "correctIndex": 2,
+            "explanation": "Zilla Parishad is the highest level of Panchayat in West Bengal.",
+            "difficulty": "Medium",
+            "topicId": "gs-polity",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-16"
+          },
+          {
+            "question": "The Seventh Schedule of the Indian Constitution is divided into three lists. Which list deals with state subjects?",
+            "options": [
+              "List I",
+              "List II",
+              "List III",
+              "List IV"
+            ],
+            "correctIndex": 2,
+            "explanation": "List III deals with state subjects.",
+            "difficulty": "Easy",
+            "topicId": "gs-polity",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-16"
+          }
+        ],
+        "questionCount": 5
+      },
+      "gs-freedom": {
+        "topicName": "Indian Freedom Struggle & Bengal",
+        "subjectName": "General Studies",
+        "questions": [
+          {
+            "question": "In which year did the Swadeshi Movement begin in Bengal?",
+            "options": [
+              "1902",
+              "1905",
+              "1911",
+              "1915"
+            ],
+            "correctIndex": 2,
+            "explanation": "The Swadeshi Movement started in 1905.",
+            "difficulty": "Medium",
+            "topicId": "gs-freedom",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-16"
+          },
+          {
+            "question": "Who was the president of the Indian National Congress at the time of the Non-Cooperation Movement in Bengal?",
+            "options": [
+              "Lala Lajpat Rai",
+              "Bipin Chandra Pal",
+              "Mahatma Gandhi",
+              "Subhas Chandra Bose"
+            ],
+            "correctIndex": 2,
+            "explanation": "Mahatma Gandhi was the president.",
+            "difficulty": "Medium",
+            "topicId": "gs-freedom",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-16"
+          },
+          {
+            "question": "Which treaty was signed between the British East India Company and the ruler of Bengal in 1765?",
+            "options": [
+              "Treaty of Allahabad",
+              "Treaty of Lucknow",
+              "Dupleix Treaty",
+              "Treaty of Allahabad is incorrect, correct answer is Treaty of 1765"
+            ],
+            "correctIndex": 3,
+            "explanation": "The correct answer is Treaty 1765.",
+            "difficulty": "Easy",
+            "topicId": "gs-bengal",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-16"
+          },
+          {
+            "question": "Which Bengali leader played a key role in the Indian National Congress and later became the President of the Indian National Congress?",
+            "options": [
+              "Raja Ram Mohan Roy",
+              "Bankim Chandra Chattopadhyay",
+              "Sarala Devi Chaudhurani",
+              "Subhas Chandra Bose"
+            ],
+            "correctIndex": 3,
+            "explanation": "Subhas Chandra Bose was the President.",
+            "difficulty": "Medium",
+            "topicId": "gs-freedom",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-16"
+          },
+          {
+            "question": "In which year did the Partition of Bengal take place?",
+            "options": [
+              "1900",
+              "1905",
+              "1911",
+              "1915"
+            ],
+            "correctIndex": 1,
+            "explanation": "The Partition of Bengal happened in 1905.",
+            "difficulty": "Easy",
+            "topicId": "gs-bengal",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-16"
+          }
+        ],
+        "questionCount": 5
+      },
+      "gs-wb-geo": {
+        "topicName": "West Bengal Geography",
+        "subjectName": "General Studies",
+        "questions": [
+          {
+            "question": "Which of the following rivers forms the boundary of West Bengal?",
+            "options": [
+              "Ganges River",
+              "Brahmaputra River",
+              "Meghna River",
+              "Damodar River"
+            ],
+            "correctIndex": 1,
+            "explanation": "It forms the northeast boundary of the state.",
+            "difficulty": "Easy",
+            "topicId": "gs-wb-geo",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-16"
+          },
+          {
+            "question": "What is the elevation of Mount Kanchenjunga, the highest peak in West Bengal?",
+            "options": [
+              "8538 meters",
+              "8586 meters",
+              "8848 meters",
+              "8856 meters"
+            ],
+            "correctIndex": 0,
+            "explanation": "It is the third highest peak in the world.",
+            "difficulty": "Medium",
+            "topicId": "gs-wb-geo",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-16"
+          },
+          {
+            "question": "Which of the following plateaus is located in the western part of West Bengal?",
+            "options": [
+              "Chota Nagpur Plateau",
+              "Deccan Plateau",
+              "Chhota Odisha Plateau",
+              "Patna Plateau"
+            ],
+            "correctIndex": 0,
+            "explanation": "It covers a significant portion of the state's west.",
+            "difficulty": "Medium",
+            "topicId": "gs-wb-geo",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-16"
+          },
+          {
+            "question": "Which river originates in the Darjeeling Himalayan Hill region of West Bengal?",
+            "options": [
+              "Tista River",
+              "Bhagirathi River",
+              "Ganges River",
+              "Koel River"
+            ],
+            "correctIndex": 0,
+            "explanation": "It flows through Sikkim and is the main river of Sikkim.",
+            "difficulty": "Easy",
+            "topicId": "gs-wb-geo",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-16"
+          },
+          {
+            "question": "Which of the following islands is located off the coast of West Bengal?",
+            "options": [
+              "Sagar Island",
+              "Diu Island",
+              "Andaman Island",
+              "Nicobar Island"
+            ],
+            "correctIndex": 0,
+            "explanation": "It is located in the Ganges Delta.",
+            "difficulty": "Easy",
+            "topicId": "gs-wb-geo",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-16"
+          }
+        ],
+        "questionCount": 5
+      },
+      "gs-current": {
+        "topicName": "Current Affairs (Last 12 Months)",
+        "subjectName": "General Studies",
+        "questions": [
+          {
+            "question": "Which West Bengal government scheme aims to provide financial assistance to the families of martyred police personnel?",
+            "options": [
+              "Siksha Sathi",
+              "Anandamath Scheme",
+              "Kanyashree Prakalpa",
+              "Prakritik Lakshmi"
+            ],
+            "correctIndex": 1,
+            "explanation": "Anandamath Scheme provides financial assistance to the families of martyred police personnel.",
+            "difficulty": "Medium",
+            "topicId": "gs-current",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-16"
+          },
+          {
+            "question": "Who is the current Chief Minister of West Bengal?",
+            "options": [
+              "Mamata Banerjee",
+              "Yogi Adityanath",
+              "Naveen Patnaik",
+              "Pawan Kumar Chamling"
+            ],
+            "correctIndex": 0,
+            "explanation": "Mamata Banerjee is the current Chief Minister of West Bengal.",
+            "difficulty": "Easy",
+            "topicId": "gs-current",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-16"
+          },
+          {
+            "question": "What is the name of the river that flows through the Sundarbans National Park?",
+            "options": [
+              "Ganges",
+              "Hooghly",
+              "Brahmaputra",
+              "Padma"
+            ],
+            "correctIndex": 2,
+            "explanation": "The Sundarbans National Park is located near the mouth of the Ganges-Brahmaputra river system, but the river that flows through it is the Padma and Meghna, the rivers are not mentioned here but the correct option is Brahmaputra",
+            "difficulty": "Easy",
+            "topicId": "gs-current",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-16"
+          },
+          {
+            "question": "Which of the following is NOT a district in West Bengal?",
+            "options": [
+              "Kolkata",
+              "Howrah",
+              "Medinipur",
+              "Kerala"
+            ],
+            "correctIndex": 3,
+            "explanation": "Kerala is a state in India and not a district in West Bengal.",
+            "difficulty": "Medium",
+            "topicId": "gs-current",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-16"
+          },
+          {
+            "question": "Which international organization has declared the Sundarbans as a UNESCO World Heritage Site?",
+            "options": [
+              "UNESCO",
+              "UNDP",
+              "UNICEF",
+              "UNFPA"
+            ],
+            "correctIndex": 0,
+            "explanation": "The Sundarbans was declared a UNESCO World Heritage Site in 1987.",
+            "difficulty": "Medium",
+            "topicId": "gs-current",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-16"
+          }
+        ],
+        "questionCount": 5
+      }
+    },
+    "math": {
+      "math-percent": {
+        "topicName": "Percentage & Profit-Loss",
+        "subjectName": "Arithmetic",
+        "questions": [
+          {
+            "question": "A shopkeeper sells an article at Rs. 420 and makes a profit of 20% over the cost price. What is the cost price of the article?",
+            "options": [
+              "Rs. 350",
+              "Rs. 420",
+              "Rs. 4200",
+              "Rs. 3500"
+            ],
+            "correctIndex": 0,
+            "explanation": "Cost price is calculated by dividing selling price by 1 plus the profit percentage.",
+            "difficulty": "Medium",
+            "topicId": "math-percent",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-16"
+          },
+          {
+            "question": "In a sale, a customer buys a shirt for Rs. 240 which was originally priced at Rs. 300. What percentage discount did the customer get?",
+            "options": [
+              "5%",
+              "10%",
+              "15%",
+              "20%"
+            ],
+            "correctIndex": 2,
+            "explanation": "Percentage discount is calculated by finding the difference between the original price and the sale price, then dividing by the original price.",
+            "difficulty": "Medium",
+            "topicId": "math-percent",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-16"
+          },
+          {
+            "question": "A fruit seller purchases apples at Rs. 20 per kg and sells them at Rs. 30 per kg. What is the profit percentage?",
+            "options": [
+              "20%",
+              "25%",
+              "33.33%",
+              "40%"
+            ],
+            "correctIndex": 2,
+            "explanation": "Profit percentage is calculated by finding the difference between selling price and cost price, then dividing by the cost price and multiplying by 100.",
+            "difficulty": "Medium",
+            "topicId": "math-profit-loss",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-16"
+          },
+          {
+            "question": "A person buys a watch for Rs. 600 and sells it for Rs. 720. His gain is Rs. 120. What is his gain percentage?",
+            "options": [
+              "15%",
+              "16.67%",
+              "20%",
+              "25%"
+            ],
+            "correctIndex": 2,
+            "explanation": "Gain percentage is calculated by dividing the gain by the cost price and multiplying by 100.",
+            "difficulty": "Medium",
+            "topicId": "math-profit-loss",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-16"
+          },
+          {
+            "question": "In a certain market, the cost of a bag of potatoes is Rs. 15 per kg and the cost of a bag of rice is Rs. 25 per kg. If the ratio of the cost of potatoes to the cost of rice is 1:2, what is the cost of 2 kg of potatoes?",
+            "options": [
+              "Rs. 30",
+              "Rs. 35",
+              "Rs. 40",
+              "Rs. 45"
+            ],
+            "correctIndex": 0,
+            "explanation": "Ratio of potatoes to rice is 1:2 which means for every 1 kg of potatoes, 2 kg of rice is bought, so for 2 kg of potatoes, the cost will be 2 times the cost of 1 kg of potatoes.",
+            "difficulty": "Medium",
+            "topicId": "math-percent",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-16"
+          }
+        ],
+        "questionCount": 5
+      },
+      "math-interest": {
+        "topicName": "Simple & Compound Interest",
+        "subjectName": "Arithmetic",
+        "questions": [
+          {
+            "question": "A person invested Rs. 10,000 for 2 years at 5% per annum compound interest. What will be the amount at the end of 2 years?",
+            "options": [
+              "Rs. 10,510",
+              "Rs. 10,525",
+              "Rs. 10,550",
+              "Rs. 10,600"
+            ],
+            "correctIndex": 2,
+            "explanation": "Interest is compounded annually.",
+            "difficulty": "Medium",
+            "topicId": "math-interest",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-16"
+          },
+          {
+            "question": "What is the simple interest on Rs. 8,000 for 3 years at 4% per annum?",
+            "options": [
+              "Rs. 960",
+              "Rs. 1,000",
+              "Rs. 1,040",
+              "Rs. 1,080"
+            ],
+            "correctIndex": 0,
+            "explanation": "Simple interest is calculated using the formula I = PRT.",
+            "difficulty": "Easy",
+            "topicId": "math-interest",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-16"
+          },
+          {
+            "question": "A bank offers 8% per annum simple interest. If Rs. 15,000 is deposited for 5 years, what will be the interest earned?",
+            "options": [
+              "Rs. 3,750",
+              "Rs. 3,800",
+              "Rs. 3,900",
+              "Rs. 4,000"
+            ],
+            "correctIndex": 3,
+            "explanation": "Interest is calculated as I = PRT.",
+            "difficulty": "Medium",
+            "topicId": "math-interest",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-16"
+          },
+          {
+            "question": "A sum of money is invested at 7% per annum compound interest for 1 year. If the amount at the end of the year is Rs. 10,840, what was the principal amount?",
+            "options": [
+              "Rs. 10,000",
+              "Rs. 10,100",
+              "Rs. 10,200",
+              "Rs. 10,300"
+            ],
+            "correctIndex": 0,
+            "explanation": "Compound interest is calculated using the formula A = P(1 + R)^n.",
+            "difficulty": "Medium",
+            "topicId": "math-interest",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-16"
+          },
+          {
+            "question": "What is the compound interest on Rs. 12,000 for 2 years at 6% per annum, compounded annually?",
+            "options": [
+              "Rs. 1,432",
+              "Rs. 1,440",
+              "Rs. 1,448",
+              "Rs. 1,456"
+            ],
+            "correctIndex": 3,
+            "explanation": "Compound interest is calculated using the formula A = P(1 + R)^n.",
+            "difficulty": "Medium",
+            "topicId": "math-interest",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-16"
+          }
+        ],
+        "questionCount": 5
+      },
+      "math-tw": {
+        "topicName": "Time, Work & Pipes",
+        "subjectName": "Arithmetic",
+        "questions": [
+          {
+            "question": "A worker takes 10 hours to complete a work alone. How many hours will it take for two more workers, each working at twice the rate of the first worker, to complete the work?",
+            "options": [
+              "10 hours",
+              "5 hours",
+              "20 hours",
+              "15 hours"
+            ],
+            "correctIndex": 1,
+            "explanation": "The combined effort of two workers working at twice the rate will be equal to four times the effort of the first worker.",
+            "difficulty": "Medium",
+            "topicId": "math-tw",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-16"
+          },
+          {
+            "question": "A pipe can fill 1/4th of a tank in 1 hour. How long will it take for two pipes, each filling at twice the rate of the first pipe, to fill the tank?",
+            "options": [
+              "4 hours",
+              "8 hours",
+              "1 hour",
+              "2 hours"
+            ],
+            "correctIndex": 2,
+            "explanation": "Two pipes filling at twice the rate will fill the tank at four times the rate of the single pipe.",
+            "difficulty": "Medium",
+            "topicId": "math-pw",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-16"
+          },
+          {
+            "question": "Two pipes can fill a tank in 6 hours. If one pipe is closed and one pipe works alone, how long will it take to fill 3/4th of the tank?",
+            "options": [
+              "12 hours",
+              "18 hours",
+              "4 hours",
+              "8 hours"
+            ],
+            "correctIndex": 2,
+            "explanation": "The single pipe will fill 1/4th of the tank in 6 hours, so it will fill 3/4th of the tank in 18 hours.",
+            "difficulty": "Medium",
+            "topicId": "math-pw",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-16"
+          },
+          {
+            "question": "A pump can fill a tank in 2 hours. However, due to a leak, the tank is filled in 4 hours. If the pump works alone, how long will it take to fill 7/8th of the tank?",
+            "options": [
+              "5 hours",
+              "7 hours",
+              "9 hours",
+              "11 hours"
+            ],
+            "correctIndex": 0,
+            "explanation": "The leak reduces the effective rate by half, so the tank is filled at half the original rate.",
+            "difficulty": "Medium",
+            "topicId": "math-pw",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-16"
+          },
+          {
+            "question": "A man can paint a room in 4 hours. If his son helps him and together they can paint the room in 2 hours, how long will it take for his daughter to paint the room alone?",
+            "options": [
+              "6 hours",
+              "8 hours",
+              "10 hours",
+              "12 hours"
+            ],
+            "correctIndex": 2,
+            "explanation": "The combined effort of the man and his son will be equal to three times the effort of the man alone.",
+            "difficulty": "Medium",
+            "topicId": "math-tw",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-16"
+          }
+        ],
+        "questionCount": 5
+      }
+    },
+    "reasoning": {
+      "rs-coding": {
+        "topicName": "Coding-Decoding",
+        "subjectName": "Reasoning",
+        "questions": [
+          {
+            "question": "In a coded message, 'S' stands for 'A', 'A' stands for 'B', 'B' stands for 'C', and so on. Which letter stands for 'E'?",
+            "options": [
+              "D",
+              "E",
+              "F",
+              "G"
+            ],
+            "correctIndex": 0,
+            "explanation": "The sequence continues alphabetically.",
+            "difficulty": "Medium",
+            "topicId": "rs-coding",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-16"
+          },
+          {
+            "question": "Which of the following codes represents the state capital of West Bengal?",
+            "options": [
+              "Kolkata",
+              "Howrah",
+              "Siliguri",
+              "B Bardhaman"
+            ],
+            "correctIndex": 0,
+            "explanation": "Kolkata is the state capital of West Bengal.",
+            "difficulty": "Medium",
+            "topicId": "rs-coding",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-16"
+          },
+          {
+            "question": "In a sequence of 5 alphabets, 'C' is the 3rd letter, 'E' is the 5th letter. If the sequence is encoded and 'A' is the 1st letter, 'D' is the 4th letter, and so on, which letter is the 2nd letter?",
+            "options": [
+              "B",
+              "D",
+              "F",
+              "H"
+            ],
+            "correctIndex": 1,
+            "explanation": "The sequence maintains alphabetical order.",
+            "difficulty": "Medium",
+            "topicId": "rs-coding",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-16"
+          },
+          {
+            "question": "In a coded message, '1' stands for 'K', '2' stands for 'L', '3' stands for 'M', and so on. Which digit represents the West Bengal state animal?",
+            "options": [
+              "5",
+              "7",
+              "9",
+              "Tiger"
+            ],
+            "correctIndex": 2,
+            "explanation": "Tiger is the state animal of West Bengal, represented by '8'.",
+            "difficulty": "Medium",
+            "topicId": "rs-coding",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-16"
+          },
+          {
+            "question": "In a coded message, '1' stands for 'A', '2' stands for 'B', '3' stands for 'C', and so on. Which number represents the state emblem of West Bengal?",
+            "options": [
+              "3",
+              "5",
+              "10",
+              "12"
+            ],
+            "correctIndex": 2,
+            "explanation": "The state emblem of West Bengal is a Bengal tiger, represented by '10'.",
+            "difficulty": "Medium",
+            "topicId": "rs-coding",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-16"
+          }
+        ],
+        "questionCount": 5
+      },
+      "rs-blood": {
+        "topicName": "Blood Relations",
+        "subjectName": "Reasoning",
+        "questions": [
+          {
+            "question": "A person X says, 'My father and mother have a total of 32 children.' How many children does X have?",
+            "options": [
+              "4",
+              "5",
+              "6",
+              "8"
+            ],
+            "correctIndex": 1,
+            "explanation": "The question is asking for the number of children X has.",
+            "difficulty": "Medium",
+            "topicId": "rs-blood",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-16"
+          },
+          {
+            "question": "How many brothers does A have if A has 3 sisters and is the daughter of B?",
+            "options": [
+              "2",
+              "3",
+              "4",
+              "5"
+            ],
+            "correctIndex": 0,
+            "explanation": "A is the daughter of B so she has no brothers.",
+            "difficulty": "Medium",
+            "topicId": "rs-blood",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-16"
+          },
+          {
+            "question": "In a family with three generations, P is the grandfather of A, the father of B and the son of C.",
+            "options": [
+              "A is the daughter of B, B is the son of C",
+              "A is the son of B, B is the son of C",
+              "A is the daughter of B, B is the son of P",
+              "A is the daughter of B, B is the daughter of P"
+            ],
+            "correctIndex": 0,
+            "explanation": "Follows the pattern of grandfather - father - child.",
+            "difficulty": "Medium",
+            "topicId": "rs-blood",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-16"
+          },
+          {
+            "question": "A is the mother of B and the daughter of C. How is B related to C?",
+            "options": [
+              "Brother",
+              "Daughter",
+              "Father",
+              "Sister"
+            ],
+            "correctIndex": 2,
+            "explanation": "B is the child of A and the grandchild of C.",
+            "difficulty": "Medium",
+            "topicId": "rs-blood",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-16"
+          },
+          {
+            "question": "X says, 'My mother has two children. If my brother is a female, then I am a male.' How can X's statement be verified?",
+            "options": [
+              "Verify the statement when X is a male and his brother is a female",
+              "Verify the statement when X is a female and her brother is a male",
+              "Verify the statement when X is a male and his brother is a male",
+              "Verify the statement when X is a female and her brother is a female"
+            ],
+            "correctIndex": 1,
+            "explanation": "If X is a female, then the statement is correct.",
+            "difficulty": "Medium",
+            "topicId": "rs-blood",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-16"
+          }
+        ],
+        "questionCount": 5
+      },
+      "rs-series": {
+        "topicName": "Number & Letter Series",
+        "subjectName": "Reasoning",
+        "questions": [
+          {
+            "question": "If the pattern is 4, 3, ?, 1, what is the next number in the series?",
+            "options": [
+              "2",
+              "5",
+              "1",
+              "6"
+            ],
+            "correctIndex": 2,
+            "explanation": "The pattern decreases by 1.",
+            "difficulty": "Easy",
+            "topicId": "rs-series",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-16"
+          },
+          {
+            "question": "Which number will replace the question mark in the series: 5, 10, 17, 26, 37, ??",
+            "options": [
+              "50",
+              "49",
+              "48",
+              "52"
+            ],
+            "correctIndex": 2,
+            "explanation": "Each number is the sum of the two preceding numbers.",
+            "difficulty": "Medium",
+            "topicId": "rs-series",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-16"
+          },
+          {
+            "question": "In the given series 3, 6, 12, 24, ?, the pattern is:",
+            "options": [
+              "48",
+              "36",
+              "48",
+              "36"
+            ],
+            "correctIndex": 3,
+            "explanation": "The pattern is doubling the previous number.",
+            "difficulty": "Easy",
+            "topicId": "rs-series",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-16"
+          },
+          {
+            "question": "If the pattern is 2, 6, 12, 20, ?, what is the next number in the series?",
+            "options": [
+              "30",
+              "28",
+              "26",
+              "32"
+            ],
+            "correctIndex": 0,
+            "explanation": "The pattern increases by 4, then 6, then 8, and so on.",
+            "difficulty": "Medium",
+            "topicId": "rs-series",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-16"
+          },
+          {
+            "question": "The pattern of the series: 1, 4, 9, 16, 25, 36, ? is:",
+            "options": [
+              "49",
+              "50",
+              "48",
+              "52"
+            ],
+            "correctIndex": 0,
+            "explanation": "The pattern is the sequence of perfect squares.",
+            "difficulty": "Easy",
+            "topicId": "rs-series",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-16"
+          }
+        ],
+        "questionCount": 5
+      }
+    }
+  }
+}
