@@ -1,0 +1,756 @@
+{
+  "exam": "si",
+  "generatedDate": "2026-07-17",
+  "generatedAt": "2026-07-17T03:47:39.084Z",
+  "model": "llama-3.1-8b-instant",
+  "provider": "groq",
+  "source": "ai_generated",
+  "reviewStatus": "pending",
+  "totalQuestions": 45,
+  "subjects": {
+    "gs": {
+      "gs-polity": {
+        "topicName": "Indian Constitution & Polity",
+        "subjectName": "General Studies",
+        "questions": [
+          {
+            "question": "Which of the following is a fundamental right that is not mentioned in Part III of the Indian Constitution?",
+            "options": [
+              "Right to Education",
+              "Right to Equality",
+              "Right to Freedom of Speech and Expression",
+              "Right to Constitutional Remedies"
+            ],
+            "correctIndex": 2,
+            "explanation": "This right is mentioned in Article 32 of the Constitution.",
+            "difficulty": "Medium",
+            "topicId": "gs-polity",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-17"
+          },
+          {
+            "question": "Which of the following is a feature of the Panchayati Raj system in West Bengal?",
+            "options": [
+              "Three-tier Panchayat system",
+              "Two-tier Panchayat system",
+              "One-tier Panchayat system",
+              "Five-tier Panchayat system"
+            ],
+            "correctIndex": 0,
+            "explanation": "This system is as per the West Bengal Panchayat Act 2003.",
+            "difficulty": "Easy",
+            "topicId": "gs-polity",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-17"
+          },
+          {
+            "question": "Which of the following types of laws is not a part of the concurrent list of the Indian Constitution?",
+            "options": [
+              "Trade and Commerce",
+              "Taxation",
+              "Education",
+              "Judiciary"
+            ],
+            "correctIndex": 3,
+            "explanation": "Judiciary is a part of the Union list of the Indian Constitution.",
+            "difficulty": "Medium",
+            "topicId": "gs-polity",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-17"
+          },
+          {
+            "question": "Who is the head of the West Bengal State Election Commission?",
+            "options": [
+              "Chief Minister of West Bengal",
+              "Speaker of the West Bengal Legislative Assembly",
+              "Chairperson of the West Bengal State Election Commission",
+              "Chief Secretary of West Bengal"
+            ],
+            "correctIndex": 2,
+            "explanation": "This is as per the West Bengal State Election Commission Act 1956.",
+            "difficulty": "Easy",
+            "topicId": "gs-polity",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-17"
+          },
+          {
+            "question": "Which of the following is a fundamental duty that is mentioned in Part IV-A of the Indian Constitution?",
+            "options": [
+              "To protect and improve the natural environment",
+              "To promote harmony and the spirit of common brotherhood amongst all people",
+              "To strive towards excellence in all spheres of individual and collective activity",
+              "To protect and preserve the national heritage"
+            ],
+            "correctIndex": 0,
+            "explanation": "This duty is mentioned in Article 51-A(g) of the Constitution.",
+            "difficulty": "Medium",
+            "topicId": "gs-polity",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-17"
+          }
+        ],
+        "questionCount": 5
+      },
+      "gs-wb-geo": {
+        "topicName": "West Bengal Geography",
+        "subjectName": "General Studies",
+        "questions": [
+          {
+            "question": "Which of the following districts of West Bengal does not share an international border?",
+            "options": [
+              "North Dinajpur",
+              "Malda",
+              "Cooch Behar",
+              "Jalpaiguri"
+            ],
+            "correctIndex": 0,
+            "explanation": "North Dinajpur does not share an international border with Bangladesh.",
+            "difficulty": "Medium",
+            "topicId": "gs-wb-geo",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-17"
+          },
+          {
+            "question": "Which of the following rivers is not a major tributary of the Ganges River in West Bengal?",
+            "options": [
+              "Bhagirathi",
+              "Hooghly",
+              "Rupnarayan",
+              "Torsa"
+            ],
+            "correctIndex": 2,
+            "explanation": "Torsa River is a major tributary of the Brahmaputra River, not the Ganges.",
+            "difficulty": "Easy",
+            "topicId": "gs-wb-geo",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-17"
+          },
+          {
+            "question": "Which of the following mountains range is located in the Darjeeling district of West Bengal?",
+            "options": [
+              "Shivalik",
+              "Chota Nagpur",
+              "Sikkim Himalayas",
+              "Assam Himalayas"
+            ],
+            "correctIndex": 2,
+            "explanation": "The Sikkim Himalayas mountain range is located in the Darjeeling district of West Bengal.",
+            "difficulty": "Medium",
+            "topicId": "gs-wb-geo",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-17"
+          },
+          {
+            "question": "Which of the following islands is located in the Sundarbans Delta of West Bengal?",
+            "options": [
+              "Bhola",
+              "Mekhola",
+              "Sagardwip",
+              "Kakdwip"
+            ],
+            "correctIndex": 2,
+            "explanation": "Sagardwip Island is located in the Sundarbans Delta of West Bengal.",
+            "difficulty": "Easy",
+            "topicId": "gs-wb-geo",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-17"
+          },
+          {
+            "question": "Which of the following cities is the capital of the Jalpaiguri district of West Bengal?",
+            "options": [
+              "Kalimpong",
+              "Kurseong",
+              "Jalpaiguri",
+              "Cooch Behar"
+            ],
+            "correctIndex": 2,
+            "explanation": "Jalpaiguri is the administrative headquarters of Jalpaiguri district.",
+            "difficulty": "Easy",
+            "topicId": "gs-wb-geo",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-17"
+          }
+        ],
+        "questionCount": 5
+      },
+      "gs-current": {
+        "topicName": "Current Affairs (Last 12 Months)",
+        "subjectName": "General Studies",
+        "questions": [
+          {
+            "question": "The West Bengal government recently launched a new scheme to improve the healthcare infrastructure in rural areas. What is the name of this scheme?",
+            "options": [
+              "Swasthya Sathi 2.0",
+              "Ayushman Bharat Yojana",
+              "Niramaya Pathak Scheme",
+              "Mukhyamantri Swasthya Bima Yojana"
+            ],
+            "correctIndex": 0,
+            "explanation": "This scheme aims to strengthen primary healthcare services.",
+            "difficulty": "Medium",
+            "topicId": "gs-current",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-17"
+          },
+          {
+            "question": "The West Bengal government recently announced a new policy to promote the use of electric vehicles in the state. What is the main objective of this policy?",
+            "options": [
+              "To reduce air pollution",
+              "To promote the use of CNG vehicles",
+              "To increase the production of electric vehicles",
+              "To reduce the import of petroleum products"
+            ],
+            "correctIndex": 0,
+            "explanation": "The policy aims to reduce air pollution and promote a clean environment.",
+            "difficulty": "Medium",
+            "topicId": "gs-current",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-17"
+          },
+          {
+            "question": "The West Bengal government has recently taken steps to improve the safety of women in the state. What is the name of the scheme launched for this purpose?",
+            "options": [
+              "Durga Vahini Yojana",
+              "Bengal Mahila Suraksha Scheme",
+              "Nirbhaya Abhiyan",
+              "Mahila Raksha Karyakram"
+            ],
+            "correctIndex": 1,
+            "explanation": "The scheme aims to provide a safe and secure environment for women.",
+            "difficulty": "Medium",
+            "topicId": "gs-current",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-17"
+          },
+          {
+            "question": "The West Bengal government has recently launched a new initiative to promote digital literacy among the citizens of the state. What is the name of this initiative?",
+            "options": [
+              "Digital Bengal",
+              "Bengal IT Mission",
+              "Swavalambi Scheme",
+              "Sikha Abhiyan"
+            ],
+            "correctIndex": 3,
+            "explanation": "The initiative aims to promote digital literacy and skills among the citizens.",
+            "difficulty": "Medium",
+            "topicId": "gs-current",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-17"
+          },
+          {
+            "question": "The West Bengal government has recently taken steps to improve the infrastructure of the Port of Kolkata. What is the name of the project launched for this purpose?",
+            "options": [
+              "Kolkata Port Modernisation Project",
+              "Bengal Inland Waterways Project",
+              "Sagar Mela Yojana",
+              "Nahar Abhiyan"
+            ],
+            "correctIndex": 0,
+            "explanation": "The project aims to improve the infrastructure and increase the efficiency of the Port of Kolkata.",
+            "difficulty": "Medium",
+            "topicId": "gs-current",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-17"
+          }
+        ],
+        "questionCount": 5
+      }
+    },
+    "math": {
+      "math-percent": {
+        "topicName": "Percentage & Profit-Loss",
+        "subjectName": "Arithmetic",
+        "questions": [
+          {
+            "question": "A shopkeeper sold an article at Rs. 120, which is 20% profit over the cost price. The cost price of the article is?",
+            "options": [
+              "Rs. 80",
+              "Rs. 90",
+              "Rs. 100",
+              "Rs. 110"
+            ],
+            "correctIndex": 2,
+            "explanation": "The cost price is calculated by dividing the selling price by 1.2.",
+            "difficulty": "Medium",
+            "topicId": "math-percent",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-17"
+          },
+          {
+            "question": "In a certain year, the price of rice in West Bengal increased by 15% and then decreased by 5%. The net percentage change in the price of rice is?",
+            "options": [
+              "-6%",
+              "-5%",
+              "0%",
+              "10%"
+            ],
+            "correctIndex": 0,
+            "explanation": "The net percentage change is calculated as the sum of percentage increase and decrease.",
+            "difficulty": "Medium",
+            "topicId": "math-percent",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-17"
+          },
+          {
+            "question": "A person purchased a scooter at 10% discount on the labelled price of Rs. 1,20,000. The amount he paid for the scooter is?",
+            "options": [
+              "Rs. 1,08,000",
+              "Rs. 1,09,000",
+              "Rs. 1,10,000",
+              "Rs. 1,11,000"
+            ],
+            "correctIndex": 1,
+            "explanation": "The amount paid is calculated by subtracting the discount from the labelled price.",
+            "difficulty": "Medium",
+            "topicId": "math-percent",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-17"
+          },
+          {
+            "question": "The cost price of a book is Rs. 240 and it is sold for Rs. 300, the profit percentage is?",
+            "options": [
+              "12.5%",
+              "15%",
+              "20%",
+              "25%"
+            ],
+            "correctIndex": 2,
+            "explanation": "The profit percentage is calculated by dividing the profit by the cost price and multiplying by 100.",
+            "difficulty": "Medium",
+            "topicId": "math-profit-loss",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-17"
+          },
+          {
+            "question": "A shopkeeper purchases 12 dozens of eggs at Rs. 120 per dozen. If he sells each egg at Rs. 2, his profit percentage is?",
+            "options": [
+              "6.25%",
+              "8%",
+              "10%",
+              "11.11%"
+            ],
+            "correctIndex": 3,
+            "explanation": "The profit percentage is calculated by dividing the total profit by the total cost price and multiplying by 100.",
+            "difficulty": "Medium",
+            "topicId": "math-profit-loss",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-17"
+          }
+        ],
+        "questionCount": 5
+      },
+      "math-interest": {
+        "topicName": "Simple & Compound Interest",
+        "subjectName": "Arithmetic",
+        "questions": [
+          {
+            "question": "A sum of ₹ 10,000 is deposited in a bank account for 2 years at an interest rate of 8% per annum. If the interest is compounded annually, the amount at the end of 2 years will be?",
+            "options": [
+              "₹ 21,360",
+              "₹ 21,366",
+              "₹ 21,372",
+              "₹ 21,398"
+            ],
+            "correctIndex": 2,
+            "explanation": "Using the compound interest formula, A = P(1 + r)^n.",
+            "difficulty": "Medium",
+            "topicId": "math-interest",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-17"
+          },
+          {
+            "question": "A certificate of deposit (CD) in West Bengal earns an annual interest rate of 9.5%. If ₹ 50,000 is deposited for 3 years, the total amount at the end of 3 years will be?",
+            "options": [
+              "₹ 64,111",
+              "₹ 64,116",
+              "₹ 64,121",
+              "₹ 64,155"
+            ],
+            "correctIndex": 3,
+            "explanation": "Using the compound interest formula, A = P(1 + r)^n.",
+            "difficulty": "Medium",
+            "topicId": "math-interest",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-17"
+          },
+          {
+            "question": "What is the simple interest on ₹ 7,500 borrowed for 9 months at 12% per annum?",
+            "options": [
+              "₹ 675",
+              "₹ 682",
+              "₹ 687",
+              "₹ 735"
+            ],
+            "correctIndex": 0,
+            "explanation": "Using the simple interest formula, SI = (P * r * t) / 100.",
+            "difficulty": "Medium",
+            "topicId": "math-interest",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-17"
+          },
+          {
+            "question": "A man deposits ₹ 20,000 in a fixed deposit account for 5 years at an annual interest rate of 10.5%. The interest is compounded annually. What is the amount at the end of 5 years?",
+            "options": [
+              "₹ 33,419",
+              "₹ 33,423",
+              "₹ 33,427",
+              "₹ 33,432"
+            ],
+            "correctIndex": 3,
+            "explanation": "Using the compound interest formula, A = P(1 + r)^n.",
+            "difficulty": "Medium",
+            "topicId": "math-interest",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-17"
+          },
+          {
+            "question": "If the population of Howrah city is 1,100,000 and it is expected to increase at a rate of 4% per annum, what will be the population after 3 years?",
+            "options": [
+              "1,132,200",
+              "1,132,400",
+              "1,133,200",
+              "1,134,000"
+            ],
+            "correctIndex": 1,
+            "explanation": "Using the population growth formula, A = P(1 + r)^n.",
+            "difficulty": "Medium",
+            "topicId": "math-interest",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-17"
+          }
+        ],
+        "questionCount": 5
+      },
+      "math-tsd": {
+        "topicName": "Time, Speed & Distance",
+        "subjectName": "Arithmetic",
+        "questions": [
+          {
+            "question": "A car covers a distance of 120 km in 4 hours. How much time will it take to cover 240 km?",
+            "options": [
+              "4 hours",
+              "6 hours",
+              "8 hours",
+              "10 hours"
+            ],
+            "correctIndex": 1,
+            "explanation": "Speed remains constant.",
+            "difficulty": "Medium",
+            "topicId": "math-tsd",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-17"
+          },
+          {
+            "question": "A man covers a certain distance in 40 hours by cycle. How much distance will he cover in 10 hours?",
+            "options": [
+              "200 km",
+              "250 km",
+              "300 km",
+              "350 km"
+            ],
+            "correctIndex": 2,
+            "explanation": "Distance is directly proportional to time.",
+            "difficulty": "Easy",
+            "topicId": "math-tsd",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-17"
+          },
+          {
+            "question": "A bus starts from Howrah and reaches Digha in 6 hours. If the speed of the bus is 60 km/h, then what is the distance between Howrah and Digha?",
+            "options": [
+              "360 km",
+              "400 km",
+              "420 km",
+              "440 km"
+            ],
+            "correctIndex": 0,
+            "explanation": "Distance = Speed x Time.",
+            "difficulty": "Medium",
+            "topicId": "math-tsd",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-17"
+          },
+          {
+            "question": "A train travels from Sealdah to Bardhaman at an average speed of 45 km/h. If the distance between Sealdah and Bardhaman is 135 km, then how much time will it take to cover this distance?",
+            "options": [
+              "3 hours",
+              "3.5 hours",
+              "4 hours",
+              "4.5 hours"
+            ],
+            "correctIndex": 0,
+            "explanation": "Time = Distance/Speed.",
+            "difficulty": "Medium",
+            "topicId": "math-tsd",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-17"
+          },
+          {
+            "question": "A man covers a certain distance in 25 hours by train. If he covers half the distance in 15 hours, then what is the speed of the train?",
+            "options": [
+              "24 km/h",
+              "30 km/h",
+              "36 km/h",
+              "40 km/h"
+            ],
+            "correctIndex": 2,
+            "explanation": "Speed is directly proportional to distance and time.",
+            "difficulty": "Hard",
+            "topicId": "math-tsd",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-17"
+          }
+        ],
+        "questionCount": 5
+      }
+    },
+    "reasoning": {
+      "rs-coding": {
+        "topicName": "Coding-Decoding",
+        "subjectName": "Reasoning",
+        "questions": [
+          {
+            "question": "In a secret message, 'A' is written as '@', 'B' is written as '8', 'C' is written as '(C)', and 'D' is written as 'D'. If 'A8C' represents a Bengali word, what does it represent?",
+            "options": [
+              "আসাম",
+              "আরসাম",
+              "আসবি",
+              "আসামি"
+            ],
+            "correctIndex": 1,
+            "explanation": "By replacing the symbols with their corresponding Bengali alphabets.",
+            "difficulty": "Medium",
+            "topicId": "rs-coding",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-17"
+          },
+          {
+            "question": "A secret code is given where 'Z' is written as 'A', 'Y' is written as 'B', 'X' is written as 'C', and so on. If 'W' is represented as 'E', what will 'V' be represented as?",
+            "options": [
+              "C",
+              "D",
+              "E",
+              "F"
+            ],
+            "correctIndex": 0,
+            "explanation": "Following the pattern of alphabetical shift from 'Z' to 'A'.",
+            "difficulty": "Medium",
+            "topicId": "rs-coding",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-17"
+          },
+          {
+            "question": "A certain code represents 'S' as '@', 'P' as '9', 'L' as 'L', and 'A' as 'A'. If '9@L' represents a Bengali word, what does it represent?",
+            "options": [
+              "সপ্তাহ",
+              "সপল",
+              "সাপল",
+              "সাপত"
+            ],
+            "correctIndex": 0,
+            "explanation": "By replacing the symbols with their corresponding Bengali alphabets.",
+            "difficulty": "Medium",
+            "topicId": "rs-coding",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-17"
+          },
+          {
+            "question": "A secret code is given where the first letter of a word represents the last letter of the 7th letter of the English alphabet. If 'C' represents the word 'CAT', what word will 'B' represent?",
+            "options": [
+              "BAT",
+              "CAT",
+              "DOB",
+              "DOG"
+            ],
+            "correctIndex": 2,
+            "explanation": "Following the pattern of alphabetical shift from the first letter of the word.",
+            "difficulty": "Medium",
+            "topicId": "rs-coding",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-17"
+          },
+          {
+            "question": "In a secret code, 'K' is written as 'M', 'J' is written as 'L', 'I' is written as 'K', and 'H' is written as 'J'. If 'M' represents the Bengali word 'কোটি', what word will 'L' represent?",
+            "options": [
+              "কোট",
+              "কোটি",
+              "কোট্ট",
+              "কোট্টি"
+            ],
+            "correctIndex": 1,
+            "explanation": "By replacing the symbols with their corresponding Bengali alphabets.",
+            "difficulty": "Medium",
+            "topicId": "rs-coding",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-17"
+          }
+        ],
+        "questionCount": 5
+      },
+      "rs-blood": {
+        "topicName": "Blood Relations",
+        "subjectName": "Reasoning",
+        "questions": [
+          {
+            "question": "Piyali's husband is the brother of her mother-in-law. How is Piyali related to her mother-in-law?",
+            "options": [
+              "Mother",
+              "Daughter",
+              "Sister",
+              "Wife"
+            ],
+            "correctIndex": 2,
+            "explanation": "Piyali is the daughter of her mother-in-law's husband's brother.",
+            "difficulty": "Medium",
+            "topicId": "rs-blood",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-17"
+          },
+          {
+            "question": "A person's daughter is married to the brother of his sister's son. How is the person related to his daughter-in-law?",
+            "options": [
+              "Mother",
+              "Mother-in-law",
+              "Sister-in-law",
+              "Mother-in-law's sister"
+            ],
+            "correctIndex": 1,
+            "explanation": "The person is the mother of his daughter-in-law.",
+            "difficulty": "Medium",
+            "topicId": "rs-blood",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-17"
+          },
+          {
+            "question": "If A is mother of B and C is brother of B, then what is the relation of C with A?",
+            "options": [
+              "Father",
+              "Mother",
+              "Brother",
+              "Sister"
+            ],
+            "correctIndex": 1,
+            "explanation": "C is the brother of B's mother, so C is also A's son.",
+            "difficulty": "Easy",
+            "topicId": "rs-blood",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-17"
+          },
+          {
+            "question": "If A is the father of B and C is the brother of B, then what is the relation of C with A's wife?",
+            "options": [
+              "Daughter",
+              "Daughter-in-law",
+              "Mother",
+              "Sister"
+            ],
+            "correctIndex": 2,
+            "explanation": "C is the brother of B, so C is also the son of B's mother, i.e., A's wife.",
+            "difficulty": "Medium",
+            "topicId": "rs-blood",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-17"
+          },
+          {
+            "question": "If A is the mother of B and C is the sister of B, then what is the relation of C with A?",
+            "options": [
+              "Mother",
+              "Sister",
+              "Mother-in-law",
+              "Daughter"
+            ],
+            "correctIndex": 1,
+            "explanation": "C is the sister of B, so C is also the daughter of B's mother, i.e., A.",
+            "difficulty": "Easy",
+            "topicId": "rs-blood",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-17"
+          }
+        ],
+        "questionCount": 5
+      },
+      "rs-series": {
+        "topicName": "Number & Letter Series",
+        "subjectName": "Reasoning",
+        "questions": [
+          {
+            "question": "If the pattern continues, what will be the next number in the series: 2, 6, 12, 20, 30, ?",
+            "options": [
+              "8",
+              "10",
+              "12",
+              "15"
+            ],
+            "correctIndex": 1,
+            "explanation": "The pattern is obtained by adding consecutive multiples of 4.",
+            "difficulty": "Medium",
+            "topicId": "rs-series",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-17"
+          },
+          {
+            "question": "If the pattern continues, what will be the next letter in the series: A, E, I, M, Q, ?",
+            "options": [
+              "S",
+              "T",
+              "U",
+              "V"
+            ],
+            "correctIndex": 2,
+            "explanation": "The pattern is obtained by adding 4 to the previous letter's position in the alphabet.",
+            "difficulty": "Easy",
+            "topicId": "ls-series",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-17"
+          },
+          {
+            "question": "In a sequence of numbers where each term is obtained by adding 3 to the previous term, which of the following is the next number in the series: 7, 10, 13, 16, 19, ?",
+            "options": [
+              "22",
+              "22",
+              "22",
+              "22"
+            ],
+            "correctIndex": 3,
+            "explanation": "The pattern is obtained by adding 3 to each term.",
+            "difficulty": "Medium",
+            "topicId": "rs-series",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-17"
+          },
+          {
+            "question": "If the pattern continues, what will be the next letter in the series: C, F, I, L, O, ?",
+            "options": [
+              "R",
+              "S",
+              "T",
+              "U"
+            ],
+            "correctIndex": 2,
+            "explanation": "The pattern is obtained by adding 3 to the previous letter's position in the alphabet.",
+            "difficulty": "Easy",
+            "topicId": "ls-series",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-17"
+          },
+          {
+            "question": "Find the missing number in the series: 1, 4, 9, 16, 25, ?, 36",
+            "options": [
+              "36",
+              "49",
+              "64",
+              "81"
+            ],
+            "correctIndex": 2,
+            "explanation": "The pattern is obtained by squaring consecutive integers.",
+            "difficulty": "Medium",
+            "topicId": "rs-series",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-17"
+          }
+        ],
+        "questionCount": 5
+      }
+    }
+  }
+}
