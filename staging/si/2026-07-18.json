@@ -1,0 +1,1002 @@
+{
+  "exam": "si",
+  "generatedDate": "2026-07-18",
+  "generatedAt": "2026-07-18T03:41:53.522Z",
+  "model": "llama-3.1-8b-instant",
+  "provider": "groq",
+  "source": "ai_generated",
+  "reviewStatus": "pending",
+  "totalQuestions": 60,
+  "subjects": {
+    "gs": {
+      "gs-polity": {
+        "topicName": "Indian Constitution & Polity",
+        "subjectName": "General Studies",
+        "questions": [
+          {
+            "question": "What does the Panchayat Elections (Amendment) Act, 2021, amend in the West Bengal Panchayat Act, 1973?",
+            "options": [
+              "To increase the number of wards in gram panchayats",
+              "To allow for the election of panchayat presidents through direct voting",
+              "To provide reservation for SC/ST candidates in panchayat elections",
+              "To empower the state government to appoint panchayat presidents"
+            ],
+            "correctIndex": 2,
+            "explanation": "To provide reservation for SC/ST candidates in panchayat elections.",
+            "difficulty": "Medium",
+            "topicId": "gs-polity",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-18"
+          },
+          {
+            "question": "Which article of the Constitution of India gives powers to the state governments to make laws for the welfare of SCs and STs?",
+            "options": [
+              "Article 15(4)",
+              "Article 16(4)",
+              "Article 17",
+              "Article 46"
+            ],
+            "correctIndex": 3,
+            "explanation": "Article 46 provides for the welfare of Scheduled Castes.",
+            "difficulty": "Easy",
+            "topicId": "gs-polity",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-18"
+          },
+          {
+            "question": "What is the name of the scheme launched by the Government of West Bengal to ensure the implementation of the Right to Education Act?",
+            "options": [
+              "Pathashree",
+              "Sabooj Sathi",
+              "Shiksha Sathi",
+              "Buniyadit Bidyalaya"
+            ],
+            "correctIndex": 2,
+            "explanation": "Shiksha Sathi is the scheme to ensure the implementation of the Right to Education Act.",
+            "difficulty": "Medium",
+            "topicId": "gs-polity",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-18"
+          },
+          {
+            "question": "Which of the following is a fundamental duty under the Constitution of India?",
+            "options": [
+              "To respect the national anthem",
+              "To preserve and protect the environment",
+              "To abide by the Constitution and respect its ideals",
+              "To participate in the defense of the country"
+            ],
+            "correctIndex": 2,
+            "explanation": "To abide by the Constitution and respect its ideals is a fundamental duty.",
+            "difficulty": "Easy",
+            "topicId": "gs-polity",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-18"
+          },
+          {
+            "question": "What is the name of the committee constituted by the Government of West Bengal to examine the issues of the SCs and STs?",
+            "options": [
+              "Bhattacharya Committee",
+              "Banerjee Committee",
+              "Bose Committee",
+              "Bhattacharya Commission"
+            ],
+            "correctIndex": 0,
+            "explanation": "The Bhattacharya Committee was constituted to examine the issues of the SCs and STs.",
+            "difficulty": "Medium",
+            "topicId": "gs-polity",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-18"
+          }
+        ],
+        "questionCount": 5
+      },
+      "gs-freedom": {
+        "topicName": "Indian Freedom Struggle & Bengal",
+        "subjectName": "General Studies",
+        "questions": [
+          {
+            "question": "Which of the following events marked the beginning of the Indian freedom struggle in Bengal?",
+            "options": [
+              "The Sepoy Mutiny of 1857",
+              "The Partition of Bengal in 1905",
+              "The Non-Cooperation Movement of 1920",
+              "The Quit India Movement of 1942"
+            ],
+            "correctIndex": 1,
+            "explanation": "It was a highly divisive and emotive event that triggered widespread protests.",
+            "difficulty": "Medium",
+            "topicId": "gs-freedom",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-18"
+          },
+          {
+            "question": "Who was the famous Bengali revolutionary associated with the Jugantar movement?",
+            "options": [
+              "Barindra Kumar Ghosh",
+              "Jatindra Nath Mukherjee",
+              "Bagha Jatin",
+              "Sachindra Nath Sanyal"
+            ],
+            "correctIndex": 2,
+            "explanation": "He was a key figure in the Jugantar movement.",
+            "difficulty": "Medium",
+            "topicId": "gs-freedom",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-18"
+          },
+          {
+            "question": "The famous 'Dacca Session' of the Indian National Congress was held in which year in Bengal?",
+            "options": [
+              "1906",
+              "1907",
+              "1908",
+              "1909"
+            ],
+            "correctIndex": 1,
+            "explanation": "It was a significant session that witnessed intense debates and divisions.",
+            "difficulty": "Easy",
+            "topicId": "gs-freedom",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-18"
+          },
+          {
+            "question": "Which of the following was a major outcome of the Swadeshi Movement in Bengal?",
+            "options": [
+              "Increased use of foreign goods",
+              "Increased use of foreign cloth",
+              "Establishment of the Swadeshi textile mills",
+              "Promotion of self-sufficient industries"
+            ],
+            "correctIndex": 3,
+            "explanation": "It aimed to promote indigenous industries and reduce dependence on foreign goods.",
+            "difficulty": "Medium",
+            "topicId": "gs-freedom",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-18"
+          },
+          {
+            "question": "The famous 'Bengal National College' was founded in which year in Bengal?",
+            "options": [
+              "1906",
+              "1907",
+              "1908",
+              "1909"
+            ],
+            "correctIndex": 0,
+            "explanation": "It was a pioneering educational institution that nurtured many freedom fighters.",
+            "difficulty": "Easy",
+            "topicId": "gs-freedom",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-18"
+          }
+        ],
+        "questionCount": 5
+      },
+      "gs-wb-geo": {
+        "topicName": "West Bengal Geography",
+        "subjectName": "General Studies",
+        "questions": [
+          {
+            "question": "Tawang, a place in West Bengal, is situated near the border with which state?",
+            "options": [
+              "Sikkim",
+              "Bhutan",
+              "Assam",
+              "Meghalaya"
+            ],
+            "correctIndex": 3,
+            "explanation": "Tawang is near the Meghalaya border.",
+            "difficulty": "Medium",
+            "topicId": "gs-wb-geo",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-18"
+          },
+          {
+            "question": "The Sundarbans, the world's largest mangrove forest, is located in which of the following districts of West Bengal?",
+            "options": [
+              "North 24 Parganas",
+              "South 24 Parganas",
+              "Howrah",
+              "Hooghly"
+            ],
+            "correctIndex": 1,
+            "explanation": "The Sundarbans is located in South 24 Parganas district.",
+            "difficulty": "Easy",
+            "topicId": "gs-wb-geo",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-18"
+          },
+          {
+            "question": "What is the name of the highest peak in the Darjeeling Himalayan hill region of West Bengal?",
+            "options": [
+              "Sandakphu",
+              "Kanchenjunga",
+              "Fagu",
+              "Rishop"
+            ],
+            "correctIndex": 0,
+            "explanation": "Sandakphu is the highest peak in the Darjeeling Himalayan hill region.",
+            "difficulty": "Medium",
+            "topicId": "gs-wb-geo",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-18"
+          },
+          {
+            "question": "The Darjeeling Himalayan Railway, a UNESCO World Heritage Site, passes through which of the following mountain passes in West Bengal?",
+            "options": [
+              "Tista Bazar",
+              "Tori Bazar",
+              "Nayabazar",
+              "Jelep La"
+            ],
+            "correctIndex": 3,
+            "explanation": "The Darjeeling Himalayan Railway passes through the Jelep La mountain pass.",
+            "difficulty": "Medium",
+            "topicId": "gs-wb-geo",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-18"
+          },
+          {
+            "question": "Which of the following rivers originates in the Sikkim Himalayas and flows through West Bengal before emptying into the Bay of Bengal?",
+            "options": [
+              "Brahmaputra",
+              "Ganges",
+              "Meghna",
+              "Torsa"
+            ],
+            "correctIndex": 3,
+            "explanation": "The Torsa river originates in Sikkim Himalayas and flows through West Bengal.",
+            "difficulty": "Medium",
+            "topicId": "gs-wb-geo",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-18"
+          }
+        ],
+        "questionCount": 5
+      },
+      "gs-current": {
+        "topicName": "Current Affairs (Last 12 Months)",
+        "subjectName": "General Studies",
+        "questions": [
+          {
+            "question": "Which Indian state has recently implemented a new scheme to provide financial assistance to the beneficiaries under the Deen Dayal Upadhyaya Antyodaya Yojana (DAY-NULM) scheme?",
+            "options": [
+              "Uttar Pradesh",
+              "West Bengal",
+              "Madhya Pradesh",
+              "Tamil Nadu"
+            ],
+            "correctIndex": 1,
+            "explanation": "West Bengal has implemented the new scheme.",
+            "difficulty": "Medium",
+            "topicId": "gs-current",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-18"
+          },
+          {
+            "question": "What is the name of the newly launched river cruise service in West Bengal that connects the city of Kolkata to the Sunderbans?",
+            "options": [
+              "Sunderban Queen",
+              "Ganges Voyager",
+              "Bengal Cruise",
+              "Hooghly Explorer"
+            ],
+            "correctIndex": 0,
+            "explanation": "The Sunderban Queen is the newly launched river cruise service.",
+            "difficulty": "Medium",
+            "topicId": "gs-current",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-18"
+          },
+          {
+            "question": "Which of the following West Bengal government projects has been awarded the 'Best Urban Development Project' at the 2026 India Today Conclave?",
+            "options": [
+              "Kolkata Metro Line 3",
+              "New Town Kolkata",
+              "Howrah Bridge Renovation",
+              "Sunderbans Tiger Reserve"
+            ],
+            "correctIndex": 2,
+            "explanation": "The Howrah Bridge Renovation project was awarded the 'Best Urban Development Project'.",
+            "difficulty": "Medium",
+            "topicId": "gs-current",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-18"
+          },
+          {
+            "question": "Which Indian state has recently partnered with the World Bank to implement a new project to improve the state's disaster management capabilities?",
+            "options": [
+              "Tamil Nadu",
+              "Andhra Pradesh",
+              "West Bengal",
+              "Odisha"
+            ],
+            "correctIndex": 2,
+            "explanation": "West Bengal has partnered with the World Bank to implement the new project.",
+            "difficulty": "Medium",
+            "topicId": "gs-current",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-18"
+          },
+          {
+            "question": "Which of the following West Bengal government initiatives aims to promote entrepreneurship and skill development among the youth in the state?",
+            "options": [
+              "Udaan",
+              "Yuva",
+              "Shubhaarambh",
+              "Aspirational District Programme"
+            ],
+            "correctIndex": 2,
+            "explanation": "The Shubhaarambh initiative aims to promote entrepreneurship and skill development among the youth.",
+            "difficulty": "Medium",
+            "topicId": "gs-current",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-18"
+          }
+        ],
+        "questionCount": 5
+      },
+      "gs-wb-schemes": {
+        "topicName": "West Bengal Government Schemes",
+        "subjectName": "General Studies",
+        "questions": [
+          {
+            "question": "Under which scheme is the 'Swasthya Sathi' health insurance card provided to the citizens of West Bengal?",
+            "options": [
+              "Swami Vivekananda Arogya Yojana",
+              "Kanyashree Prakalpa",
+              "Siksha Sathi Yojana",
+              "Swasthya Sathi"
+            ],
+            "correctIndex": 3,
+            "explanation": "It is a cashless health insurance scheme.",
+            "difficulty": "Medium",
+            "topicId": "gs-wb-schemes",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-18"
+          },
+          {
+            "question": "Which of the following initiatives is a key component of the 'Sabuj Graam' scheme launched by the West Bengal government?",
+            "options": [
+              "Afforestation and Reforestation",
+              "Soil Conservation and Water Harvesting",
+              "Waste Management and Sanitation",
+              "Rural Infrastructure Development"
+            ],
+            "correctIndex": 0,
+            "explanation": "It focuses on greening rural areas.",
+            "difficulty": "Easy",
+            "topicId": "gs-wb-schemes",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-18"
+          },
+          {
+            "question": "The 'Kanyashree Prakalpa' scheme in West Bengal aims to empower and support which of the following sections of society?",
+            "options": [
+              "Elderly Women",
+              "Single Women",
+              "Girls and Young Women",
+              "Women with Disabilities"
+            ],
+            "correctIndex": 2,
+            "explanation": "It focuses on education and marriage of girls.",
+            "difficulty": "Medium",
+            "topicId": "gs-wb-schemes",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-18"
+          },
+          {
+            "question": "Which of the following is a key objective of the 'Siksha Sathi Yojana' launched by the West Bengal government?",
+            "options": [
+              "Free Education to All Students",
+              "Scholarships to Meritorious Students",
+              "Financial Assistance to Students from Low-Income Families",
+              "Vocational Training to Unemployed Youth"
+            ],
+            "correctIndex": 2,
+            "explanation": "It provides financial assistance to students from low-income families.",
+            "difficulty": "Easy",
+            "topicId": "gs-wb-schemes",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-18"
+          },
+          {
+            "question": "The 'Mukhya Mantri Gram Dak Seva Yojana' is a scheme aimed at providing which of the following services to rural areas in West Bengal?",
+            "options": [
+              "Improved Healthcare Services",
+              "Enhanced Rural Infrastructure",
+              "Enhanced Postal Services",
+              "Financial Assistance to Rural Households"
+            ],
+            "correctIndex": 2,
+            "explanation": "It focuses on postal services in rural areas.",
+            "difficulty": "Medium",
+            "topicId": "gs-wb-schemes",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-18"
+          }
+        ],
+        "questionCount": 5
+      }
+    },
+    "math": {
+      "math-percent": {
+        "topicName": "Percentage & Profit-Loss",
+        "subjectName": "Arithmetic",
+        "questions": [
+          {
+            "question": "In a shop selling Bengali sweets, the cost price of a packet of rasgulla is ₹ 120. If the shopkeeper sells it at a 25% profit, then the selling price of the packet will be:",
+            "options": [
+              "₹ 120",
+              "₹ 150",
+              "₹ 144",
+              "₹ 180"
+            ],
+            "correctIndex": 2,
+            "explanation": "The shopkeeper sells it at a 25% profit of ₹ 30.",
+            "difficulty": "Medium",
+            "topicId": "math-profit-loss",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-18"
+          },
+          {
+            "question": "If a person invests ₹ 15,000 in shares of a West Bengal-based company and it appreciates by 8% in one year, then the amount of appreciation is:",
+            "options": [
+              "₹ 1,000",
+              "₹ 1,200",
+              "₹ 1,500",
+              "₹ 1,800"
+            ],
+            "correctIndex": 2,
+            "explanation": "Amount of appreciation = 8% of ₹ 15,000.",
+            "difficulty": "Easy",
+            "topicId": "math-percent",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-18"
+          },
+          {
+            "question": "A shopkeeper in Kolkata buys a packet of tea for ₹ 250 and sells it for ₹ 300. His profit percentage is:",
+            "options": [
+              "10%",
+              "12.5%",
+              "15%",
+              "20%"
+            ],
+            "correctIndex": 2,
+            "explanation": "Profit percentage = ((₹ 300 - ₹ 250) / ₹ 250) × 100.",
+            "difficulty": "Medium",
+            "topicId": "math-profit-loss",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-18"
+          },
+          {
+            "question": "If the population of West Bengal increases by 15% in one year, and it was 91,000,000 in the previous year, then the present population is:",
+            "options": [
+              "104,050,000",
+              "103,050,000",
+              "104,500,000",
+              "104,750,000"
+            ],
+            "correctIndex": 0,
+            "explanation": "Present population = 91,000,000 + (15% of 91,000,000).",
+            "difficulty": "Medium",
+            "topicId": "math-percent",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-18"
+          },
+          {
+            "question": "A person incurs a loss of 5% on selling an article for ₹ 1,200. The cost price of the article is:",
+            "options": [
+              "₹ 1,100",
+              "₹ 1,200",
+              "₹ 1,250",
+              "₹ 1,300"
+            ],
+            "correctIndex": 2,
+            "explanation": "Loss percentage = 5% of cost price.",
+            "difficulty": "Easy",
+            "topicId": "math-loss",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-18"
+          }
+        ],
+        "questionCount": 5
+      },
+      "math-tw": {
+        "topicName": "Time, Work & Pipes",
+        "subjectName": "Arithmetic",
+        "questions": [
+          {
+            "question": "A person can finish a piece of work in 30 days. He works for 5 days and then he hires 2 more people to complete the same work. How many days will it take for the three people to finish the work?",
+            "options": [
+              "15 days",
+              "20 days",
+              "25 days",
+              "30 days"
+            ],
+            "correctIndex": 0,
+            "explanation": "Total work done in 5 days will be 1/6.",
+            "difficulty": "Medium",
+            "topicId": "math-tw",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-18"
+          },
+          {
+            "question": "Two pipes P and Q can fill a tank in 12 and 16 hours respectively. If both pipes operate simultaneously, how many hours will it take to fill the tank?",
+            "options": [
+              "6 hours",
+              "8 hours",
+              "10 hours",
+              "12 hours"
+            ],
+            "correctIndex": 1,
+            "explanation": "Combined rate of filling the tank is 1/12 + 1/16 = 7/48.",
+            "difficulty": "Easy",
+            "topicId": "math-tw",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-18"
+          },
+          {
+            "question": "A worker can complete half of a job in 4 hours. Find the time required to complete the whole job.",
+            "options": [
+              "4 hours",
+              "8 hours",
+              "12 hours",
+              "16 hours"
+            ],
+            "correctIndex": 2,
+            "explanation": "If 4 hours complete half of the work, then the whole work will take 8 hours.",
+            "difficulty": "Easy",
+            "topicId": "math-tw",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-18"
+          },
+          {
+            "question": "A pipe can fill a tank in 8 hours. If the pipe is closed for 2 hours, what will be the new time required to fill the tank?",
+            "options": [
+              "5.8 hours",
+              "6 hours",
+              "6.8 hours",
+              "7 hours"
+            ],
+            "correctIndex": 1,
+            "explanation": "Work done in 8 hours is 1. Time saved is 2 hours.",
+            "difficulty": "Medium",
+            "topicId": "math-tw",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-18"
+          },
+          {
+            "question": "A person can do a piece of work in 6 days, but due to illness, he was absent for 2 days. How many days will it take for him to complete the work now?",
+            "options": [
+              "8 days",
+              "9 days",
+              "10 days",
+              "12 days"
+            ],
+            "correctIndex": 2,
+            "explanation": "Time lost is 2 days, so the new time required is 6 + 2 = 8 days.",
+            "difficulty": "Medium",
+            "topicId": "math-tw",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-18"
+          }
+        ],
+        "questionCount": 5
+      },
+      "math-tsd": {
+        "topicName": "Time, Speed & Distance",
+        "subjectName": "Arithmetic",
+        "questions": [
+          {
+            "question": "A train travels from Kolkata to Digha at an average speed of 120 km/h. If it takes 6 hours to cover a certain distance, how much time will it take to cover the same distance at an average speed of 90 km/h?",
+            "options": [
+              "10 hours",
+              "8 hours",
+              "6 hours",
+              "4 hours"
+            ],
+            "correctIndex": 0,
+            "explanation": "Time taken is inversely proportional to speed.",
+            "difficulty": "Medium",
+            "topicId": "math-tsd",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-18"
+          },
+          {
+            "question": "A car travels from Howrah to Siliguri at an average speed of 50 km/h. If it travels for 2 hours, what is the distance covered?",
+            "options": [
+              "100 km",
+              "50 km",
+              "60 km",
+              "80 km"
+            ],
+            "correctIndex": 1,
+            "explanation": "Distance = Speed * Time.",
+            "difficulty": "Easy",
+            "topicId": "math-tsd",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-18"
+          },
+          {
+            "question": "A cycle travels from Darjeeling to Kalimpong at an average speed of 20 km/h. If it takes 4 hours to cover a certain distance, what is the speed of the cycle if it covers the same distance in 3 hours?",
+            "options": [
+              "20 km/h",
+              "25 km/h",
+              "30 km/h",
+              "35 km/h"
+            ],
+            "correctIndex": 2,
+            "explanation": "Speed is inversely proportional to time.",
+            "difficulty": "Medium",
+            "topicId": "math-tsd",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-18"
+          },
+          {
+            "question": "A bus travels from Malda to Cooch Behar at an average speed of 60 km/h. If it travels for 3 hours, what is the distance covered if it travels at an average speed of 80 km/h for the same duration?",
+            "options": [
+              "180 km",
+              "240 km",
+              "260 km",
+              "300 km"
+            ],
+            "correctIndex": 0,
+            "explanation": "Distance = Speed * Time.",
+            "difficulty": "Medium",
+            "topicId": "math-tsd",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-18"
+          },
+          {
+            "question": "A ferry travels from Kakdwip to Raidighi at an average speed of 30 km/h. If it travels for 2.5 hours, what is the distance covered if it travels at an average speed of 40 km/h?",
+            "options": [
+              "75 km",
+              "80 km",
+              "85 km",
+              "90 km"
+            ],
+            "correctIndex": 1,
+            "explanation": "Distance = Speed * Time.",
+            "difficulty": "Easy",
+            "topicId": "math-tsd",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-18"
+          }
+        ],
+        "questionCount": 5
+      }
+    },
+    "reasoning": {
+      "rs-coding": {
+        "topicName": "Coding-Decoding",
+        "subjectName": "Reasoning",
+        "questions": [
+          {
+            "question": "In the given code, 'মৃত্যু' is represented by a 2-digit number. What is the first digit of the number, if the second digit is '5'?",
+            "options": [
+              "৭",
+              "৪",
+              "৬",
+              "৮"
+            ],
+            "correctIndex": 1,
+            "explanation": "The Bengali alphabet is used to represent numbers.",
+            "difficulty": "Medium",
+            "topicId": "rs-coding",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-18"
+          },
+          {
+            "question": "If 'আমার বৈ' is coded as 'বাই আমা', then 'আমি দেখছি তোমাকে' would be coded as?",
+            "options": [
+              "তোমাকে দেখছি আমি",
+              "আমি দেখছি তোমা কে",
+              "আমি দেখছি তোমাকে",
+              "আমি দেখছি তোমাকে আমার"
+            ],
+            "correctIndex": 0,
+            "explanation": "The coded message is a reversal of words.",
+            "difficulty": "Medium",
+            "topicId": "rs-coding",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-18"
+          },
+          {
+            "question": "A sentence is coded as 'মুন্না দেখেছি মেঘ' and 'মেঘ দেখেছি মুন্না'. What is the code for the sentence 'তোমার বাবা দেখেছে মুন্না'?",
+            "options": [
+              "তোমার দেখেছে মেঘ বাবা",
+              "বাবা তোমার দেখেছে মুন্না",
+              "তোমার বাবা দেখেছে মুন্না",
+              "বাবা দেখেছে তোমার মুন্না"
+            ],
+            "correctIndex": 2,
+            "explanation": "The code is a reversal of words in the original sentence.",
+            "difficulty": "Medium",
+            "topicId": "rs-coding",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-18"
+          },
+          {
+            "question": "What is the next number in the sequence ১, ৪, ৭, ১০, ১৩?",
+            "options": [
+              "১৬",
+              "১৫",
+              "১৮",
+              "১৭"
+            ],
+            "correctIndex": 2,
+            "explanation": "The sequence is formed by adding ৩ to the previous number.",
+            "difficulty": "Medium",
+            "topicId": "rs-coding",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-18"
+          },
+          {
+            "question": "If 'বড়' is represented by 'ছোট', 'ছোট' is represented by 'বড়', then 'খুব বড়' will be represented by?",
+            "options": [
+              "খুব ছোট",
+              "খুব বড়",
+              "খুব ছোট বড়",
+              "খুব ছোট ছোট"
+            ],
+            "correctIndex": 3,
+            "explanation": "The representation is based on antonyms.",
+            "difficulty": "Medium",
+            "topicId": "rs-coding",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-18"
+          }
+        ],
+        "questionCount": 5
+      },
+      "rs-blood": {
+        "topicName": "Blood Relations",
+        "subjectName": "Reasoning",
+        "questions": [
+          {
+            "question": "A man's sister's husband's father is the grandfather of his wife's brother's son. How is the man related to his wife?",
+            "options": [
+              "Father",
+              "Son",
+              "Brother",
+              "Father-in-law"
+            ],
+            "correctIndex": 3,
+            "explanation": "Man is father-in-law of his wife.",
+            "difficulty": "Medium",
+            "topicId": "rs-blood",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-18"
+          },
+          {
+            "question": "A grandmother's daughter's son's child is the child of a woman's son. What is the relationship of the child to the woman?",
+            "options": [
+              "Grandchild",
+              "Aunt",
+              "Brother",
+              "Nephew"
+            ],
+            "correctIndex": 0,
+            "explanation": "Child is the grandchild of the woman.",
+            "difficulty": "Easy",
+            "topicId": "rs-blood",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-18"
+          },
+          {
+            "question": "A man has three children: two sons and one daughter. His wife's sister also has three children: two sons and one daughter. Which of the following statements is true about the children of the two sisters?",
+            "options": [
+              "They all are sisters",
+              "They all are brothers",
+              "At least one is a boy and one is a girl",
+              "None of the above"
+            ],
+            "correctIndex": 0,
+            "explanation": "At least one child of the two sisters is a boy and one is a girl.",
+            "difficulty": "Medium",
+            "topicId": "rs-blood",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-18"
+          },
+          {
+            "question": "Two men, A and B, are relatives. A's son is B's son's father. What is the relationship between A and B?",
+            "options": [
+              "Brothers",
+              "Father and Son",
+              "Uncle and Nephew",
+              "Mother and Son"
+            ],
+            "correctIndex": 1,
+            "explanation": "A is the father and B is the son.",
+            "difficulty": "Medium",
+            "topicId": "rs-blood",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-18"
+          },
+          {
+            "question": "A woman has two children, a son and a daughter. Her sister also has two children, a son and a daughter. Which of the following statements is true about the children of the two sisters?",
+            "options": [
+              "At least one child of one of the sisters is a boy and one is a girl",
+              "All the children of both sisters are boys",
+              "All the children of both sisters are girls",
+              "None of the above"
+            ],
+            "correctIndex": 0,
+            "explanation": "At least one child of one of the sisters is a boy and one is a girl.",
+            "difficulty": "Medium",
+            "topicId": "rs-blood",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-18"
+          }
+        ],
+        "questionCount": 5
+      },
+      "rs-direction": {
+        "topicName": "Direction Sense",
+        "subjectName": "Reasoning",
+        "questions": [
+          {
+            "question": "A person is walking on a road in Kolkata. He takes 15 steps towards North and then turns right and walks 10 steps. He then turns right and walks 5 steps. In which direction is he facing?",
+            "options": [
+              "South",
+              "West",
+              "North",
+              "East"
+            ],
+            "correctIndex": 2,
+            "explanation": "Since he turned right twice, he is facing the initial direction",
+            "difficulty": "Medium",
+            "topicId": "rs-direction",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-18"
+          },
+          {
+            "question": "A person is standing at a point P in Darjeeling. He walks 20 meters east from point P, then 15 meters north, then 5 meters east and finally 10 meters south. What is the direction of point P from his current position?",
+            "options": [
+              "North",
+              "South",
+              "East",
+              "West"
+            ],
+            "correctIndex": 1,
+            "explanation": "Since he moved more in the northern direction, the current position is north of point P",
+            "difficulty": "Medium",
+            "topicId": "rs-direction",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-18"
+          },
+          {
+            "question": "A person starts walking from a point A. He walks 20 meters towards West, then 15 meters towards South and finally 25 meters towards North-East. In which direction is he facing?",
+            "options": [
+              "South-West",
+              "North-East",
+              "North-West",
+              "South"
+            ],
+            "correctIndex": 1,
+            "explanation": "After moving 20 meters West and 25 meters North-East, he is facing North-East",
+            "difficulty": "Medium",
+            "topicId": "rs-direction",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-18"
+          },
+          {
+            "question": "A person starts walking from a point P. He walks 15 meters towards East and then 20 meters towards North. If he walks 15 meters in a direction which is at right angles to the direction in which he walked earlier, which of the following is the direction in which he walked 15 meters?",
+            "options": [
+              "North",
+              "East",
+              "South-West",
+              "South"
+            ],
+            "correctIndex": 2,
+            "explanation": "Since he walked 15 meters earlier towards East, he walked 15 meters towards South",
+            "difficulty": "Medium",
+            "topicId": "rs-direction",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-18"
+          },
+          {
+            "question": "A man is walking in a park with a circular shape. He is walking 8 km/hr in a direction which makes an angle of 60? with the direction of the boundary. In which direction is he walking?",
+            "options": [
+              "North-West",
+              "South-West",
+              "North-East",
+              "South-East"
+            ],
+            "correctIndex": 0,
+            "explanation": "Since he is moving at an angle of 60? with the direction of boundary, he is moving in the North-West direction",
+            "difficulty": "Medium",
+            "topicId": "rs-direction",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-18"
+          }
+        ],
+        "questionCount": 5
+      },
+      "rs-series": {
+        "topicName": "Number & Letter Series",
+        "subjectName": "Reasoning",
+        "questions": [
+          {
+            "question": "If 2, 5, 8, 11, 14 is a series, then the next number in the series will be?",
+            "options": [
+              "1",
+              "3",
+              "4",
+              "6"
+            ],
+            "correctIndex": 2,
+            "explanation": "The difference between the consecutive terms is increasing by 1.",
+            "difficulty": "Medium",
+            "topicId": "num-series",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-18"
+          },
+          {
+            "question": "Which of the following is the next letter in the series: K, N, Q, T?",
+            "options": [
+              "W",
+              "X",
+              "V",
+              "U"
+            ],
+            "correctIndex": 2,
+            "explanation": "The series is formed by adding 3 to the alphabetical value of the previous letter.",
+            "difficulty": "Medium",
+            "topicId": "letter-series",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-18"
+          },
+          {
+            "question": "What is the missing number in the series: 1, 4, 9, 16, 25, ______?",
+            "options": [
+              "36",
+              "40",
+              "30",
+              "32"
+            ],
+            "correctIndex": 0,
+            "explanation": "The numbers are squares of consecutive natural numbers.",
+            "difficulty": "Easy",
+            "topicId": "num-series",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-18"
+          },
+          {
+            "question": "Which of the following is the next number in the series: 3, 6, 12, 24, 48?",
+            "options": [
+              "96",
+              "72",
+              "60",
+              "64"
+            ],
+            "correctIndex": 0,
+            "explanation": "The series is formed by doubling the previous number.",
+            "difficulty": "Medium",
+            "topicId": "num-series",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-18"
+          },
+          {
+            "question": "What is the next letter in the series: A, D, G, J?",
+            "options": [
+              "M",
+              "K",
+              "L",
+              "N"
+            ],
+            "correctIndex": 2,
+            "explanation": "The series is formed by adding 3 to the previous letter's alphabetical value.",
+            "difficulty": "Medium",
+            "topicId": "letter-series",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-18"
+          }
+        ],
+        "questionCount": 5
+      }
+    }
+  }
+}
