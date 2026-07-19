@@ -1,0 +1,756 @@
+{
+  "exam": "si",
+  "generatedDate": "2026-07-19",
+  "generatedAt": "2026-07-19T04:04:00.218Z",
+  "model": "llama-3.1-8b-instant",
+  "provider": "groq",
+  "source": "ai_generated",
+  "reviewStatus": "pending",
+  "totalQuestions": 45,
+  "subjects": {
+    "gs": {
+      "gs-polity": {
+        "topicName": "Indian Constitution & Polity",
+        "subjectName": "General Studies",
+        "questions": [
+          {
+            "question": "The right to freedom of speech and expression under Article 19(1)(a) of the Indian Constitution is subject to reasonable restrictions under Article 19(2). Which of the following is an example of such a restriction?",
+            "options": [
+              "Right to life and liberty",
+              "Freedom of speech and expression",
+              "Right to practice any profession",
+              "Public order, decency or morality, contempt of court"
+            ],
+            "correctIndex": 3,
+            "explanation": "Restrictions on public order, decency or morality.",
+            "difficulty": "Medium",
+            "topicId": "gs-polity",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-19"
+          },
+          {
+            "question": "The Panchayat Raj system was first introduced in India by the",
+            "options": [
+              "Government of India Act, 1935",
+              "Constituent Assembly of India",
+              "73rd Constitutional Amendment Act, 1992",
+              "West Bengal Panchayat Act, 1959"
+            ],
+            "correctIndex": 2,
+            "explanation": "73rd Constitutional Amendment Act, 1992.",
+            "difficulty": "Easy",
+            "topicId": "gs-polity",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-19"
+          },
+          {
+            "question": "The President of India can be removed from office through",
+            "options": [
+              "Impeachment",
+              "Vote of no confidence",
+              "Ordinance",
+              "Article 361 of the Indian Constitution"
+            ],
+            "correctIndex": 0,
+            "explanation": "Impeachment by both Houses of Parliament.",
+            "difficulty": "Medium",
+            "topicId": "gs-polity",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-19"
+          },
+          {
+            "question": "The concept of 'Socialism, Secularism and Democracy' is mentioned in the",
+            "options": [
+              "Preamble to the Indian Constitution",
+              "Article 51A of the Indian Constitution",
+              "Article 368 of the Indian Constitution",
+              "Article 14 of the Indian Constitution"
+            ],
+            "correctIndex": 0,
+            "explanation": "Preamble to the Indian Constitution.",
+            "difficulty": "Easy",
+            "topicId": "gs-polity",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-19"
+          },
+          {
+            "question": "The Scheduled Castes and Scheduled Tribes are protected by the",
+            "options": [
+              "Article 15 of the Indian Constitution",
+              "Article 16 of the Indian Constitution",
+              "Article 17 of the Indian Constitution",
+              "Article 341 and 342 of the Indian Constitution"
+            ],
+            "correctIndex": 3,
+            "explanation": "Article 341 and 342 of the Indian Constitution.",
+            "difficulty": "Easy",
+            "topicId": "gs-polity",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-19"
+          }
+        ],
+        "questionCount": 5
+      },
+      "gs-wb-geo": {
+        "topicName": "West Bengal Geography",
+        "subjectName": "General Studies",
+        "questions": [
+          {
+            "question": "Which river originates in the Himalayas and flows through West Bengal?",
+            "options": [
+              "Ganges",
+              "Brahmaputra",
+              "Hooghly",
+              "Damodar"
+            ],
+            "correctIndex": 0,
+            "explanation": "The Ganges River is the longest river of the Indian subcontinent.",
+            "difficulty": "Medium",
+            "topicId": "gs-wb-geo",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-19"
+          },
+          {
+            "question": "Which of the following hills is part of the Eastern Ghats mountain range in West Bengal?",
+            "options": [
+              "Nilgiri Hills",
+              "Jharkhand Hills",
+              "Chhotanagpur Plateau",
+              "Simlipal Hill Range"
+            ],
+            "correctIndex": 2,
+            "explanation": "The Chhotanagpur Plateau is a part of the Eastern Ghats in West Bengal.",
+            "difficulty": "Medium",
+            "topicId": "gs-wb-geo",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-19"
+          },
+          {
+            "question": "Which of the following deltas is located in West Bengal?",
+            "options": [
+              "Ganges-Brahmaputra Delta",
+              "Sundarbans Delta",
+              "Mahanadi Delta",
+              "Godavari Delta"
+            ],
+            "correctIndex": 1,
+            "explanation": "The Sundarbans Delta is one of the largest mangrove forests in the world and is located in West Bengal.",
+            "difficulty": "Medium",
+            "topicId": "gs-wb-geo",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-19"
+          },
+          {
+            "question": "Which of the following islands is located in the Sundarbans region of West Bengal?",
+            "options": [
+              "Sagar Island",
+              "Mandarmoni Island",
+              "Henry Island",
+              "Gangasagar Island"
+            ],
+            "correctIndex": 0,
+            "explanation": "Sagar Island is the largest island in the Sundarbans region of West Bengal.",
+            "difficulty": "Medium",
+            "topicId": "gs-wb-geo",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-19"
+          },
+          {
+            "question": "What is the name of the highest peak in West Bengal?",
+            "options": [
+              "Singalila Peak",
+              "Phawngpui Peak",
+              "Nanda Devi Peak",
+              "Kangchenjunga Peak"
+            ],
+            "correctIndex": 0,
+            "explanation": "Singalila Peak is the highest peak in West Bengal.",
+            "difficulty": "Medium",
+            "topicId": "gs-wb-geo",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-19"
+          }
+        ],
+        "questionCount": 5
+      }
+    },
+    "math": {
+      "math-percent": {
+        "topicName": "Percentage & Profit-Loss",
+        "subjectName": "Arithmetic",
+        "questions": [
+          {
+            "question": "A fruit vendor sold 240 kg of apples at an average price of ₹50 per kg, earning a profit of 20%. If the cost price per kg was ₹40, then the total profit made by the vendor is?",
+            "options": [
+              "₹3,600",
+              "₹3,840",
+              "₹4,000",
+              "₹4,160"
+            ],
+            "correctIndex": 1,
+            "explanation": "Profit earned is 20% of the total cost price.",
+            "difficulty": "Medium",
+            "topicId": "math-percent",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-19"
+          },
+          {
+            "question": "If a shopkeeper sells an article at a 10% discount on the marked price of ₹1,600, how much amount of money will he receive from the customer?",
+            "options": [
+              "₹1,440",
+              "₹1,464",
+              "₹1,472",
+              "₹1,536"
+            ],
+            "correctIndex": 1,
+            "explanation": "Discount is 10% of the marked price.",
+            "difficulty": "Medium",
+            "topicId": "math-percent",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-19"
+          },
+          {
+            "question": "In a state like West Bengal, where the general inflation rate is 5% per annum, if the price of a house increases from ₹20 lakhs to ₹21 lakhs in one year, what is the percentage increase in the price of the house?",
+            "options": [
+              "0.5%",
+              "4%",
+              "5%",
+              "8%"
+            ],
+            "correctIndex": 1,
+            "explanation": "Increased value is compared with the original value.",
+            "difficulty": "Medium",
+            "topicId": "math-percent",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-19"
+          },
+          {
+            "question": "A car dealer purchases a car at a cost price of ₹8 lakhs and sells it at a 15% profit. If the dealer also offers a discount of 2% on the marked price, then the selling price of the car will be?",
+            "options": [
+              "₹8,56,000",
+              "₹8,72,000",
+              "₹8,84,000",
+              "₹8,92,000"
+            ],
+            "correctIndex": 0,
+            "explanation": "Profit is calculated on the cost price and then discount is given on the marked price.",
+            "difficulty": "Hard",
+            "topicId": "math-percent",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-19"
+          },
+          {
+            "question": "In a shop, the profit made on selling 1000 pieces of a product is ₹500. If the profit percentage is 5%, then the cost price of one piece of the product is?",
+            "options": [
+              "₹50",
+              "₹55",
+              "₹60",
+              "₹65"
+            ],
+            "correctIndex": 2,
+            "explanation": "Profit percentage is given and cost price per piece needs to be found.",
+            "difficulty": "Medium",
+            "topicId": "math-percent",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-19"
+          }
+        ],
+        "questionCount": 5
+      },
+      "math-interest": {
+        "topicName": "Simple & Compound Interest",
+        "subjectName": "Arithmetic",
+        "questions": [
+          {
+            "question": "If the simple interest on a certain sum of money for 3 years at 8% per annum is Rs. 480, then the compound interest for the same period at the same rate of interest on the same sum is?",
+            "options": [
+              "Rs. 513.60",
+              "Rs. 522.24",
+              "Rs. 528.32",
+              "Rs. 534.72"
+            ],
+            "correctIndex": 1,
+            "explanation": "Compound interest is always greater than simple interest.",
+            "difficulty": "Medium",
+            "topicId": "math-interest",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-19"
+          },
+          {
+            "question": "If Rs. 15,000 is invested at 10% per annum compound interest for 2 years, then the amount after 2 years will be?",
+            "options": [
+              "Rs. 16,500",
+              "Rs. 16,300",
+              "Rs. 16,200",
+              "Rs. 16,100"
+            ],
+            "correctIndex": 0,
+            "explanation": "Compound interest is the interest calculated on the initial principal, which also includes all the accumulated interest from previous periods.",
+            "difficulty": "Medium",
+            "topicId": "math-interest",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-19"
+          },
+          {
+            "question": "A person borrowed Rs. 10,000 at 5% per annum simple interest. How much amount will be required to return after 4 years?",
+            "options": [
+              "Rs. 11,000",
+              "Rs. 10,500",
+              "Rs. 10,200",
+              "Rs. 10,000"
+            ],
+            "correctIndex": 0,
+            "explanation": "Simple interest is calculated as principal times rate times time.",
+            "difficulty": "Medium",
+            "topicId": "math-interest",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-19"
+          },
+          {
+            "question": "If the compound interest on a certain sum of money for 2 years at 6% per annum is Rs. 123.30, then the principal sum is?",
+            "options": [
+              "Rs. 5,100",
+              "Rs. 5,000",
+              "Rs. 4,900",
+              "Rs. 4,800"
+            ],
+            "correctIndex": 2,
+            "explanation": "The formula for compound interest is A = P(1 + r/n)^(nt), where A is the amount, P is the principal amount, r is the annual interest rate, n is the number of times that interest is compounded per year, and t is the time the money is invested or borrowed for, in years.",
+            "difficulty": "Medium",
+            "topicId": "math-interest",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-19"
+          },
+          {
+            "question": "If the simple interest on Rs. 8,000 for 5 years at 9% per annum is Rs. 1,800, then the banker's discount for the same period at the same rate of interest is?",
+            "options": [
+              "Rs. 1,900",
+              "Rs. 1,820",
+              "Rs. 1,840",
+              "Rs. 1,860"
+            ],
+            "correctIndex": 2,
+            "explanation": "The banker's discount is the interest on the face value of a bill or note, calculated from the date of discount to the date of maturity.",
+            "difficulty": "Medium",
+            "topicId": "math-interest",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-19"
+          }
+        ],
+        "questionCount": 5
+      },
+      "math-tw": {
+        "topicName": "Time, Work & Pipes",
+        "subjectName": "Arithmetic",
+        "questions": [
+          {
+            "question": "A worker can finish a job in 24 hours. In how many hours will the same job be finished by 4 workers working together?",
+            "options": [
+              "6 hours",
+              "8 hours",
+              "9 hours",
+              "12 hours"
+            ],
+            "correctIndex": 0,
+            "explanation": "The job will be finished in 6 hours by 4 workers together.",
+            "difficulty": "Medium",
+            "topicId": "math-tw",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-19"
+          },
+          {
+            "question": "A tap can fill 2/3rd of a tank in 12 minutes. In how many minutes will the tap completely fill the tank?",
+            "options": [
+              "6 minutes",
+              "8 minutes",
+              "12 minutes",
+              "18 minutes"
+            ],
+            "correctIndex": 2,
+            "explanation": "The tap can completely fill the tank in 12 minutes.",
+            "difficulty": "Medium",
+            "topicId": "math-tw",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-19"
+          },
+          {
+            "question": "A can do a piece of work in 8 days and B can do the same work in 12 days. How many days will they take to complete the work together?",
+            "options": [
+              "4 days",
+              "6 days",
+              "8 days",
+              "12 days"
+            ],
+            "correctIndex": 0,
+            "explanation": "They will take 4 days to complete the work together.",
+            "difficulty": "Medium",
+            "topicId": "math-tw",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-19"
+          },
+          {
+            "question": "A tank can be filled by pipe A in 10 hours and by pipe B in 8 hours. How long will it take to fill the tank if both pipes are used together?",
+            "options": [
+              "3 hours",
+              "4 hours",
+              "5 hours",
+              "6 hours"
+            ],
+            "correctIndex": 2,
+            "explanation": "It will take 5 hours to fill the tank if both pipes are used together.",
+            "difficulty": "Medium",
+            "topicId": "math-tw",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-19"
+          },
+          {
+            "question": "If 8 men can dig a canal in 25 days, how many men will be needed to dig the same canal in 5 days?",
+            "options": [
+              "40 men",
+              "80 men",
+              "120 men",
+              "160 men"
+            ],
+            "correctIndex": 0,
+            "explanation": "40 men will be needed to dig the same canal in 5 days.",
+            "difficulty": "Medium",
+            "topicId": "math-tw",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-19"
+          }
+        ],
+        "questionCount": 5
+      },
+      "math-tsd": {
+        "topicName": "Time, Speed & Distance",
+        "subjectName": "Arithmetic",
+        "questions": [
+          {
+            "question": "A train travels from Kolkata to Siliguri at an average speed of 50 km/h. What is the time taken to cover a distance of 200 km?",
+            "options": [
+              "5 hours",
+              "4 hours",
+              "6 hours",
+              "3 hours"
+            ],
+            "correctIndex": 1,
+            "explanation": "Time taken is calculated by dividing distance by speed.",
+            "difficulty": "Medium",
+            "topicId": "math-tsd",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-19"
+          },
+          {
+            "question": "A bus is traveling from Darjeeling to Kalimpong at an average speed of 30 km/h. How many hours will it take to cover a distance of 90 km?",
+            "options": [
+              "2.5 hours",
+              "2 hours",
+              "1.5 hours",
+              "3 hours"
+            ],
+            "correctIndex": 0,
+            "explanation": "Time taken is calculated by dividing distance by speed.",
+            "difficulty": "Medium",
+            "topicId": "math-tsd",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-19"
+          },
+          {
+            "question": "If the speed of a boat in still water is 15 km/h and the speed of the stream is 5 km/h, what is the speed of the boat downstream?",
+            "options": [
+              "10 km/h",
+              "15 km/h",
+              "20 km/h",
+              "18 km/h"
+            ],
+            "correctIndex": 2,
+            "explanation": "Speed downstream is calculated by adding speed of boat and speed of stream.",
+            "difficulty": "Medium",
+            "topicId": "math-tsd",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-19"
+          },
+          {
+            "question": "A man is traveling from Jalpaiguri to Cooch Behar at an average speed of 40 km/h. If he covers half of the distance in 2 hours, what is his average speed for the entire journey?",
+            "options": [
+              "30 km/h",
+              "40 km/h",
+              "50 km/h",
+              "60 km/h"
+            ],
+            "correctIndex": 2,
+            "explanation": "Since speed is constant, average speed remains the same throughout the journey.",
+            "difficulty": "Medium",
+            "topicId": "math-tsd",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-19"
+          },
+          {
+            "question": "A taxi is traveling from Durgapur to Asansol at an average speed of 60 km/h. If it covers 120 km in the first 2 hours, what is its average speed for the entire journey?",
+            "options": [
+              "30 km/h",
+              "40 km/h",
+              "60 km/h",
+              "80 km/h"
+            ],
+            "correctIndex": 2,
+            "explanation": "Since speed is constant, average speed remains the same throughout the journey.",
+            "difficulty": "Medium",
+            "topicId": "math-tsd",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-19"
+          }
+        ],
+        "questionCount": 5
+      }
+    },
+    "reasoning": {
+      "rs-coding": {
+        "topicName": "Coding-Decoding",
+        "subjectName": "Reasoning",
+        "questions": [
+          {
+            "question": "If 'M' denotes '+', 'N' denotes '-', 'A' denotes '*', and 'B' denotes '/', then 23 N 17 M 14 B 3 = ?",
+            "options": [
+              "85",
+              "95",
+              "65",
+              "75"
+            ],
+            "correctIndex": 0,
+            "explanation": "Substitute the given operations and solve the equation.",
+            "difficulty": "Medium",
+            "topicId": "rs-coding",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-19"
+          },
+          {
+            "question": "In a certain code, 'dog' is coded as 'gep' and 'cat' is coded as 'fta'. What would be the code for 'tiger'?",
+            "options": [
+              "wjsf",
+              "wjsv",
+              "wjsr",
+              "wjsb"
+            ],
+            "correctIndex": 2,
+            "explanation": "Apply the pattern of the given codes to the new word.",
+            "difficulty": "Medium",
+            "topicId": "rs-coding",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-19"
+          },
+          {
+            "question": "In a code, 2 5 7 represents 227, 5 8 1 represents 581, and 1 9 6 represents 196. What does 8 3 5 represent?",
+            "options": [
+              "835",
+              "8358",
+              "5835",
+              "583"
+            ],
+            "correctIndex": 0,
+            "explanation": "Apply the pattern of the given codes to the new number.",
+            "difficulty": "Medium",
+            "topicId": "rs-coding",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-19"
+          },
+          {
+            "question": "If 'A' denotes 'add', 'B' denotes 'subtract', 'C' denotes 'multiply', and 'D' denotes 'divide', then 10 A 5 B 2 C 3 = ?",
+            "options": [
+              "30",
+              "20",
+              "25",
+              "15"
+            ],
+            "correctIndex": 2,
+            "explanation": "Substitute the given operations and solve the equation.",
+            "difficulty": "Medium",
+            "topicId": "rs-coding",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-19"
+          },
+          {
+            "question": "In a certain code, 'Kolkata' is coded as 'PDKRTAL'. If 'K' is coded as 'P', 'A' is coded as 'D', 'L' is coded as 'K', 'O' is coded as 'R', 'T' is coded as 'A', 'A' is coded as 'D', and 'I' is coded as 'L', what would be the code for 'Howrah'?",
+            "options": [
+              "HWDRAH",
+              "HWRDH",
+              "HWRDA",
+              "HWDRH"
+            ],
+            "correctIndex": 2,
+            "explanation": "Apply the given code to the new word.",
+            "difficulty": "Medium",
+            "topicId": "rs-coding",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-19"
+          }
+        ],
+        "questionCount": 5
+      },
+      "rs-direction": {
+        "topicName": "Direction Sense",
+        "subjectName": "Reasoning",
+        "questions": [
+          {
+            "question": "A person is facing North direction and walks 100m, then turns left and walks 100m, then turns left and walks 100m. Which direction is he facing now?",
+            "options": [
+              "East",
+              "West",
+              "South",
+              "North"
+            ],
+            "correctIndex": 2,
+            "explanation": "He turns left twice, so his final direction is South.",
+            "difficulty": "Medium",
+            "topicId": "rs-direction",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-19"
+          },
+          {
+            "question": "If a person is at Howrah Station and walks 500m towards the Ganges and turns left and walks 300m, then turns right and walks 800m, where is he now?",
+            "options": [
+              "Howrah Station",
+              "BBD Bagh",
+              "Park Circus",
+              "Shyambazar"
+            ],
+            "correctIndex": 0,
+            "explanation": "He walked 500m towards the Ganges, which is the Hooghly River, and then turned left, so he is now at a location near the Hooghly River.",
+            "difficulty": "Medium",
+            "topicId": "rs-direction",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-19"
+          },
+          {
+            "question": "A person is facing East direction and walks 200m, then turns right and walks 150m, then turns left and walks 300m. Which direction is he facing now?",
+            "options": [
+              "East",
+              "West",
+              "South",
+              "North"
+            ],
+            "correctIndex": 3,
+            "explanation": "He turns left after walking, so his final direction is North.",
+            "difficulty": "Medium",
+            "topicId": "rs-direction",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-19"
+          },
+          {
+            "question": "A person is at the Park Street and walks 250m towards the north, then turns left and walks 150m, then turns right and walks 400m. Which direction is he facing now?",
+            "options": [
+              "North",
+              "South",
+              "East",
+              "West"
+            ],
+            "correctIndex": 3,
+            "explanation": "He turned right after walking, so his final direction is West.",
+            "difficulty": "Medium",
+            "topicId": "rs-direction",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-19"
+          },
+          {
+            "question": "A person is facing South direction and walks 400m, then turns right and walks 200m, then turns left and walks 500m. Which direction is he facing now?",
+            "options": [
+              "North",
+              "East",
+              "West",
+              "South"
+            ],
+            "correctIndex": 1,
+            "explanation": "He turns right and then left, so his final direction is East.",
+            "difficulty": "Medium",
+            "topicId": "rs-direction",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-19"
+          }
+        ],
+        "questionCount": 5
+      },
+      "rs-series": {
+        "topicName": "Number & Letter Series",
+        "subjectName": "Reasoning",
+        "questions": [
+          {
+            "question": "In a sequence, 5, 11, 17, 23, 29, what will be the next number?",
+            "options": [
+              "7",
+              "9",
+              "11",
+              "13"
+            ],
+            "correctIndex": 2,
+            "explanation": "The sequence consists of prime numbers.",
+            "difficulty": "Easy",
+            "topicId": "number-series",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-19"
+          },
+          {
+            "question": "If the pattern A, B, C, D, E, F is a rotation of the pattern a, b, c, d, e, f, what is the next letter in the pattern?",
+            "options": [
+              "g",
+              "a",
+              "f",
+              "e"
+            ],
+            "correctIndex": 0,
+            "explanation": "The pattern is a rotation of the original sequence.",
+            "difficulty": "Medium",
+            "topicId": "letter-series",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-19"
+          },
+          {
+            "question": "Find the next number in the series: 1, 2, 4, 7, 11, 16?",
+            "options": [
+              "20",
+              "22",
+              "21",
+              "23"
+            ],
+            "correctIndex": 1,
+            "explanation": "The series consists of numbers that are one more than the next perfect square.",
+            "difficulty": "Hard",
+            "topicId": "number-series",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-19"
+          },
+          {
+            "question": "In the given series 2, 4, 6, 8, 10, the next number is?",
+            "options": [
+              "12",
+              "11",
+              "14",
+              "13"
+            ],
+            "correctIndex": 0,
+            "explanation": "The pattern consists of consecutive even numbers.",
+            "difficulty": "Easy",
+            "topicId": "number-series",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-19"
+          },
+          {
+            "question": "In the series a, ab, abc, abcd, the next letter is?",
+            "options": [
+              "abcd",
+              "abcde",
+              "abc",
+              "abce"
+            ],
+            "correctIndex": 1,
+            "explanation": "The pattern consists of consecutive letters added to the original sequence.",
+            "difficulty": "Medium",
+            "topicId": "letter-series",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-19"
+          }
+        ],
+        "questionCount": 5
+      }
+    }
+  }
+}
