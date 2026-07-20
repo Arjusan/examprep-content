@@ -1,7 +1,7 @@
 {
   "exam": "si",
   "generatedDate": "2026-07-20",
-  "generatedAt": "2026-07-20T04:22:30.423Z",
+  "generatedAt": "2026-07-20T14:36:56.070Z",
   "model": "llama-3.1-8b-instant",
   "provider": "groq",
   "source": "ai_generated",
@@ -14,76 +14,76 @@
         "subjectName": "General Studies",
         "questions": [
           {
-            "question": "Which part of the Indian Constitution deals with the Fundamental Rights?",
+            "question": "Which Article of the Indian Constitution provides for the establishment of the Supreme Court?",
             "options": [
-              "Part III",
-              "Part IV",
-              "Part V",
-              "Part VI"
+              "Article 13",
+              "Article 32",
+              "Article 142",
+              "Article 243"
             ],
-            "correctIndex": 0,
-            "explanation": "It contains the Fundamental Rights.",
+            "correctIndex": 1,
+            "explanation": "Article 32 of the Indian Constitution provides for the establishment of the Supreme Court.",
             "difficulty": "Medium",
             "topicId": "gs-polity",
             "source": "ai_generated",
             "generatedDate": "2026-07-20"
           },
           {
-            "question": "What is the name of the scheme implemented by the West Bengal Government to provide financial assistance to the families of martyrs?",
+            "question": "The Panchayat Samitis are a part of the three-tier Panchayat system in which state?",
             "options": [
-              "Matru Utsav",
-              "Karmachari Kalyan Bima",
-              "Bijoy Smriti Bima",
-              "Karmachari Karmi Kalyan Yojana"
+              "Bihar",
+              "Uttar Pradesh",
+              "West Bengal",
+              "Andhra Pradesh"
             ],
             "correctIndex": 2,
-            "explanation": "It provides financial assistance to the families of martyrs.",
-            "difficulty": "Medium",
-            "topicId": "gs-state-specific",
-            "source": "ai_generated",
-            "generatedDate": "2026-07-20"
-          },
-          {
-            "question": "Which Article of the Indian Constitution empowers the President to impose President's Rule in a state?",
-            "options": [
-              "Article 356",
-              "Article 370",
-              "Article 371",
-              "Article 372"
-            ],
-            "correctIndex": 0,
-            "explanation": "It empowers the President to impose President's Rule.",
+            "explanation": "The Panchayat Samitis are a part of the three-tier Panchayat system in West Bengal.",
             "difficulty": "Medium",
             "topicId": "gs-polity",
             "source": "ai_generated",
             "generatedDate": "2026-07-20"
           },
           {
-            "question": "What is the name of the constitutional body that recommends the names of judges to be appointed as High Court judges in West Bengal?",
+            "question": "Which of the following is the fundamental duty of a citizen to promote harmony and the spirit of common brotherhood amongst all the people of India?",
             "options": [
-              "Calcutta High Court Recruitment Board",
-              "West Bengal Judicial Service Commission",
-              "Calcutta High Court Services Commission",
-              "West Bengal Public Service Commission"
+              "Article 15(1)",
+              "Article 51(A)(b)",
+              "Article 25(2)",
+              "Article 29(2)"
             ],
-            "correctIndex": 2,
-            "explanation": "It recommends the names of judges.",
+            "correctIndex": 1,
+            "explanation": "Article 51(A)(b) of the Indian Constitution is the fundamental duty of a citizen to promote harmony and the spirit of common brotherhood amongst all the people of India.",
             "difficulty": "Medium",
-            "topicId": "gs-state-specific",
+            "topicId": "gs-polity",
             "source": "ai_generated",
             "generatedDate": "2026-07-20"
           },
           {
-            "question": "Which amendment to the Indian Constitution introduced the concept of 'Anti-Defection Law'?",
+            "question": "Which of the following is the composition of the West Bengal State Election Commission?",
             "options": [
-              "52nd Amendment",
-              "61st Amendment",
-              "91st Amendment",
-              "52nd Constitutional Amendment"
+              "The Chief Election Commissioner and 2 Election Commissioners",
+              "The Chief Election Commissioner and 3 Election Commissioners",
+              "The Chief Election Commissioner and 4 Election Commissioners",
+              "The Chief Election Commissioner and 1 Election Commissioner"
             ],
-            "correctIndex": 0,
-            "explanation": "It introduced the concept of 'Anti-Defection Law'.",
+            "correctIndex": 2,
+            "explanation": "The composition of the West Bengal State Election Commission is the Chief Election Commissioner and 3 Election Commissioners.",
             "difficulty": "Medium",
+            "topicId": "gs-polity",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-20"
+          },
+          {
+            "question": "What is the number of Lok Sabha seats allocated to West Bengal?",
+            "options": [
+              "10",
+              "11",
+              "18",
+              "22"
+            ],
+            "correctIndex": 2,
+            "explanation": "West Bengal has 18 Lok Sabha seats.",
+            "difficulty": "Easy",
             "topicId": "gs-polity",
             "source": "ai_generated",
             "generatedDate": "2026-07-20"
@@ -91,82 +91,246 @@
         ],
         "questionCount": 5
       },
-      "gs-wb-geo": {
-        "topicName": "West Bengal Geography",
+      "gs-freedom": {
+        "topicName": "Indian Freedom Struggle & Bengal",
         "subjectName": "General Studies",
         "questions": [
           {
-            "question": "Which river is the main source of water for the Sundarbans delta?",
+            "question": "Who led the famous Bengal Volunteers in the Indian independence movement?",
             "options": [
-              "Ganges",
-              "Brahmaputra",
-              "Meghna",
-              "Hooghly"
+              "Satish Chandra Mukherjee",
+              "Jatindra Nath Mukherjee",
+              "Upen Babu",
+              "Subhas Chandra Bose"
             ],
-            "correctIndex": 0,
-            "explanation": "The Ganges River flows through the Sundarbans delta.",
+            "correctIndex": 1,
+            "explanation": "Jatindra Nath Mukherjee was the leader of the Bengal Volunteers.",
             "difficulty": "Medium",
-            "topicId": "gs-wb-geo",
+            "topicId": "gs-freedom",
             "source": "ai_generated",
             "generatedDate": "2026-07-20"
           },
           {
-            "question": "Which mountain range runs across northern West Bengal?",
+            "question": "Which of the following Acts was passed by the British government to increase revenue collection from Bengal?",
             "options": [
-              "Aravalli",
-              "Satpura",
-              "Eastern Ghats",
-              "Naga Hills"
+              "Regulating Act of 1773",
+              "Charter Act of 1833",
+              "Government of India Act of 1935",
+              "Permanent Settlement Act of 1793"
             ],
             "correctIndex": 3,
-            "explanation": "The Naga Hills mountain range runs across northern West Bengal.",
+            "explanation": "The Permanent Settlement Act was passed in 1793 to increase revenue collection from Bengal.",
             "difficulty": "Medium",
-            "topicId": "gs-wb-geo",
+            "topicId": "gs-freedom",
             "source": "ai_generated",
             "generatedDate": "2026-07-20"
           },
           {
-            "question": "Which of the following rivers is the longest river in West Bengal?",
+            "question": "Who was the President of the Indian National Congress when it passed the Swaraj resolution in 1929?",
+            "options": [
+              "Motilal Nehru",
+              "Jawaharlal Nehru",
+              "C. Rajagopalachari",
+              "Subhas Chandra Bose"
+            ],
+            "correctIndex": 0,
+            "explanation": "Motilal Nehru was the President of the Indian National Congress when it passed the Swaraj resolution in 1929.",
+            "difficulty": "Medium",
+            "topicId": "gs-freedom",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-20"
+          },
+          {
+            "question": "Which of the following events marked the beginning of the Non-Cooperation Movement in Bengal?",
+            "options": [
+              "Champaran Satyagraha",
+              "Khilafat Movement",
+              "Dandi March",
+              "Bardoli Satyagraha"
+            ],
+            "correctIndex": 1,
+            "explanation": "The Khilafat Movement marked the beginning of the Non-Cooperation Movement in Bengal.",
+            "difficulty": "Medium",
+            "topicId": "gs-freedom",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-20"
+          },
+          {
+            "question": "Who was the famous Bengali revolutionary who assassinated Sir Curzon Wyllie in 1900?",
+            "options": [
+              "Khudiram Bose",
+              "Bagha Jatin",
+              "Jatindra Nath Mukherjee",
+              "Madam Bhikaiji Cama"
+            ],
+            "correctIndex": 0,
+            "explanation": "Khudiram Bose assassinated Sir Curzon Wyllie in 1900.",
+            "difficulty": "Medium",
+            "topicId": "gs-freedom",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-20"
+          }
+        ],
+        "questionCount": 5
+      },
+      "gs-current": {
+        "topicName": "Current Affairs (Last 12 Months)",
+        "subjectName": "General Studies",
+        "questions": [
+          {
+            "question": "Which West Bengal Government initiative aims to provide employment to 10 lakh youth through skill development?",
+            "options": [
+              "Swami Vivekananda Arogya Vision-1500",
+              "Swami Vivekananda Rozgar Mission",
+              "Bangla Abaspas",
+              "Bangla Sheelta Mission"
+            ],
+            "correctIndex": 1,
+            "explanation": "Launched to provide employment to youth through skill development.",
+            "difficulty": "Medium",
+            "topicId": "gs-current",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-20"
+          },
+          {
+            "question": "Which of the following rivers in West Bengal has been declared as a National Heritage River?",
             "options": [
               "Ganges",
-              "Brahmaputra",
-              "Subarnarekha",
-              "Kangsabati"
+              "Hooghly",
+              "Damodar",
+              "Brahmaputra"
             ],
-            "correctIndex": 0,
-            "explanation": "The Ganges River is the longest river in West Bengal.",
-            "difficulty": "Medium",
-            "topicId": "gs-wb-geo",
+            "correctIndex": 1,
+            "explanation": "Declared as a National Heritage River due to its historical and cultural significance.",
+            "difficulty": "Easy",
+            "topicId": "gs-current",
             "source": "ai_generated",
             "generatedDate": "2026-07-20"
           },
           {
-            "question": "What is the name of the highest peak in the Darjeeling Himalayan hill region?",
+            "question": "In 2025, which of the following projects was approved by the West Bengal Government to boost the state's economy?",
             "options": [
-              "Sandakphu",
-              "Singalila",
-              "Kanchenjunga",
-              "Bhutia Busty"
+              "Howrah-Amta Rail Link",
+              "Kolkata Metro Line 6",
+              "Sagar Island Development Project",
+              "Naihati Thermal Power Plant"
             ],
             "correctIndex": 0,
-            "explanation": "Sandakphu is the highest peak in the Darjeeling Himalayan hill region.",
+            "explanation": "Approved to boost the state's economy and provide employment opportunities.",
             "difficulty": "Medium",
-            "topicId": "gs-wb-geo",
+            "topicId": "gs-current",
             "source": "ai_generated",
             "generatedDate": "2026-07-20"
           },
           {
-            "question": "Which of the following places is a part of the Sundarbans Tiger Reserve?",
+            "question": "What is the name of the West Bengal Government's flagship program to promote women's empowerment?",
             "options": [
-              "Sajnekhali",
-              "Gosaba",
-              "Kultali",
-              "Jharkhali"
+              "Sakhi-Sakhi Sammaan",
+              "Maa O Shishu Sathi",
+              "Saraswati",
+              "Nandita"
             ],
             "correctIndex": 0,
-            "explanation": "Sajnekhali is a part of the Sundarbans Tiger Reserve.",
+            "explanation": "Launched to promote women's empowerment and provide financial assistance.",
             "difficulty": "Medium",
-            "topicId": "gs-wb-geo",
+            "topicId": "gs-current",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-20"
+          },
+          {
+            "question": "Which of the following states has signed a MoU with West Bengal to promote industrial development?",
+            "options": [
+              "Odisha",
+              "Assam",
+              "Tripura",
+              "Jharkhand"
+            ],
+            "correctIndex": 0,
+            "explanation": "Signed to promote industrial development and create jobs in the state.",
+            "difficulty": "Easy",
+            "topicId": "gs-current",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-20"
+          }
+        ],
+        "questionCount": 5
+      },
+      "gs-wb-schemes": {
+        "topicName": "West Bengal Government Schemes",
+        "subjectName": "General Studies",
+        "questions": [
+          {
+            "question": "Which of the following West Bengal government schemes aims to provide financial assistance to women for the education of their children?",
+            "options": [
+              "Kanyashree Prakalpa",
+              "Swasthya Sathi",
+              "Duare Sashyalaya",
+              "Sabooj Sathi"
+            ],
+            "correctIndex": 1,
+            "explanation": "Aims to provide financial assistance to women for the education of their children.",
+            "difficulty": "Medium",
+            "topicId": "gs-wb-schemes",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-20"
+          },
+          {
+            "question": "What is the main objective of the 'Swasthya Sathi' scheme in West Bengal?",
+            "options": [
+              "To provide free medical treatment to all citizens",
+              "To provide health insurance to all citizens",
+              "To provide free education to all citizens",
+              "To provide employment opportunities to all citizens"
+            ],
+            "correctIndex": 1,
+            "explanation": "To provide health insurance to all citizens.",
+            "difficulty": "Medium",
+            "topicId": "gs-wb-schemes",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-20"
+          },
+          {
+            "question": "Which of the following schemes is a part of the 'Duare Sashyalaya' initiative in West Bengal?",
+            "options": [
+              "Pension for the poor",
+              "Scholarship for meritorious students",
+              "Health insurance for all",
+              "Free ration for the poor"
+            ],
+            "correctIndex": 2,
+            "explanation": "Initiative aims to provide government services at the doorsteps of citizens.",
+            "difficulty": "Medium",
+            "topicId": "gs-wb-schemes",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-20"
+          },
+          {
+            "question": "The 'Sabooj Sathi' scheme in West Bengal aims to provide bicycles to which category of students?",
+            "options": [
+              "Meritorious students",
+              "Students from economically backward classes",
+              "Students with disabilities",
+              "Students from rural areas"
+            ],
+            "correctIndex": 1,
+            "explanation": "Aims to promote education among students from economically backward classes.",
+            "difficulty": "Medium",
+            "topicId": "gs-wb-schemes",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-20"
+          },
+          {
+            "question": "What is the main objective of the 'Kanyashree Prakalpa' scheme in West Bengal?",
+            "options": [
+              "To provide financial assistance to women for the education of their children",
+              "To provide employment opportunities to women",
+              "To provide health insurance to women",
+              "To provide financial assistance to women for their marriage"
+            ],
+            "correctIndex": 0,
+            "explanation": "Aims to prevent child marriage and promote education among girls.",
+            "difficulty": "Medium",
+            "topicId": "gs-wb-schemes",
             "source": "ai_generated",
             "generatedDate": "2026-07-20"
           }
@@ -175,246 +339,82 @@
       }
     },
     "math": {
-      "math-percent": {
-        "topicName": "Percentage & Profit-Loss",
+      "math-tsd": {
+        "topicName": "Time, Speed & Distance",
         "subjectName": "Arithmetic",
         "questions": [
           {
-            "question": "A shopkeeper sells an article at 12% profit. If he sold the article for Rs. 420, then the cost price of the article is?",
+            "question": "A train covers a distance of 480 km in 8 hours. How much distance will it cover in 24 hours at the same speed?",
             "options": [
-              "Rs. 375",
-              "Rs. 380",
-              "Rs. 390",
-              "Rs. 400"
+              "576 km",
+              "640 km",
+              "720 km",
+              "768 km"
             ],
-            "correctIndex": 0,
-            "explanation": "The correct calculation is 100 / (100 + 12) * 420.",
+            "correctIndex": 2,
+            "explanation": "Distance = Speed x Time.",
             "difficulty": "Medium",
-            "topicId": "math-percent",
+            "topicId": "math-tsd",
             "source": "ai_generated",
             "generatedDate": "2026-07-20"
           },
           {
-            "question": "If a person invests Rs. 15,000 in a business, which gives an annual return of 15% after 3 years, then the total interest earned will be?",
+            "question": "A bus travels from Kolkata to Digha at an average speed of 80 km/h. How much time will it take to cover a distance of 240 km?",
             "options": [
-              "Rs. 3,750",
-              "Rs. 4,000",
-              "Rs. 4,125",
-              "Rs. 4,500"
+              "2 hours",
+              "2.5 hours",
+              "3 hours",
+              "3.5 hours"
             ],
-            "correctIndex": 3,
-            "explanation": "The correct calculation is 15000 * 0.15 * 3.",
+            "correctIndex": 2,
+            "explanation": "Time = Distance / Speed.",
             "difficulty": "Easy",
-            "topicId": "math-percent",
+            "topicId": "math-tsd",
             "source": "ai_generated",
             "generatedDate": "2026-07-20"
           },
           {
-            "question": "A dealer buys an article at a discount of 20% and sells it for Rs. 1,560. If the cost price of the article is Rs. 1,200, then the profit percentage is?",
+            "question": "A car travels from Siliguri to Darjeeling at an average speed of 40 km/h. If it covers 60 km in the first 1.5 hours, what is the remaining distance to be covered in the next 3 hours?",
             "options": [
-              "10%",
-              "12%",
-              "15%",
-              "18%"
+              "60 km",
+              "80 km",
+              "100 km",
+              "120 km"
+            ],
+            "correctIndex": 2,
+            "explanation": "Distance = Speed x Time.",
+            "difficulty": "Medium",
+            "topicId": "math-tsd",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-20"
+          },
+          {
+            "question": "A man walks at a speed of 5 km/h. If he covers 15 km in the first 3 hours, what is his speed in the next 2 hours if he covers 10 km?",
+            "options": [
+              "5 km/h",
+              "6 km/h",
+              "7 km/h",
+              "8 km/h"
             ],
             "correctIndex": 3,
-            "explanation": "The correct calculation is ((1560 - 1200) / 1200) * 100.",
+            "explanation": "Speed = Distance / Time.",
             "difficulty": "Medium",
-            "topicId": "math-profit-loss",
+            "topicId": "math-tsd",
             "source": "ai_generated",
             "generatedDate": "2026-07-20"
           },
           {
-            "question": "A car is listed for sale at a price that includes a 10% discount on the marked price. If the listed price is Rs. 2,70,000, then the marked price of the car was?",
+            "question": "A train leaves Howrah station at 9:00 AM and reaches Sealdah station at 10:30 AM. If the distance between the two stations is 65 km, what is the average speed of the train?",
             "options": [
-              "Rs. 300,000",
-              "Rs. 300,500",
-              "Rs. 301,000",
-              "Rs. 301,500"
-            ],
-            "correctIndex": 2,
-            "explanation": "The correct calculation is 270000 / (1 - 0.10).",
-            "difficulty": "Medium",
-            "topicId": "math-percent",
-            "source": "ai_generated",
-            "generatedDate": "2026-07-20"
-          },
-          {
-            "question": "A shopkeeper buys an article at a 15% discount and sells it at a 10% profit. If the selling price of the article is Rs. 4,800, then the cost price of the article is?",
-            "options": [
-              "Rs. 4,000",
-              "Rs. 4,200",
-              "Rs. 4,300",
-              "Rs. 4,500"
-            ],
-            "correctIndex": 2,
-            "explanation": "The correct calculation is 4800 / (1 + 0.10) / (1 - 0.15).",
-            "difficulty": "Hard",
-            "topicId": "math-profit-loss",
-            "source": "ai_generated",
-            "generatedDate": "2026-07-20"
-          }
-        ],
-        "questionCount": 5
-      },
-      "math-interest": {
-        "topicName": "Simple & Compound Interest",
-        "subjectName": "Arithmetic",
-        "questions": [
-          {
-            "question": "If the interest rate is 5% per annum compounded annually, how much amount will be the compound interest on Rs. 5000 for 2 years?",
-            "options": [
-              "Rs. 520.00",
-              "Rs. 522.00",
-              "Rs. 524.00",
-              "Rs. 526.00"
+              "40 km/h",
+              "45 km/h",
+              "50 km/h",
+              "55 km/h"
             ],
             "correctIndex": 0,
-            "explanation": "Compound Interest is calculated using the formula A = P(1 + r/n)^(nt).",
+            "explanation": "Speed = Distance / Time.",
             "difficulty": "Medium",
-            "topicId": "math-interest",
-            "source": "ai_generated",
-            "generatedDate": "2026-07-20"
-          },
-          {
-            "question": "What is the simple interest on Rs. 8000 for 3 years at 4% per annum?",
-            "options": [
-              "Rs. 960.00",
-              "Rs. 960.64",
-              "Rs. 962.00",
-              "Rs. 964.00"
-            ],
-            "correctIndex": 1,
-            "explanation": "Simple Interest is calculated using the formula I = (PRT)/100.",
-            "difficulty": "Medium",
-            "topicId": "math-interest",
-            "source": "ai_generated",
-            "generatedDate": "2026-07-20"
-          },
-          {
-            "question": "A man borrows Rs. 12000 at 6% per annum for 2 years. How much amount will be the total amount he has to pay after 2 years?",
-            "options": [
-              "Rs. 12583.52",
-              "Rs. 12585.00",
-              "Rs. 12585.52",
-              "Rs. 12587.00"
-            ],
-            "correctIndex": 0,
-            "explanation": "Total amount is the sum of the principal and the interest.",
-            "difficulty": "Medium",
-            "topicId": "math-interest",
-            "source": "ai_generated",
-            "generatedDate": "2026-07-20"
-          },
-          {
-            "question": "What is the difference between compound interest and simple interest on Rs. 6000 for 2 years at 5% per annum?",
-            "options": [
-              "Rs. 2.50",
-              "Rs. 5.00",
-              "Rs. 5.25",
-              "Rs. 10.00"
-            ],
-            "correctIndex": 2,
-            "explanation": "Compound Interest is the interest on the interest.",
-            "difficulty": "Medium",
-            "topicId": "math-interest",
-            "source": "ai_generated",
-            "generatedDate": "2026-07-20"
-          },
-          {
-            "question": "A sum of Rs. 15000 is invested at 3% per annum for 1 year. What is the simple interest on this investment?",
-            "options": [
-              "Rs. 45.00",
-              "Rs. 45.50",
-              "Rs. 45.75",
-              "Rs. 46.00"
-            ],
-            "correctIndex": 0,
-            "explanation": "Simple Interest is calculated using the formula I = (PRT)/100.",
-            "difficulty": "Medium",
-            "topicId": "math-interest",
-            "source": "ai_generated",
-            "generatedDate": "2026-07-20"
-          }
-        ],
-        "questionCount": 5
-      },
-      "math-tw": {
-        "topicName": "Time, Work & Pipes",
-        "subjectName": "Arithmetic",
-        "questions": [
-          {
-            "question": "A group of 12 workers can complete a work in 8 days. How many days will 18 workers take to complete the same work?",
-            "options": [
-              "6 days",
-              "8 days",
-              "10 days",
-              "12 days"
-            ],
-            "correctIndex": 1,
-            "explanation": "The rate of work remains the same.",
-            "difficulty": "Medium",
-            "topicId": "math-tw",
-            "source": "ai_generated",
-            "generatedDate": "2026-07-20"
-          },
-          {
-            "question": "A tap can fill 2/3 of a bucket in 10 minutes. In how many minutes will the tap fill 3/4 of the bucket?",
-            "options": [
-              "5 minutes",
-              "7.5 minutes",
-              "10 minutes",
-              "12.5 minutes"
-            ],
-            "correctIndex": 1,
-            "explanation": "The tap's rate of filling remains the same.",
-            "difficulty": "Medium",
-            "topicId": "math-pipes",
-            "source": "ai_generated",
-            "generatedDate": "2026-07-20"
-          },
-          {
-            "question": "A group of 15 workers can finish a job in 20 days. If 5 more workers join them, in how many days will they finish the job?",
-            "options": [
-              "15 days",
-              "16 days",
-              "18 days",
-              "20 days"
-            ],
-            "correctIndex": 2,
-            "explanation": "The increased number of workers increases the rate of work.",
-            "difficulty": "Medium",
-            "topicId": "math-tw",
-            "source": "ai_generated",
-            "generatedDate": "2026-07-20"
-          },
-          {
-            "question": "A cistern can be filled by a pipe A in 20 hours and by pipe B in 15 hours. How many hours will it take to fill the cistern if both pipes are opened together?",
-            "options": [
-              "6 hours",
-              "8 hours",
-              "10 hours",
-              "12 hours"
-            ],
-            "correctIndex": 1,
-            "explanation": "The combined rate of filling is faster than either pipe's rate.",
-            "difficulty": "Medium",
-            "topicId": "math-pipes",
-            "source": "ai_generated",
-            "generatedDate": "2026-07-20"
-          },
-          {
-            "question": "A man takes 15 minutes to row a boat in still water 40 meters upstream and 20 meters downstream in 10 minutes. What is the speed of the stream?",
-            "options": [
-              "0.8 m/min",
-              "1.2 m/min",
-              "1.5 m/min",
-              "2.0 m/min"
-            ],
-            "correctIndex": 0,
-            "explanation": "Speed of the man and the speed of the stream must be considered.",
-            "difficulty": "Medium",
-            "topicId": "math-tw",
+            "topicId": "math-tsd",
             "source": "ai_generated",
             "generatedDate": "2026-07-20"
           }
@@ -428,75 +428,75 @@
         "subjectName": "Reasoning",
         "questions": [
           {
-            "question": "A man X is the son of his wife's brother's son. How is X related to his wife?",
-            "options": [
-              "Father",
-              "Son",
-              "Brother",
-              "Nephew"
-            ],
-            "correctIndex": 1,
-            "explanation": "X is the son of his wife's brother's son, making him their son.",
-            "difficulty": "Medium",
-            "topicId": "rs-blood",
-            "source": "ai_generated",
-            "generatedDate": "2026-07-20"
-          },
-          {
-            "question": "A woman X has two children Y and Z. Y is the son of X, but Z is the child of Y. How is Z related to X?",
-            "options": [
-              "Grandson",
-              "Son",
-              "Brother",
-              "Father"
-            ],
-            "correctIndex": 0,
-            "explanation": "Z is the grandchild of X, being the child of Y.",
-            "difficulty": "Medium",
-            "topicId": "rs-blood",
-            "source": "ai_generated",
-            "generatedDate": "2026-07-20"
-          },
-          {
-            "question": "In a family, A is the mother of B. C is the daughter of B. How is C related to A?",
+            "question": "Pijush's father is the brother of Kajal's grandmother. How is Pijush related to Kajal?",
             "options": [
               "Mother",
-              "Daughter",
-              "Sister",
-              "Granddaughter"
-            ],
-            "correctIndex": 2,
-            "explanation": "C is the granddaughter of A, being the daughter of B.",
-            "difficulty": "Medium",
-            "topicId": "rs-blood",
-            "source": "ai_generated",
-            "generatedDate": "2026-07-20"
-          },
-          {
-            "question": "A is the father of B. B is the father of C. How is C related to A?",
-            "options": [
               "Father",
-              "Son",
-              "Grandson",
+              "Sister",
               "Brother"
             ],
             "correctIndex": 2,
-            "explanation": "C is the grandson of A, being the son of B.",
+            "explanation": "Pijush is Kajal's sister.",
             "difficulty": "Medium",
             "topicId": "rs-blood",
             "source": "ai_generated",
             "generatedDate": "2026-07-20"
           },
           {
-            "question": "A is the wife of B, who is the brother of C. How is C related to A?",
+            "question": "Aparna's son is the son of her husband's mother. Who is Aparna's son's father?",
             "options": [
               "Brother",
-              "Sister",
+              "Cousin",
               "Father",
-              "Mother"
+              "Grandfather"
+            ],
+            "correctIndex": 3,
+            "explanation": "Aparna's son's father is her grandfather.",
+            "difficulty": "Medium",
+            "topicId": "rs-blood",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-20"
+          },
+          {
+            "question": "If 'D' is the father of E, E is the son of F, and F is the father of G, then how is G related to 'D'?",
+            "options": [
+              "Grandfather",
+              "Father",
+              "Son",
+              "Brother"
+            ],
+            "correctIndex": 0,
+            "explanation": "G is the grandson of 'D'.",
+            "difficulty": "Medium",
+            "topicId": "rs-blood",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-20"
+          },
+          {
+            "question": "Bimal's daughter is the wife of Suman's son. Then how is Bimal's daughter's son related to Suman?",
+            "options": [
+              "Father",
+              "Son",
+              "Brother",
+              "Cousin"
             ],
             "correctIndex": 1,
-            "explanation": "C is the brother-in-law of A, being the brother of her husband.",
+            "explanation": "Bimal's daughter's son is the son of Suman.",
+            "difficulty": "Medium",
+            "topicId": "rs-blood",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-20"
+          },
+          {
+            "question": "Rahul's mother is the daughter of Sushma's father. How is Rahul related to Sushma?",
+            "options": [
+              "Grandson",
+              "Grandfather",
+              "Mother",
+              "Brother"
+            ],
+            "correctIndex": 2,
+            "explanation": "Rahul is Sushma's mother.",
             "difficulty": "Medium",
             "topicId": "rs-blood",
             "source": "ai_generated",
@@ -505,82 +505,82 @@
         ],
         "questionCount": 5
       },
-      "rs-series": {
-        "topicName": "Number & Letter Series",
+      "rs-direction": {
+        "topicName": "Direction Sense",
         "subjectName": "Reasoning",
         "questions": [
           {
-            "question": "Find the next number in the series: 3, 6, 9, 12, 15, _",
+            "question": "A person starts walking from the foot of a hill towards the top. He walks 240 meters due north, then 140 meters due east, then 120 meters due south and finally 200 meters due west. How far is he now from the foot of the hill?",
             "options": [
-              "15, 18, 21",
-              "15, 20, 25",
-              "15, 18, 22",
-              "15, 16, 17"
+              "280 meters",
+              "250 meters",
+              "240 meters",
+              "300 meters"
             ],
             "correctIndex": 0,
-            "explanation": "The pattern is adding 3 to each number.",
+            "explanation": "The person has walked in the form of a square, so distance from the starting point is the length of the square's diagonal.",
             "difficulty": "Medium",
-            "topicId": "rs-series",
+            "topicId": "rs-direction",
             "source": "ai_generated",
             "generatedDate": "2026-07-20"
           },
           {
-            "question": "Find the next letter in the series: A, D, G, J, M, _",
+            "question": "A car travels 7 km north, then 3 km east, then 5 km south and finally 2 km west. How far is the car now from its starting point?",
             "options": [
-              "P, S, V",
-              "P, U, T",
-              "P, Q, R",
-              "Q, R, S"
-            ],
-            "correctIndex": 2,
-            "explanation": "The pattern is increasing the position of the letter by 3.",
-            "difficulty": "Medium",
-            "topicId": "rs-series",
-            "source": "ai_generated",
-            "generatedDate": "2026-07-20"
-          },
-          {
-            "question": "Find the next number in the series: 1, 4, 9, 16, 25, _",
-            "options": [
-              "36, 49, 64",
-              "36, 45, 54",
-              "36, 49, 62",
-              "36, 49, 50"
-            ],
-            "correctIndex": 0,
-            "explanation": "The pattern is squaring the numbers.",
-            "difficulty": "Medium",
-            "topicId": "rs-series",
-            "source": "ai_generated",
-            "generatedDate": "2026-07-20"
-          },
-          {
-            "question": "Find the next letter in the series: B, E, H, K, N, _",
-            "options": [
-              "Q, T, V",
-              "Q, R, Z",
-              "Q, S, U",
-              "Q, T, W"
+              "2 km north",
+              "3 km east",
+              "4 km north",
+              "5 km east"
             ],
             "correctIndex": 3,
-            "explanation": "The pattern is increasing the position of the letter by 3.",
+            "explanation": "Final position is 2 km east and 2 km north of the starting point.",
             "difficulty": "Medium",
-            "topicId": "rs-series",
+            "topicId": "rs-direction",
             "source": "ai_generated",
             "generatedDate": "2026-07-20"
           },
           {
-            "question": "Find the next number in the series: 2, 6, 12, 20, 30, _",
+            "question": "A man is standing at a place which is exactly in the middle of two churches, one of which is the famous Kalighat Temple of Kolkata. If the man walks 15 meters east, he is 10 meters closer to the Kalighat Temple, and if he walks 20 meters south, he is 15 meters closer to the other church. In which direction is the other church situated?",
             "options": [
-              "42, 56, 72",
-              "42, 58, 76",
-              "42, 60, 80",
-              "46, 62, 80"
+              "South East",
+              "North West",
+              "North East",
+              "South West"
             ],
-            "correctIndex": 0,
-            "explanation": "The pattern is adding 4, 6, 8, 10, ... to each number.",
+            "correctIndex": 3,
+            "explanation": "The man's original position was equidistant from the two churches and at an angle, so moving south brings him closer to the other church.",
             "difficulty": "Medium",
-            "topicId": "rs-series",
+            "topicId": "rs-direction",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-20"
+          },
+          {
+            "question": "A tourist is moving in a park. He goes 5 km towards south, then 8 km towards east and then 6 km towards north. In which direction is he now from the starting point?",
+            "options": [
+              "North West",
+              "North East",
+              "South East",
+              "South West"
+            ],
+            "correctIndex": 1,
+            "explanation": "The tourist is now 2 km east of the starting point.",
+            "difficulty": "Medium",
+            "topicId": "rs-direction",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-20"
+          },
+          {
+            "question": "A boy is standing at the corner of a rectangular field. He walks 15 meters from the corner towards the longer side of the field, then 20 meters towards the shorter side and finally 10 meters back to the shorter side. How far is he now from the starting corner?",
+            "options": [
+              "5 meters",
+              "10 meters",
+              "15 meters",
+              "20 meters"
+            ],
+            "correctIndex": 2,
+            "explanation": "The boy ends up 10 meters along the longer side from the starting corner.",
+            "difficulty": "Medium",
+            "topicId": "rs-direction",
             "source": "ai_generated",
             "generatedDate": "2026-07-20"
           }
