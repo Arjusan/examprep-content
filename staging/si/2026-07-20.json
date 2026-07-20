@@ -1,0 +1,592 @@
+{
+  "exam": "si",
+  "generatedDate": "2026-07-20",
+  "generatedAt": "2026-07-20T04:22:30.423Z",
+  "model": "llama-3.1-8b-instant",
+  "provider": "groq",
+  "source": "ai_generated",
+  "reviewStatus": "pending",
+  "totalQuestions": 35,
+  "subjects": {
+    "gs": {
+      "gs-polity": {
+        "topicName": "Indian Constitution & Polity",
+        "subjectName": "General Studies",
+        "questions": [
+          {
+            "question": "Which part of the Indian Constitution deals with the Fundamental Rights?",
+            "options": [
+              "Part III",
+              "Part IV",
+              "Part V",
+              "Part VI"
+            ],
+            "correctIndex": 0,
+            "explanation": "It contains the Fundamental Rights.",
+            "difficulty": "Medium",
+            "topicId": "gs-polity",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-20"
+          },
+          {
+            "question": "What is the name of the scheme implemented by the West Bengal Government to provide financial assistance to the families of martyrs?",
+            "options": [
+              "Matru Utsav",
+              "Karmachari Kalyan Bima",
+              "Bijoy Smriti Bima",
+              "Karmachari Karmi Kalyan Yojana"
+            ],
+            "correctIndex": 2,
+            "explanation": "It provides financial assistance to the families of martyrs.",
+            "difficulty": "Medium",
+            "topicId": "gs-state-specific",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-20"
+          },
+          {
+            "question": "Which Article of the Indian Constitution empowers the President to impose President's Rule in a state?",
+            "options": [
+              "Article 356",
+              "Article 370",
+              "Article 371",
+              "Article 372"
+            ],
+            "correctIndex": 0,
+            "explanation": "It empowers the President to impose President's Rule.",
+            "difficulty": "Medium",
+            "topicId": "gs-polity",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-20"
+          },
+          {
+            "question": "What is the name of the constitutional body that recommends the names of judges to be appointed as High Court judges in West Bengal?",
+            "options": [
+              "Calcutta High Court Recruitment Board",
+              "West Bengal Judicial Service Commission",
+              "Calcutta High Court Services Commission",
+              "West Bengal Public Service Commission"
+            ],
+            "correctIndex": 2,
+            "explanation": "It recommends the names of judges.",
+            "difficulty": "Medium",
+            "topicId": "gs-state-specific",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-20"
+          },
+          {
+            "question": "Which amendment to the Indian Constitution introduced the concept of 'Anti-Defection Law'?",
+            "options": [
+              "52nd Amendment",
+              "61st Amendment",
+              "91st Amendment",
+              "52nd Constitutional Amendment"
+            ],
+            "correctIndex": 0,
+            "explanation": "It introduced the concept of 'Anti-Defection Law'.",
+            "difficulty": "Medium",
+            "topicId": "gs-polity",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-20"
+          }
+        ],
+        "questionCount": 5
+      },
+      "gs-wb-geo": {
+        "topicName": "West Bengal Geography",
+        "subjectName": "General Studies",
+        "questions": [
+          {
+            "question": "Which river is the main source of water for the Sundarbans delta?",
+            "options": [
+              "Ganges",
+              "Brahmaputra",
+              "Meghna",
+              "Hooghly"
+            ],
+            "correctIndex": 0,
+            "explanation": "The Ganges River flows through the Sundarbans delta.",
+            "difficulty": "Medium",
+            "topicId": "gs-wb-geo",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-20"
+          },
+          {
+            "question": "Which mountain range runs across northern West Bengal?",
+            "options": [
+              "Aravalli",
+              "Satpura",
+              "Eastern Ghats",
+              "Naga Hills"
+            ],
+            "correctIndex": 3,
+            "explanation": "The Naga Hills mountain range runs across northern West Bengal.",
+            "difficulty": "Medium",
+            "topicId": "gs-wb-geo",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-20"
+          },
+          {
+            "question": "Which of the following rivers is the longest river in West Bengal?",
+            "options": [
+              "Ganges",
+              "Brahmaputra",
+              "Subarnarekha",
+              "Kangsabati"
+            ],
+            "correctIndex": 0,
+            "explanation": "The Ganges River is the longest river in West Bengal.",
+            "difficulty": "Medium",
+            "topicId": "gs-wb-geo",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-20"
+          },
+          {
+            "question": "What is the name of the highest peak in the Darjeeling Himalayan hill region?",
+            "options": [
+              "Sandakphu",
+              "Singalila",
+              "Kanchenjunga",
+              "Bhutia Busty"
+            ],
+            "correctIndex": 0,
+            "explanation": "Sandakphu is the highest peak in the Darjeeling Himalayan hill region.",
+            "difficulty": "Medium",
+            "topicId": "gs-wb-geo",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-20"
+          },
+          {
+            "question": "Which of the following places is a part of the Sundarbans Tiger Reserve?",
+            "options": [
+              "Sajnekhali",
+              "Gosaba",
+              "Kultali",
+              "Jharkhali"
+            ],
+            "correctIndex": 0,
+            "explanation": "Sajnekhali is a part of the Sundarbans Tiger Reserve.",
+            "difficulty": "Medium",
+            "topicId": "gs-wb-geo",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-20"
+          }
+        ],
+        "questionCount": 5
+      }
+    },
+    "math": {
+      "math-percent": {
+        "topicName": "Percentage & Profit-Loss",
+        "subjectName": "Arithmetic",
+        "questions": [
+          {
+            "question": "A shopkeeper sells an article at 12% profit. If he sold the article for Rs. 420, then the cost price of the article is?",
+            "options": [
+              "Rs. 375",
+              "Rs. 380",
+              "Rs. 390",
+              "Rs. 400"
+            ],
+            "correctIndex": 0,
+            "explanation": "The correct calculation is 100 / (100 + 12) * 420.",
+            "difficulty": "Medium",
+            "topicId": "math-percent",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-20"
+          },
+          {
+            "question": "If a person invests Rs. 15,000 in a business, which gives an annual return of 15% after 3 years, then the total interest earned will be?",
+            "options": [
+              "Rs. 3,750",
+              "Rs. 4,000",
+              "Rs. 4,125",
+              "Rs. 4,500"
+            ],
+            "correctIndex": 3,
+            "explanation": "The correct calculation is 15000 * 0.15 * 3.",
+            "difficulty": "Easy",
+            "topicId": "math-percent",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-20"
+          },
+          {
+            "question": "A dealer buys an article at a discount of 20% and sells it for Rs. 1,560. If the cost price of the article is Rs. 1,200, then the profit percentage is?",
+            "options": [
+              "10%",
+              "12%",
+              "15%",
+              "18%"
+            ],
+            "correctIndex": 3,
+            "explanation": "The correct calculation is ((1560 - 1200) / 1200) * 100.",
+            "difficulty": "Medium",
+            "topicId": "math-profit-loss",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-20"
+          },
+          {
+            "question": "A car is listed for sale at a price that includes a 10% discount on the marked price. If the listed price is Rs. 2,70,000, then the marked price of the car was?",
+            "options": [
+              "Rs. 300,000",
+              "Rs. 300,500",
+              "Rs. 301,000",
+              "Rs. 301,500"
+            ],
+            "correctIndex": 2,
+            "explanation": "The correct calculation is 270000 / (1 - 0.10).",
+            "difficulty": "Medium",
+            "topicId": "math-percent",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-20"
+          },
+          {
+            "question": "A shopkeeper buys an article at a 15% discount and sells it at a 10% profit. If the selling price of the article is Rs. 4,800, then the cost price of the article is?",
+            "options": [
+              "Rs. 4,000",
+              "Rs. 4,200",
+              "Rs. 4,300",
+              "Rs. 4,500"
+            ],
+            "correctIndex": 2,
+            "explanation": "The correct calculation is 4800 / (1 + 0.10) / (1 - 0.15).",
+            "difficulty": "Hard",
+            "topicId": "math-profit-loss",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-20"
+          }
+        ],
+        "questionCount": 5
+      },
+      "math-interest": {
+        "topicName": "Simple & Compound Interest",
+        "subjectName": "Arithmetic",
+        "questions": [
+          {
+            "question": "If the interest rate is 5% per annum compounded annually, how much amount will be the compound interest on Rs. 5000 for 2 years?",
+            "options": [
+              "Rs. 520.00",
+              "Rs. 522.00",
+              "Rs. 524.00",
+              "Rs. 526.00"
+            ],
+            "correctIndex": 0,
+            "explanation": "Compound Interest is calculated using the formula A = P(1 + r/n)^(nt).",
+            "difficulty": "Medium",
+            "topicId": "math-interest",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-20"
+          },
+          {
+            "question": "What is the simple interest on Rs. 8000 for 3 years at 4% per annum?",
+            "options": [
+              "Rs. 960.00",
+              "Rs. 960.64",
+              "Rs. 962.00",
+              "Rs. 964.00"
+            ],
+            "correctIndex": 1,
+            "explanation": "Simple Interest is calculated using the formula I = (PRT)/100.",
+            "difficulty": "Medium",
+            "topicId": "math-interest",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-20"
+          },
+          {
+            "question": "A man borrows Rs. 12000 at 6% per annum for 2 years. How much amount will be the total amount he has to pay after 2 years?",
+            "options": [
+              "Rs. 12583.52",
+              "Rs. 12585.00",
+              "Rs. 12585.52",
+              "Rs. 12587.00"
+            ],
+            "correctIndex": 0,
+            "explanation": "Total amount is the sum of the principal and the interest.",
+            "difficulty": "Medium",
+            "topicId": "math-interest",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-20"
+          },
+          {
+            "question": "What is the difference between compound interest and simple interest on Rs. 6000 for 2 years at 5% per annum?",
+            "options": [
+              "Rs. 2.50",
+              "Rs. 5.00",
+              "Rs. 5.25",
+              "Rs. 10.00"
+            ],
+            "correctIndex": 2,
+            "explanation": "Compound Interest is the interest on the interest.",
+            "difficulty": "Medium",
+            "topicId": "math-interest",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-20"
+          },
+          {
+            "question": "A sum of Rs. 15000 is invested at 3% per annum for 1 year. What is the simple interest on this investment?",
+            "options": [
+              "Rs. 45.00",
+              "Rs. 45.50",
+              "Rs. 45.75",
+              "Rs. 46.00"
+            ],
+            "correctIndex": 0,
+            "explanation": "Simple Interest is calculated using the formula I = (PRT)/100.",
+            "difficulty": "Medium",
+            "topicId": "math-interest",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-20"
+          }
+        ],
+        "questionCount": 5
+      },
+      "math-tw": {
+        "topicName": "Time, Work & Pipes",
+        "subjectName": "Arithmetic",
+        "questions": [
+          {
+            "question": "A group of 12 workers can complete a work in 8 days. How many days will 18 workers take to complete the same work?",
+            "options": [
+              "6 days",
+              "8 days",
+              "10 days",
+              "12 days"
+            ],
+            "correctIndex": 1,
+            "explanation": "The rate of work remains the same.",
+            "difficulty": "Medium",
+            "topicId": "math-tw",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-20"
+          },
+          {
+            "question": "A tap can fill 2/3 of a bucket in 10 minutes. In how many minutes will the tap fill 3/4 of the bucket?",
+            "options": [
+              "5 minutes",
+              "7.5 minutes",
+              "10 minutes",
+              "12.5 minutes"
+            ],
+            "correctIndex": 1,
+            "explanation": "The tap's rate of filling remains the same.",
+            "difficulty": "Medium",
+            "topicId": "math-pipes",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-20"
+          },
+          {
+            "question": "A group of 15 workers can finish a job in 20 days. If 5 more workers join them, in how many days will they finish the job?",
+            "options": [
+              "15 days",
+              "16 days",
+              "18 days",
+              "20 days"
+            ],
+            "correctIndex": 2,
+            "explanation": "The increased number of workers increases the rate of work.",
+            "difficulty": "Medium",
+            "topicId": "math-tw",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-20"
+          },
+          {
+            "question": "A cistern can be filled by a pipe A in 20 hours and by pipe B in 15 hours. How many hours will it take to fill the cistern if both pipes are opened together?",
+            "options": [
+              "6 hours",
+              "8 hours",
+              "10 hours",
+              "12 hours"
+            ],
+            "correctIndex": 1,
+            "explanation": "The combined rate of filling is faster than either pipe's rate.",
+            "difficulty": "Medium",
+            "topicId": "math-pipes",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-20"
+          },
+          {
+            "question": "A man takes 15 minutes to row a boat in still water 40 meters upstream and 20 meters downstream in 10 minutes. What is the speed of the stream?",
+            "options": [
+              "0.8 m/min",
+              "1.2 m/min",
+              "1.5 m/min",
+              "2.0 m/min"
+            ],
+            "correctIndex": 0,
+            "explanation": "Speed of the man and the speed of the stream must be considered.",
+            "difficulty": "Medium",
+            "topicId": "math-tw",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-20"
+          }
+        ],
+        "questionCount": 5
+      }
+    },
+    "reasoning": {
+      "rs-blood": {
+        "topicName": "Blood Relations",
+        "subjectName": "Reasoning",
+        "questions": [
+          {
+            "question": "A man X is the son of his wife's brother's son. How is X related to his wife?",
+            "options": [
+              "Father",
+              "Son",
+              "Brother",
+              "Nephew"
+            ],
+            "correctIndex": 1,
+            "explanation": "X is the son of his wife's brother's son, making him their son.",
+            "difficulty": "Medium",
+            "topicId": "rs-blood",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-20"
+          },
+          {
+            "question": "A woman X has two children Y and Z. Y is the son of X, but Z is the child of Y. How is Z related to X?",
+            "options": [
+              "Grandson",
+              "Son",
+              "Brother",
+              "Father"
+            ],
+            "correctIndex": 0,
+            "explanation": "Z is the grandchild of X, being the child of Y.",
+            "difficulty": "Medium",
+            "topicId": "rs-blood",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-20"
+          },
+          {
+            "question": "In a family, A is the mother of B. C is the daughter of B. How is C related to A?",
+            "options": [
+              "Mother",
+              "Daughter",
+              "Sister",
+              "Granddaughter"
+            ],
+            "correctIndex": 2,
+            "explanation": "C is the granddaughter of A, being the daughter of B.",
+            "difficulty": "Medium",
+            "topicId": "rs-blood",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-20"
+          },
+          {
+            "question": "A is the father of B. B is the father of C. How is C related to A?",
+            "options": [
+              "Father",
+              "Son",
+              "Grandson",
+              "Brother"
+            ],
+            "correctIndex": 2,
+            "explanation": "C is the grandson of A, being the son of B.",
+            "difficulty": "Medium",
+            "topicId": "rs-blood",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-20"
+          },
+          {
+            "question": "A is the wife of B, who is the brother of C. How is C related to A?",
+            "options": [
+              "Brother",
+              "Sister",
+              "Father",
+              "Mother"
+            ],
+            "correctIndex": 1,
+            "explanation": "C is the brother-in-law of A, being the brother of her husband.",
+            "difficulty": "Medium",
+            "topicId": "rs-blood",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-20"
+          }
+        ],
+        "questionCount": 5
+      },
+      "rs-series": {
+        "topicName": "Number & Letter Series",
+        "subjectName": "Reasoning",
+        "questions": [
+          {
+            "question": "Find the next number in the series: 3, 6, 9, 12, 15, _",
+            "options": [
+              "15, 18, 21",
+              "15, 20, 25",
+              "15, 18, 22",
+              "15, 16, 17"
+            ],
+            "correctIndex": 0,
+            "explanation": "The pattern is adding 3 to each number.",
+            "difficulty": "Medium",
+            "topicId": "rs-series",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-20"
+          },
+          {
+            "question": "Find the next letter in the series: A, D, G, J, M, _",
+            "options": [
+              "P, S, V",
+              "P, U, T",
+              "P, Q, R",
+              "Q, R, S"
+            ],
+            "correctIndex": 2,
+            "explanation": "The pattern is increasing the position of the letter by 3.",
+            "difficulty": "Medium",
+            "topicId": "rs-series",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-20"
+          },
+          {
+            "question": "Find the next number in the series: 1, 4, 9, 16, 25, _",
+            "options": [
+              "36, 49, 64",
+              "36, 45, 54",
+              "36, 49, 62",
+              "36, 49, 50"
+            ],
+            "correctIndex": 0,
+            "explanation": "The pattern is squaring the numbers.",
+            "difficulty": "Medium",
+            "topicId": "rs-series",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-20"
+          },
+          {
+            "question": "Find the next letter in the series: B, E, H, K, N, _",
+            "options": [
+              "Q, T, V",
+              "Q, R, Z",
+              "Q, S, U",
+              "Q, T, W"
+            ],
+            "correctIndex": 3,
+            "explanation": "The pattern is increasing the position of the letter by 3.",
+            "difficulty": "Medium",
+            "topicId": "rs-series",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-20"
+          },
+          {
+            "question": "Find the next number in the series: 2, 6, 12, 20, 30, _",
+            "options": [
+              "42, 56, 72",
+              "42, 58, 76",
+              "42, 60, 80",
+              "46, 62, 80"
+            ],
+            "correctIndex": 0,
+            "explanation": "The pattern is adding 4, 6, 8, 10, ... to each number.",
+            "difficulty": "Medium",
+            "topicId": "rs-series",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-20"
+          }
+        ],
+        "questionCount": 5
+      }
+    }
+  }
+}
