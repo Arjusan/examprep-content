@@ -1,0 +1,674 @@
+{
+  "exam": "si",
+  "generatedDate": "2026-07-22",
+  "generatedAt": "2026-07-22T03:57:33.096Z",
+  "model": "llama-3.1-8b-instant",
+  "provider": "groq",
+  "source": "ai_generated",
+  "reviewStatus": "pending",
+  "totalQuestions": 40,
+  "subjects": {
+    "gs": {
+      "gs-polity": {
+        "topicName": "Indian Constitution & Polity",
+        "subjectName": "General Studies",
+        "questions": [
+          {
+            "question": "Which Article of the Indian Constitution deals with the Fundamental Duties of citizens?",
+            "options": [
+              "Article 14",
+              "Article 19",
+              "Article 51A",
+              "Article 21"
+            ],
+            "correctIndex": 2,
+            "explanation": "It outlines the duties of every citizen.",
+            "difficulty": "Medium",
+            "topicId": "gs-polity",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-22"
+          },
+          {
+            "question": "What is the name of the scheme launched by the West Bengal government for the promotion of social and economic development of SC/ST communities?",
+            "options": [
+              "Uttarayan",
+              "Sabuj Griha Scheme",
+              "Anandadhara Scheme",
+              "Biplabi Karikalpana Scheme"
+            ],
+            "correctIndex": 0,
+            "explanation": "It aims to uplift the marginalized communities.",
+            "difficulty": "Easy",
+            "topicId": "gs-wb-govt",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-22"
+          },
+          {
+            "question": "Which of the following provisions of the Indian Constitution enables the President to grant pardons, reprieves, and remissions to convicts?",
+            "options": [
+              "Article 72",
+              "Article 73",
+              "Article 74",
+              "Article 75"
+            ],
+            "correctIndex": 0,
+            "explanation": "It empowers the President to grant clemency to convicts.",
+            "difficulty": "Medium",
+            "topicId": "gs-polity",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-22"
+          },
+          {
+            "question": "What is the name of the apex body of the Panchayati Raj system in West Bengal?",
+            "options": [
+              "West Bengal Panchayat Commission",
+              "West Bengal Gram Panchayat Federation",
+              "West Bengal Panchayat Parishad",
+              "West Bengal State Election Commission"
+            ],
+            "correctIndex": 2,
+            "explanation": "It oversees the functioning of the Panchayati Raj institutions.",
+            "difficulty": "Easy",
+            "topicId": "gs-wb-govt",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-22"
+          },
+          {
+            "question": "Which part of the Indian Constitution deals with the Fundamental Rights of citizens?",
+            "options": [
+              "Part I",
+              "Part II",
+              "Part III",
+              "Part IV"
+            ],
+            "correctIndex": 2,
+            "explanation": "It outlines the basic rights of citizens.",
+            "difficulty": "Medium",
+            "topicId": "gs-polity",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-22"
+          }
+        ],
+        "questionCount": 5
+      },
+      "gs-wb-geo": {
+        "topicName": "West Bengal Geography",
+        "subjectName": "General Studies",
+        "questions": [
+          {
+            "question": "Which of the following rivers is not a major tributary of the Hooghly River in West Bengal?",
+            "options": [
+              "Bhagirathi River",
+              "Dwaraka River",
+              "Rupnarayan River",
+              "Mahananda River"
+            ],
+            "correctIndex": 2,
+            "explanation": "The Dwaraka River is a major tributary of the Mahanadi River in Odisha.",
+            "difficulty": "Easy",
+            "topicId": "gs-wb-geo",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-22"
+          },
+          {
+            "question": "What is the highest peak in the Garhbeta subdivision of Paschim Medinipur district in West Bengal?",
+            "options": [
+              "Singalila Peak",
+              "Makalu Peak",
+              "Chotanagpur Plateau",
+              "Saptarishi Hill"
+            ],
+            "correctIndex": 3,
+            "explanation": "Saptarishi Hill is a notable hill in the Garhbeta subdivision.",
+            "difficulty": "Medium",
+            "topicId": "gs-wb-geo",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-22"
+          },
+          {
+            "question": "Which of the following is a prominent salt lake in West Bengal?",
+            "options": [
+              "Bhagirathi River",
+              "Digha Salt Lake",
+              "Rupnarayan River",
+              "Sunderbans Mangroves"
+            ],
+            "correctIndex": 1,
+            "explanation": "Digha Salt Lake is a prominent salt lake in West Bengal.",
+            "difficulty": "Easy",
+            "topicId": "gs-wb-geo",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-22"
+          },
+          {
+            "question": "What is the name of the largest national park of West Bengal?",
+            "options": [
+              "Sundarbans",
+              "Neora Valley National Park",
+              "Buxa Tiger Reserve",
+              "Kakvi Wildlife Sanctuary"
+            ],
+            "correctIndex": 0,
+            "explanation": "Sundarbans is the largest mangrove forest and national park in West Bengal.",
+            "difficulty": "Medium",
+            "topicId": "gs-wb-geo",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-22"
+          },
+          {
+            "question": "Which of the following mountain ranges runs along the Sikkim-West Bengal border?",
+            "options": [
+              "Himalayas",
+              "Shivaliks",
+              "Arakan Yoma",
+              "Eastern Ghats"
+            ],
+            "correctIndex": 0,
+            "explanation": "The Himalayas form a significant portion of the Sikkim-West Bengal border.",
+            "difficulty": "Easy",
+            "topicId": "gs-wb-geo",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-22"
+          }
+        ],
+        "questionCount": 5
+      },
+      "gs-current": {
+        "topicName": "Current Affairs (Last 12 Months)",
+        "subjectName": "General Studies",
+        "questions": [
+          {
+            "question": "The newly launched scheme 'Maa O Maa' by the West Bengal government aims to provide what benefit to women?",
+            "options": [
+              "Free health insurance",
+              "Interest-free loans",
+              "Skill development training",
+              "All of the above"
+            ],
+            "correctIndex": 2,
+            "explanation": "Maa O Maa is a skill development scheme.",
+            "difficulty": "Medium",
+            "topicId": "gs-current",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-22"
+          },
+          {
+            "question": "The West Bengal government has recently signed an MoU with which international organization to promote eco-tourism in the state?",
+            "options": [
+              "UNESCO",
+              "IUCN",
+              "World Wildlife Fund",
+              "UNDP"
+            ],
+            "correctIndex": 1,
+            "explanation": "IUCN is an international organization promoting eco-tourism.",
+            "difficulty": "Medium",
+            "topicId": "gs-current",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-22"
+          },
+          {
+            "question": "The West Bengal government has launched a new mobile app 'Deshbandhu' to provide what service to citizens?",
+            "options": [
+              "Online ration card services",
+              "Complaint registration",
+              "Job search portal",
+              "All of the above"
+            ],
+            "correctIndex": 3,
+            "explanation": "Deshbandhu is a multi-purpose mobile app.",
+            "difficulty": "Medium",
+            "topicId": "gs-current",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-22"
+          },
+          {
+            "question": "The West Bengal government has recently approved a new policy to promote the use of which renewable energy source in the state?",
+            "options": [
+              "Solar energy",
+              "Wind energy",
+              "Hydro energy",
+              "Bio-energy"
+            ],
+            "correctIndex": 1,
+            "explanation": "Wind energy is a key focus area in West Bengal's renewable energy policy.",
+            "difficulty": "Medium",
+            "topicId": "gs-current",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-22"
+          },
+          {
+            "question": "The West Bengal government has launched a new scheme 'Jai Johar' to provide what benefit to farmers?",
+            "options": [
+              "Interest-free loans",
+              "Subsidized seeds and fertilizers",
+              "Market linkages and price support",
+              "All of the above"
+            ],
+            "correctIndex": 3,
+            "explanation": "Jai Johar is a comprehensive scheme for farmers.",
+            "difficulty": "Medium",
+            "topicId": "gs-current",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-22"
+          }
+        ],
+        "questionCount": 5
+      }
+    },
+    "math": {
+      "math-interest": {
+        "topicName": "Simple & Compound Interest",
+        "subjectName": "Arithmetic",
+        "questions": [
+          {
+            "question": "A sum of money becomes 840 in 2 years at compound interest. If the rate of interest is 8% per annum, what was the principal amount?",
+            "options": [
+              "5000",
+              "6000",
+              "7000",
+              "8000"
+            ],
+            "correctIndex": 2,
+            "explanation": "Using the compound interest formula A = P(1 + r/100)^n, we can calculate the principal.",
+            "difficulty": "Medium",
+            "topicId": "math-interest",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-22"
+          },
+          {
+            "question": "A bank in Kolkata offers a simple interest of 6% per annum on deposits. If a person deposits Rs. 12000 for 3 years, how much simple interest will he get?",
+            "options": [
+              "1800",
+              "2000",
+              "2200",
+              "2400"
+            ],
+            "correctIndex": 0,
+            "explanation": "We use the formula SI = (P * R * T) / 100 to calculate the simple interest.",
+            "difficulty": "Easy",
+            "topicId": "math-interest",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-22"
+          },
+          {
+            "question": "A person borrows Rs. 8000 at a compound interest of 10% per annum for 2 years. If he pays Rs. 9200 at the end of the period, how much amount he has to pay?",
+            "options": [
+              "9200",
+              "9600",
+              "10000",
+              "10400"
+            ],
+            "correctIndex": 1,
+            "explanation": "Using the formula A = P(1 + r/100)^n, we can calculate the amount to be paid.",
+            "difficulty": "Medium",
+            "topicId": "math-interest",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-22"
+          },
+          {
+            "question": "A sum of money becomes 1331 in 3 years at compound interest. If the rate of interest is 12% per annum, what was the principal amount?",
+            "options": [
+              "1000",
+              "1100",
+              "1200",
+              "1300"
+            ],
+            "correctIndex": 0,
+            "explanation": "Using the compound interest formula A = P(1 + r/100)^n, we can calculate the principal.",
+            "difficulty": "Medium",
+            "topicId": "math-interest",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-22"
+          },
+          {
+            "question": "A person deposits Rs. 15000 in a savings account in Kolkata that earns a simple interest of 6% per annum. If the interest is compounded annually, how much amount will he get after 2 years?",
+            "options": [
+              "18600",
+              "19000",
+              "19200",
+              "19400"
+            ],
+            "correctIndex": 2,
+            "explanation": "Using the formula A = P(1 + r/100)^n, we can calculate the amount to be received.",
+            "difficulty": "Medium",
+            "topicId": "math-interest",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-22"
+          }
+        ],
+        "questionCount": 5
+      },
+      "math-tsd": {
+        "topicName": "Time, Speed & Distance",
+        "subjectName": "Arithmetic",
+        "questions": [
+          {
+            "question": "A bus travels from Kolkata to Siliguri, a distance of 560 km, in 8 hours. What is the average speed of the bus?",
+            "options": [
+              "60 km/h",
+              "70 km/h",
+              "80 km/h",
+              "90 km/h"
+            ],
+            "correctIndex": 2,
+            "explanation": "Speed is calculated by dividing total distance by total time.",
+            "difficulty": "Medium",
+            "topicId": "math-tsd",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-22"
+          },
+          {
+            "question": "A train leaves Howrah Station at 10:00 AM and reaches Sealdah Station in 30 minutes. What is the distance between Howrah and Sealdah?",
+            "options": [
+              "8 km",
+              "12 km",
+              "15 km",
+              "20 km"
+            ],
+            "correctIndex": 1,
+            "explanation": "Speed is calculated by dividing total distance by total time.",
+            "difficulty": "Medium",
+            "topicId": "math-tsd",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-22"
+          },
+          {
+            "question": "A person travels from Kolkata to Digha at an average speed of 80 km/h. If the distance between the two places is 200 km, how long will the journey take?",
+            "options": [
+              "2.5 hours",
+              "3 hours",
+              "3.5 hours",
+              "4 hours"
+            ],
+            "correctIndex": 0,
+            "explanation": "Time is calculated by dividing total distance by average speed.",
+            "difficulty": "Medium",
+            "topicId": "math-tsd",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-22"
+          },
+          {
+            "question": "Two trains start from a station at the same time, one going towards Howrah and the other going towards Sealdah. If the distance between the two stations is 120 km and the two trains meet after 2 hours, what is the average speed of the two trains combined?",
+            "options": [
+              "60 km/h",
+              "80 km/h",
+              "100 km/h",
+              "120 km/h"
+            ],
+            "correctIndex": 2,
+            "explanation": "Average speed is calculated by dividing total distance by total time.",
+            "difficulty": "Hard",
+            "topicId": "math-tsd",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-22"
+          },
+          {
+            "question": "A bus travels from Jalpaiguri to Darjeeling at an average speed of 40 km/h. If the total distance traveled is 140 km, how long will the journey take?",
+            "options": [
+              "3.5 hours",
+              "4 hours",
+              "4.5 hours",
+              "5 hours"
+            ],
+            "correctIndex": 2,
+            "explanation": "Time is calculated by dividing total distance by average speed.",
+            "difficulty": "Medium",
+            "topicId": "math-tsd",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-22"
+          }
+        ],
+        "questionCount": 5
+      }
+    },
+    "reasoning": {
+      "rs-coding": {
+        "topicName": "Coding-Decoding",
+        "subjectName": "Reasoning",
+        "questions": [
+          {
+            "question": "If 1 is called one, 2 is called two, 7 is called seven, then what will be called 18?",
+            "options": [
+              "Eighteen",
+              "Eightty",
+              "Eight",
+              "Eighty"
+            ],
+            "correctIndex": 0,
+            "explanation": "It follows the alphabetical order.",
+            "difficulty": "Medium",
+            "topicId": "rs-coding",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-22"
+          },
+          {
+            "question": "If in a word all the vowels are removed, then the word 'Computer' becomes 'CMPTR'. Which of the following words becomes 'STUDENT' after removing the vowels?",
+            "options": [
+              "S T N D T",
+              "STUDENT",
+              "STUDENT",
+              "SDNT"
+            ],
+            "correctIndex": 0,
+            "explanation": "The word remains unchanged.",
+            "difficulty": "Medium",
+            "topicId": "rs-coding",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-22"
+          },
+          {
+            "question": "If in a series, each number is obtained by subtracting 2 from the previous number, then 3, 1, -1, -3, ?",
+            "options": [
+              "-5",
+              "-3",
+              "1",
+              "5"
+            ],
+            "correctIndex": 2,
+            "explanation": "The pattern is subtracting 2.",
+            "difficulty": "Medium",
+            "topicId": "rs-coding",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-22"
+          },
+          {
+            "question": "If in a sequence of numbers, the first number is 5, and each subsequent number is the previous number divided by 2, then the sequence will be 5, 2.5, 1.25, ?",
+            "options": [
+              "0.625",
+              "0.625",
+              "1.25",
+              "2.5"
+            ],
+            "correctIndex": 0,
+            "explanation": "The pattern is dividing by 2.",
+            "difficulty": "Medium",
+            "topicId": "rs-coding",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-22"
+          },
+          {
+            "question": "If in a word, each letter is assigned a number based on its position in the alphabet (A=1, B=2, C=3, etc.), and the word 'BENGAL' is represented as 2+5+14+7+12, what will be the representation of the word 'CALCUTTA'?",
+            "options": [
+              "3+1+12+3+21+20+20+1",
+              "3+1+3+21+4+20+20+1",
+              "4+21+3+3+20+20+20+1",
+              "21+12+3+3+20+3+20+1"
+            ],
+            "correctIndex": 0,
+            "explanation": "The correct representation is calculated.",
+            "difficulty": "Medium",
+            "topicId": "rs-coding",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-22"
+          }
+        ],
+        "questionCount": 5
+      },
+      "rs-blood": {
+        "topicName": "Blood Relations",
+        "subjectName": "Reasoning",
+        "questions": [
+          {
+            "question": "Kakali is the paternal aunt of her brother's son. Which family relationship is Kakali's with her son's son?",
+            "options": [
+              "Grandmother",
+              "Mother",
+              "Sister",
+              "Daughter"
+            ],
+            "correctIndex": 0,
+            "explanation": "Kakali is the paternal aunt of her brother's son, making her the paternal grandmother of her son's son.",
+            "difficulty": "Easy",
+            "topicId": "rs-blood",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-22"
+          },
+          {
+            "question": "If A is the wife of B, C is the husband of D, and D is the brother of E, then what is the relationship between A and E?",
+            "options": [
+              "Father",
+              "Mother",
+              "Sister",
+              "Brother"
+            ],
+            "correctIndex": 1,
+            "explanation": "A is the wife of B, and D is the brother of E, making E the brother-in-law of B, thus A is the mother of E.",
+            "difficulty": "Medium",
+            "topicId": "rs-blood",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-22"
+          },
+          {
+            "question": "How is a man's daughter related to her father's sister?",
+            "options": [
+              "Sister",
+              "Daughter",
+              "Mother",
+              "Grandmother"
+            ],
+            "correctIndex": 2,
+            "explanation": "A man's daughter is the daughter of his sister, making her the daughter of her father's sister.",
+            "difficulty": "Easy",
+            "topicId": "rs-blood",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-22"
+          },
+          {
+            "question": "D is the sister of E. If F is the husband of E, then what is the relationship between D and F?",
+            "options": [
+              "Brother",
+              "Sister",
+              "Father",
+              "Mother"
+            ],
+            "correctIndex": 1,
+            "explanation": "D is the sister of E, and F is the husband of E, making D the sister-in-law of F.",
+            "difficulty": "Medium",
+            "topicId": "rs-blood",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-22"
+          },
+          {
+            "question": "In a family, P is the brother of Q. R is the wife of P, and S is the brother of P and Q. What is the relationship between R and S?",
+            "options": [
+              "Brother",
+              "Sister",
+              "Father",
+              "Mother"
+            ],
+            "correctIndex": 3,
+            "explanation": "R is the wife of P, and S is the brother of P, making R the sister of S.",
+            "difficulty": "Hard",
+            "topicId": "rs-blood",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-22"
+          }
+        ],
+        "questionCount": 5
+      },
+      "rs-series": {
+        "topicName": "Number & Letter Series",
+        "subjectName": "Reasoning",
+        "questions": [
+          {
+            "question": "In a sequence of numbers, 2, 6, 12, 20, 30, what comes next?",
+            "options": [
+              "8",
+              "10",
+              "14",
+              "18"
+            ],
+            "correctIndex": 2,
+            "explanation": "The pattern is an increase of 4, 6, 8, 10, etc.",
+            "difficulty": "Medium",
+            "topicId": "ns-series",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-22"
+          },
+          {
+            "question": "If the first two letters of the alphabet are taken as 1 and 2 respectively, and so on, then what is the value of the letter D?",
+            "options": [
+              "4",
+              "5",
+              "6",
+              "7"
+            ],
+            "correctIndex": 3,
+            "explanation": "The letters are assigned values based on their positions in the alphabet.",
+            "difficulty": "Easy",
+            "topicId": "letter-series",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-22"
+          },
+          {
+            "question": "A series is given as 3, 7, 13, 21, 31. What will be the 6th term of this series?",
+            "options": [
+              "43",
+              "47",
+              "51",
+              "55"
+            ],
+            "correctIndex": 0,
+            "explanation": "The pattern is adding 4, 6, 8, 10, etc., to the previous term.",
+            "difficulty": "Medium",
+            "topicId": "ns-series",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-22"
+          },
+          {
+            "question": "The sequence is given as I, II, III, IV, V, what comes next?",
+            "options": [
+              "VI",
+              "VII",
+              "VIII",
+              "IX"
+            ],
+            "correctIndex": 0,
+            "explanation": "The sequence is based on Roman numerals.",
+            "difficulty": "Easy",
+            "topicId": "rs-series",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-22"
+          },
+          {
+            "question": "If the number series is 1, 4, 9, 16, 25, what comes next?",
+            "options": [
+              "36",
+              "40",
+              "44",
+              "49"
+            ],
+            "correctIndex": 3,
+            "explanation": "The pattern is squaring the consecutive numbers.",
+            "difficulty": "Medium",
+            "topicId": "ns-series",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-22"
+          }
+        ],
+        "questionCount": 5
+      }
+    }
+  }
+}
