@@ -1,0 +1,838 @@
+{
+  "exam": "si",
+  "generatedDate": "2026-07-23",
+  "generatedAt": "2026-07-23T03:54:35.649Z",
+  "model": "llama-3.1-8b-instant",
+  "provider": "groq",
+  "source": "ai_generated",
+  "reviewStatus": "pending",
+  "totalQuestions": 50,
+  "subjects": {
+    "gs": {
+      "gs-polity": {
+        "topicName": "Indian Constitution & Polity",
+        "subjectName": "General Studies",
+        "questions": [
+          {
+            "question": "Which of the following Fundamental Duties is mentioned in Part IV-A of the Constitution of India?",
+            "options": [
+              "To protect and improve the natural environment",
+              "To promote harmony and the spirit of common brotherhood amongst all people",
+              "To renounce practices derogatory to the dignity of women",
+              "To safeguard public property"
+            ],
+            "correctIndex": 1,
+            "explanation": "It promotes the spirit of unity and equality.",
+            "difficulty": "Medium",
+            "topicId": "gs-polity",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-23"
+          },
+          {
+            "question": "The Panchayati Raj system in West Bengal is mainly based on the provisions of which of the following laws?",
+            "options": [
+              "The West Bengal Panchayat Act, 1973",
+              "The Panchayats Extension to the Scheduled Areas (PESA) Act, 1996",
+              "The West Bengal Panchayat (Amendment) Act, 2003",
+              "The Constitution (73rd Amendment) Act, 1992"
+            ],
+            "correctIndex": 0,
+            "explanation": "This act provides the framework for Panchayati Raj institutions.",
+            "difficulty": "Medium",
+            "topicId": "gs-polity",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-23"
+          },
+          {
+            "question": "Which of the following is not a feature of the unitary system of government?",
+            "options": [
+              "Centralization of power",
+              "Decentralization of power",
+              "Uniformity of administration",
+              "Minister responsible to the Legislature"
+            ],
+            "correctIndex": 2,
+            "explanation": "Uniformity of administration is a characteristic of a unitary system.",
+            "difficulty": "Medium",
+            "topicId": "gs-polity",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-23"
+          },
+          {
+            "question": "The State Election Commission of West Bengal is headed by a?",
+            "options": [
+              "State Election Commissioner",
+              "State Chief Secretary",
+              "State Home Secretary",
+              "State Advocate General"
+            ],
+            "correctIndex": 0,
+            "explanation": "It is responsible for conducting free and fair elections.",
+            "difficulty": "Medium",
+            "topicId": "gs-polity",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-23"
+          },
+          {
+            "question": "Which of the following is the highest court in the state of West Bengal?",
+            "options": [
+              "Calcutta High Court",
+              "Kolkata High Court",
+              "West Bengal High Court",
+              "Bengal High Court"
+            ],
+            "correctIndex": 0,
+            "explanation": "It has the power to interpret laws and make verdicts.",
+            "difficulty": "Easy",
+            "topicId": "gs-polity",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-23"
+          }
+        ],
+        "questionCount": 5
+      },
+      "gs-freedom": {
+        "topicName": "Indian Freedom Struggle & Bengal",
+        "subjectName": "General Studies",
+        "questions": [
+          {
+            "question": "Who led the Bengal Volunteers during the Indian independence movement?",
+            "options": [
+              "Aurobindo Ghosh",
+              "Subhas Chandra Bose",
+              "Surendranath Banerjee",
+              "Barindra Kumar Ghosh"
+            ],
+            "correctIndex": 2,
+            "explanation": "Surendranath Banerjee was a key figure in the Indian National Congress.",
+            "difficulty": "Medium",
+            "topicId": "gs-freedom",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-23"
+          },
+          {
+            "question": "Which of the following British acts was passed in 1773 to control the functioning of the East India Company in India?",
+            "options": [
+              "Regulating Act of 1773",
+              "Government of India Act of 1935",
+              "Indian Councils Act of 1909",
+              "Charter Act of 1833"
+            ],
+            "correctIndex": 0,
+            "explanation": "The Regulating Act was the first attempt to reform the East India Company.",
+            "difficulty": "Medium",
+            "topicId": "gs-freedom",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-23"
+          },
+          {
+            "question": "Who is credited with the 'No-rent movement' in Bengal during the Quit India Movement?",
+            "options": [
+              "Azad Hind Fouz leader",
+              "Bengal's first Chief Minister",
+              "Kshudiram Sen",
+              "Jatin Das"
+            ],
+            "correctIndex": 2,
+            "explanation": "Kshudiram Sen was a revolutionary who led the 'No-rent movement'.",
+            "difficulty": "Medium",
+            "topicId": "gs-freedom",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-23"
+          },
+          {
+            "question": "Which of the following events occurred on August 9, 1942, in Calcutta?",
+            "options": [
+              "Quit India Movement launched",
+              "Quit India Movement ended",
+              "Formation of Azad Hind Fouz",
+              "Indian National Army formed"
+            ],
+            "correctIndex": 0,
+            "explanation": "The Quit India Movement was launched from Bombay, but the August 1942 movement in Calcutta was a significant event.",
+            "difficulty": "Medium",
+            "topicId": "gs-freedom",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-23"
+          },
+          {
+            "question": "Who was the first Indian to take the office of the President of the Indian National Congress?",
+            "options": [
+              "Womesh Chandra Bonnerjee",
+              "Dadabhai Naoroji",
+              "Lala Lajpat Rai",
+              "Annie Besant"
+            ],
+            "correctIndex": 0,
+            "explanation": "Womesh Chandra Bonnerjee was the first Indian to hold this office.",
+            "difficulty": "Medium",
+            "topicId": "gs-freedom",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-23"
+          }
+        ],
+        "questionCount": 5
+      },
+      "gs-current": {
+        "topicName": "Current Affairs (Last 12 Months)",
+        "subjectName": "General Studies",
+        "questions": [
+          {
+            "question": "The West Bengal government has launched a new initiative to promote organic farming in the state. Which of the following is the main goal of this initiative?",
+            "options": [
+              "To increase chemical fertilizer usage",
+              "To reduce chemical pesticide usage",
+              "To promote sustainable agriculture practices",
+              "To increase crop yields"
+            ],
+            "correctIndex": 2,
+            "explanation": "Promote sustainable agriculture practices.",
+            "difficulty": "Medium",
+            "topicId": "gs-current",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-23"
+          },
+          {
+            "question": "The West Bengal government has announced a new policy to reduce air pollution in the state. Which of the following is a key component of this policy?",
+            "options": [
+              "Increasing industrial production",
+              "Promoting electric vehicle adoption",
+              "Imposing stricter emission norms",
+              "Increasing fuel prices"
+            ],
+            "correctIndex": 2,
+            "explanation": "Imposing stricter emission norms.",
+            "difficulty": "Medium",
+            "topicId": "gs-current",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-23"
+          },
+          {
+            "question": "The West Bengal government has launched a new program to provide skill training to youth in the state. Which of the following is a key area of focus for this program?",
+            "options": [
+              "Information Technology",
+              "Healthcare",
+              "Tourism and Hospitality",
+              "Agriculture"
+            ],
+            "correctIndex": 0,
+            "explanation": "Information Technology.",
+            "difficulty": "Medium",
+            "topicId": "gs-current",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-23"
+          },
+          {
+            "question": "The Government of West Bengal has announced a new scheme to provide financial assistance to women entrepreneurs in the state. Which of the following is a key feature of this scheme?",
+            "options": [
+              "Interest-free loans up to ₹1 lakh",
+              "Collateral-free loans up to ₹5 lakh",
+              "Skill training and mentorship support",
+              "Tax exemptions up to ₹10 lakh"
+            ],
+            "correctIndex": 1,
+            "explanation": "Collateral-free loans up to ₹5 lakh.",
+            "difficulty": "Medium",
+            "topicId": "gs-current",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-23"
+          },
+          {
+            "question": "The West Bengal government has launched a new initiative to promote digital literacy among the elderly in the state. Which of the following is a key feature of this initiative?",
+            "options": [
+              "Free tablet distribution",
+              "Free internet access for 6 months",
+              "Basic computer training and digital literacy classes",
+              "Financial assistance for digital devices"
+            ],
+            "correctIndex": 2,
+            "explanation": "Basic computer training and digital literacy classes.",
+            "difficulty": "Medium",
+            "topicId": "gs-current",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-23"
+          }
+        ],
+        "questionCount": 5
+      },
+      "gs-wb-schemes": {
+        "topicName": "West Bengal Government Schemes",
+        "subjectName": "General Studies",
+        "questions": [
+          {
+            "question": "The Swasthya Sathi scheme was launched by the Government of West Bengal in which year?",
+            "options": [
+              "2016",
+              "2017",
+              "2018",
+              "2019"
+            ],
+            "correctIndex": 0,
+            "explanation": "The scheme was launched in 2016.",
+            "difficulty": "Medium",
+            "topicId": "gs-wb-schemes",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-23"
+          },
+          {
+            "question": "Which of the following is a key objective of the Sabooj Sathi scheme initiated by the West Bengal government?",
+            "options": [
+              "To promote vocational training",
+              "To distribute free bicycles",
+              "To provide scholarships to meritorious students",
+              "To offer interest-free loans to entrepreneurs"
+            ],
+            "correctIndex": 1,
+            "explanation": "The scheme aims to distribute free bicycles to students.",
+            "difficulty": "Medium",
+            "topicId": "gs-wb-schemes",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-23"
+          },
+          {
+            "question": "The Unnayan scheme was launched by the Government of West Bengal to empower which section of society?",
+            "options": [
+              "Women",
+              "Youth",
+              "Children",
+              "Senior Citizens"
+            ],
+            "correctIndex": 1,
+            "explanation": "The scheme specifically focuses on empowering the youth.",
+            "difficulty": "Easy",
+            "topicId": "gs-wb-schemes",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-23"
+          },
+          {
+            "question": "What is the primary goal of the Kanyashree Prakalpa scheme implemented by the West Bengal government?",
+            "options": [
+              "To provide scholarships to students",
+              "To promote education among girls",
+              "To empower women through skill development",
+              "To provide financial assistance to women for marriage"
+            ],
+            "correctIndex": 3,
+            "explanation": "The scheme provides financial assistance to women for marriage.",
+            "difficulty": "Medium",
+            "topicId": "gs-wb-schemes",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-23"
+          },
+          {
+            "question": "Under which scheme of the West Bengal government, interest-free loans are provided to the Self-Help Groups (SHGs) for their economic empowerment?",
+            "options": [
+              "Sabooj Sathi",
+              "Kanyashree Prakalpa",
+              "Unnayan",
+              "Sabla"
+            ],
+            "correctIndex": 2,
+            "explanation": "The Unnayan scheme provides interest-free loans to SHGs.",
+            "difficulty": "Medium",
+            "topicId": "gs-wb-schemes",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-23"
+          }
+        ],
+        "questionCount": 5
+      }
+    },
+    "math": {
+      "math-percent": {
+        "topicName": "Percentage & Profit-Loss",
+        "subjectName": "Arithmetic",
+        "questions": [
+          {
+            "question": "A merchant increases the price of a pair of shoes by 20% and then reduces it by 10%. What is the final price of the shoes if it was initially priced at ₹800?",
+            "options": [
+              "₹744",
+              "₹800",
+              "₹848",
+              "₹880"
+            ],
+            "correctIndex": 2,
+            "explanation": "The price increase is 20% of ₹800, which is ₹160, then 10% of ₹960 is ₹96.",
+            "difficulty": "Medium",
+            "topicId": "math-percent",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-23"
+          },
+          {
+            "question": "A person invests ₹15000 in a business which gives 15% annual return. How much profit will he get at the end of the year if he sells the business at 25% loss?",
+            "options": [
+              "₹2250",
+              "₹2625",
+              "₹3000",
+              "₹3375"
+            ],
+            "correctIndex": 0,
+            "explanation": "The profit before loss is 15% of ₹15000, which is ₹2250.",
+            "difficulty": "Medium",
+            "topicId": "math-profit-loss",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-23"
+          },
+          {
+            "question": "In a shop, the price of a product is marked up by 30% to discourage customers from buying it. If the marked price is ₹120, what is the original price of the product?",
+            "options": [
+              "₹92.31",
+              "₹93.75",
+              "₹96",
+              "₹100"
+            ],
+            "correctIndex": 1,
+            "explanation": "The original price can be found by dividing the marked price by 130%.",
+            "difficulty": "Medium",
+            "topicId": "math-percent",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-23"
+          },
+          {
+            "question": "A trader buys 200 kg of potatoes at ₹8 per kg. He sells 120 kg at a profit of 20% and the rest at a loss of 10%. If the total profit is ₹100, how much money does he get from selling the remaining 80 kg?",
+            "options": [
+              "₹400",
+              "₹450",
+              "₹500",
+              "₹550"
+            ],
+            "correctIndex": 2,
+            "explanation": "The profit from the first part is 20% of ₹960, which is ₹192.",
+            "difficulty": "Medium",
+            "topicId": "math-profit-loss",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-23"
+          },
+          {
+            "question": "A shopkeeper sells an article at a discount of 15% on the marked price of ₹500. What is the selling price of the article?",
+            "options": [
+              "₹425",
+              "₹437.5",
+              "₹450",
+              "₹462.5"
+            ],
+            "correctIndex": 0,
+            "explanation": "The discount amount is 15% of ₹500, which is ₹75.",
+            "difficulty": "Medium",
+            "topicId": "math-percent",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-23"
+          }
+        ],
+        "questionCount": 5
+      },
+      "math-interest": {
+        "topicName": "Simple & Compound Interest",
+        "subjectName": "Arithmetic",
+        "questions": [
+          {
+            "question": "If a sum of Rs. 15,000 is invested for 3 years at a compound interest rate of 10% p.a., then the amount at the end of 3 years will be?",
+            "options": [
+              "Rs. 16,981",
+              "Rs. 17,250",
+              "Rs. 16,550",
+              "Rs. 17,100"
+            ],
+            "correctIndex": 0,
+            "explanation": "Using compound interest formula A = P(1 + r/100)^n.",
+            "difficulty": "Medium",
+            "topicId": "math-interest",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-23"
+          },
+          {
+            "question": "A sum of money invested in a fixed deposit scheme for 2 years fetches an interest of Rs. 1,800 at an interest rate of 9% p.a. What was the principal amount?",
+            "options": [
+              "Rs. 18,000",
+              "Rs. 20,000",
+              "Rs. 19,200",
+              "Rs. 21,000"
+            ],
+            "correctIndex": 2,
+            "explanation": "Using simple interest formula SI = (P * r * t) / 100.",
+            "difficulty": "Medium",
+            "topicId": "math-interest",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-23"
+          },
+          {
+            "question": "A certain sum amounts to Rs. 14,796 in 2 years at 10% p.a. Compound Interest, compounded annually. What is the principal amount?",
+            "options": [
+              "Rs. 13,500",
+              "Rs. 13,000",
+              "Rs. 13,900",
+              "Rs. 14,000"
+            ],
+            "correctIndex": 1,
+            "explanation": "Using compound interest formula A = P(1 + r/100)^n.",
+            "difficulty": "Medium",
+            "topicId": "math-interest",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-23"
+          },
+          {
+            "question": "If a sum of Rs. 10,000 is invested for 5 years at a simple interest rate of 8% p.a., then the simple interest earned will be?",
+            "options": [
+              "Rs. 2,000",
+              "Rs. 2,050",
+              "Rs. 1,800",
+              "Rs. 1,900"
+            ],
+            "correctIndex": 3,
+            "explanation": "Using simple interest formula SI = (P * r * t) / 100.",
+            "difficulty": "Medium",
+            "topicId": "math-interest",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-23"
+          },
+          {
+            "question": "A sum of money invested in a fixed deposit scheme fetches an interest of Rs. 1,950 at an interest rate of 9.5% p.a. for 3 years. What was the principal amount?",
+            "options": [
+              "Rs. 19,000",
+              "Rs. 20,000",
+              "Rs. 19,500",
+              "Rs. 19,100"
+            ],
+            "correctIndex": 0,
+            "explanation": "Using simple interest formula SI = (P * r * t) / 100.",
+            "difficulty": "Medium",
+            "topicId": "math-interest",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-23"
+          }
+        ],
+        "questionCount": 5
+      },
+      "math-tsd": {
+        "topicName": "Time, Speed & Distance",
+        "subjectName": "Arithmetic",
+        "questions": [
+          {
+            "question": "A train travels from Kolkata to Siliguri at an average speed of 60 km/h. How many hours will it take to cover a distance of 240 km?",
+            "options": [
+              "4 hours",
+              "6 hours",
+              "8 hours",
+              "10 hours"
+            ],
+            "correctIndex": 1,
+            "explanation": "To find the time taken, we divide the distance by the speed.",
+            "difficulty": "Medium",
+            "topicId": "math-tsd",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-23"
+          },
+          {
+            "question": "A bus covers a distance of 420 km in 7 hours. What is the average speed of the bus in km/h?",
+            "options": [
+              "60 km/h",
+              "70 km/h",
+              "80 km/h",
+              "90 km/h"
+            ],
+            "correctIndex": 2,
+            "explanation": "To find the average speed, we divide the distance by the time taken.",
+            "difficulty": "Medium",
+            "topicId": "math-tsd",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-23"
+          },
+          {
+            "question": "A motorist travels from Durgapur to Asansol at an average speed of 50 km/h. If he travels for 5 hours, what distance will he cover?",
+            "options": [
+              "200 km",
+              "250 km",
+              "300 km",
+              "350 km"
+            ],
+            "correctIndex": 2,
+            "explanation": "To find the distance covered, we multiply the speed by the time taken.",
+            "difficulty": "Medium",
+            "topicId": "math-tsd",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-23"
+          },
+          {
+            "question": "A car is traveling from Howrah to Darjeeling. If it covers a distance of 120 km in 2 hours, what is its average speed?",
+            "options": [
+              "60 km/h",
+              "80 km/h",
+              "90 km/h",
+              "100 km/h"
+            ],
+            "correctIndex": 0,
+            "explanation": "To find the average speed, we divide the distance by the time taken.",
+            "difficulty": "Medium",
+            "topicId": "math-tsd",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-23"
+          },
+          {
+            "question": "A truck travels from Bardhaman to Bokaro at an average speed of 40 km/h. If it travels for 6 hours, how many kilometers will it cover?",
+            "options": [
+              "240 km",
+              "260 km",
+              "280 km",
+              "300 km"
+            ],
+            "correctIndex": 0,
+            "explanation": "To find the distance covered, we multiply the speed by the time taken.",
+            "difficulty": "Medium",
+            "topicId": "math-tsd",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-23"
+          }
+        ],
+        "questionCount": 5
+      }
+    },
+    "reasoning": {
+      "rs-coding": {
+        "topicName": "Coding-Decoding",
+        "subjectName": "Reasoning",
+        "questions": [
+          {
+            "question": "Direction: Given a code, find the pattern and fill in the blank.",
+            "options": [
+              "Durgapur",
+              "Barrackpore",
+              "Kalyani",
+              "Asansol"
+            ],
+            "correctIndex": 1,
+            "explanation": "Barrackpore follows the pattern.",
+            "difficulty": "Medium",
+            "topicId": "rs-coding",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-23"
+          },
+          {
+            "question": "A code is given: A=8, B=3, C=4, D=1, E=5, F=6, G=9, H=7. What is the code for the word 'RISHI'?",
+            "options": [
+              "RISHI",
+              "RISHO",
+              "RISI",
+              "RISHU"
+            ],
+            "correctIndex": 0,
+            "explanation": "The correct code for the word 'RISHI'.",
+            "difficulty": "Medium",
+            "topicId": "rs-coding",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-23"
+          },
+          {
+            "question": "In a code, 0 denotes East, 1 denotes West, 2 denotes North, 3 denotes South. What direction is denoted by the code 2310?",
+            "options": [
+              "North",
+              "South",
+              "East",
+              "West"
+            ],
+            "correctIndex": 2,
+            "explanation": "The direction denoted by the code 2310.",
+            "difficulty": "Medium",
+            "topicId": "rs-coding",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-23"
+          },
+          {
+            "question": "A code is given: A=9, B=8, C=7, D=6, E=5, F=4, G=3, H=2, I=1. What is the code for the word 'KOLKATA'?",
+            "options": [
+              "KOLKATA",
+              "KOLKATB",
+              "KOLKAC",
+              "KOLKAD"
+            ],
+            "correctIndex": 0,
+            "explanation": "The correct code for the word 'KOLKATA'.",
+            "difficulty": "Medium",
+            "topicId": "rs-coding",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-23"
+          },
+          {
+            "question": "Direction: Given a code, find the pattern and fill in the blank.",
+            "options": [
+              "Darjeeling",
+              "Siliguri",
+              "Kolkata",
+              "Asansol"
+            ],
+            "correctIndex": 2,
+            "explanation": "Kolkata follows the pattern.",
+            "difficulty": "Medium",
+            "topicId": "rs-coding",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-23"
+          }
+        ],
+        "questionCount": 5
+      },
+      "rs-direction": {
+        "topicName": "Direction Sense",
+        "subjectName": "Reasoning",
+        "questions": [
+          {
+            "question": "You are standing at the Howrah Bridge, looking towards the Vidyasagar Setu. Which direction will you move to reach the Dakshineswar Kali Temple?",
+            "options": [
+              "Towards the south of the Ganges",
+              "Towards the north of the Ganges",
+              "Towards the east of the Vidyasagar Setu",
+              "Towards the west of the Vidyasagar Setu"
+            ],
+            "correctIndex": 0,
+            "explanation": "Dakshineswar Kali Temple is located to the south of the Ganges.",
+            "difficulty": "Medium",
+            "topicId": "rs-direction",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-23"
+          },
+          {
+            "question": "You are in the middle of the Esplanade in Kolkata. If you walk 600 meters east and then 400 meters north, which direction will you have to turn to reach the Victoria Memorial?",
+            "options": [
+              "North-west",
+              "North-east",
+              "South-west",
+              "South-east"
+            ],
+            "correctIndex": 3,
+            "explanation": "Victoria Memorial is located to the south-east of the Esplanade.",
+            "difficulty": "Hard",
+            "topicId": "rs-direction",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-23"
+          },
+          {
+            "question": "You start facing north from the College Street crossing in Kolkata. You turn 135 degrees to your right. Which direction are you facing now?",
+            "options": [
+              "West",
+              "East",
+              "North",
+              "South"
+            ],
+            "correctIndex": 1,
+            "explanation": "Turning 135 degrees to the right from facing north means you are now facing east.",
+            "difficulty": "Easy",
+            "topicId": "rs-direction",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-23"
+          },
+          {
+            "question": "A person is moving from the Alipore Zoo in an easterly direction. If he walks for 2 kilometers and then turns left, which direction will he be moving in?",
+            "options": [
+              "North",
+              "South",
+              "East",
+              "West"
+            ],
+            "correctIndex": 2,
+            "explanation": "Turning left while moving east means he will now be moving in a northerly direction.",
+            "difficulty": "Easy",
+            "topicId": "rs-direction",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-23"
+          },
+          {
+            "question": "You are at the Gariahat crossing in Kolkata. If you walk 200 meters west and then 300 meters south, which direction will you have to turn to reach the Gariahat Market?",
+            "options": [
+              "South-west",
+              "North-west",
+              "North-east",
+              "South-east"
+            ],
+            "correctIndex": 2,
+            "explanation": "Gariahat Market is located to the north-east of the Gariahat crossing.",
+            "difficulty": "Medium",
+            "topicId": "rs-direction",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-23"
+          }
+        ],
+        "questionCount": 5
+      },
+      "rs-series": {
+        "topicName": "Number & Letter Series",
+        "subjectName": "Reasoning",
+        "questions": [
+          {
+            "question": "If the pattern 1, 2, 4, 7, 11, ? is continued, what will be the next number in the series?",
+            "options": [
+              "16",
+              "18",
+              "20",
+              "22"
+            ],
+            "correctIndex": 2,
+            "explanation": "The pattern is obtained by adding consecutive prime numbers.",
+            "difficulty": "Medium",
+            "topicId": "rs-series",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-23"
+          },
+          {
+            "question": "What should come next in the series: 1, 4, 9, 16, 25, ?",
+            "options": [
+              "36",
+              "40",
+              "49",
+              "64"
+            ],
+            "correctIndex": 0,
+            "explanation": "The pattern is a sequence of perfect squares.",
+            "difficulty": "Easy",
+            "topicId": "rs-series",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-23"
+          },
+          {
+            "question": "Find the next number in the series: 3, 6, 12, 24, 48, ?",
+            "options": [
+              "72",
+              "96",
+              "120",
+              "144"
+            ],
+            "correctIndex": 1,
+            "explanation": "The pattern is obtained by multiplying the previous term by 2.",
+            "difficulty": "Medium",
+            "topicId": "rs-series",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-23"
+          },
+          {
+            "question": "Find the missing number in the series: 2, 6, 12, 20, 30, ?",
+            "options": [
+              "42",
+              "46",
+              "50",
+              "54"
+            ],
+            "correctIndex": 3,
+            "explanation": "The pattern is obtained by adding consecutive numbers.",
+            "difficulty": "Medium",
+            "topicId": "rs-series",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-23"
+          },
+          {
+            "question": "Find the next number in the series: 5, 9, 17, 29, 45, ?",
+            "options": [
+              "65",
+              "71",
+              "77",
+              "83"
+            ],
+            "correctIndex": 0,
+            "explanation": "The pattern is obtained by adding 4, 8, 12, 16, ... to the previous term.",
+            "difficulty": "Hard",
+            "topicId": "rs-series",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-23"
+          }
+        ],
+        "questionCount": 5
+      }
+    }
+  }
+}
