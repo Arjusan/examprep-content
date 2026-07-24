@@ -1,0 +1,674 @@
+{
+  "exam": "si",
+  "generatedDate": "2026-07-24",
+  "generatedAt": "2026-07-24T03:53:54.244Z",
+  "model": "llama-3.1-8b-instant",
+  "provider": "groq",
+  "source": "ai_generated",
+  "reviewStatus": "pending",
+  "totalQuestions": 40,
+  "subjects": {
+    "gs": {
+      "gs-polity": {
+        "topicName": "Indian Constitution & Polity",
+        "subjectName": "General Studies",
+        "questions": [
+          {
+            "question": "The Fundamental Duties of citizens are enshrined in which part of the Indian Constitution?",
+            "options": [
+              "Part I",
+              "Part II",
+              "Part III",
+              "Part IV"
+            ],
+            "correctIndex": 3,
+            "explanation": "In Part IVA.",
+            "difficulty": "Medium",
+            "topicId": "gs-polity",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-24"
+          },
+          {
+            "question": "Which of the following is a feature of the West Bengal Panchayat Raj System?",
+            "options": [
+              "Panchayat Samitis are Intermediate bodies between the Zilla Parishad and Gram Panchayats.",
+              "Panchayat Samitis are Intermediate bodies between the Gram Panchayats and Block Development Officers.",
+              "Zilla Parishad is the highest unit of Panchayat Raj in West Bengal.",
+              "The West Bengal Panchayat Raj system does not have any Intermediate bodies between the Zilla Parishad and Gram Panchayats."
+            ],
+            "correctIndex": 0,
+            "explanation": "Panchayat Samitis are Intermediate bodies.",
+            "difficulty": "Medium",
+            "topicId": "gs-polity",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-24"
+          },
+          {
+            "question": "The 73rd and 74th Constitutional Amendments of 1992 introduced which of the following?",
+            "options": [
+              "Reservation of seats for SC and ST in Municipalities and Panchayats.",
+              "Reservation of seats for women in Municipalities and Panchayats.",
+              "Direct elections for Chairmen of Zilla Parishads and Municipalities.",
+              "Reservation of seats for SC and ST in Parliament and State Legislatures."
+            ],
+            "correctIndex": 1,
+            "explanation": "Reservation of seats for women.",
+            "difficulty": "Medium",
+            "topicId": "gs-polity",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-24"
+          },
+          {
+            "question": "Who is the Chief Minister of West Bengal, as per the West Bengal Ministers (Salaries, Allowances and Miscellaneous Laws) Amendment Act, 2018?",
+            "options": [
+              "Chief Minister to be the Chairman of the West Bengal Public Service Commission.",
+              "Chief Minister to be the Chancellor of the universities in West Bengal.",
+              "Chief Minister to be the Chairman of the West Bengal Infrastructure Development Finance Corporation.",
+              "Chief Minister to be the President of the West Bengal Legislative Assembly."
+            ],
+            "correctIndex": 2,
+            "explanation": "Chairman of the West Bengal Public Service Commission.",
+            "difficulty": "Low",
+            "topicId": "gs-polity",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-24"
+          },
+          {
+            "question": "Which of the following is a fundamental right?",
+            "options": [
+              "Right to Property",
+              "Right to Education",
+              "Right to Equality",
+              "Right to Freedom"
+            ],
+            "correctIndex": 3,
+            "explanation": "Right to Freedom.",
+            "difficulty": "Low",
+            "topicId": "gs-polity",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-24"
+          }
+        ],
+        "questionCount": 5
+      },
+      "gs-wb-geo": {
+        "topicName": "West Bengal Geography",
+        "subjectName": "General Studies",
+        "questions": [
+          {
+            "question": "Which river is the main tributary of the Ganges in West Bengal?",
+            "options": [
+              "Damodar River",
+              "Hooghly River",
+              "Torsa River",
+              "Kangsabati River"
+            ],
+            "correctIndex": 1,
+            "explanation": "The Hooghly River is the main distributary of the Ganges in West Bengal.",
+            "difficulty": "Medium",
+            "topicId": "gs-wb-geo",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-24"
+          },
+          {
+            "question": "Which of the following hill stations is located in the Darjeeling Hills of West Bengal?",
+            "options": [
+              "Kalimpong",
+              "Mirik",
+              "Darjeeling",
+              "Ravangla"
+            ],
+            "correctIndex": 2,
+            "explanation": "Darjeeling is a famous hill station in the Darjeeling Hills of West Bengal.",
+            "difficulty": "Medium",
+            "topicId": "gs-wb-geo",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-24"
+          },
+          {
+            "question": "Which of the following islands is located off the coast of Kolkata, West Bengal?",
+            "options": [
+              "Sagar Islands",
+              "Haldia Island",
+              "Bhagabatpur Island",
+              "Mandarmoni Beach"
+            ],
+            "correctIndex": 0,
+            "explanation": "The Sagar Islands are a group of islands located off the coast of Kolkata, West Bengal.",
+            "difficulty": "Easy",
+            "topicId": "gs-wb-geo",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-24"
+          },
+          {
+            "question": "Which of the following mountain ranges separates the districts of Jalpaiguri and Alipurduar in West Bengal?",
+            "options": [
+              "Bhutan Himalayas",
+              "Naga Hills",
+              "Changlang Hills",
+              "Sub-Himalayas"
+            ],
+            "correctIndex": 1,
+            "explanation": "The Naga Hills separate the districts of Jalpaiguri and Alipurduar in West Bengal.",
+            "difficulty": "Medium",
+            "topicId": "gs-wb-geo",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-24"
+          },
+          {
+            "question": "Which of the following rivers originates from the Singalila Range in the Darjeeling district of West Bengal?",
+            "options": [
+              "Tista River",
+              "Teesta River",
+              "Tamla River",
+              "Rangit River"
+            ],
+            "correctIndex": 0,
+            "explanation": "The Tista River originates from the Singalila Range in the Darjeeling district of West Bengal.",
+            "difficulty": "Medium",
+            "topicId": "gs-wb-geo",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-24"
+          }
+        ],
+        "questionCount": 5
+      },
+      "gs-current": {
+        "topicName": "Current Affairs (Last 12 Months)",
+        "subjectName": "General Studies",
+        "questions": [
+          {
+            "question": "Which Bengaluru-based startup acquired a majority stake in Bengal-based e-learning platform, Toppr in 2025?",
+            "options": [
+              "Byju's",
+              "Unacademy",
+              "EduKart",
+              "Gradeup"
+            ],
+            "correctIndex": 0,
+            "explanation": "Byju's acquired a majority stake in Toppr.",
+            "difficulty": "Medium",
+            "topicId": "gs-current",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-24"
+          },
+          {
+            "question": "The West Bengal government has launched a project to provide piped natural gas in how many districts of the state?",
+            "options": [
+              "5",
+              "6",
+              "7",
+              "8"
+            ],
+            "correctIndex": 2,
+            "explanation": "The West Bengal government launched a project to provide piped natural gas in 7 districts.",
+            "difficulty": "Medium",
+            "topicId": "gs-current",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-24"
+          },
+          {
+            "question": "Who is the chairman of the West Bengal Board of Secondary Education (WBBSE) that was reconstituted in 2025?",
+            "options": [
+              "Partha Chatterjee",
+              "Bratya Basu",
+              "Sudeshna Sinha",
+              "Amit Mitra"
+            ],
+            "correctIndex": 1,
+            "explanation": "Bratya Basu is the chairman of the WBBSE.",
+            "difficulty": "Medium",
+            "topicId": "gs-current",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-24"
+          },
+          {
+            "question": "The Centre has approved the West Bengal government's proposal to develop which tourist circuit under the Swadesh Darshan scheme?",
+            "options": [
+              "Darjeeling Hill Circuit",
+              "Gangtok Circuit",
+              "Sundarbans Circuit",
+              "Mayapur Circuit"
+            ],
+            "correctIndex": 2,
+            "explanation": "The Centre approved the Sundarbans Circuit under the Swadesh Darshan scheme.",
+            "difficulty": "Medium",
+            "topicId": "gs-current",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-24"
+          },
+          {
+            "question": "Which Indian city is hosting the Global Bio-India 2025 conference, which was attended by the West Bengal chief minister in 2025?",
+            "options": [
+              "Kolkata",
+              "Bengaluru",
+              "Chennai",
+              "Mumbai"
+            ],
+            "correctIndex": 1,
+            "explanation": "Bengaluru is hosting the Global Bio-India 2025 conference.",
+            "difficulty": "Medium",
+            "topicId": "gs-current",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-24"
+          }
+        ],
+        "questionCount": 5
+      }
+    },
+    "math": {
+      "math-percent": {
+        "topicName": "Percentage & Profit-Loss",
+        "subjectName": "Arithmetic",
+        "questions": [
+          {
+            "question": "A shopkeeper sold an article at Rs. 450, which was bought for Rs. 350. What is the profit percentage?",
+            "options": [
+              "17.14%",
+              "15%",
+              "18.57%",
+              "20%"
+            ],
+            "correctIndex": 0,
+            "explanation": "Profit percentage is calculated by (profit/selling price) * 100.",
+            "difficulty": "Medium",
+            "topicId": "math-percent",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-24"
+          },
+          {
+            "question": "In a certain year, the cost price of 10 kg wheat was Rs. 50. If the cost price per kg is increased by 20%, then what will be the cost price of 15 kg wheat?",
+            "options": [
+              "Rs. 105",
+              "Rs. 75",
+              "Rs. 90",
+              "Rs. 80"
+            ],
+            "correctIndex": 1,
+            "explanation": "The new cost price per kg is 1.2 times the original cost price per kg.",
+            "difficulty": "Medium",
+            "topicId": "math-profit-loss",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-24"
+          },
+          {
+            "question": "A toy car is sold at a loss of 10% and the selling price is Rs. 420. What is the cost price?",
+            "options": [
+              "Rs. 462",
+              "Rs. 420",
+              "Rs. 462.5",
+              "Rs. 450"
+            ],
+            "correctIndex": 2,
+            "explanation": "The cost price is calculated by (selling price) / (1 - loss percentage) = (selling price) / (1 - 0.10).",
+            "difficulty": "Medium",
+            "topicId": "math-profit-loss",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-24"
+          },
+          {
+            "question": "A person buys 5 kg rice at Rs. 50 per kg and sells 3 kg rice at Rs. 60 per kg. What is the profit percentage?",
+            "options": [
+              "10%",
+              "20%",
+              "15%",
+              "25%"
+            ],
+            "correctIndex": 1,
+            "explanation": "Profit percentage is calculated by (profit/selling price) * 100.",
+            "difficulty": "Medium",
+            "topicId": "math-profit-loss",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-24"
+          },
+          {
+            "question": "A company increases the price of its product by 25% in a certain year. If the original price was Rs. 1000, what will be the new price?",
+            "options": [
+              "Rs. 1000",
+              "Rs. 1250",
+              "Rs. 1200",
+              "Rs. 1100"
+            ],
+            "correctIndex": 1,
+            "explanation": "The new price is 1.25 times the original price.",
+            "difficulty": "Medium",
+            "topicId": "math-profit-loss",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-24"
+          }
+        ],
+        "questionCount": 5
+      },
+      "math-tsd": {
+        "topicName": "Time, Speed & Distance",
+        "subjectName": "Arithmetic",
+        "questions": [
+          {
+            "question": "A train travelling from Howrah to Sealdah covers a distance of 20 km in 1 hour, whereas the distance between the two stations is 40 km. What is the remaining time to cover the remaining distance?",
+            "options": [
+              "3 hours",
+              "1 hour",
+              "2 hours",
+              "4 hours"
+            ],
+            "correctIndex": 2,
+            "explanation": "The remaining distance is 20 km which can be covered in 1 hour.",
+            "difficulty": "Medium",
+            "topicId": "math-tsd",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-24"
+          },
+          {
+            "question": "A person walks from Howrah Station to Esplanade at a speed of 3 km/h, and returns at a speed of 2.5 km/h. What is the average speed for the entire journey?",
+            "options": [
+              "2.75 km/h",
+              "2.5 km/h",
+              "3 km/h",
+              "3.5 km/h"
+            ],
+            "correctIndex": 0,
+            "explanation": "Average speed is the total distance divided by the total time.",
+            "difficulty": "Medium",
+            "topicId": "math-tsd",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-24"
+          },
+          {
+            "question": "A bus starts from Kolkata and travels to Digha at an average speed of 60 km/h. If the distance between Kolkata and Digha is 200 km, how much time will it take for the bus to reach Digha?",
+            "options": [
+              "1 hour",
+              "2 hours",
+              "3 hours",
+              "4 hours"
+            ],
+            "correctIndex": 2,
+            "explanation": "Time is distance divided by speed.",
+            "difficulty": "Medium",
+            "topicId": "math-tsd",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-24"
+          },
+          {
+            "question": "A person travels from Kolkata to Kalyani at a speed of 30 km/h. If the time taken for the journey is 2 hours, how much distance has been covered?",
+            "options": [
+              "30 km",
+              "60 km",
+              "80 km",
+              "90 km"
+            ],
+            "correctIndex": 1,
+            "explanation": "Distance is speed multiplied by time.",
+            "difficulty": "Medium",
+            "topicId": "math-tsd",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-24"
+          },
+          {
+            "question": "A car travels from Howrah to Binnaguri at an average speed of 80 km/h. If the time taken for the journey is 2.5 hours, what is the distance covered?",
+            "options": [
+              "120 km",
+              "150 km",
+              "180 km",
+              "200 km"
+            ],
+            "correctIndex": 2,
+            "explanation": "Distance is speed multiplied by time.",
+            "difficulty": "Medium",
+            "topicId": "math-tsd",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-24"
+          }
+        ],
+        "questionCount": 5
+      }
+    },
+    "reasoning": {
+      "rs-coding": {
+        "topicName": "Coding-Decoding",
+        "subjectName": "Reasoning",
+        "questions": [
+          {
+            "question": "Which of the following will come in place of the question mark (?) in the given coding: gurukulam ? aab ? bengal?",
+            "options": [
+              "school",
+              "college",
+              "university",
+              "madrasa"
+            ],
+            "correctIndex": 0,
+            "explanation": "The given coding is done by using the first letter of the word.",
+            "difficulty": "Medium",
+            "topicId": "rs-coding",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-24"
+          },
+          {
+            "question": "How many letters are there in the first word of the given phrase: 'The main motto of West Bengal government is to provide justice'.",
+            "options": [
+              "20",
+              "15",
+              "12",
+              "18"
+            ],
+            "correctIndex": 2,
+            "explanation": "The first word is 'The'.",
+            "difficulty": "Easy",
+            "topicId": "rs-coding",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-24"
+          },
+          {
+            "question": "Which of the following will come in place of the question mark (?) in the given coding: bengal ? d ? kolkata?",
+            "options": [
+              "city",
+              "state",
+              "country",
+              "district"
+            ],
+            "correctIndex": 1,
+            "explanation": "The given coding is done by using the first letter of the word.",
+            "difficulty": "Medium",
+            "topicId": "rs-coding",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-24"
+          },
+          {
+            "question": "Find out the number of letters in the given word: 'Sankrail'.",
+            "options": [
+              "7",
+              "8",
+              "9",
+              "10"
+            ],
+            "correctIndex": 0,
+            "explanation": "The number of letters in 'Sankrail' is 7.",
+            "difficulty": "Easy",
+            "topicId": "rs-coding",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-24"
+          },
+          {
+            "question": "Which of the following will come in place of the question mark (?) in the given coding: river ? g ? howrah?",
+            "options": [
+              "stream",
+              "sea",
+              "lake",
+              "ocean"
+            ],
+            "correctIndex": 0,
+            "explanation": "The given coding is done by using the first letter of the word.",
+            "difficulty": "Medium",
+            "topicId": "rs-coding",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-24"
+          }
+        ],
+        "questionCount": 5
+      },
+      "rs-blood": {
+        "topicName": "Blood Relations",
+        "subjectName": "Reasoning",
+        "questions": [
+          {
+            "question": "Kolkata-based Amar and his wife are parents of a son. Amar's mother is the grandmother of his son. What is the relationship between Amar's mother and Amar's son?",
+            "options": [
+              "Son",
+              "Father",
+              "Wife",
+              "Grandson"
+            ],
+            "correctIndex": 2,
+            "explanation": "Amar's mother is the grandmother of her son.",
+            "difficulty": "Medium",
+            "topicId": "rs-blood",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-24"
+          },
+          {
+            "question": "A person, Sagnik, has a father and a maternal uncle. His maternal uncle is the brother of his mother. What is the relationship between Sagnik and his maternal uncle?",
+            "options": [
+              "Father",
+              "Son",
+              "Brother",
+              "Uncle"
+            ],
+            "correctIndex": 1,
+            "explanation": "Sagnik's maternal uncle is the brother of his mother.",
+            "difficulty": "Medium",
+            "topicId": "rs-blood",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-24"
+          },
+          {
+            "question": "A person, Aniket, has a brother and a maternal aunt. His maternal aunt is the sister of his mother. What is the relationship between Aniket and his maternal aunt?",
+            "options": [
+              "Father",
+              "Son",
+              "Brother",
+              "Aunt"
+            ],
+            "correctIndex": 3,
+            "explanation": "Aniket's maternal aunt is the sister of his mother.",
+            "difficulty": "Medium",
+            "topicId": "rs-blood",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-24"
+          },
+          {
+            "question": "A person, Sayan, has two sisters. His brother-in-law is the husband of his sister. What is the relationship between Sayan and his brother-in-law?",
+            "options": [
+              "Father",
+              "Son",
+              "Brother",
+              "Husband"
+            ],
+            "correctIndex": 3,
+            "explanation": "Sayan's brother-in-law is the husband of his sister.",
+            "difficulty": "Medium",
+            "topicId": "rs-blood",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-24"
+          },
+          {
+            "question": "A person, Abhishek, has a sister and a brother-in-law. His brother-in-law is the husband of his sister. What is the relationship between Abhishek and his brother-in-law?",
+            "options": [
+              "Father",
+              "Son",
+              "Brother",
+              "Brother-in-law"
+            ],
+            "correctIndex": 3,
+            "explanation": "Abhishek's brother-in-law is the husband of his sister.",
+            "difficulty": "Medium",
+            "topicId": "rs-blood",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-24"
+          }
+        ],
+        "questionCount": 5
+      },
+      "rs-direction": {
+        "topicName": "Direction Sense",
+        "subjectName": "Reasoning",
+        "questions": [
+          {
+            "question": "A person is facing towards the south direction. He turns 180 degrees to his left. In which direction is he facing now?",
+            "options": [
+              "North",
+              "West",
+              "South",
+              "East"
+            ],
+            "correctIndex": 3,
+            "explanation": "He turns 180 degrees to his left, so he is facing the opposite direction.",
+            "difficulty": "Medium",
+            "topicId": "rs-direction",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-24"
+          },
+          {
+            "question": "A man starts walking from the Howrah Bridge towards the Ganges River. After 200 metres, he turns left towards the city. Which direction is he heading now?",
+            "options": [
+              "East",
+              "West",
+              "South",
+              "North"
+            ],
+            "correctIndex": 2,
+            "explanation": "He turned left after walking towards the Ganges River.",
+            "difficulty": "Medium",
+            "topicId": "rs-direction",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-24"
+          },
+          {
+            "question": "A person is standing in front of a mirror in his home in Burdwan. He is facing towards the north direction. Which direction will he see in the mirror?",
+            "options": [
+              "South",
+              "North",
+              "East",
+              "West"
+            ],
+            "correctIndex": 0,
+            "explanation": "He will see his own reflection, which is opposite to his actual direction.",
+            "difficulty": "Easy",
+            "topicId": "rs-direction",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-24"
+          },
+          {
+            "question": "A person is walking from the Alipore Zoo towards the Indian Museum. After 500 metres, he turns right towards the city. Which direction is he heading now?",
+            "options": [
+              "East",
+              "West",
+              "South",
+              "North"
+            ],
+            "correctIndex": 1,
+            "explanation": "He turned right after walking towards the Indian Museum.",
+            "difficulty": "Medium",
+            "topicId": "rs-direction",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-24"
+          },
+          {
+            "question": "A man is standing in front of the Dakshineswar Kali Temple in Kolkata. He turns 90 degrees to his right. In which direction is he facing now?",
+            "options": [
+              "North",
+              "East",
+              "South",
+              "West"
+            ],
+            "correctIndex": 1,
+            "explanation": "He turns 90 degrees to his right, so he is facing the adjacent direction.",
+            "difficulty": "Medium",
+            "topicId": "rs-direction",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-24"
+          }
+        ],
+        "questionCount": 5
+      }
+    }
+  }
+}
