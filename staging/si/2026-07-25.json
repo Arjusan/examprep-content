@@ -1,12 +1,12 @@
 {
   "exam": "si",
   "generatedDate": "2026-07-25",
-  "generatedAt": "2026-07-25T03:48:51.790Z",
+  "generatedAt": "2026-07-25T14:08:41.537Z",
   "model": "llama-3.1-8b-instant",
   "provider": "groq",
   "source": "ai_generated",
   "reviewStatus": "pending",
-  "totalQuestions": 60,
+  "totalQuestions": 50,
   "subjects": {
     "gs": {
       "gs-polity": {
@@ -14,75 +14,75 @@
         "subjectName": "General Studies",
         "questions": [
           {
-            "question": "Which part of the Indian Constitution deals with the fundamental rights of the citizens?",
+            "question": "Under which Article of the Indian Constitution, Parliament can create new All India Services by law?",
             "options": [
-              "Part I",
-              "Part II",
-              "Part III",
-              "Part IV"
+              "Article 312",
+              "Article 309",
+              "Article 311",
+              "Article 348"
             ],
-            "correctIndex": 2,
-            "explanation": "Part III contains the fundamental rights.",
+            "correctIndex": 0,
+            "explanation": "Article 312 empowers the Parliament to create new All India Services.",
             "difficulty": "Medium",
             "topicId": "gs-polity",
             "source": "ai_generated",
             "generatedDate": "2026-07-25"
           },
           {
-            "question": "What is the name of the state in West Bengal that has the highest number of Lok Sabha constituencies?",
+            "question": "Which of the following Fundamental Rights is subject to reasonable restrictions?",
             "options": [
-              "Howrah",
-              "Murshidabad",
-              "Nadia",
-              "Purba Bardhaman"
+              "Right to Equality",
+              "Right to Freedom",
+              "Right to Life and Liberty",
+              "Right to Constitutional Remedies"
             ],
             "correctIndex": 1,
-            "explanation": "Murshidabad has the highest number of Lok Sabha constituencies in West Bengal.",
-            "difficulty": "Easy",
-            "topicId": "gs-polity",
-            "source": "ai_generated",
-            "generatedDate": "2026-07-25"
-          },
-          {
-            "question": "Which Article of the Indian Constitution deals with the Directive Principles of State Policy?",
-            "options": [
-              "Article 14",
-              "Article 15",
-              "Article 36",
-              "Article 37"
-            ],
-            "correctIndex": 3,
-            "explanation": "Article 37 deals with the Directive Principles of State Policy.",
+            "explanation": "Right to Freedom is subject to reasonable restrictions.",
             "difficulty": "Medium",
             "topicId": "gs-polity",
             "source": "ai_generated",
             "generatedDate": "2026-07-25"
           },
           {
-            "question": "Who was the first Chief Minister of West Bengal?",
+            "question": "The Panchayat Extension to Scheduled Areas Act, 1969 is enacted under which part of the Indian Constitution?",
             "options": [
-              "Huseyn Shaheed Suhrawardy",
-              "Bidyut Chakraborty",
-              "Dr. B.C. Roy",
-              "Sarat Chandra Bose"
+              "Fifth Schedule",
+              "Sixth Schedule",
+              "Eighth Schedule",
+              "Ninth Schedule"
             ],
-            "correctIndex": 2,
-            "explanation": "Dr. B.C. Roy was the first Chief Minister of West Bengal.",
-            "difficulty": "Easy",
+            "correctIndex": 0,
+            "explanation": "The Panchayat Extension to Scheduled Areas Act, 1969 is enacted under the Fifth Schedule.",
+            "difficulty": "Medium",
             "topicId": "gs-polity",
             "source": "ai_generated",
             "generatedDate": "2026-07-25"
           },
           {
-            "question": "Which Schedule of the Indian Constitution deals with the powers, functions and organization of the Comptroller and Auditor General of India?",
+            "question": "Which of the following provisions of the Indian Constitution is related to the powers of the Governor of a state?",
             "options": [
-              "Schedule VI",
-              "Schedule VII",
-              "Schedule VIII",
-              "Schedule XII"
+              "Article 213",
+              "Article 163",
+              "Article 166",
+              "Article 167"
             ],
             "correctIndex": 3,
-            "explanation": "Schedule XII deals with the powers, functions and organization of the Comptroller and Auditor General of India.",
+            "explanation": "Article 167 of the Indian Constitution is related to the powers of the Governor of a state.",
+            "difficulty": "Medium",
+            "topicId": "gs-polity",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-25"
+          },
+          {
+            "question": "The 73rd and 74th Constitutional Amendments of 1992 deal with the:",
+            "options": [
+              "Election Commission of India",
+              "State Public Service Commission",
+              "Panchayati Raj Institutions",
+              "Municipalities"
+            ],
+            "correctIndex": 2,
+            "explanation": "The 73rd and 74th Constitutional Amendments of 1992 deal with the Panchayati Raj Institutions and Municipalities.",
             "difficulty": "Medium",
             "topicId": "gs-polity",
             "source": "ai_generated",
@@ -91,82 +91,82 @@
         ],
         "questionCount": 5
       },
-      "gs-freedom": {
-        "topicName": "Indian Freedom Struggle & Bengal",
+      "gs-wb-geo": {
+        "topicName": "West Bengal Geography",
         "subjectName": "General Studies",
         "questions": [
           {
-            "question": "Which of the following was the first Indian newspaper published from Bengal during the Indian Freedom Struggle?",
+            "question": "Which of the following rivers is not a major tributary of the Ganges in West Bengal?",
             "options": [
-              "Bengalee",
-              "Amrita Bazar Patrika",
-              "The Hindu",
-              "Tribune"
-            ],
-            "correctIndex": 0,
-            "explanation": "The Bengalee was the first Indian newspaper published from Bengal.",
-            "difficulty": "Medium",
-            "topicId": "gs-freedom",
-            "source": "ai_generated",
-            "generatedDate": "2026-07-25"
-          },
-          {
-            "question": "Which of the following events was a major turning point in the Indian Freedom Struggle against British rule in Bengal?",
-            "options": [
-              "Bengal Famine of 1770",
-              "Swadeshi Movement",
-              "Non-Cooperation Movement",
-              "Bardhaman Raj Movement"
-            ],
-            "correctIndex": 1,
-            "explanation": "The Swadeshi Movement was a major turning point in the Indian Freedom Struggle.",
-            "difficulty": "Medium",
-            "topicId": "gs-freedom",
-            "source": "ai_generated",
-            "generatedDate": "2026-07-25"
-          },
-          {
-            "question": "Who was the prominent Bengali revolutionary associated with the Jugantar movement?",
-            "options": [
-              "Bhagat Singh",
-              "Surya Sen",
-              "Barindra Kumar Ghosh",
-              "Chittaranjan Das"
-            ],
-            "correctIndex": 2,
-            "explanation": "Barindra Kumar Ghosh was a prominent Bengali revolutionary associated with the Jugantar movement.",
-            "difficulty": "Medium",
-            "topicId": "gs-freedom",
-            "source": "ai_generated",
-            "generatedDate": "2026-07-25"
-          },
-          {
-            "question": "Which of the following organizations was involved in the Chittagong Armoury Raid in Bengal?",
-            "options": [
-              "Anushilan Samiti",
-              "Jugantar Party",
-              "Hindustan Socialist Republican Association",
-              "Indian National Army"
+              "Damodar",
+              "Hooghly",
+              "Rupnarayan",
+              "Brahmaputra"
             ],
             "correctIndex": 3,
-            "explanation": "The Indian National Army was involved in the Chittagong Armoury Raid in Bengal.",
+            "explanation": "The Brahmaputra river is not a major tributary of the Ganges in West Bengal.",
             "difficulty": "Medium",
-            "topicId": "gs-freedom",
+            "topicId": "gs-wb-geo",
             "source": "ai_generated",
             "generatedDate": "2026-07-25"
           },
           {
-            "question": "Who was the leader of the Bengal Provincial Conference that advocated for Swadeshi and Boycott?",
+            "question": "Which of the following hills is a part of the Eastern Himalayas in West Bengal?",
             "options": [
-              "Lakshmikanta Basu",
-              "Dinesh Chandra Sen",
-              "Satish Chandra Mukherjee",
-              "Gopinath Saha"
+              "Jayanti Hills",
+              "Darjeeling Hills",
+              "Singalila Hills",
+              "Bhutan Hills"
+            ],
+            "correctIndex": 2,
+            "explanation": "The Singalila Hills are a part of the Eastern Himalayas in West Bengal.",
+            "difficulty": "Medium",
+            "topicId": "gs-wb-geo",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-25"
+          },
+          {
+            "question": "Which of the following districts is known as the 'Land of Mangoes' in West Bengal?",
+            "options": [
+              "Howrah",
+              "Hooghly",
+              "Nadia",
+              "Murshidabad"
             ],
             "correctIndex": 0,
-            "explanation": "Lakshmikanta Basu was the leader of the Bengal Provincial Conference.",
+            "explanation": "Howrah district is known as the 'Land of Mangoes' in West Bengal.",
+            "difficulty": "Easy",
+            "topicId": "gs-wb-geo",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-25"
+          },
+          {
+            "question": "Which of the following mountains in West Bengal is the highest peak?",
+            "options": [
+              "Sandakphu",
+              "Siniolchu",
+              "Feri Pokhari",
+              "Lepchula"
+            ],
+            "correctIndex": 1,
+            "explanation": "Siniolchu is the highest peak in West Bengal.",
+            "difficulty": "Hard",
+            "topicId": "gs-wb-geo",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-25"
+          },
+          {
+            "question": "Which of the following river deltas is located in the Sundarbans region of West Bengal?",
+            "options": [
+              "Ganges-Brahmaputra",
+              "Meghna",
+              "Surma",
+              "Damodar"
+            ],
+            "correctIndex": 0,
+            "explanation": "The Ganges-Brahmaputra river delta is located in the Sundarbans region of West Bengal.",
             "difficulty": "Medium",
-            "topicId": "gs-freedom",
+            "topicId": "gs-wb-geo",
             "source": "ai_generated",
             "generatedDate": "2026-07-25"
           }
@@ -178,159 +178,77 @@
         "subjectName": "General Studies",
         "questions": [
           {
-            "question": "In 2025, which river island in West Bengal was heavily affected by a cyclone?",
+            "question": "Which city in West Bengal has been chosen as the first Indian city to host the Asian Games in 2030?",
             "options": [
-              "Ghoramara Island",
-              "Sagar Island",
-              "Mousuni Island",
-              "Fraser Island"
-            ],
-            "correctIndex": 1,
-            "explanation": "Sagar Island was severely affected by cyclone.",
-            "difficulty": "Medium",
-            "topicId": "gs-current",
-            "source": "ai_generated",
-            "generatedDate": "2026-07-25"
-          },
-          {
-            "question": "Who was appointed as the new Chairman of West Bengal Pollution Control Board in 2026?",
-            "options": [
-              "Amitava Majumdar",
-              "Debjit Dutta",
-              "Sudipto Roy",
-              "Anindya Mondal"
+              "Kolkata",
+              "Siliguri",
+              "Shantiniketan",
+              "Durgapur"
             ],
             "correctIndex": 0,
-            "explanation": "Amitava Majumdar took the position.",
+            "explanation": "Kolkata has been selected as the host city.",
             "difficulty": "Medium",
             "topicId": "gs-current",
             "source": "ai_generated",
             "generatedDate": "2026-07-25"
           },
           {
-            "question": "Which of the following schemes was launched by the West Bengal government in 2025 to promote tourism?",
+            "question": "What is the name of the new scheme launched by the West Bengal government to provide financial assistance to farmers?",
             "options": [
-              "Swami Vivekananda Tourism Mission",
-              "West Bengal Tourism Revitalization Scheme",
-              "Tourism Revival Initiative for Bengal",
-              "Bengal Tourism Development Project"
-            ],
-            "correctIndex": 2,
-            "explanation": "The scheme was aimed at boosting tourism in Bengal.",
-            "difficulty": "Medium",
-            "topicId": "gs-current",
-            "source": "ai_generated",
-            "generatedDate": "2026-07-25"
-          },
-          {
-            "question": "In 2026, which district in West Bengal was declared as a 'Disturbed Area' under the Armed Forces (Special Powers) Act?",
-            "options": [
-              "Murshidabad",
-              "Birbhum",
-              "Bankura",
-              "Jalpaiguri"
+              "Krishi Sanjeevani",
+              "Kisan Samman Nidhi",
+              "Udoy Anand",
+              "Krishi Sathi"
             ],
             "correctIndex": 3,
-            "explanation": "The district was declared due to law and order issues.",
+            "explanation": "Krishi Sathi is a new scheme for farmers.",
             "difficulty": "Medium",
             "topicId": "gs-current",
             "source": "ai_generated",
             "generatedDate": "2026-07-25"
           },
           {
-            "question": "Who was elected as the new President of the Indian National Bar Association (INBA) in 2026 from West Bengal?",
+            "question": "Which of the following rivers is the main source of water for the Damodar Valley Corporation power project in West Bengal?",
             "options": [
-              "Kalyan Chandra Majumdar",
-              "Sudipta Debnath",
-              "Supriya Chaudhuri",
-              "Poulami Mitra"
+              "Damodar River",
+              "Bhagirathi River",
+              "Ganges River",
+              "Subarnarekha River"
             ],
             "correctIndex": 0,
-            "explanation": "Kalyan Chandra Majumdar took the position.",
+            "explanation": "Damodar River is the main source of water.",
+            "difficulty": "Easy",
+            "topicId": "gs-current",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-25"
+          },
+          {
+            "question": "Which of the following statements is true about the recent development in the Indian Railways?",
+            "options": [
+              "The new train from Sealdah to Durgapur has been introduced.",
+              "The new train from Howrah to Siliguri has been introduced.",
+              "The new train from New Jalpaiguri to Malda has been introduced.",
+              "The new train from Durgapur to New Jalpaiguri has been introduced."
+            ],
+            "correctIndex": 1,
+            "explanation": "The new train from Howrah to Siliguri has been introduced.",
             "difficulty": "Medium",
             "topicId": "gs-current",
             "source": "ai_generated",
             "generatedDate": "2026-07-25"
-          }
-        ],
-        "questionCount": 5
-      },
-      "gs-wb-schemes": {
-        "topicName": "West Bengal Government Schemes",
-        "subjectName": "General Studies",
-        "questions": [
+          },
           {
-            "question": "Which one of the following is the main objective of the 'Duare Duare Scheme' launched by the Government of West Bengal?",
+            "question": "Who is the current Chairman of the West Bengal Pollution Control Board?",
             "options": [
-              "To provide financial assistance to small business owners",
-              "To provide employment opportunities to youth",
-              "To provide subsidies to farmers directly",
-              "To provide healthcare services to rural population"
+              "Mr. A",
+              "Mr. B",
+              "Mr. C",
+              "Mr. D"
             ],
             "correctIndex": 3,
-            "explanation": "Duare Duare Scheme focuses on providing healthcare services to rural population.",
+            "explanation": "This information is not available.",
             "difficulty": "Medium",
-            "topicId": "gs-wb-schemes",
-            "source": "ai_generated",
-            "generatedDate": "2026-07-25"
-          },
-          {
-            "question": "The 'Swasthya Sathi' scheme is implemented by the Government of West Bengal to provide _______________________ to the beneficiaries.",
-            "options": [
-              "Healthcare services for free",
-              "Medical insurance coverage up to ₹5 lakhs",
-              "Free diagnostic services in government hospitals",
-              "Discounts on medicines at private pharmacies"
-            ],
-            "correctIndex": 1,
-            "explanation": "Swasthya Sathi provides medical insurance coverage up to ₹5 lakhs.",
-            "difficulty": "Medium",
-            "topicId": "gs-wb-schemes",
-            "source": "ai_generated",
-            "generatedDate": "2026-07-25"
-          },
-          {
-            "question": "The 'Kanyashree Prakalpa' scheme was launched by the Government of West Bengal to _______________________ the girls in the state.",
-            "options": [
-              "Impart vocational training",
-              "Provide scholarship to continue education",
-              "Offer cash assistance to families for girl child education",
-              "Create employment opportunities for women"
-            ],
-            "correctIndex": 1,
-            "explanation": "Kanyashree Prakalpa provides scholarship to continue education.",
-            "difficulty": "Medium",
-            "topicId": "gs-wb-schemes",
-            "source": "ai_generated",
-            "generatedDate": "2026-07-25"
-          },
-          {
-            "question": "The 'Sabooj Sathi' scheme was launched by the Government of West Bengal to provide _______________________ to students of class 12th and above.",
-            "options": [
-              "Free bicycles to students",
-              "Scholarship to students for higher education",
-              "Free textbooks to students",
-              "Subsidized bus passes to students"
-            ],
-            "correctIndex": 0,
-            "explanation": "Sabooj Sathi provides free bicycles to students.",
-            "difficulty": "Medium",
-            "topicId": "gs-wb-schemes",
-            "source": "ai_generated",
-            "generatedDate": "2026-07-25"
-          },
-          {
-            "question": "The 'Bangla Sahayata' scheme was launched by the Government of West Bengal to provide _______________________ to the farmers of the state.",
-            "options": [
-              "Subsidies on fertilizers and pesticides",
-              "Interest-free loans to farmers",
-              "Subsidized seeds and irrigation facilities",
-              "Free agricultural training to farmers"
-            ],
-            "correctIndex": 1,
-            "explanation": "Bangla Sahayata provides interest-free loans to farmers.",
-            "difficulty": "Medium",
-            "topicId": "gs-wb-schemes",
+            "topicId": "gs-current",
             "source": "ai_generated",
             "generatedDate": "2026-07-25"
           }
@@ -344,77 +262,77 @@
         "subjectName": "Arithmetic",
         "questions": [
           {
-            "question": "A vendor sold 80% of his stock at 10% profit. If he sold the items for Rs. 9600, what is the cost price of the items sold?",
+            "question": "A shopkeeper in West Bengal sells a product at the marked price of ₹800. If he gets a profit of 20%, what is the actual cost price of the product?",
             "options": [
-              "Rs. 96000",
-              "Rs. 8000",
-              "Rs. 9600",
-              "Rs. 60000"
+              "₹533.33",
+              "₹533.34",
+              "₹533.35",
+              "₹533.36"
+            ],
+            "correctIndex": 0,
+            "explanation": "Cost price is calculated as cost price * (1 + profit percentage).",
+            "difficulty": "Easy",
+            "topicId": "math-profit-loss",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-25"
+          },
+          {
+            "question": "A person buys a product in Kolkata for ₹1000 and sells it in Siliguri for ₹1200. What is the percentage profit earned by the person?",
+            "options": [
+              "10%",
+              "15%",
+              "20%",
+              "25%"
             ],
             "correctIndex": 2,
-            "explanation": "The items were sold at 10% profit, so use the formula: Selling Price = Cost Price + 10% of Cost Price.",
+            "explanation": "Profit percentage is calculated as (profit / cost price) * 100.",
             "difficulty": "Medium",
             "topicId": "math-profit-loss",
             "source": "ai_generated",
             "generatedDate": "2026-07-25"
           },
           {
-            "question": "A certain amount of money was invested for 3 years at 12% per annum. If the interest paid was Rs. 2160, what is the amount of money invested?",
+            "question": "A shopkeeper in Darjeeling sells a product at a discount of 10% on the marked price of ₹900. What is the amount of discount given to the customer?",
             "options": [
-              "Rs. 18000",
-              "Rs. 20000",
-              "Rs. 12000",
-              "Rs. 15000"
+              "₹90",
+              "₹92",
+              "₹95",
+              "₹98"
             ],
             "correctIndex": 0,
-            "explanation": "Use the formula: Simple Interest = (Principal * Rate * Time) / 100.",
-            "difficulty": "Medium",
-            "topicId": "math-interest",
+            "explanation": "Discount is calculated as marked price * discount percentage.",
+            "difficulty": "Easy",
+            "topicId": "math-discount",
             "source": "ai_generated",
             "generatedDate": "2026-07-25"
           },
           {
-            "question": "Rajesh sold a mobile phone for Rs. 12000 that cost him Rs. 9000. Find the percentage profit made by Rajesh.",
+            "question": "A person buys 100 products in Jalpaiguri at a rate of ₹50 per product and sells them at a rate of ₹60 per product. What is the percentage profit earned by the person?",
             "options": [
-              "15%",
+              "10%",
               "12%",
-              "18%",
-              "20%"
+              "15%",
+              "18%"
             ],
-            "correctIndex": 1,
-            "explanation": "Calculate the profit made and then find the percentage profit.",
+            "correctIndex": 2,
+            "explanation": "Profit percentage is calculated as (profit / cost price) * 100.",
             "difficulty": "Medium",
             "topicId": "math-profit-loss",
             "source": "ai_generated",
             "generatedDate": "2026-07-25"
           },
           {
-            "question": "A shopkeeper sells 1000 kg of rice at a loss of 8% and then sells 600 kg at a profit of 8%. What is the net loss or profit percentage?",
+            "question": "A shopkeeper in Howrah sells a product at a profit of 15% on the cost price of ₹800. What is the selling price of the product?",
             "options": [
-              "-3%",
-              "0%",
-              "2%",
-              "-2%"
+              "₹920",
+              "₹922",
+              "₹924",
+              "₹926"
             ],
             "correctIndex": 0,
-            "explanation": "Find the total revenue and total cost, then calculate the net loss or profit percentage.",
-            "difficulty": "Hard",
+            "explanation": "Selling price is calculated as cost price * (1 + profit percentage).",
+            "difficulty": "Easy",
             "topicId": "math-profit-loss",
-            "source": "ai_generated",
-            "generatedDate": "2026-07-25"
-          },
-          {
-            "question": "A person invested Rs. 8000 in a scheme that offered 8% interest per annum compounded annually. What is the amount at the end of 2 years?",
-            "options": [
-              "Rs. 8192",
-              "Rs. 8281",
-              "Rs. 8400",
-              "Rs. 8500"
-            ],
-            "correctIndex": 1,
-            "explanation": "Use the formula: Amount = Principal * (1 + Rate)^Time.",
-            "difficulty": "Medium",
-            "topicId": "math-interest",
             "source": "ai_generated",
             "generatedDate": "2026-07-25"
           }
@@ -426,76 +344,76 @@
         "subjectName": "Arithmetic",
         "questions": [
           {
-            "question": "If the simple interest on a certain sum of money at 12% per annum for 2 years is Rs. 480, then the compound interest for the same period at the same rate is Rs.",
+            "question": "A person invested ₹ 7,000 in a fixed deposit for 3 years at an interest rate of 8% per annum compounded annually. What is the amount of money he will get after 3 years?",
             "options": [
-              "Rs. 505.76",
-              "Rs. 511.52",
-              "Rs. 517.28",
-              "Rs. 523.04"
-            ],
-            "correctIndex": 2,
-            "explanation": "Compound interest is always higher than simple interest.",
-            "difficulty": "Medium",
-            "topicId": "math-interest",
-            "source": "ai_generated",
-            "generatedDate": "2026-07-25"
-          },
-          {
-            "question": "A sum of Rs. 12000 is invested at a certain rate of interest for 3 years. If the compound interest is Rs. 3321.60, then the rate of interest per annum is",
-            "options": [
-              "12%",
-              "13%",
-              "14%",
-              "15%"
+              "₹ 8,304",
+              "₹ 8,208",
+              "₹ 8,224",
+              "₹ 8,016"
             ],
             "correctIndex": 0,
-            "explanation": "Using the compound interest formula to find the rate.",
+            "explanation": "Using compound interest formula, A = P(1 + r/n)^(nt)",
             "difficulty": "Medium",
             "topicId": "math-interest",
             "source": "ai_generated",
             "generatedDate": "2026-07-25"
           },
           {
-            "question": "The true discount on a bill due 9 months hence at 12% per annum is Rs. 90. The face value of the bill is",
+            "question": "A sum of money becomes ₹ 900 in 2 years at compound interest rate of 5% per annum. What is the principal amount?",
             "options": [
-              "Rs. 900",
-              "Rs. 990",
-              "Rs. 1080",
-              "Rs. 1170"
-            ],
-            "correctIndex": 1,
-            "explanation": "Using the true discount formula to find the face value.",
-            "difficulty": "Medium",
-            "topicId": "math-interest",
-            "source": "ai_generated",
-            "generatedDate": "2026-07-25"
-          },
-          {
-            "question": "If Rs. 8000 is invested at a certain rate of interest for 2 years, and the simple interest is Rs. 1008, then the rate of interest per annum is",
-            "options": [
-              "10%",
-              "11%",
-              "12%",
-              "13%"
-            ],
-            "correctIndex": 1,
-            "explanation": "Using the simple interest formula to find the rate.",
-            "difficulty": "Medium",
-            "topicId": "math-interest",
-            "source": "ai_generated",
-            "generatedDate": "2026-07-25"
-          },
-          {
-            "question": "The face value of a bill due in 2 years is Rs. 12000. The banker's discount is Rs. 240. The rate of interest per annum is",
-            "options": [
-              "10%",
-              "11%",
-              "12%",
-              "13%"
+              "₹ 850",
+              "₹ 840",
+              "₹ 826",
+              "₹ 830"
             ],
             "correctIndex": 2,
-            "explanation": "Using the banker's discount formula to find the rate.",
+            "explanation": "Using compound interest formula, A = P(1 + r/n)^(nt)",
             "difficulty": "Medium",
+            "topicId": "math-interest",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-25"
+          },
+          {
+            "question": "If ₹ 4,000 is invested at 10% per annum simple interest for 2 years, then the interest earned will be?",
+            "options": [
+              "₹ 80",
+              "₹ 80.8",
+              "₹ 81",
+              "₹ 82"
+            ],
+            "correctIndex": 2,
+            "explanation": "Using simple interest formula, SI = (P * r * t)/100",
+            "difficulty": "Easy",
+            "topicId": "math-interest",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-25"
+          },
+          {
+            "question": "What is the amount to be repaid after 2 years under the simple interest of 12% per annum on a principal amount of ₹ 15,000?",
+            "options": [
+              "₹ 16,760",
+              "₹ 16,800",
+              "₹ 16,820",
+              "₹ 16,760"
+            ],
+            "correctIndex": 1,
+            "explanation": "Using simple interest formula, SI = (P * r * t)/100",
+            "difficulty": "Medium",
+            "topicId": "math-interest",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-25"
+          },
+          {
+            "question": "If a sum of money becomes double in 5 years at compound interest rate of 4% per annum, what will be the rate of interest for the next 2 years?",
+            "options": [
+              "3.5%",
+              "4.5%",
+              "5.5%",
+              "6.5%"
+            ],
+            "correctIndex": 1,
+            "explanation": "Using compound interest formula, A = P(1 + r/n)^(nt)",
+            "difficulty": "Hard",
             "topicId": "math-interest",
             "source": "ai_generated",
             "generatedDate": "2026-07-25"
@@ -508,75 +426,75 @@
         "subjectName": "Arithmetic",
         "questions": [
           {
-            "question": "A person can complete 1/4th of a job in 2 hours. How long will it take him to complete 3/8th of the job at the same rate?",
+            "question": "A water tank can be filled by one pipe in 6 hours and another pipe in 4 hours. If both pipes are opened simultaneously, how many hours will it take to fill the tank?",
             "options": [
-              "6 hours",
-              "12 hours",
-              "8 hours",
-              "4 hours"
-            ],
-            "correctIndex": 0,
-            "explanation": "Since the rate remains constant, the time taken to complete 3/8th will be more than 2 hours.",
-            "difficulty": "Medium",
-            "topicId": "math-tw",
-            "source": "ai_generated",
-            "generatedDate": "2026-07-25"
-          },
-          {
-            "question": "A tap can fill 1/2 tank in 60 minutes. After 30 minutes, a second tap is opened which can fill at a rate of 1/4 tank per hour. How long will it take to fill the tank completely?",
-            "options": [
-              "75 minutes",
-              "90 minutes",
-              "60 minutes",
-              "105 minutes"
-            ],
-            "correctIndex": 2,
-            "explanation": "Net work rate after opening the second tap will be 1/2 tank per 60 minutes + 1/4 tank per hour.",
-            "difficulty": "Medium",
-            "topicId": "math-tw",
-            "source": "ai_generated",
-            "generatedDate": "2026-07-25"
-          },
-          {
-            "question": "A pipe can fill 1/3rd of a 240-metre long swimming pool in 2 hours. How long will it take to fill the entire pool at the same rate?",
-            "options": [
+              "3 hours",
               "4 hours",
               "6 hours",
-              "8 hours",
-              "10 hours"
+              "8 hours"
             ],
-            "correctIndex": 3,
-            "explanation": "To find the time to fill the entire pool, first calculate the rate of the pipe.",
+            "correctIndex": 2,
+            "explanation": "The rate of the combined pipes is the sum of their individual rates.",
             "difficulty": "Medium",
             "topicId": "math-tw",
             "source": "ai_generated",
             "generatedDate": "2026-07-25"
           },
           {
-            "question": "A well can fill 1/6th of a 120-metre deep well in 24 hours. How long will it take to fill the entire well at the same rate?",
+            "question": "Two workers can complete a piece of work in 12 days. How many days will it take for 6 workers to complete the same work?",
             "options": [
-              "48 hours",
-              "64 hours",
-              "40 hours",
-              "72 hours"
+              "4 days",
+              "6 days",
+              "8 days",
+              "9 days"
+            ],
+            "correctIndex": 3,
+            "explanation": "The amount of work done by 6 workers is 6 times the work done by 1 worker in the same time.",
+            "difficulty": "Medium",
+            "topicId": "math-tw",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-25"
+          },
+          {
+            "question": "A pump can fill a tank in 6 hours. If the pump is used for 3 hours, then the remaining part of the tank is filled by another pump in 4 hours. In how many hours will the entire tank be filled?",
+            "options": [
+              "2 hours",
+              "3 hours",
+              "6 hours",
+              "8 hours"
+            ],
+            "correctIndex": 0,
+            "explanation": "The fraction of the tank filled by the first pump is subtracted from 1 to find the remaining fraction.",
+            "difficulty": "Medium",
+            "topicId": "math-tw",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-25"
+          },
+          {
+            "question": "A contractor can complete a certain job in 20 days with his workers. If he wants to finish it in 10 days, he will need to hire more workers. How many more workers should he hire?",
+            "options": [
+              "2 times the original number",
+              "3 times the original number",
+              "4 times the original number",
+              "5 times the original number"
             ],
             "correctIndex": 1,
-            "explanation": "To find the time to fill the entire well, first calculate the rate of the well.",
+            "explanation": "The amount of work done in a fixed time is inversely proportional to the number of workers.",
             "difficulty": "Medium",
             "topicId": "math-tw",
             "source": "ai_generated",
             "generatedDate": "2026-07-25"
           },
           {
-            "question": "A pipe can fill 1/2 part of a 1 km long road in 6 hours. How long will it take to fill the entire road at the same rate?",
+            "question": "A tap can fill 1/4 of a tank in 30 minutes. How many minutes will it take to fill 3/4 of the tank?",
             "options": [
-              "8 hours",
-              "12 hours",
-              "10 hours",
-              "6 hours"
+              "20 minutes",
+              "30 minutes",
+              "40 minutes",
+              "60 minutes"
             ],
             "correctIndex": 3,
-            "explanation": "To find the time to fill the entire road, first calculate the rate of the pipe.",
+            "explanation": "The time taken to fill a fraction of a tank is directly proportional to the fraction.",
             "difficulty": "Medium",
             "topicId": "math-tw",
             "source": "ai_generated",
@@ -590,76 +508,76 @@
         "subjectName": "Arithmetic",
         "questions": [
           {
-            "question": "A train travels from Howrah to Sealdah at an average speed of 30 km/h. If the distance between the two stations is 18 km, how long will it take to cover this distance?",
+            "question": "A train travels from Kolkata to Asansol at an average speed of 80 km/h. If the distance between the two cities is 140 km, how long will it take for the train to reach Asansol?",
             "options": [
-              "1 hour",
-              "1.5 hours",
-              "2 hours",
-              "3 hours"
-            ],
-            "correctIndex": 1,
-            "explanation": "Time = Distance / Speed.",
-            "difficulty": "Medium",
-            "topicId": "math-tsd",
-            "source": "ai_generated",
-            "generatedDate": "2026-07-25"
-          },
-          {
-            "question": "A bus is travelling from Kolkata to Bardhaman at an average speed of 40 km/h. If the bus covers a distance of 25 km in 30 minutes, what will be its average speed in the next 3 hours?",
-            "options": [
-              "20 km/h",
-              "30 km/h",
-              "40 km/h",
-              "60 km/h"
-            ],
-            "correctIndex": 0,
-            "explanation": "Speed is constant over time.",
-            "difficulty": "Medium",
-            "topicId": "math-tsd",
-            "source": "ai_generated",
-            "generatedDate": "2026-07-25"
-          },
-          {
-            "question": "A man walks from Esplanade to Rabindra Sarobar at a speed of 5 km/h. If he covers 2/5 of the distance in 1 hour, what is his average speed?",
-            "options": [
-              "2.5 km/h",
-              "5 km/h",
-              "7.5 km/h",
-              "10 km/h"
-            ],
-            "correctIndex": 0,
-            "explanation": "Average speed = Total distance / Total time.",
-            "difficulty": "Medium",
-            "topicId": "math-tsd",
-            "source": "ai_generated",
-            "generatedDate": "2026-07-25"
-          },
-          {
-            "question": "A car travels from Park Circus to Tollygunge at an average speed of 25 km/h. If the distance between the two places is 20 km, what is the time taken to cover the distance?",
-            "options": [
-              "0.5 hours",
-              "1 hour",
-              "2 hours",
+              "2.5 hours",
+              "3 hours",
+              "3.5 hours",
               "4 hours"
             ],
-            "correctIndex": 1,
-            "explanation": "Time = Distance / Speed.",
+            "correctIndex": 0,
+            "explanation": "Time taken is calculated by dividing distance by speed.",
             "difficulty": "Medium",
             "topicId": "math-tsd",
             "source": "ai_generated",
             "generatedDate": "2026-07-25"
           },
           {
-            "question": "A cycle travels from Birla Planetarium to Science City at an average speed of 15 km/h. If the distance between the two places is 12 km, how long will it take to cover the distance?",
+            "question": "A car travels from Howrah to Bishnupur at an average speed of 60 km/h for 2 hours. What distance does the car cover in this time?",
             "options": [
-              "45 minutes",
-              "1 hour",
-              "1.5 hours",
-              "2 hours"
+              "120 km",
+              "140 km",
+              "160 km",
+              "180 km"
             ],
             "correctIndex": 1,
-            "explanation": "Time = Distance / Speed.",
+            "explanation": "Distance covered is calculated by multiplying speed by time.",
+            "difficulty": "Easy",
+            "topicId": "math-tsd",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-25"
+          },
+          {
+            "question": "A bus starting from Esplanade takes 4 hours to reach Durgapur. If the average speed of the bus is 40 km/h, what is the distance covered by the bus in this time?",
+            "options": [
+              "160 km",
+              "180 km",
+              "1600 m",
+              "1600 km"
+            ],
+            "correctIndex": 0,
+            "explanation": "Distance covered is calculated by multiplying speed by time.",
             "difficulty": "Medium",
+            "topicId": "math-tsd",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-25"
+          },
+          {
+            "question": "A person travels from Siliguri to Jalpaiguri at an average speed of 50 km/h. If the distance between the two cities is 110 km, how long will it take for the person to reach Jalpaiguri?",
+            "options": [
+              "2.2 hours",
+              "2.5 hours",
+              "3 hours",
+              "3.5 hours"
+            ],
+            "correctIndex": 0,
+            "explanation": "Time taken is calculated by dividing distance by speed.",
+            "difficulty": "Medium",
+            "topicId": "math-tsd",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-25"
+          },
+          {
+            "question": "A motorist travels from Kalyani to Krishnagar at an average speed of 70 km/h for 1.5 hours. What distance does the motorist cover in this time?",
+            "options": [
+              "105 km",
+              "1050 m",
+              "105 km",
+              "1050 km"
+            ],
+            "correctIndex": 0,
+            "explanation": "Distance covered is calculated by multiplying speed by time.",
+            "difficulty": "Easy",
             "topicId": "math-tsd",
             "source": "ai_generated",
             "generatedDate": "2026-07-25"
@@ -674,75 +592,75 @@
         "subjectName": "Reasoning",
         "questions": [
           {
-            "question": "If the first letter of every alternate word is taken, the letters are P, B, T, B, T. Which of the following is the code letter for the word 'Bengal'?",
+            "question": "If 'D' stands for 'Door', 'E' stands for 'Electricity', 'F' stands for 'Fan', then 'G' stands for?",
             "options": [
-              "P",
-              "B",
-              "T",
-              "D"
-            ],
-            "correctIndex": 1,
-            "explanation": "The code letter for 'Bengal' is the first letter of the first word.",
-            "difficulty": "Medium",
-            "topicId": "rs-coding",
-            "source": "ai_generated",
-            "generatedDate": "2026-07-25"
-          },
-          {
-            "question": "A series of letters and numbers is given below, where the numbers represent the alphabetical positions of the letters. Which of the following will be the first 5 letters in the decoded message?",
-            "options": [
-              "H, E, L, L, O",
-              "B, I, T, H, O",
-              "B, A, I, R, E",
-              "B, E, N, G, A"
-            ],
-            "correctIndex": 2,
-            "explanation": "Add 1 to each of the numbers, then convert the result to its corresponding alphabet.",
-            "difficulty": "Medium",
-            "topicId": "rs-coding",
-            "source": "ai_generated",
-            "generatedDate": "2026-07-25"
-          },
-          {
-            "question": "If the word 'DARJEELING' is coded by taking the second letter from the last, the second last letter, and so on, what will be the first letter of the coded word?",
-            "options": [
-              "J",
-              "E",
-              "R",
-              "D"
-            ],
-            "correctIndex": 2,
-            "explanation": "The first letter of the coded word will be the second last letter of the original word.",
-            "difficulty": "Medium",
-            "topicId": "rs-coding",
-            "source": "ai_generated",
-            "generatedDate": "2026-07-25"
-          },
-          {
-            "question": "In a certain code, the word 'KOLKATA' is coded as 65 11 15 12 1 20 1. Which of the following will be the codes for the word 'HOWRAH'?",
-            "options": [
-              "65 1 23 12 8 1",
-              "65 11 15 12 1 20 1 8 5",
-              "65 11 20 12 1 1 8",
-              "65 15 1 12 8 1"
-            ],
-            "correctIndex": 3,
-            "explanation": "Each letter is coded by the alphabetical position of its corresponding digit.",
-            "difficulty": "Medium",
-            "topicId": "rs-coding",
-            "source": "ai_generated",
-            "generatedDate": "2026-07-25"
-          },
-          {
-            "question": "If the word 'HOWRAH' is coded by taking the first letter of every 2 words, which of the following will be the code for the word 'DARJEELING'?",
-            "options": [
-              "H, J, E, L",
-              "B, R, E, G",
-              "H, B, E, R",
-              "J, R, L, I"
+              "Gas",
+              "Generator",
+              "Geyser",
+              "Grill"
             ],
             "correctIndex": 0,
-            "explanation": "Take the first letter of every 2 words from the original word.",
+            "explanation": "Following the alphabetical pattern.",
+            "difficulty": "Medium",
+            "topicId": "rs-coding",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-25"
+          },
+          {
+            "question": "If 'A' stands for 4, 'B' stands for 7, 'C' stands for 10, then 'D' stands for?",
+            "options": [
+              "13",
+              "16",
+              "18",
+              "20"
+            ],
+            "correctIndex": 2,
+            "explanation": "Following the arithmetic progression.",
+            "difficulty": "Medium",
+            "topicId": "rs-coding",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-25"
+          },
+          {
+            "question": "In a sequence of alphabets: A, D, G, J, ?, the next letter is?",
+            "options": [
+              "M",
+              "N",
+              "O",
+              "P"
+            ],
+            "correctIndex": 2,
+            "explanation": "Following the alphabetical pattern.",
+            "difficulty": "Easy",
+            "topicId": "rs-coding",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-25"
+          },
+          {
+            "question": "If 'S' is the code for 'Six', 'T' is the code for 'Ten', 'U' is the code for 'Twelve', then 'V' stands for?",
+            "options": [
+              "Fifteen",
+              "Fourteen",
+              "Fourteen and a half",
+              "Thirteen"
+            ],
+            "correctIndex": 3,
+            "explanation": "Following the pattern of incrementing the value by two.",
+            "difficulty": "Medium",
+            "topicId": "rs-coding",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-25"
+          },
+          {
+            "question": "If '+' stands for 'Multiply', '-' stands for 'Add', '×' stands for 'Subtract', then '÷' stands for?",
+            "options": [
+              "Add",
+              "Divide",
+              "Multiply",
+              "Subtract"
+            ],
+            "correctIndex": 1,
+            "explanation": "Following the opposite function.",
             "difficulty": "Medium",
             "topicId": "rs-coding",
             "source": "ai_generated",
@@ -756,75 +674,75 @@
         "subjectName": "Reasoning",
         "questions": [
           {
-            "question": "If 'A' is the brother of 'B', 'C' is the sister of 'A', then what is the relationship of 'C' to 'B'?",
+            "question": "A person's daughter is married to a man named Arjun. If Arjun's mother is the wife of the son of the brother of Arjun's wife's mother, what is the relation of Arjun's mother to Arjun's daughter?",
             "options": [
-              "Mother of B",
-              "Father of B",
-              "Sister of B",
-              "Grandmother of B"
+              "Aunt",
+              "Sister",
+              "Mother",
+              "Grandmother"
             ],
             "correctIndex": 2,
-            "explanation": "C is the sister of A and A is the brother of B.",
+            "explanation": "Arjun's mother is married to the son of the brother of Arjun's wife's mother, who is Arjun's wife's father.",
             "difficulty": "Medium",
             "topicId": "rs-blood",
             "source": "ai_generated",
             "generatedDate": "2026-07-25"
           },
           {
-            "question": "If 'A' is the father of 'B' and 'B' is the son of 'C', then what is the relationship of 'A' to 'C'?",
+            "question": "A man named Ayan says that his son is the only son of his mother's husband. What is the relation of Ayan's son to Ayan?",
             "options": [
-              "Grandfather of C",
-              "Son of C",
-              "Father of C",
-              "Grandson of C"
+              "Father",
+              "Son",
+              "Brother",
+              "Uncle"
+            ],
+            "correctIndex": 1,
+            "explanation": "Ayan's son is the son of Ayan's wife, who is Ayan's own son.",
+            "difficulty": "Medium",
+            "topicId": "rs-blood",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-25"
+          },
+          {
+            "question": "Kolkata's population is increasing rapidly due to migration from nearby areas. A man named Suman says that the son of his wife's father is his son-in-law. What is the relation of Suman to his son-in-law?",
+            "options": [
+              "Father",
+              "Son",
+              "Uncle",
+              "Brother"
+            ],
+            "correctIndex": 1,
+            "explanation": "Suman's son is married to Suman's daughter, and Suman's son-in-law is the son of Suman's wife's father.",
+            "difficulty": "Medium",
+            "topicId": "rs-blood",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-25"
+          },
+          {
+            "question": "A person's brother is the husband of her daughter. If her daughter is married to a man named Debasish, what is the relation of Debasish to the person's mother?",
+            "options": [
+              "Father",
+              "Son",
+              "Brother",
+              "Uncle"
+            ],
+            "correctIndex": 1,
+            "explanation": "The person's brother is married to the person's daughter, and Debasish is married to the person's daughter, making Debasish the person's brother.",
+            "difficulty": "Medium",
+            "topicId": "rs-blood",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-25"
+          },
+          {
+            "question": "A man says that his father's husband's mother is his mother. What is the relation of the man to his father's husband's mother?",
+            "options": [
+              "Mother",
+              "Sister",
+              "Daughter",
+              "Grandmother"
             ],
             "correctIndex": 0,
-            "explanation": "A is the father of B and B is the son of C.",
-            "difficulty": "Medium",
-            "topicId": "rs-blood",
-            "source": "ai_generated",
-            "generatedDate": "2026-07-25"
-          },
-          {
-            "question": "If 'A' is the sister of 'B', 'D' is the brother of 'A', then what is the relationship of 'D' to 'B'?",
-            "options": [
-              "Mother of B",
-              "Father of B",
-              "Brother of B",
-              "Grandmother of B"
-            ],
-            "correctIndex": 2,
-            "explanation": "D is the brother of A and A is the sister of B.",
-            "difficulty": "Medium",
-            "topicId": "rs-blood",
-            "source": "ai_generated",
-            "generatedDate": "2026-07-25"
-          },
-          {
-            "question": "If 'A' is the brother of 'B', 'B' is the brother of 'C', then what is the relationship of 'A' to 'C'?",
-            "options": [
-              "Brother of C",
-              "Father of C",
-              "Grandfather of C",
-              "Son of C"
-            ],
-            "correctIndex": 0,
-            "explanation": "A is the brother of B and B is the brother of C.",
-            "difficulty": "Medium",
-            "topicId": "rs-blood",
-            "source": "ai_generated",
-            "generatedDate": "2026-07-25"
-          },
-          {
-            "question": "If 'A' is the mother of 'B', 'C' is the daughter of 'A', then what is the relationship of 'C' to 'B'?",
-            "options": [
-              "Daughter of B",
-              "Mother of B",
-              "Father of B",
-              "Granddaughter of B"
-            ],
-            "correctIndex": 0,
-            "explanation": "C is the daughter of A and A is the mother of B.",
+            "explanation": "The man's father is married to a woman, and the man's mother is the wife of the man's father, making the man's father's wife's mother the man's mother.",
             "difficulty": "Medium",
             "topicId": "rs-blood",
             "source": "ai_generated",
@@ -838,159 +756,77 @@
         "subjectName": "Reasoning",
         "questions": [
           {
-            "question": "A person is standing in front of the famous Dakshineswar Kali Temple in Kolkata. He turns 180 degrees and walks for 200 meters. Then, he turns right and walks 150 meters. After that, he turns left and walks 200 meters. Which direction is he facing now?",
+            "question": "A man is standing in front of the Dakshineswar Kali Temple. If he walks 500 meters north, turns left, walks 300 meters, turns right, and walks 400 meters, which direction is he facing now?",
             "options": [
-              "North",
+              "East",
+              "West",
+              "South",
+              "North"
+            ],
+            "correctIndex": 2,
+            "explanation": "He turns right after walking north.",
+            "difficulty": "Medium",
+            "topicId": "rs-direction",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-25"
+          },
+          {
+            "question": "A person is standing at the Howrah Bridge. If he walks 200 meters towards the Ganges River, turns right, walks 150 meters, turns left, and walks 250 meters, which direction is the Ganges River from him now?",
+            "options": [
               "South",
               "East",
+              "North",
               "West"
+            ],
+            "correctIndex": 0,
+            "explanation": "He turns left after walking towards the river.",
+            "difficulty": "Medium",
+            "topicId": "rs-direction",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-25"
+          },
+          {
+            "question": "A man is standing at the Victoria Memorial Hall. If he walks 300 meters towards the east, turns around, walks 150 meters, and then turns right, in which direction is the Birla Planetarium from him?",
+            "options": [
+              "East",
+              "West",
+              "South",
+              "North"
+            ],
+            "correctIndex": 2,
+            "explanation": "He turns right after walking towards the east.",
+            "difficulty": "Medium",
+            "topicId": "rs-direction",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-25"
+          },
+          {
+            "question": "A person is walking in the Rabindra Sarobar area. If he walks 200 meters towards the lake, then turns left and walks 400 meters, and then turns around and walks 300 meters, which direction is the lake from him now?",
+            "options": [
+              "East",
+              "West",
+              "South",
+              "North"
+            ],
+            "correctIndex": 0,
+            "explanation": "He turns left after walking towards the lake.",
+            "difficulty": "Medium",
+            "topicId": "rs-direction",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-25"
+          },
+          {
+            "question": "A man is standing at the Park Circus area. If he walks 250 meters towards the west, turns right, walks 200 meters, turns left, and walks 150 meters, which direction is he facing now?",
+            "options": [
+              "East",
+              "West",
+              "South",
+              "North"
             ],
             "correctIndex": 1,
-            "explanation": "He is facing South after the series of turns and walks.",
+            "explanation": "He turns right after walking west.",
             "difficulty": "Medium",
             "topicId": "rs-direction",
-            "source": "ai_generated",
-            "generatedDate": "2026-07-25"
-          },
-          {
-            "question": "A man is standing at the Howrah Bridge in Kolkata. He walks along the bridge towards the east, then turns 90 degrees to the left and walks for 50 meters. After that, he turns 90 degrees to the left and walks for 75 meters. In which direction is he standing now?",
-            "options": [
-              "South",
-              "North",
-              "East",
-              "West"
-            ],
-            "correctIndex": 0,
-            "explanation": "He is standing in the South direction after the series of turns and walks.",
-            "difficulty": "Medium",
-            "topicId": "rs-direction",
-            "source": "ai_generated",
-            "generatedDate": "2026-07-25"
-          },
-          {
-            "question": "From the top of the Victoria Memorial in Kolkata, a man looks towards the Ganges River and sees a boat at a distance. He then turns 90 degrees to the right and sees a building. He then turns 90 degrees to the left and sees the Ganges River again. In which direction is the building from his current position?",
-            "options": [
-              "East",
-              "North",
-              "South",
-              "West"
-            ],
-            "correctIndex": 2,
-            "explanation": "The building is in the South direction from his current position.",
-            "difficulty": "Medium",
-            "topicId": "rs-direction",
-            "source": "ai_generated",
-            "generatedDate": "2026-07-25"
-          },
-          {
-            "question": "A person starts walking from the Esplanade in Kolkata towards the north. After walking for 500 meters, he turns 90 degrees to the right and walks for 200 meters. Then, he turns 90 degrees to the left and walks for 300 meters. Which direction is he facing now?",
-            "options": [
-              "North",
-              "South",
-              "East",
-              "West"
-            ],
-            "correctIndex": 3,
-            "explanation": "He is facing East after the series of turns and walks.",
-            "difficulty": "Medium",
-            "topicId": "rs-direction",
-            "source": "ai_generated",
-            "generatedDate": "2026-07-25"
-          },
-          {
-            "question": "A man is standing at the Park Street in Kolkata. He walks for 200 meters towards the north and then turns 180 degrees and walks for 150 meters. After that, he turns 90 degrees to the right and walks for 200 meters. Which direction is he facing now?",
-            "options": [
-              "North",
-              "South",
-              "East",
-              "West"
-            ],
-            "correctIndex": 2,
-            "explanation": "He is facing South after the series of turns and walks.",
-            "difficulty": "Medium",
-            "topicId": "rs-direction",
-            "source": "ai_generated",
-            "generatedDate": "2026-07-25"
-          }
-        ],
-        "questionCount": 5
-      },
-      "rs-series": {
-        "topicName": "Number & Letter Series",
-        "subjectName": "Reasoning",
-        "questions": [
-          {
-            "question": "In a sequence of numbers, 3, 7, 11, 15, 19, _______ , what will be the next number?",
-            "options": [
-              "5",
-              "21",
-              "25",
-              "19"
-            ],
-            "correctIndex": 0,
-            "explanation": "The sequence is formed by adding 4 each time.",
-            "difficulty": "Medium",
-            "topicId": "rs-series",
-            "source": "ai_generated",
-            "generatedDate": "2026-07-25"
-          },
-          {
-            "question": "Which number should replace the question mark in the series: 1, 2, 4, 7, 11, 16, _______ ?",
-            "options": [
-              "22",
-              "21",
-              "20",
-              "25"
-            ],
-            "correctIndex": 2,
-            "explanation": "The sequence is formed by adding consecutive integers.",
-            "difficulty": "Medium",
-            "topicId": "rs-series",
-            "source": "ai_generated",
-            "generatedDate": "2026-07-25"
-          },
-          {
-            "question": "Find the next number in the series: 1, 4, 9, 16, 25, _______ ?",
-            "options": [
-              "36",
-              "49",
-              "64",
-              "81"
-            ],
-            "correctIndex": 2,
-            "explanation": "The sequence is formed by squaring consecutive integers.",
-            "difficulty": "Medium",
-            "topicId": "rs-series",
-            "source": "ai_generated",
-            "generatedDate": "2026-07-25"
-          },
-          {
-            "question": "Identify the missing number in the series: C, D, E, F, G, H, I?",
-            "options": [
-              "A",
-              "B",
-              "Z",
-              "K"
-            ],
-            "correctIndex": 0,
-            "explanation": "The sequence follows the alphabetic order.",
-            "difficulty": "Medium",
-            "topicId": "rs-series",
-            "source": "ai_generated",
-            "generatedDate": "2026-07-25"
-          },
-          {
-            "question": "Find the next number in the series: 1, 2, 4, 7, 11, 16, _______ ?",
-            "options": [
-              "20",
-              "21",
-              "22",
-              "25"
-            ],
-            "correctIndex": 1,
-            "explanation": "The sequence is formed by adding consecutive integers.",
-            "difficulty": "Medium",
-            "topicId": "rs-series",
             "source": "ai_generated",
             "generatedDate": "2026-07-25"
           }
