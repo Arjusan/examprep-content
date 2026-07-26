@@ -1,0 +1,921 @@
+{
+  "exam": "si",
+  "generatedDate": "2026-07-26",
+  "generatedAt": "2026-07-26T04:06:49.357Z",
+  "model": "llama-3.1-8b-instant",
+  "provider": "groq",
+  "source": "ai_generated",
+  "reviewStatus": "pending",
+  "totalQuestions": 55,
+  "subjects": {
+    "gs": {
+      "gs-polity": {
+        "topicName": "Indian Constitution & Polity",
+        "subjectName": "General Studies",
+        "questions": [
+          {
+            "question": "The Panchayats Extension to Scheduled Areas (PESA) Act, 1996 was enacted by the Parliament of India to which of the following objectives?",
+            "options": [
+              "To extend the provisions of the Constitution (73rd Amendment) Act, 1992 to Scheduled Areas",
+              "To ensure the participation of tribals in the planning process of the Panchayats",
+              "To provide for the regulation of money lending in Scheduled Areas",
+              "To declare the Scheduled Areas as Scheduled Tribes",
+              "To provide for the protection of the rights of the Scheduled Tribes in the Scheduled Areas"
+            ],
+            "correctIndex": 1,
+            "explanation": "To ensure the participation of tribals in the planning process of the Panchayats.",
+            "difficulty": "Medium",
+            "topicId": "gs-polity",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-26"
+          },
+          {
+            "question": "Which of the following is a fundamental duty of the citizens of India as per Article 51-A of the Constitution?",
+            "options": [
+              "To promote harmony and the spirit of common brotherhood amongst all the people of India",
+              "To defend the country and render national service when called upon to do so",
+              "To protect and improve the natural environment including forests, lakes, rivers and wild life, and to have compassion for living creatures",
+              "To preserve the rich heritage of our composite culture"
+            ],
+            "correctIndex": 3,
+            "explanation": "To preserve the rich heritage of our composite culture.",
+            "difficulty": "Medium",
+            "topicId": "gs-polity",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-26"
+          },
+          {
+            "question": "As per Article 371F of the Constitution, the Governor of West Bengal has special powers to make regulations in the interest of the Gorkhas in the",
+            "options": [
+              "Darjeeling district",
+              "Siliguri district",
+              "Kalimpong district",
+              "Alipurduar district"
+            ],
+            "correctIndex": 0,
+            "explanation": "Darjeeling district.",
+            "difficulty": "Medium",
+            "topicId": "gs-polity",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-26"
+          },
+          {
+            "question": "The National Commission to Review the Working of the Constitution (NCRWC) was constituted in the year",
+            "options": [
+              "1998",
+              "2000",
+              "2002",
+              "2004"
+            ],
+            "correctIndex": 1,
+            "explanation": "2002.",
+            "difficulty": "Easy",
+            "topicId": "gs-polity",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-26"
+          },
+          {
+            "question": "The concept of 'Basic Structure' was first introduced by the Supreme Court of India in the case of",
+            "options": [
+              "Kesavananda Bharati v. State of Kerala",
+              "Golaknath v. State of Punjab",
+              "Indira Gandhi v. Raj Narain",
+              "S.P. Sampath Kumar v. Union of India"
+            ],
+            "correctIndex": 0,
+            "explanation": "Kesavananda Bharati v. State of Kerala.",
+            "difficulty": "Hard",
+            "topicId": "gs-polity",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-26"
+          }
+        ],
+        "questionCount": 5
+      },
+      "gs-freedom": {
+        "topicName": "Indian Freedom Struggle & Bengal",
+        "subjectName": "General Studies",
+        "questions": [
+          {
+            "question": "Who led the famous 1857 Indian Rebellion in Bengal?",
+            "options": [
+              "Rani Rashmoni",
+              "Tatya Tope",
+              "Maharaja Nabinchandra Bandyopadhyay",
+              "Babu Kunja Behari Lal"
+            ],
+            "correctIndex": 0,
+            "explanation": "Rani Rashmoni played a key role in the Indian Rebellion of 1857 in Bengal.",
+            "difficulty": "Medium",
+            "topicId": "gs-freedom",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-26"
+          },
+          {
+            "question": "Which of the following was a significant consequence of the Non-Cooperation Movement in Bengal?",
+            "options": [
+              "Establishment of the Khilafat Committee",
+              "Bengal Provincial Banking Enquiry Committee formed",
+              "Jallianwala Bagh Massacre",
+              "Dufferin Fund Movement"
+            ],
+            "correctIndex": 1,
+            "explanation": "The Bengal Provincial Banking Enquiry Committee was formed in response to the Non-Cooperation Movement.",
+            "difficulty": "Medium",
+            "topicId": "gs-freedom",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-26"
+          },
+          {
+            "question": "Which Indian revolutionary was hanged to death in Muzaffarpur Jail in 1915?",
+            "options": [
+              "Bagha Jatin",
+              "Sachindra Nath Sanyal",
+              "Bhagwan Singh",
+              "Kanailal Bhattacharya"
+            ],
+            "correctIndex": "3",
+            "explanation": "Kanailal Bhattacharya was hanged to death in Muzaffarpur Jail in 1915.",
+            "difficulty": "Medium",
+            "topicId": "gs-freedom",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-26"
+          },
+          {
+            "question": "The famous Chittagong Armoury Raid was led by which Indian revolutionary?",
+            "options": [
+              "Suren Chandra Bose",
+              "Jatindra Nath Mukherjee",
+              "Surya Sen",
+              "Niranjan Sen Gupta"
+            ],
+            "correctIndex": 2,
+            "explanation": "Surya Sen led the famous Chittagong Armoury Raid.",
+            "difficulty": "Medium",
+            "topicId": "gs-freedom",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-26"
+          },
+          {
+            "question": "Which of the following Acts of the British was specifically applicable to Bengal?",
+            "options": [
+              "Regulating Act of 1773",
+              "Charter Act of 1833",
+              "Indian Councils Act of 1861",
+              "Government of India Act of 1858"
+            ],
+            "correctIndex": "1",
+            "explanation": "The Charter Act of 1833 was specifically applicable to Bengal.",
+            "difficulty": "Medium",
+            "topicId": "gs-history",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-26"
+          }
+        ],
+        "questionCount": 5
+      },
+      "gs-wb-geo": {
+        "topicName": "West Bengal Geography",
+        "subjectName": "General Studies",
+        "questions": [
+          {
+            "question": "Which of the following rivers forms the border between the Indian states of West Bengal and Bihar?",
+            "options": [
+              "Ganga",
+              "Brahmaputra",
+              "Damodar",
+              "Subarnarekha"
+            ],
+            "correctIndex": 0,
+            "explanation": "The Ganga River separates West Bengal and Bihar.",
+            "difficulty": "Easy",
+            "topicId": "gs-wb-geo",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-26"
+          },
+          {
+            "question": "Which hill station is located in the Darjeeling district of West Bengal?",
+            "options": [
+              "Kalimpong",
+              "Mirik",
+              "Darjeeling",
+              "Kurseong"
+            ],
+            "correctIndex": 2,
+            "explanation": "Darjeeling is a popular hill station in West Bengal.",
+            "difficulty": "Easy",
+            "topicId": "gs-wb-geo",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-26"
+          },
+          {
+            "question": "Which delta is located in South 24 Parganas district of West Bengal?",
+            "options": [
+              "Ganges Delta",
+              "Sundarbans Delta",
+              "Dhaka Delta",
+              "Hooghly Delta"
+            ],
+            "correctIndex": 1,
+            "explanation": "The Sundarbans Delta is located in South 24 Parganas district.",
+            "difficulty": "Medium",
+            "topicId": "gs-wb-geo",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-26"
+          },
+          {
+            "question": "Which of the following mountain ranges passes through West Bengal?",
+            "options": [
+              "Arakan Yoma",
+              "Chota Nagpur Plateau",
+              "Mahabharat Range",
+              "Eastern Ghats"
+            ],
+            "correctIndex": 2,
+            "explanation": "The Mahabharat Range passes through West Bengal.",
+            "difficulty": "Medium",
+            "topicId": "gs-wb-geo",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-26"
+          },
+          {
+            "question": "Which island is situated off the coast of South 24 Parganas district in West Bengal?",
+            "options": [
+              "Sagar Island",
+              "Haldia Island",
+              "Fraser Island",
+              "Sundarbans Island"
+            ],
+            "correctIndex": 0,
+            "explanation": "Sagar Island is located off the coast of South 24 Parganas district.",
+            "difficulty": "Easy",
+            "topicId": "gs-wb-geo",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-26"
+          }
+        ],
+        "questionCount": 5
+      },
+      "gs-current": {
+        "topicName": "Current Affairs (Last 12 Months)",
+        "subjectName": "General Studies",
+        "questions": [
+          {
+            "question": "Which Indian state topped the ranking in the recent NITI Aayog's Sustainable Development Goals (SDG) Index 2022?",
+            "options": [
+              "Tamil Nadu",
+              "Kerala",
+              "West Bengal",
+              "Odisha"
+            ],
+            "correctIndex": 1,
+            "explanation": "Kerala ranked first in the SDG Index 2022.",
+            "difficulty": "Medium",
+            "topicId": "gs-current",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-26"
+          },
+          {
+            "question": "Which of the following schemes was launched by the West Bengal government to promote entrepreneurship and skill development among youth?",
+            "options": [
+              "Ujjal Bangla",
+              "Siksha Sathi",
+              "Bangla Startup Hub",
+              "Duare Duare programme"
+            ],
+            "correctIndex": 2,
+            "explanation": "Bangla Startup Hub was launched by the West Bengal government.",
+            "difficulty": "Easy",
+            "topicId": "gs-current",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-26"
+          },
+          {
+            "question": "Who is the current Chief Minister of West Bengal?",
+            "options": [
+              "Mamata Banerjee",
+              "Suvendu Adhikari",
+              "Abhishek Banerjee",
+              "Dulal Chandra Bar"
+            ],
+            "correctIndex": 0,
+            "explanation": "Mamata Banerjee is the current Chief Minister of West Bengal.",
+            "difficulty": "Easy",
+            "topicId": "gs-current",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-26"
+          },
+          {
+            "question": "Which international airport is located in Howrah district of West Bengal?",
+            "options": [
+              "Netaji Subhas Chandra Bose International Airport",
+              "Bagdogra Airport",
+              "Birsa Munda Airport",
+              "Biju Patnaik International Airport"
+            ],
+            "correctIndex": 0,
+            "explanation": "Netaji Subhas Chandra Bose International Airport is located in Howrah district.",
+            "difficulty": "Medium",
+            "topicId": "gs-current",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-26"
+          },
+          {
+            "question": "Which of the following rivers originates from the Himalayas and flows through West Bengal?",
+            "options": [
+              "Ganges",
+              "Brahmaputra",
+              "Meghna",
+              "Tista"
+            ],
+            "correctIndex": 3,
+            "explanation": "The Tista river originates from the Himalayas and flows through West Bengal.",
+            "difficulty": "Medium",
+            "topicId": "gs-current",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-26"
+          }
+        ],
+        "questionCount": 5
+      }
+    },
+    "math": {
+      "math-interest": {
+        "topicName": "Simple & Compound Interest",
+        "subjectName": "Arithmetic",
+        "questions": [
+          {
+            "question": "If the Simple Interest on ₹ 10,000 at 10% per annum for 2 years is ₹ 2,000, what is the Compound Interest (C.I.) for the same amount and time?",
+            "options": [
+              "₹ 2,100",
+              "₹ 2,200",
+              "₹ 2,100",
+              "₹ 2,500"
+            ],
+            "correctIndex": 0,
+            "explanation": "C.I. can be found by adding the Simple Interest.",
+            "difficulty": "Medium",
+            "topicId": "math-interest",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-26"
+          },
+          {
+            "question": "A sum of money becomes Rs. 8000 in 2 years at compound interest rate of 5% per annum. What was the principal amount?",
+            "options": [
+              "₹ 7,500",
+              "₹ 7,000",
+              "₹ 7,500",
+              "₹ 7,000"
+            ],
+            "correctIndex": 2,
+            "explanation": "Use the formula A = P(1 + r/100)^n to solve for principal, where A is the final amount, r is the rate, and n is the time period.",
+            "difficulty": "Medium",
+            "topicId": "math-interest",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-26"
+          },
+          {
+            "question": "What is the difference between the compound interest and simple interest on ₹ 15,000 at 8% per annum for 1 year?",
+            "options": [
+              "₹ 12",
+              "₹ 24",
+              "₹ 10",
+              "₹ 18"
+            ],
+            "correctIndex": 1,
+            "explanation": "Compound Interest is always more than Simple Interest.",
+            "difficulty": "Easy",
+            "topicId": "math-interest",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-26"
+          },
+          {
+            "question": "What is the amount become on ₹ 5,000 at compound interest rate of 8% per annum for 2 years?",
+            "options": [
+              "₹ 5,528",
+              "₹ 5,528",
+              "₹ 5,528",
+              "₹ 5,528"
+            ],
+            "correctIndex": 0,
+            "explanation": "Use the formula A = P(1 + r/100)^n to find the amount.",
+            "difficulty": "Medium",
+            "topicId": "math-interest",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-26"
+          },
+          {
+            "question": "If the principal is ₹ 20,000, rate is 10% and time is 1 year, what is the simple interest on the principal amount?",
+            "options": [
+              "₹ 2,000",
+              "₹ 1,500",
+              "₹ 2,000",
+              "₹ 1,500"
+            ],
+            "correctIndex": 0,
+            "explanation": "Use the formula SI = (P x R x T)/100 to solve for Simple Interest.",
+            "difficulty": "Easy",
+            "topicId": "math-interest",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-26"
+          }
+        ],
+        "questionCount": 5
+      },
+      "math-tw": {
+        "topicName": "Time, Work & Pipes",
+        "subjectName": "Arithmetic",
+        "questions": [
+          {
+            "question": "A man takes 12 hours to complete 1/5th of a piece of work, and a woman takes 16 hours to complete 1/3rd of the same work. How long will it take for both of them to complete the work together?",
+            "options": [
+              "24 hours",
+              "30 hours",
+              "48 hours",
+              "60 hours"
+            ],
+            "correctIndex": 2,
+            "explanation": "By using the concept of work done and time taken, we can calculate their individual work rates and then find the combined work rate.",
+            "difficulty": "Medium",
+            "topicId": "math-tw",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-26"
+          },
+          {
+            "question": "A well at a certain height in Jalpaiguri can fill itself with water in 6 hours. Another well at a different height in the same district can fill itself with water in 8 hours. If both wells are filled together, how long will it take for both of them to fill up?",
+            "options": [
+              "4.5 hours",
+              "5.5 hours",
+              "6 hours",
+              "7.5 hours"
+            ],
+            "correctIndex": 0,
+            "explanation": "We can calculate their individual rates of filling the well and then find the combined rate.",
+            "difficulty": "Medium",
+            "topicId": "math-tw",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-26"
+          },
+          {
+            "question": "A pipe can fill 1/4th of a tank in 2 hours. Another pipe can fill 1/3rd of the same tank in 3 hours. If both pipes are opened together, how long will it take to fill up the tank?",
+            "options": [
+              "3.5 hours",
+              "4.5 hours",
+              "6 hours",
+              "8 hours"
+            ],
+            "correctIndex": 1,
+            "explanation": "By using the concept of work done and time taken, we can calculate their individual work rates and then find the combined work rate.",
+            "difficulty": "Medium",
+            "topicId": "math-tw",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-26"
+          },
+          {
+            "question": "A group of 5 men can complete a piece of work in 12 hours. If 2 more men join the group, how long will it take to complete the work?",
+            "options": [
+              "6 hours",
+              "8 hours",
+              "10 hours",
+              "12 hours"
+            ],
+            "correctIndex": 2,
+            "explanation": "By using the concept of work done and time taken, we can calculate their individual work rates and then find the combined work rate.",
+            "difficulty": "Medium",
+            "topicId": "math-tw",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-26"
+          },
+          {
+            "question": "A pipe can fill 1/6th of a tank in 4 hours. Another pipe can fill 1/8th of the same tank in 6 hours. If both pipes are opened together, how long will it take to fill up the tank?",
+            "options": [
+              "6 hours",
+              "8 hours",
+              "10 hours",
+              "12 hours"
+            ],
+            "correctIndex": 0,
+            "explanation": "We can calculate their individual rates of filling the tank and then find the combined rate.",
+            "difficulty": "Medium",
+            "topicId": "math-tw",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-26"
+          }
+        ],
+        "questionCount": 5
+      },
+      "math-tsd": {
+        "topicName": "Time, Speed & Distance",
+        "subjectName": "Arithmetic",
+        "questions": [
+          {
+            "question": "A speed limit of 40 km/hr in West Bengal is equivalent to how many metres per second?",
+            "options": [
+              "10 m/s",
+              "12 m/s",
+              "15 m/s",
+              "20 m/s"
+            ],
+            "correctIndex": 2,
+            "explanation": "Using the conversion factor 1 km/hr = 5/18 m/s.",
+            "difficulty": "Medium",
+            "topicId": "math-tsd",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-26"
+          },
+          {
+            "question": "If a train travels from Kolkata to Siliguri at an average speed of 60 km/hr, and the total distance is 240 km, how much time will it take?",
+            "options": [
+              "4 hours",
+              "4.5 hours",
+              "5 hours",
+              "6 hours"
+            ],
+            "correctIndex": 1,
+            "explanation": "Using the formula time = distance/speed.",
+            "difficulty": "Medium",
+            "topicId": "math-tsd",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-26"
+          },
+          {
+            "question": "A car covers a distance of 150 km in 5 hours. What is the speed of the car in metres per second?",
+            "options": [
+              "10 m/s",
+              "12 m/s",
+              "15 m/s",
+              "20 m/s"
+            ],
+            "correctIndex": 2,
+            "explanation": "Converting the speed from km/hr to m/s.",
+            "difficulty": "Easy",
+            "topicId": "math-tsd",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-26"
+          },
+          {
+            "question": "If a bus travels from Durgapur to Asansol at an average speed of 45 km/hr, and the total distance is 210 km, what is the time taken?",
+            "options": [
+              "4.5 hours",
+              "5 hours",
+              "5.5 hours",
+              "6 hours"
+            ],
+            "correctIndex": 0,
+            "explanation": "Using the formula time = distance/speed.",
+            "difficulty": "Medium",
+            "topicId": "math-tsd",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-26"
+          },
+          {
+            "question": "A train covers a distance of 180 km in 6 hours. What is its average speed in km/hr?",
+            "options": [
+              "25 km/hr",
+              "30 km/hr",
+              "35 km/hr",
+              "40 km/hr"
+            ],
+            "correctIndex": 2,
+            "explanation": "Using the formula speed = distance/time.",
+            "difficulty": "Easy",
+            "topicId": "math-tsd",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-26"
+          }
+        ],
+        "questionCount": 5
+      }
+    },
+    "reasoning": {
+      "rs-coding": {
+        "topicName": "Coding-Decoding",
+        "subjectName": "Reasoning",
+        "questions": [
+          {
+            "question": "If 'BENGAL' is coded as 52 45 43 54 54 12 54, then what will be the code for 'KOLKATA'?",
+            "options": [
+              "43 45 12 43 54 54 12",
+              "43 45 12 12 43 54 54",
+              "43 45 54 54 12 43 12",
+              "54 43 45 12 54 43 12"
+            ],
+            "correctIndex": 2,
+            "explanation": "Code is based on the position of the alphabet in the word.",
+            "difficulty": "Medium",
+            "topicId": "rs-coding",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-26"
+          },
+          {
+            "question": "In a certain code, 'W' is represented by '#', 'B' is represented by '$', 'I' is represented by '@', then what will be the code for the word 'WILLY'?",
+            "options": [
+              "@#$# $#@",
+              "@$#@ $#@",
+              "@# $#@ $#@",
+              "$#@ $#@$#"
+            ],
+            "correctIndex": 0,
+            "explanation": "Code is based on the direct substitution of characters.",
+            "difficulty": "Easy",
+            "topicId": "rs-coding",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-26"
+          },
+          {
+            "question": "In a certain sequence, '1' is followed by '2', '2' is followed by '3', then what will be the next digit in the sequence?",
+            "options": [
+              "3",
+              "4",
+              "5",
+              "6"
+            ],
+            "correctIndex": 0,
+            "explanation": "The sequence is based on the incremental increase of the numbers.",
+            "difficulty": "Easy",
+            "topicId": "rs-coding",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-26"
+          },
+          {
+            "question": "If 'RAM' is coded as 'CAT', then what will be the code for 'RAT'?",
+            "options": [
+              "DOG",
+              "CAT",
+              "BAG",
+              "BAT"
+            ],
+            "correctIndex": 3,
+            "explanation": "Code is based on the reverse alphabetical order.",
+            "difficulty": "Medium",
+            "topicId": "rs-coding",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-26"
+          },
+          {
+            "question": "In a certain code, '10' represents 'BENGAL', then what will be the code for 'KOLKATA'?",
+            "options": [
+              "20",
+              "25",
+              "30",
+              "45"
+            ],
+            "correctIndex": 3,
+            "explanation": "Code is based on the numerical representation of words.",
+            "difficulty": "Medium",
+            "topicId": "rs-coding",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-26"
+          }
+        ],
+        "questionCount": 5
+      },
+      "rs-blood": {
+        "topicName": "Blood Relations",
+        "subjectName": "Reasoning",
+        "questions": [
+          {
+            "question": "Kakali is the sister of her husband. How is Kakali related to her son?",
+            "options": [
+              "Mother",
+              "Grandmother",
+              "Aunt",
+              "Sister"
+            ],
+            "correctIndex": 1,
+            "explanation": "Kakali is the son's grandmother.",
+            "difficulty": "Medium",
+            "topicId": "rs-blood",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-26"
+          },
+          {
+            "question": "Rupa's brother's daughter is her?",
+            "options": [
+              "Mother",
+              "Sister",
+              "Daughter",
+              "Aunt"
+            ],
+            "correctIndex": 2,
+            "explanation": "Rupa is her own daughter.",
+            "difficulty": "Medium",
+            "topicId": "rs-blood",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-26"
+          },
+          {
+            "question": "What is the relationship between the speaker and the person who is the brother of the father of her sister?",
+            "options": [
+              "Grandfather",
+              "Father",
+              "Uncle",
+              "Brother"
+            ],
+            "correctIndex": 2,
+            "explanation": "The speaker's sister's father's brother is her uncle.",
+            "difficulty": "Medium",
+            "topicId": "rs-blood",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-26"
+          },
+          {
+            "question": "If Soma is the father of Kalyani and Kalyani's sister's son is Suman, then how is Suman related to Soma?",
+            "options": [
+              "Father",
+              "Mother",
+              "Grandfather",
+              "Brother"
+            ],
+            "correctIndex": 0,
+            "explanation": "Suman is the son of Kalyani's sister, making him the grandson of Soma.",
+            "difficulty": "Medium",
+            "topicId": "rs-blood",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-26"
+          },
+          {
+            "question": "How is Nandini related to her son's father-in-law?",
+            "options": [
+              "Mother",
+              "Grandmother",
+              "Sister",
+              "Daughter"
+            ],
+            "correctIndex": 1,
+            "explanation": "Nandini is the mother of her son's father-in-law, making her the mother's mother.",
+            "difficulty": "Medium",
+            "topicId": "rs-blood",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-26"
+          }
+        ],
+        "questionCount": 5
+      },
+      "rs-direction": {
+        "topicName": "Direction Sense",
+        "subjectName": "Reasoning",
+        "questions": [
+          {
+            "question": "A person is standing at a place in Kolkata which is in the direction of North-East. If he moves 500 meters towards South and then turns left and walks 300 meters, which direction is he facing now?",
+            "options": [
+              "North",
+              "South",
+              "East",
+              "West"
+            ],
+            "correctIndex": 1,
+            "explanation": "He turned left after moving south, so he is now facing East.",
+            "difficulty": "Medium",
+            "topicId": "rs-direction",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-26"
+          },
+          {
+            "question": "A boy is standing at point A near the Sundarbans delta. If he walks 5 km towards East and then turns right and walks 3 km, which direction is he facing now?",
+            "options": [
+              "South-East",
+              "South",
+              "East",
+              "West"
+            ],
+            "correctIndex": 0,
+            "explanation": "He turned right after walking east, so he is now facing South.",
+            "difficulty": "Easy",
+            "topicId": "rs-direction",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-26"
+          },
+          {
+            "question": "A person is standing at a place in Darjeeling which is in the direction of North-West. If he moves 200 meters towards South and then turns right and walks 400 meters, which direction is he facing now?",
+            "options": [
+              "North",
+              "North-East",
+              "South",
+              "South-East"
+            ],
+            "correctIndex": 2,
+            "explanation": "He turned right after moving south, so he is now facing South.",
+            "difficulty": "Medium",
+            "topicId": "rs-direction",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-26"
+          },
+          {
+            "question": "A man is standing at the Hooghly River bank in Howrah. If he walks 20 meters towards North and then turns left and walks 15 meters, which direction is he facing now?",
+            "options": [
+              "South",
+              "South-East",
+              "North-West",
+              "East"
+            ],
+            "correctIndex": 1,
+            "explanation": "He turned left after walking north, so he is now facing East.",
+            "difficulty": "Easy",
+            "topicId": "rs-direction",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-26"
+          },
+          {
+            "question": "A person is standing at a place in Siliguri which is in the direction of South. If he moves 150 meters towards East and then turns right and walks 250 meters, which direction is he facing now?",
+            "options": [
+              "South",
+              "South-East",
+              "East",
+              "North-East"
+            ],
+            "correctIndex": 2,
+            "explanation": "He turned right after walking east, so he is now facing East.",
+            "difficulty": "Medium",
+            "topicId": "rs-direction",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-26"
+          }
+        ],
+        "questionCount": 5
+      },
+      "rs-series": {
+        "topicName": "Number & Letter Series",
+        "subjectName": "Reasoning",
+        "questions": [
+          {
+            "question": "Find the next term in the series: 2, 5, 12, 24, 48, ?",
+            "options": [
+              "64",
+              "96",
+              "128",
+              "192"
+            ],
+            "correctIndex": 1,
+            "explanation": "The pattern is obtained by multiplying the previous term by 2.5, 2.4, 2, 2, 2.",
+            "difficulty": "Medium",
+            "topicId": "nl-series",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-26"
+          },
+          {
+            "question": "Identify the wrong number in the series: 3, 7, 11, 15, 19, 21, 25",
+            "options": [
+              "11",
+              "15",
+              "19",
+              "21"
+            ],
+            "correctIndex": 3,
+            "explanation": "The series consists of prime numbers except for 21, which is not a prime number.",
+            "difficulty": "Medium",
+            "topicId": "nl-series",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-26"
+          },
+          {
+            "question": "Find the missing number in the series: Calcutta, Howrah, ?",
+            "options": [
+              "Asansol",
+              "Durgapur",
+              "Kolkata",
+              "Siliguri"
+            ],
+            "correctIndex": 2,
+            "explanation": "The series consists of major cities of West Bengal.",
+            "difficulty": "Easy",
+            "topicId": "rs-series",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-26"
+          },
+          {
+            "question": "Find the next term in the series: 1, 2, 4, 8, 16, 32, ?",
+            "options": [
+              "48",
+              "64",
+              "96",
+              "128"
+            ],
+            "correctIndex": 0,
+            "explanation": "The pattern is obtained by multiplying the previous term by 2.",
+            "difficulty": "Medium",
+            "topicId": "nl-series",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-26"
+          },
+          {
+            "question": "Identify the wrong number in the series: 2, 5, 8, 11, 14, 17, 20",
+            "options": [
+              "20",
+              "5",
+              "11",
+              "14"
+            ],
+            "correctIndex": 0,
+            "explanation": "The series consists of numbers obtained by adding 3, 3, 3, 3, 3, 3, but 20 is not obtained by adding 3.",
+            "difficulty": "Medium",
+            "topicId": "nl-series",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-26"
+          }
+        ],
+        "questionCount": 5
+      }
+    }
+  }
+}
