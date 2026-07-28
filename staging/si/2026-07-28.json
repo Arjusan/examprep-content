@@ -1,0 +1,756 @@
+{
+  "exam": "si",
+  "generatedDate": "2026-07-28",
+  "generatedAt": "2026-07-28T03:46:52.873Z",
+  "model": "llama-3.1-8b-instant",
+  "provider": "groq",
+  "source": "ai_generated",
+  "reviewStatus": "pending",
+  "totalQuestions": 45,
+  "subjects": {
+    "gs": {
+      "gs-polity": {
+        "topicName": "Indian Constitution & Polity",
+        "subjectName": "General Studies",
+        "questions": [
+          {
+            "question": "Which article of the Indian Constitution provides for the power of judicial review?",
+            "options": [
+              "Article 13",
+              "Article 32",
+              "Article 121",
+              "Article 142"
+            ],
+            "correctIndex": 1,
+            "explanation": "Article 32 allows the Supreme Court to issue writs for enforcement of fundamental rights.",
+            "difficulty": "Medium",
+            "topicId": "gs-polity",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-28"
+          },
+          {
+            "question": "Which of the following is a feature of the Panchayati Raj system in West Bengal?",
+            "options": [
+              "District Plan of the Zilla Parishad",
+              "Panchayat Samiti",
+              "Gram Panchayat has a fixed tenure of 5 years",
+              "All of the above"
+            ],
+            "correctIndex": 3,
+            "explanation": "All of the above are features of the Panchayati Raj system in West Bengal.",
+            "difficulty": "Medium",
+            "topicId": "gs-polity",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-28"
+          },
+          {
+            "question": "What is the term of office of a Member of the Legislative Assembly (MLA) in West Bengal?",
+            "options": [
+              "5 years",
+              "6 years",
+              "7 years",
+              "10 years"
+            ],
+            "correctIndex": 0,
+            "explanation": "The term of office of an MLA in West Bengal is 5 years.",
+            "difficulty": "Low",
+            "topicId": "gs-polity",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-28"
+          },
+          {
+            "question": "Which schedule of the Indian Constitution deals with the powers and functions of the Panchayats?",
+            "options": [
+              "3rd Schedule",
+              "4th Schedule",
+              "5th Schedule",
+              "11th Schedule"
+            ],
+            "correctIndex": 3,
+            "explanation": "The 11th Schedule deals with the powers and functions of the Panchayats.",
+            "difficulty": "Medium",
+            "topicId": "gs-polity",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-28"
+          },
+          {
+            "question": "What is the name of the Constitutional amendment that introduced reservation for the SC/ST candidates in the Lok Sabha and State Legislative Assemblies?",
+            "options": [
+              "42nd Amendment Act, 1976",
+              "44th Amendment Act, 1978",
+              "73rd Amendment Act, 1992",
+              "81st Amendment Act, 2000"
+            ],
+            "correctIndex": 0,
+            "explanation": "The 42nd Amendment Act introduced reservation for SC/ST candidates in the Lok Sabha and State Legislative Assemblies.",
+            "difficulty": "Medium",
+            "topicId": "gs-polity",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-28"
+          }
+        ],
+        "questionCount": 5
+      },
+      "gs-freedom": {
+        "topicName": "Indian Freedom Struggle & Bengal",
+        "subjectName": "General Studies",
+        "questions": [
+          {
+            "question": "Which of the following leaders was instrumental in the formation of the Indian National Congress in Bengal?",
+            "options": [
+              "Surendranath Banerjee",
+              "Aurobindo Ghosh",
+              "Deshbandhu Chittaranjan Das",
+              "Raja Subodh Chandra Mullick"
+            ],
+            "correctIndex": 0,
+            "explanation": "Surendranath Banerjee co-founded the Indian National Congress.",
+            "difficulty": "Medium",
+            "topicId": "gs-freedom",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-28"
+          },
+          {
+            "question": "The Chuar Rebellion took place in which part of Bengal?",
+            "options": [
+              "Bengal Presidency",
+              "Bengaluru",
+              "Bhagalpur",
+              "Birbhum"
+            ],
+            "correctIndex": 0,
+            "explanation": "The Chuar Rebellion was primarily in the Bengal Presidency.",
+            "difficulty": "Easy",
+            "topicId": "gs-freedom",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-28"
+          },
+          {
+            "question": "Who was the first President of the Indian National Congress in Bengal?",
+            "options": [
+              "Surendranath Banerjee",
+              "Aurobindo Ghosh",
+              "Deshbandhu Chittaranjan Das",
+              "Satish Chandra Mukherjee"
+            ],
+            "correctIndex": 3,
+            "explanation": "Satish Chandra Mukherjee was the first President of the Bengal Congress.",
+            "difficulty": "Medium",
+            "topicId": "gs-freedom",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-28"
+          },
+          {
+            "question": "Which of the following events was a significant milestone in the Non-Cooperation Movement in Bengal?",
+            "options": [
+              "The Chittagong Armoury Raid",
+              "The formation of the Bengal Provincial Congress Committee",
+              "The Noakhali Riots",
+              "The Bardhaman Non-Cooperation Movement"
+            ],
+            "correctIndex": 2,
+            "explanation": "The Bardhaman Non-Cooperation Movement was a significant milestone in Bengal.",
+            "difficulty": "Medium",
+            "topicId": "gs-freedom",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-28"
+          },
+          {
+            "question": "Who led the armed struggle against the British at the Bara Khetra in Bengal?",
+            "options": [
+              "Bipin Chandra Pal",
+              "Bagha Jatin",
+              "Sachindra Nath Sanyal",
+              "Surya Sen"
+            ],
+            "correctIndex": 2,
+            "explanation": "Sachindra Nath Sanyal led the armed struggle at the Bara Khetra.",
+            "difficulty": "Medium",
+            "topicId": "gs-freedom",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-28"
+          }
+        ],
+        "questionCount": 5
+      },
+      "gs-current": {
+        "topicName": "Current Affairs (Last 12 Months)",
+        "subjectName": "General Studies",
+        "questions": [
+          {
+            "question": "Who is the current Governor of West Bengal?",
+            "options": [
+              "C. V. Ananda Bose",
+              "La. Ganesan",
+              "Ramesh Bais",
+              "Banwarilal Purohit"
+            ],
+            "correctIndex": 0,
+            "explanation": "C. V. Ananda Bose is the current Governor of West Bengal.",
+            "difficulty": "Easy",
+            "topicId": "gs-current",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-28"
+          },
+          {
+            "question": "What is the name of the new flyover being constructed in Kolkata?",
+            "options": [
+              "Vidyasagar Setu Flyover",
+              "Gariahat Flyover",
+              "EM Bypass Flyover",
+              "Biswa Bangla Flyover"
+            ],
+            "correctIndex": 3,
+            "explanation": "Biswa Bangla Flyover is the new flyover being constructed in Kolkata.",
+            "difficulty": "Medium",
+            "topicId": "gs-current",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-28"
+          },
+          {
+            "question": "Which Indian state has recently launched the 'Bangla Sahayata' portal for West Bengal residents?",
+            "options": [
+              "Odisha",
+              "Jharkhand",
+              "Bihar",
+              "Tripura"
+            ],
+            "correctIndex": 0,
+            "explanation": "Odisha has recently launched the 'Bangla Sahayata' portal for West Bengal residents.",
+            "difficulty": "Medium",
+            "topicId": "gs-current",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-28"
+          },
+          {
+            "question": "Who is the current Chief Minister of West Bengal?",
+            "options": [
+              "Mamata Banerjee",
+              "Yogi Adityanath",
+              "Nitish Kumar",
+              "Pinarayi Vijayan"
+            ],
+            "correctIndex": 0,
+            "explanation": "Mamata Banerjee is the current Chief Minister of West Bengal.",
+            "difficulty": "Easy",
+            "topicId": "gs-current",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-28"
+          },
+          {
+            "question": "What is the name of the new museum recently opened in Howrah, West Bengal?",
+            "options": [
+              "Indian Museum of History",
+              "Howrah Museum of Maritime History",
+              "Jadavpur Museum of Art and Culture",
+              "Ganges Delta Museum"
+            ],
+            "correctIndex": 3,
+            "explanation": "Ganges Delta Museum is the new museum recently opened in Howrah, West Bengal.",
+            "difficulty": "Medium",
+            "topicId": "gs-current",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-28"
+          }
+        ],
+        "questionCount": 5
+      }
+    },
+    "math": {
+      "math-percent": {
+        "topicName": "Percentage & Profit-Loss",
+        "subjectName": "Arithmetic",
+        "questions": [
+          {
+            "question": "A shopkeeper sells an article at 15% profit for Rs. 315. What is the cost price of the article?",
+            "options": [
+              "Rs. 275",
+              "Rs. 275.00",
+              "Rs. 278.57",
+              "Rs. 280"
+            ],
+            "correctIndex": 2,
+            "explanation": "Cost price is calculated by dividing the selling price by (1 + profit percentage).",
+            "difficulty": "Medium",
+            "topicId": "math-profit-loss",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-28"
+          },
+          {
+            "question": "In a certain year, the population of West Bengal increased by 10%. If the population was 91,70,000 in the previous year, then what is the population of West Bengal in the current year?",
+            "options": [
+              "9,21,000",
+              "9,21,000.00",
+              "9,91,00,000",
+              "9,91,00,000.00"
+            ],
+            "correctIndex": 3,
+            "explanation": "Population increase is calculated by adding the increase percentage to the previous population.",
+            "difficulty": "Medium",
+            "topicId": "math-percentage",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-28"
+          },
+          {
+            "question": "Ratna bought 15 kg of rice at the rate of Rs. 25 per kg and 8 kg of rice at the rate of Rs. 30 per kg. What is the percentage decrease in the average price per kg when she sells the entire stock at 25% profit?",
+            "options": [
+              "5%",
+              "5.00%",
+              "6.25%",
+              "6.25%"
+            ],
+            "correctIndex": 2,
+            "explanation": "Percentage decrease is calculated by finding the difference between the original average price and the new average price, then dividing by the original average price and multiplying by 100.",
+            "difficulty": "Hard",
+            "topicId": "math-profit-loss",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-28"
+          },
+          {
+            "question": "A certain product was initially priced at Rs. 600. There was a 10% discount for the first 5 days, followed by a 15% increase in price. What is the new price of the product?",
+            "options": [
+              "Rs. 627",
+              "Rs. 627.00",
+              "Rs. 630",
+              "Rs. 630.00"
+            ],
+            "correctIndex": 1,
+            "explanation": "Discount and increase are applied to the initial price in a sequential manner.",
+            "difficulty": "Medium",
+            "topicId": "math-percentage",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-28"
+          },
+          {
+            "question": "If the length of a rectangular field is increased by 20% and the breadth is decreased by 15%, what is the percentage change in the area of the field?",
+            "options": [
+              "3.5% increase",
+              "3.50% increase",
+              "2.5% decrease",
+              "2.50% decrease"
+            ],
+            "correctIndex": 0,
+            "explanation": "Percentage change in area is calculated by finding the difference between the original area and the new area, then dividing by the original area and multiplying by 100.",
+            "difficulty": "Hard",
+            "topicId": "math-percentage",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-28"
+          }
+        ],
+        "questionCount": 5
+      },
+      "math-interest": {
+        "topicName": "Simple & Compound Interest",
+        "subjectName": "Arithmetic",
+        "questions": [
+          {
+            "question": "A person deposits Rs. 8,000 in a fixed deposit account for 2 years at an interest rate of 9% per annum compounded annually. What is the amount after 2 years?",
+            "options": [
+              "Rs. 8,930.60",
+              "Rs. 9,030.60",
+              "Rs. 9,130.60",
+              "Rs. 10,000"
+            ],
+            "correctIndex": 0,
+            "explanation": "Using the compound interest formula A = P(1 + r/100)^n.",
+            "difficulty": "Medium",
+            "topicId": "math-interest",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-28"
+          },
+          {
+            "question": "A sum of money is deposited in a bank at compound interest rate of 12% per annum. What is the ratio of the amount after 3 years to the amount after 2 years?",
+            "options": [
+              "5:4",
+              "16:9",
+              "9:8",
+              "8:7"
+            ],
+            "correctIndex": 0,
+            "explanation": "Using the compound interest formula A = P(1 + r/100)^n.",
+            "difficulty": "Medium",
+            "topicId": "math-interest",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-28"
+          },
+          {
+            "question": "What is the simple interest on Rs. 15,000 at 5% per annum for 3 years?",
+            "options": [
+              "Rs. 2,250",
+              "Rs. 2,500",
+              "Rs. 2,750",
+              "Rs. 3,000"
+            ],
+            "correctIndex": 0,
+            "explanation": "Using the simple interest formula I = (P * R * T)/100.",
+            "difficulty": "Easy",
+            "topicId": "math-interest",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-28"
+          },
+          {
+            "question": "A person borrows Rs. 25,000 from a bank at an interest rate of 10% per annum. What is the simple interest for 5 years on the given amount?",
+            "options": [
+              "Rs. 12,500",
+              "Rs. 13,000",
+              "Rs. 12,750",
+              "Rs. 12,000"
+            ],
+            "correctIndex": 0,
+            "explanation": "Using the simple interest formula I = (P * R * T)/100.",
+            "difficulty": "Medium",
+            "topicId": "math-interest",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-28"
+          },
+          {
+            "question": "A certain sum of money invested at compound interest rate of 8% per annum amounts to Rs. 18,849 in 3 years. What is the principal amount?",
+            "options": [
+              "Rs. 16,000",
+              "Rs. 15,000",
+              "Rs. 14,000",
+              "Rs. 13,000"
+            ],
+            "correctIndex": 0,
+            "explanation": "Using the compound interest formula A = P(1 + r/100)^n.",
+            "difficulty": "Medium",
+            "topicId": "math-interest",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-28"
+          }
+        ],
+        "questionCount": 5
+      },
+      "math-tsd": {
+        "topicName": "Time, Speed & Distance",
+        "subjectName": "Arithmetic",
+        "questions": [
+          {
+            "question": "A bus covers a distance of 120 km in 4 hours. How much time will it take to cover a distance of 180 km?",
+            "options": [
+              "4 hours",
+              "6 hours",
+              "8 hours",
+              "10 hours"
+            ],
+            "correctIndex": 1,
+            "explanation": "We need to find the speed of the bus first and then use it to find the time taken.",
+            "difficulty": "Medium",
+            "topicId": "math-tsd",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-28"
+          },
+          {
+            "question": "A train travels from Kolkata to Howrah at an average speed of 50 km/h. How much time will it take to cover a distance of 58 km?",
+            "options": [
+              "1.16 hours",
+              "1.2 hours",
+              "1.32 hours",
+              "1.5 hours"
+            ],
+            "correctIndex": 0,
+            "explanation": "Distance is directly proportional to time if speed is constant.",
+            "difficulty": "Easy",
+            "topicId": "math-tsd",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-28"
+          },
+          {
+            "question": "A car travels from Siliguri to Darjeeling at an average speed of 40 km/h. If it travels for 3 hours, what distance will it cover?",
+            "options": [
+              "120 km",
+              "120 km",
+              "120 km",
+              "120 km"
+            ],
+            "correctIndex": 0,
+            "explanation": "Speed multiplied by time gives the distance.",
+            "difficulty": "Medium",
+            "topicId": "math-tsd",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-28"
+          },
+          {
+            "question": "A man walks from Howrah to Bally at a speed of 2.5 km/h. If he walks for 5 hours, what distance will he cover?",
+            "options": [
+              "12.5 km",
+              "12.5 km",
+              "12.5 km",
+              "12.5 km"
+            ],
+            "correctIndex": 0,
+            "explanation": "Speed multiplied by time gives the distance.",
+            "difficulty": "Easy",
+            "topicId": "math-tsd",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-28"
+          },
+          {
+            "question": "A bus travels from Kolkata to Barasat at an average speed of 60 km/h. If it takes 1 hour to cover the first 18 km, how much more time will it take to cover the remaining distance?",
+            "options": [
+              "1.5 hours",
+              "1.75 hours",
+              "2 hours",
+              "2.5 hours"
+            ],
+            "correctIndex": 0,
+            "explanation": "Since it is constant speed, the remaining time will be directly proportional to the remaining distance.",
+            "difficulty": "Medium",
+            "topicId": "math-tsd",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-28"
+          }
+        ],
+        "questionCount": 5
+      }
+    },
+    "reasoning": {
+      "rs-blood": {
+        "topicName": "Blood Relations",
+        "subjectName": "Reasoning",
+        "questions": [
+          {
+            "question": "Amit's brother is the son of Amit's maternal grandmother's husband. Who is Amit's brother?",
+            "options": [
+              "Amit's brother is my son",
+              "Amit's brother is my son's son",
+              "Amit's brother is my father",
+              "Amit's brother is my maternal uncle"
+            ],
+            "correctIndex": 2,
+            "explanation": "Amit's brother is the son of Amit's maternal grandmother's husband, making him Amit's father.",
+            "difficulty": "Easy",
+            "topicId": "rs-blood",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-28"
+          },
+          {
+            "question": "Dadu is the father of Kaku. Dada's wife is the mother of ",
+            "options": [
+              "Dadu's daughter",
+              "Dadu's son",
+              "Kaku's sister",
+              "Kaku's brother"
+            ],
+            "correctIndex": 3,
+            "explanation": "Dadu's wife is Kaku's mother, and Kaku's brother would be Dadu's son.",
+            "difficulty": "Medium",
+            "topicId": "rs-blood",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-28"
+          },
+          {
+            "question": "Kunal is the son of Ritu's maternal grandfather's son. How is Ritu related to Kunal?",
+            "options": [
+              "Ritu is Kunal's mother",
+              "Ritu is Kunal's sister",
+              "Ritu is Kunal's maternal aunt",
+              "Ritu is Kunal's paternal aunt"
+            ],
+            "correctIndex": 2,
+            "explanation": "Ritu is Kunal's maternal aunt, as Kunal is the son of Ritu's maternal grandfather's son.",
+            "difficulty": "Medium",
+            "topicId": "rs-blood",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-28"
+          },
+          {
+            "question": "A is the brother of B. C is the daughter of B. D is the sister of C. How is A related to D?",
+            "options": [
+              "A is the father of D",
+              "A is the mother of D",
+              "A is the son of D",
+              "A is the brother of D"
+            ],
+            "correctIndex": 0,
+            "explanation": "A is the brother of B, and D is the sister of C, making A the uncle of C and D.",
+            "difficulty": "Hard",
+            "topicId": "rs-blood",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-28"
+          },
+          {
+            "question": "Babu is the son of Kaku. Kaku is the daughter of ",
+            "options": [
+              "Dada's mother",
+              "Dada's brother",
+              "Dada's sister",
+              "Dada's father"
+            ],
+            "correctIndex": 3,
+            "explanation": "Kaku is the daughter of Dada, and Babu is Kaku's son, making Babu the grandson of Dada.",
+            "difficulty": "Easy",
+            "topicId": "rs-blood",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-28"
+          }
+        ],
+        "questionCount": 5
+      },
+      "rs-direction": {
+        "topicName": "Direction Sense",
+        "subjectName": "Reasoning",
+        "questions": [
+          {
+            "question": "A man walks 15 km towards east and then he turns left and walks 10 km. Then he turns right and walks 5 km. In which direction is he from the starting point?",
+            "options": [
+              "North",
+              "South",
+              "West",
+              "East"
+            ],
+            "correctIndex": 2,
+            "explanation": "He is walking west after turning right.",
+            "difficulty": "Medium",
+            "topicId": "rs-direction",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-28"
+          },
+          {
+            "question": "From Howrah Bridge, if you walk 1 km towards north and then 1 km towards west, which direction are you facing?",
+            "options": [
+              "South",
+              "East",
+              "North",
+              "West"
+            ],
+            "correctIndex": 1,
+            "explanation": "You are facing east after walking north and then west.",
+            "difficulty": "Medium",
+            "topicId": "rs-direction",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-28"
+          },
+          {
+            "question": "A man is standing at a point on the map. He walks 5 km north, then 2 km east and then 3 km south. In which direction is he from the starting point?",
+            "options": [
+              "North",
+              "South",
+              "West",
+              "East"
+            ],
+            "correctIndex": 3,
+            "explanation": "He is east after walking 2 km east.",
+            "difficulty": "Medium",
+            "topicId": "rs-direction",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-28"
+          },
+          {
+            "question": "A man walks 4 km towards south from the Dakshineshwar Kali Temple and then turns left. How much distance will he be from the temple after walking 5 km?",
+            "options": [
+              "4 km",
+              "5 km",
+              "3 km",
+              "9 km"
+            ],
+            "correctIndex": 0,
+            "explanation": "He is 4 km away from the temple after walking south.",
+            "difficulty": "Medium",
+            "topicId": "rs-direction",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-28"
+          },
+          {
+            "question": "A boy walks 6 km north from his house and then 4 km east. If he walks 5 km in a direction perpendicular to his previous path, in which direction is he from his house?",
+            "options": [
+              "North",
+              "South",
+              "East",
+              "West"
+            ],
+            "correctIndex": 0,
+            "explanation": "He is north from his house.",
+            "difficulty": "Medium",
+            "topicId": "rs-direction",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-28"
+          }
+        ],
+        "questionCount": 5
+      },
+      "rs-series": {
+        "topicName": "Number & Letter Series",
+        "subjectName": "Reasoning",
+        "questions": [
+          {
+            "question": "In a series of numbers: 3, 7, 11, 15, 19, ?, what is the next number in the series?",
+            "options": [
+              "21",
+              "20",
+              "22",
+              "25"
+            ],
+            "correctIndex": 1,
+            "explanation": "The series is formed by adding 4 each time.",
+            "difficulty": "Medium",
+            "topicId": "ns-series",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-28"
+          },
+          {
+            "question": "If the first letter of the word is moved to the end, it becomes 'Siliguri'. What is the original word?",
+            "options": [
+              "Riligusi",
+              "Riligusi",
+              "Gurilisi",
+              "Sriliguir"
+            ],
+            "correctIndex": 2,
+            "explanation": "The original word is Gurilisi.",
+            "difficulty": "Easy",
+            "topicId": "ls-series",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-28"
+          },
+          {
+            "question": "The numbers 2, 5, 8, 11, 14, ... are obtained by adding a particular number to the previous term. What number was added?",
+            "options": [
+              "3",
+              "2",
+              "4",
+              "1"
+            ],
+            "correctIndex": 1,
+            "explanation": "The number 3 was added to each term.",
+            "difficulty": "Medium",
+            "topicId": "ns-series",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-28"
+          },
+          {
+            "question": "A series is formed by reversing the order of the letters in the name of a place in West Bengal. If the first letter of the series is 'D', what is the place?",
+            "options": [
+              "Darjeeling",
+              "Durgapur",
+              "Digha",
+              "Dumdum"
+            ],
+            "correctIndex": 0,
+            "explanation": "The place is Darjeeling.",
+            "difficulty": "Medium",
+            "topicId": "ls-series",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-28"
+          },
+          {
+            "question": "In a series of numbers: 4, 9, 16, 25, 36, ?, what is the next number in the series?",
+            "options": [
+              "49",
+              "45",
+              "46",
+              "48"
+            ],
+            "correctIndex": 0,
+            "explanation": "The series is formed by squaring the numbers 2, 3, 4, 5, 6, etc.",
+            "difficulty": "Medium",
+            "topicId": "ns-series",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-28"
+          }
+        ],
+        "questionCount": 5
+      }
+    }
+  }
+}
