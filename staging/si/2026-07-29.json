@@ -1,7 +1,7 @@
 {
   "exam": "si",
   "generatedDate": "2026-07-29",
-  "generatedAt": "2026-07-29T03:50:11.769Z",
+  "generatedAt": "2026-07-29T14:38:47.164Z",
   "model": "llama-3.1-8b-instant",
   "provider": "groq",
   "source": "ai_generated",
@@ -14,75 +14,75 @@
         "subjectName": "General Studies",
         "questions": [
           {
-            "question": "The Panchayat Raj system is based on the principles of which of the following reports?",
+            "question": "Which article of the Indian Constitution deals with the establishment and organisation of the State Public Service Commission?",
             "options": [
-              "Ashok Mehta Committee",
-              "Lokulal Committee",
-              "Balwantray Mehta Committee",
-              "Gowalkar Formula"
+              "Article 124",
+              "Article 148",
+              "Article 153",
+              "Article 243E"
             ],
             "correctIndex": 2,
-            "explanation": "Based on the Balwantray Mehta Committee report.",
+            "explanation": "Article 153 deals with the establishment and organisation of the State Public Service Commission.",
             "difficulty": "Medium",
             "topicId": "gs-polity",
             "source": "ai_generated",
             "generatedDate": "2026-07-29"
           },
           {
-            "question": "Which of the following Articles in the Indian Constitution provides the power of Judicial Review to the Supreme Court?",
+            "question": "Under the Panchayat (Extension to Scheduled Areas) Act, 1996, which one of the following is not a power of the Gram Sabha?",
             "options": [
-              "Article 32",
-              "Article 226",
-              "Article 13",
-              "Article 142"
+              "To manage and conserve common property resources",
+              "To exercise self-governance in respect of land and forests",
+              "To approve plans for development and implementation",
+              "To decide on the allocation of developmental funds"
+            ],
+            "correctIndex": 2,
+            "explanation": "The Gram Sabha does not directly decide on the allocation of developmental funds.",
+            "difficulty": "Medium",
+            "topicId": "gs-polity",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-29"
+          },
+          {
+            "question": "Which of the following is NOT a feature of the Sixth Schedule of the Indian Constitution?",
+            "options": [
+              "Creation of autonomous districts in Assam, Meghalaya, Tripura, and Mizoram",
+              "Establishment of the North-East Council",
+              "Creation of Autonomous Administrative Units in Assam, Meghalaya, Tripura, and Mizoram",
+              "Creation of the Planning Board for Tribal Areas"
             ],
             "correctIndex": 3,
-            "explanation": "Provides the power of Judicial Review to the Supreme Court.",
+            "explanation": "The Planning Board is not a part of the Sixth Schedule.",
             "difficulty": "Medium",
             "topicId": "gs-polity",
             "source": "ai_generated",
             "generatedDate": "2026-07-29"
           },
           {
-            "question": "The West Bengal Panchayat Act of which year provides for the three-tier Panchayat system in the state?",
+            "question": "The Panchayats (Extension to Scheduled Areas) Act, 1996, was enacted by the Parliament of India for the benefit of which region?",
             "options": [
-              "1973",
-              "1993",
-              "1994",
-              "1996"
+              "Hilly and tribal areas of West Bengal",
+              "Hilly and tribal areas of Assam, Meghalaya, Tripura, and Mizoram",
+              "Scheduled Castes and Scheduled Tribes in urban areas",
+              "Scheduled Castes and Scheduled Tribes in rural areas"
             ],
             "correctIndex": 1,
-            "explanation": "Provides for the three-tier Panchayat system in the state.",
-            "difficulty": "Easy",
-            "topicId": "gs-polity",
-            "source": "ai_generated",
-            "generatedDate": "2026-07-29"
-          },
-          {
-            "question": "The Right to Information Act, 2005, was enacted to provide for the right to information which is a fundamental right under Article?",
-            "options": [
-              "19(1)(a)",
-              "19(1)(b)",
-              "19(1)(c)",
-              "19(1)(d)"
-            ],
-            "correctIndex": 1,
-            "explanation": "Article 19(1)(b) provides the right to freedom of speech and expression.",
+            "explanation": "The Act was enacted for the hilly and tribal areas of Assam, Meghalaya, Tripura, and Mizoram.",
             "difficulty": "Medium",
             "topicId": "gs-polity",
             "source": "ai_generated",
             "generatedDate": "2026-07-29"
           },
           {
-            "question": "The concept of 'Preamble' in the Constitution of India is based on the model of the United States Constitution, which was adopted in the year?",
+            "question": "Which of the following is a provision of the West Bengal Panchayats Act, 1973?",
             "options": [
-              "1787",
-              "1791",
-              "1789",
-              "1776"
+              "Gram Panchayat can have maximum 30 members",
+              "Gram Panchayat can have maximum 50 members",
+              "Gram Panchayat can have maximum 35 members",
+              "Gram Panchayat can have maximum 40 members"
             ],
-            "correctIndex": 1,
-            "explanation": "The United States Constitution was adopted in 1787.",
+            "correctIndex": 3,
+            "explanation": "The West Bengal Panchayats Act, 1973, allows a Gram Panchayat to have a maximum of 40 members.",
             "difficulty": "Easy",
             "topicId": "gs-polity",
             "source": "ai_generated",
@@ -96,37 +96,149 @@
         "subjectName": "General Studies",
         "questions": [
           {
-            "question": "Which of the following rivers forms the western boundary of West Bengal?",
+            "question": "The River Hooghly is the primary distributary of which major river in West Bengal?",
             "options": [
               "Ganga",
-              "Hooghly",
               "Brahmaputra",
+              "Damodar",
+              "Mahanadi"
+            ],
+            "correctIndex": 0,
+            "explanation": "It is the main distributary of the Ganga River.",
+            "difficulty": "Easy",
+            "topicId": "gs-wb-geo",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-29"
+          },
+          {
+            "question": "Which of the following mountain ranges lies in the northern part of West Bengal?",
+            "options": [
+              "Eastern Ghats",
+              "Western Ghats",
+              "Sikkim Himalayas",
+              "Chhotanagpur Plateau"
+            ],
+            "correctIndex": 2,
+            "explanation": "It is a part of the Himalayan mountain range in India.",
+            "difficulty": "Medium",
+            "topicId": "gs-wb-geo",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-29"
+          },
+          {
+            "question": "The Sundarbans National Park is located in which district of West Bengal?",
+            "options": [
+              "North 24 Parganas",
+              "South 24 Parganas",
+              "Howrah",
+              "Hooghly"
+            ],
+            "correctIndex": 1,
+            "explanation": "It is a part of the South 24 Parganas district.",
+            "difficulty": "Easy",
+            "topicId": "gs-wb-geo",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-29"
+          },
+          {
+            "question": "Which of the following rivers in West Bengal is known for its extensive delta system?",
+            "options": [
+              "Damodar",
+              "Bhagirathi",
+              "Brahmani",
               "Subarnarekha"
             ],
             "correctIndex": 1,
-            "explanation": "The Hooghly River is a major distributary of the Ganga River.",
+            "explanation": "It is the primary distributary of the Ganga River.",
             "difficulty": "Medium",
             "topicId": "gs-wb-geo",
             "source": "ai_generated",
             "generatedDate": "2026-07-29"
           },
           {
-            "question": "The Darjeeling Himalayan Railway passes through how many districts of West Bengal?",
+            "question": "The Darjeeling Himalayan Railway passes through which hill station in West Bengal?",
             "options": [
-              "2",
-              "3",
-              "4",
-              "5"
+              "Darjeeling",
+              "Kalimpong",
+              "Mirik",
+              "Lolegaon"
             ],
-            "correctIndex": 3,
-            "explanation": "The Darjeeling Himalayan Railway passes through 5 districts: Darjeeling, Jalpaiguri, Cooch Behar, Alipurduar, and Kalimpong.",
-            "difficulty": "Medium",
+            "correctIndex": 0,
+            "explanation": "It is a popular hill station in the state.",
+            "difficulty": "Easy",
             "topicId": "gs-wb-geo",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-29"
+          }
+        ],
+        "questionCount": 5
+      },
+      "gs-current": {
+        "topicName": "Current Affairs (Last 12 Months)",
+        "subjectName": "General Studies",
+        "questions": [
+          {
+            "question": "The Mamata Banerjee-led TMC government in West Bengal recently launched a new initiative called 'Duare Raajyabhasha' to promote which language?",
+            "options": [
+              "Bengali",
+              "Hindi",
+              "English",
+              "Odia"
+            ],
+            "correctIndex": 0,
+            "explanation": "It aims to promote Bengali as the primary language.",
+            "difficulty": "Medium",
+            "topicId": "gs-current",
             "source": "ai_generated",
             "generatedDate": "2026-07-29"
           },
           {
-            "question": "The Sundarbans National Park is located in which of the following districts of West Bengal?",
+            "question": "The West Bengal Government recently increased the minimum wage for unskilled workers to Rs. ______ per day.",
+            "options": [
+              "220",
+              "240",
+              "260",
+              "280"
+            ],
+            "correctIndex": 1,
+            "explanation": "The increase aims to support the state's informal workforce.",
+            "difficulty": "Easy",
+            "topicId": "gs-current",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-29"
+          },
+          {
+            "question": "The Kolkata Metro Rail Corporation has recently announced plans to extend the Line 3 of the Kolkata Metro to which area?",
+            "options": [
+              "Howrah",
+              "Dum Dum",
+              "Barasat",
+              "Baranagar"
+            ],
+            "correctIndex": 2,
+            "explanation": "The extension aims to enhance connectivity in the northern parts of Kolkata.",
+            "difficulty": "Medium",
+            "topicId": "gs-current",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-29"
+          },
+          {
+            "question": "The West Bengal government has launched a new scheme to provide financial assistance to farmers affected by which natural disaster?",
+            "options": [
+              "Drought",
+              "Flood",
+              "Cyclone",
+              "Heatwave"
+            ],
+            "correctIndex": 2,
+            "explanation": "The scheme aims to support farmers affected by cyclone damage.",
+            "difficulty": "Medium",
+            "topicId": "gs-current",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-29"
+          },
+          {
+            "question": "The West Bengal government has recently announced plans to develop a new eco-tourism project in the Sundarbans region of which district?",
             "options": [
               "South 24 Parganas",
               "North 24 Parganas",
@@ -134,39 +246,9 @@
               "Hooghly"
             ],
             "correctIndex": 0,
-            "explanation": "The Sundarbans National Park is located in South 24 Parganas district.",
-            "difficulty": "Easy",
-            "topicId": "gs-wb-geo",
-            "source": "ai_generated",
-            "generatedDate": "2026-07-29"
-          },
-          {
-            "question": "Which of the following mountain ranges is located in North Bengal?",
-            "options": [
-              "Chota Nagpur Plateau",
-              "Eastern Ghats",
-              "Sikkim Himalayas",
-              "Eastern Himalayas"
-            ],
-            "correctIndex": 2,
-            "explanation": "The Sikkim Himalayas are a part of the Eastern Himalayas mountain range.",
+            "explanation": "The project aims to promote sustainable tourism in the Sundarbans.",
             "difficulty": "Medium",
-            "topicId": "gs-wb-geo",
-            "source": "ai_generated",
-            "generatedDate": "2026-07-29"
-          },
-          {
-            "question": "The Ganges-Brahmaputra delta is also known as which of the following?",
-            "options": [
-              "Bengal Delta",
-              "Indian Sundarbans",
-              "Hooghly Delta",
-              "Ganga Delta"
-            ],
-            "correctIndex": 0,
-            "explanation": "The Ganges-Brahmaputra delta is also known as the Bengal Delta.",
-            "difficulty": "Medium",
-            "topicId": "gs-wb-geo",
+            "topicId": "gs-current",
             "source": "ai_generated",
             "generatedDate": "2026-07-29"
           }
@@ -178,76 +260,76 @@
         "subjectName": "General Studies",
         "questions": [
           {
-            "question": "Which of the following is a flagship programme of the West Bengal government to improve healthcare infrastructure?",
+            "question": "Under which scheme, the West Bengal government aims to provide financial assistance to the poor and disadvantaged women for their socio-economic development?",
             "options": [
-              "Swasthya Sathi",
+              "Swasthya Sathi Scheme",
               "Kanyashree Prakalpa",
-              "Shubhasree",
-              "Mukhya Mantri Gram Dak Seva"
-            ],
-            "correctIndex": 0,
-            "explanation": "Launched to provide free health insurance to 7.6 crore citizens of West Bengal.",
-            "difficulty": "Medium",
-            "topicId": "gs-wb-schemes",
-            "source": "ai_generated",
-            "generatedDate": "2026-07-29"
-          },
-          {
-            "question": "What is the main objective of the Kanyashree Prakalpa scheme of the West Bengal government?",
-            "options": [
-              "To provide financial assistance to the families of martyrs",
-              "To improve the educational status of girls",
-              "To provide vocational training to the rural youth",
-              "To provide scholarships to meritorious students"
+              "Mamata Scheme",
+              "Anandam Scheme"
             ],
             "correctIndex": 1,
-            "explanation": "To incentivize girls to continue their education beyond Class X.",
+            "explanation": "It is a conditional cash transfer scheme for girls.",
             "difficulty": "Medium",
             "topicId": "gs-wb-schemes",
             "source": "ai_generated",
             "generatedDate": "2026-07-29"
           },
           {
-            "question": "Which of the following schemes is launched by the West Bengal government to provide pension to the rural and urban poor?",
+            "question": "What is the primary objective of the 'Swasthya Sathi' scheme launched by the West Bengal government?",
             "options": [
-              "Swadhar Scheme",
-              "Anandamalika",
-              "Shubhasree",
-              "Bangla Shahitya Akademi"
+              "To provide cashless treatment to all",
+              "To provide health insurance to all",
+              "To provide free treatment to all below poverty line",
+              "To increase the healthcare budget"
+            ],
+            "correctIndex": 1,
+            "explanation": "It provides health insurance to all residents of West Bengal.",
+            "difficulty": "Medium",
+            "topicId": "gs-wb-schemes",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-29"
+          },
+          {
+            "question": "Which of the following is not a component of the 'Mukhya Mantri Gram Sadak Yojana' scheme in West Bengal?",
+            "options": [
+              "Improvement of rural roads",
+              "Construction of new rural roads",
+              "Provision of rural bridges",
+              "None of the above"
             ],
             "correctIndex": 3,
-            "explanation": "To provide financial assistance to the elderly and destitute women.",
-            "difficulty": "Easy",
-            "topicId": "gs-wb-schemes",
-            "source": "ai_generated",
-            "generatedDate": "2026-07-29"
-          },
-          {
-            "question": "What is the main goal of the Bangla Sahayata Kendra Scheme of the West Bengal government?",
-            "options": [
-              "To provide employment to the unemployed youth",
-              "To provide financial assistance to the small entrepreneurs",
-              "To provide free legal aid to the poor",
-              "To provide digital literacy training to the rural people"
-            ],
-            "correctIndex": "2",
-            "explanation": "To facilitate online services to the citizens.",
+            "explanation": "This scheme is actually included in the components.",
             "difficulty": "Medium",
             "topicId": "gs-wb-schemes",
             "source": "ai_generated",
             "generatedDate": "2026-07-29"
           },
           {
-            "question": "Which of the following initiatives was launched by the West Bengal government to promote the use of digital payments?",
+            "question": "What is the main aim of the 'Deshapriya Park Flyover' project initiated by the West Bengal government?",
             "options": [
-              "Digital Bengal",
-              "Banglar Bhawan",
-              "Swasthya Sathi",
-              "Kisan Credit Card"
+              "To reduce traffic congestion in Kolkata",
+              "To increase the number of flyovers in Kolkata",
+              "To promote eco-friendly transportation",
+              "To increase the parking facilities in Kolkata"
             ],
-            "correctIndex": "1",
-            "explanation": "To promote digital transactions and reduce cash usage.",
-            "difficulty": "Easy",
+            "correctIndex": 0,
+            "explanation": "It aims to reduce traffic congestion in Kolkata.",
+            "difficulty": "Medium",
+            "topicId": "gs-wb-schemes",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-29"
+          },
+          {
+            "question": "Which of the following schemes provides assistance to the small and medium entrepreneurs in West Bengal?",
+            "options": [
+              "Udhyami Scheme",
+              "Mukhya Mantri Yubak Prakalpa",
+              "Mamata Scheme",
+              "Swasthya Sathi Scheme"
+            ],
+            "correctIndex": 0,
+            "explanation": "It provides financial assistance to small and medium entrepreneurs.",
+            "difficulty": "Medium",
             "topicId": "gs-wb-schemes",
             "source": "ai_generated",
             "generatedDate": "2026-07-29"
@@ -262,241 +344,77 @@
         "subjectName": "Arithmetic",
         "questions": [
           {
-            "question": "A sum of Rs. 10,000 is invested for 2 years at an interest rate of 8% per annum. Find the simple interest for 2 years.",
+            "question": "A person deposits ₹15,000 in a bank account which accrues a simple interest of 6% per annum for 2 years. What is the amount at the end of the 2nd year?",
             "options": [
-              "Rs. 1,600",
-              "Rs. 1,600.80",
-              "Rs. 1,600.84",
-              "Rs. 1,600.88"
-            ],
-            "correctIndex": 1,
-            "explanation": "Using the simple interest formula.",
-            "difficulty": "Medium",
-            "topicId": "math-interest",
-            "source": "ai_generated",
-            "generatedDate": "2026-07-29"
-          },
-          {
-            "question": "What is the compound interest on Rs. 8,000 for 1 year at an interest rate of 10% per annum compounded annually?",
-            "options": [
-              "Rs. 800",
-              "Rs. 819",
-              "Rs. 820",
-              "Rs. 840"
-            ],
-            "correctIndex": 1,
-            "explanation": "Using the compound interest formula.",
-            "difficulty": "Medium",
-            "topicId": "math-interest",
-            "source": "ai_generated",
-            "generatedDate": "2026-07-29"
-          },
-          {
-            "question": "A sum of Rs. 5,000 is borrowed at 12% per annum simple interest. How much amount will be paid after 3 years?",
-            "options": [
-              "Rs. 6,000",
-              "Rs. 6,180",
-              "Rs. 6,180.00",
-              "Rs. 6,180.50"
-            ],
-            "correctIndex": 2,
-            "explanation": "Adding the simple interest to the principal amount.",
-            "difficulty": "Medium",
-            "topicId": "math-interest",
-            "source": "ai_generated",
-            "generatedDate": "2026-07-29"
-          },
-          {
-            "question": "If a sum of Rs. 12,000 is invested at compound interest rate of 6% per annum for 2 years, then what will be the amount after 2 years?",
-            "options": [
-              "Rs. 12,936",
-              "Rs. 12,936.36",
-              "Rs. 12,936.40",
-              "Rs. 12,936.80"
-            ],
-            "correctIndex": 1,
-            "explanation": "Using the compound interest formula.",
-            "difficulty": "Medium",
-            "topicId": "math-interest",
-            "source": "ai_generated",
-            "generatedDate": "2026-07-29"
-          },
-          {
-            "question": "A person invested Rs. 15,000 for 2 years at 9% per annum compound interest. Find the amount after 2 years.",
-            "options": [
-              "Rs. 16,665",
-              "Rs. 16,665.25",
-              "Rs. 16,665.30",
-              "Rs. 16,665.50"
+              "₹16,800",
+              "₹17,200",
+              "₹16,400",
+              "₹17,600"
             ],
             "correctIndex": 0,
-            "explanation": "Using the compound interest formula.",
+            "explanation": "Using the simple interest formula I = (P * R * T) / 100.",
             "difficulty": "Medium",
             "topicId": "math-interest",
             "source": "ai_generated",
             "generatedDate": "2026-07-29"
-          }
-        ],
-        "questionCount": 5
-      },
-      "math-tw": {
-        "topicName": "Time, Work & Pipes",
-        "subjectName": "Arithmetic",
-        "questions": [
+          },
           {
-            "question": "A tap can fill 2/3rd of a 1000-liter tank in 30 minutes. How much of the tank can be filled in 45 minutes?",
+            "question": "What is the compound interest on ₹20,000 for 3 years at the rate of 4% per annum compounded annually?",
             "options": [
-              "400 liters",
-              "600 liters",
-              "800 liters",
-              "1000 liters"
+              "₹2,220",
+              "₹2,160",
+              "₹2,280",
+              "₹2,320"
             ],
             "correctIndex": 2,
-            "explanation": "The tap can fill 2/3rd of the tank in 30 minutes.",
+            "explanation": "Using the compound interest formula A = P(1 + R/100)^n.",
             "difficulty": "Medium",
-            "topicId": "math-tw",
+            "topicId": "math-interest",
             "source": "ai_generated",
             "generatedDate": "2026-07-29"
           },
           {
-            "question": "Two pipes can fill a tank in 4 hours and 6 hours respectively. They worked together for 2 hours. Then, the first pipe was stopped and the second pipe continued to fill the tank. How much more time was required to fill the tank?",
+            "question": "A sum of money is lent at 8% per annum for 5 years. If the simple interest accrued is ₹18,000, what is the principal amount?",
             "options": [
-              "3 hours",
-              "4.5 hours",
-              "6 hours",
-              "8 hours"
-            ],
-            "correctIndex": 1,
-            "explanation": "The first pipe fills 1/4 of the tank in 2 hours.",
-            "difficulty": "Hard",
-            "topicId": "math-tw",
-            "source": "ai_generated",
-            "generatedDate": "2026-07-29"
-          },
-          {
-            "question": "A pump can empty a tank in 12 hours. How much of the tank will be filled by a pipe that can fill 1/4 of the tank in 3 hours in 4 hours?",
-            "options": [
-              "1/4",
-              "1/2",
-              "3/4",
-              "1"
-            ],
-            "correctIndex": 3,
-            "explanation": "The pump empties 1/12 of the tank in 1 hour.",
-            "difficulty": "Medium",
-            "topicId": "math-tw",
-            "source": "ai_generated",
-            "generatedDate": "2026-07-29"
-          },
-          {
-            "question": "A group of 8 men can finish a job in 12 days. How many men are required to finish the same job in 6 days?",
-            "options": [
-              "12 men",
-              "16 men",
-              "20 men",
-              "24 men"
-            ],
-            "correctIndex": 1,
-            "explanation": "8 men can finish the job in 12 days.",
-            "difficulty": "Medium",
-            "topicId": "math-tw",
-            "source": "ai_generated",
-            "generatedDate": "2026-07-29"
-          },
-          {
-            "question": "A tank is filled by two pipes A and B. Pipe A can fill 1/4 of the tank in 6 hours and pipe B can fill 1/4 of the tank in 8 hours. If both pipes work together, how long will it take to fill the tank?",
-            "options": [
-              "8 hours",
-              "10 hours",
-              "12 hours",
-              "16 hours"
-            ],
-            "correctIndex": 0,
-            "explanation": "Pipe A fills 1/24 of the tank in 1 hour.",
-            "difficulty": "Medium",
-            "topicId": "math-tw",
-            "source": "ai_generated",
-            "generatedDate": "2026-07-29"
-          }
-        ],
-        "questionCount": 5
-      },
-      "math-tsd": {
-        "topicName": "Time, Speed & Distance",
-        "subjectName": "Arithmetic",
-        "questions": [
-          {
-            "question": "A train travels from Kolkata to Asansol at an average speed of 60 km/h. If the distance between the two cities is 120 km, how many hours will it take?",
-            "options": [
-              "3 hours",
-              "4 hours",
-              "5 hours",
-              "6 hours"
+              "₹40,000",
+              "₹50,000",
+              "₹45,000",
+              "₹35,000"
             ],
             "correctIndex": 2,
-            "explanation": "Time = Distance / Speed.",
+            "explanation": "Rearranging the simple interest formula to find the principal amount.",
             "difficulty": "Medium",
-            "topicId": "math-tsd",
+            "topicId": "math-interest",
             "source": "ai_generated",
             "generatedDate": "2026-07-29"
           },
           {
-            "question": "A car travels from Siliguri to Gangtok at an average speed of 40 km/h, covering a distance of 240 km. How many hours will it take to cover the remaining 160 km?",
+            "question": "If ₹5,000 is borrowed at 5% per annum for 2 years compounded quarterly, what is the amount at the end of the 2nd year?",
             "options": [
-              "2 hours",
-              "4 hours",
-              "6 hours",
-              "8 hours"
-            ],
-            "correctIndex": 0,
-            "explanation": "Time = Distance / Speed.",
-            "difficulty": "Medium",
-            "topicId": "math-tsd",
-            "source": "ai_generated",
-            "generatedDate": "2026-07-29"
-          },
-          {
-            "question": "A bus travels at an average speed of 30 km/h, covering a distance of 180 km in 6 hours. How much distance will it cover in 3 hours?",
-            "options": [
-              "60 km",
-              "90 km",
-              "120 km",
-              "150 km"
-            ],
-            "correctIndex": 0,
-            "explanation": "Distance = Speed x Time.",
-            "difficulty": "Medium",
-            "topicId": "math-tsd",
-            "source": "ai_generated",
-            "generatedDate": "2026-07-29"
-          },
-          {
-            "question": "A train travels from Sealdah to Bardhaman at an average speed of 50 km/h, covering a distance of 200 km. How much time will it take to cover the remaining 150 km?",
-            "options": [
-              "3 hours",
-              "4 hours",
-              "5 hours",
-              "6 hours"
-            ],
-            "correctIndex": 1,
-            "explanation": "Time = Distance / Speed.",
-            "difficulty": "Medium",
-            "topicId": "math-tsd",
-            "source": "ai_generated",
-            "generatedDate": "2026-07-29"
-          },
-          {
-            "question": "A taxi travels at an average speed of 25 km/h, covering a distance of 120 km. How much time will it take to cover a distance of 180 km?",
-            "options": [
-              "6 hours",
-              "7 hours",
-              "8 hours",
-              "9 hours"
+              "₹5,512",
+              "₹5,525",
+              "₹5,512.50",
+              "₹5,525.25"
             ],
             "correctIndex": 2,
-            "explanation": "Time = Distance / Speed.",
+            "explanation": "Using the compound interest formula A = P(1 + R/n)^(n*T).",
             "difficulty": "Medium",
-            "topicId": "math-tsd",
+            "topicId": "math-interest",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-29"
+          },
+          {
+            "question": "What is the difference between compound interest and simple interest on ₹15,000 for 2 years at the rate of 9% per annum?",
+            "options": [
+              "₹225",
+              "₹225.75",
+              "₹227.50",
+              "₹229"
+            ],
+            "correctIndex": 0,
+            "explanation": "Calculating the interest using both formulae and finding the difference.",
+            "difficulty": "Medium",
+            "topicId": "math-interest",
             "source": "ai_generated",
             "generatedDate": "2026-07-29"
           }
@@ -505,164 +423,246 @@
       }
     },
     "reasoning": {
-      "rs-coding": {
-        "topicName": "Coding-Decoding",
+      "rs-blood": {
+        "topicName": "Blood Relations",
         "subjectName": "Reasoning",
         "questions": [
           {
-            "question": "If 4 is represented by #, then what is 13 represented by?",
+            "question": "Kalyan is the son of Ashok. Ashok is the son of whom?",
             "options": [
-              "##",
-              "###",
-              "###",
-              "####"
+              "Kalyan's grandfather",
+              "Kalyan's father",
+              "Kalyan's uncle",
+              "Kalyan's brother"
             ],
-            "correctIndex": 2,
-            "explanation": "In this pattern, each number is represented by one '#'.",
+            "correctIndex": 0,
+            "explanation": "Ashok's father is Kalyan's grandfather.",
             "difficulty": "Medium",
-            "topicId": "rs-coding",
+            "topicId": "rs-blood",
             "source": "ai_generated",
             "generatedDate": "2026-07-29"
           },
           {
-            "question": "If 'SUN' is coded as 'MON', then 'TUE' is coded as?",
+            "question": "If a woman has a son, then which of the following can be her sister?",
             "options": [
-              "MON",
-              "WED",
-              "TUE",
-              "THU"
-            ],
-            "correctIndex": 1,
-            "explanation": "The given pattern shifts each day by one.",
-            "difficulty": "Medium",
-            "topicId": "rs-coding",
-            "source": "ai_generated",
-            "generatedDate": "2026-07-29"
-          },
-          {
-            "question": "If 'BIRLA' is coded as 'BRAIL', then 'MAHARANA' is coded as?",
-            "options": [
-              "MAHARANL",
-              "MAHARANA",
-              "MAHARANU",
-              "MAHARANIL"
-            ],
-            "correctIndex": 2,
-            "explanation": "The given pattern replaces each letter with the next letter in the alphabet.",
-            "difficulty": "Medium",
-            "topicId": "rs-coding",
-            "source": "ai_generated",
-            "generatedDate": "2026-07-29"
-          },
-          {
-            "question": "If 1 is represented by 'A', 2 is represented by 'B', 3 is represented by 'C', then 11 is represented by?",
-            "options": [
-              "AA",
-              "AB",
-              "AC",
-              "BB"
+              "Brother's wife",
+              "Brother's daughter",
+              "Brother's son",
+              "Husband's mother"
             ],
             "correctIndex": 3,
-            "explanation": "In this pattern, each digit is represented by the corresponding alphabet.",
+            "explanation": "A woman's husband's mother is her mother-in-law.",
             "difficulty": "Medium",
-            "topicId": "rs-coding",
+            "topicId": "rs-blood",
             "source": "ai_generated",
             "generatedDate": "2026-07-29"
           },
           {
-            "question": "If 'CALCUTTA' is coded as 'KOLKATA', then 'HOWRAH' is coded as?",
+            "question": "A is the mother of B. B is the mother of C. Who is the father of B?",
             "options": [
-              "HOWRAH",
-              "HOWRHA",
-              "HOWKHA",
-              "HOWRA"
+              "A",
+              "C",
+              "B's husband",
+              "B's mother"
             ],
-            "correctIndex": 1,
-            "explanation": "The given pattern replaces 'CALCUTTA' with 'KOLKATA'.",
+            "correctIndex": 2,
+            "explanation": "Since B is married, B's husband is the father of B.",
             "difficulty": "Medium",
-            "topicId": "rs-coding",
+            "topicId": "rs-blood",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-29"
+          },
+          {
+            "question": "If a person has only two children, both of whom are daughters, then which of the following can be the father's sister?",
+            "options": [
+              "Brother",
+              "Daughter",
+              "Husband",
+              "Sister"
+            ],
+            "correctIndex": 3,
+            "explanation": "The father's sister is the person's paternal aunt.",
+            "difficulty": "Medium",
+            "topicId": "rs-blood",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-29"
+          },
+          {
+            "question": "A is the mother of B. B is the daughter of C. If D is the wife of C, then who is the mother-in-law of D?",
+            "options": [
+              "A",
+              "B",
+              "C",
+              "D"
+            ],
+            "correctIndex": 0,
+            "explanation": "D's husband's mother is D's mother-in-law.",
+            "difficulty": "Medium",
+            "topicId": "rs-blood",
             "source": "ai_generated",
             "generatedDate": "2026-07-29"
           }
         ],
         "questionCount": 5
       },
-      "rs-blood": {
-        "topicName": "Blood Relations",
+      "rs-direction": {
+        "topicName": "Direction Sense",
         "subjectName": "Reasoning",
         "questions": [
           {
-            "question": "Dilip's paternal grandfather is the paternal grandfather of which one of the following relatives of Dilip?",
+            "question": "A person is facing North direction and walks 100 meters. He then turns 90 degrees to the right and walks 200 meters. He then turns 90 degrees to the right and walks 100 meters. Which direction is he facing now?",
             "options": [
-              "Brother",
-              "Mother",
-              "Father",
-              "Sister"
+              "East",
+              "West",
+              "North",
+              "South"
             ],
             "correctIndex": 2,
-            "explanation": "Dilip and his paternal grandfather are father and son.",
+            "explanation": "As he turned 90 degrees to the right twice, he is facing in the original direction.",
             "difficulty": "Medium",
-            "topicId": "rs-blood",
+            "topicId": "rs-direction",
             "source": "ai_generated",
             "generatedDate": "2026-07-29"
           },
           {
-            "question": "If A is the mother of B and B is the daughter of D, Then who is the mother of D?",
+            "question": "A person is standing at a point P in Kolkata. He moves 20 meters towards South, then 15 meters towards West, then 20 meters towards North, and finally 10 meters towards East. Which direction is point P now from the starting point?",
             "options": [
-              "B",
-              "A",
-              "Grandmother of B",
-              "Daughter of B"
+              "South-East",
+              "South-West",
+              "North-East",
+              "North-West"
             ],
             "correctIndex": 0,
-            "explanation": "B's mother is A, so D is B's paternal grandmother.",
+            "explanation": "The net displacement is 5 meters towards South and 10 meters towards East.",
             "difficulty": "Medium",
-            "topicId": "rs-blood",
+            "topicId": "rs-direction",
             "source": "ai_generated",
             "generatedDate": "2026-07-29"
           },
           {
-            "question": "A and B are two persons. A's son is B's brother. Which of the following is correct about the relationship of A and B?",
+            "question": "A person is facing West direction and turns 135 degrees to the right. Which direction is he facing now?",
             "options": [
-              "A is the father of B",
-              "A is the brother of B",
-              "A is the son of B",
-              "A is the brother of B's father"
+              "South-East",
+              "North-West",
+              "South",
+              "North"
+            ],
+            "correctIndex": 0,
+            "explanation": "When you turn 135 degrees to the right from West, you are facing South-East.",
+            "difficulty": "Medium",
+            "topicId": "rs-direction",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-29"
+          },
+          {
+            "question": "A man is standing at a point P in Darjeeling. He walks 250 meters towards North and then 150 meters towards West. Which direction will he take to reach the starting point?",
+            "options": [
+              "North-East",
+              "North-West",
+              "South-West",
+              "South-East"
+            ],
+            "correctIndex": 2,
+            "explanation": "To reach the starting point, he will have to move in a direction opposite to his current direction.",
+            "difficulty": "Medium",
+            "topicId": "rs-direction",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-29"
+          },
+          {
+            "question": "A person is standing at a point P and finds that the sun is at his back. Which direction is he facing?",
+            "options": [
+              "East",
+              "West",
+              "North",
+              "South"
+            ],
+            "correctIndex": 2,
+            "explanation": "The sun is at his back, so he is facing North.",
+            "difficulty": "Easy",
+            "topicId": "rs-direction",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-29"
+          }
+        ],
+        "questionCount": 5
+      },
+      "rs-series": {
+        "topicName": "Number & Letter Series",
+        "subjectName": "Reasoning",
+        "questions": [
+          {
+            "question": "Find the missing term in the series: 2, 6, 12, 20, 30, ?",
+            "options": [
+              "40",
+              "42",
+              "44",
+              "46"
             ],
             "correctIndex": 1,
-            "explanation": "B's brother is A's son.",
-            "difficulty": "Medium",
-            "topicId": "rs-blood",
+            "explanation": "The pattern is an increase of 4, 6, 8, and 10.",
+            "difficulty": "Easy",
+            "topicId": "number-series",
             "source": "ai_generated",
             "generatedDate": "2026-07-29"
           },
           {
-            "question": "If A is the father of C and C is the son of D, Then who is the grandfather of D?",
+            "question": "In the series: A, O, Q, U, ?, the next letter is:",
             "options": [
-              "D",
-              "A",
-              "Brother of D",
-              "Father of D"
+              "Y",
+              "Z",
+              "X",
+              "V"
             ],
             "correctIndex": 0,
-            "explanation": "D's son is C, and C's father is A.",
-            "difficulty": "Medium",
-            "topicId": "rs-blood",
+            "explanation": "The pattern is adding 2 letters in the alphabet.",
+            "difficulty": "Easy",
+            "topicId": "letter-series",
             "source": "ai_generated",
             "generatedDate": "2026-07-29"
           },
           {
-            "question": "In a family, there is a man, his wife, their daughter and their daughter's son. Who is the grandfather of the son?",
+            "question": "Find the missing term in the series: 2, 11, 26, ?, 61",
             "options": [
-              "The man",
-              "The man's wife",
-              "The man's brother",
-              "The man's son"
+              "41",
+              "46",
+              "51",
+              "56"
+            ],
+            "correctIndex": 2,
+            "explanation": "The pattern is adding consecutive multiples of 3 and 4.",
+            "difficulty": "Medium",
+            "topicId": "number-series",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-29"
+          },
+          {
+            "question": "Which number should replace the question mark in the series: 1, 2, 4, 7, 11, 16, ?",
+            "options": [
+              "22",
+              "23",
+              "24",
+              "25"
+            ],
+            "correctIndex": 1,
+            "explanation": "The pattern is adding consecutive integers.",
+            "difficulty": "Easy",
+            "topicId": "number-series",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-29"
+          },
+          {
+            "question": "In the series: D, E, F, G, ?, the next letter is:",
+            "options": [
+              "H",
+              "I",
+              "J",
+              "K"
             ],
             "correctIndex": 0,
-            "explanation": "The man is the son's paternal grandfather.",
-            "difficulty": "Medium",
-            "topicId": "rs-blood",
+            "explanation": "The pattern is increasing the alphabet by one letter.",
+            "difficulty": "Easy",
+            "topicId": "letter-series",
             "source": "ai_generated",
             "generatedDate": "2026-07-29"
           }
