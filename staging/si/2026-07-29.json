@@ -1,0 +1,674 @@
+{
+  "exam": "si",
+  "generatedDate": "2026-07-29",
+  "generatedAt": "2026-07-29T03:50:11.769Z",
+  "model": "llama-3.1-8b-instant",
+  "provider": "groq",
+  "source": "ai_generated",
+  "reviewStatus": "pending",
+  "totalQuestions": 40,
+  "subjects": {
+    "gs": {
+      "gs-polity": {
+        "topicName": "Indian Constitution & Polity",
+        "subjectName": "General Studies",
+        "questions": [
+          {
+            "question": "The Panchayat Raj system is based on the principles of which of the following reports?",
+            "options": [
+              "Ashok Mehta Committee",
+              "Lokulal Committee",
+              "Balwantray Mehta Committee",
+              "Gowalkar Formula"
+            ],
+            "correctIndex": 2,
+            "explanation": "Based on the Balwantray Mehta Committee report.",
+            "difficulty": "Medium",
+            "topicId": "gs-polity",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-29"
+          },
+          {
+            "question": "Which of the following Articles in the Indian Constitution provides the power of Judicial Review to the Supreme Court?",
+            "options": [
+              "Article 32",
+              "Article 226",
+              "Article 13",
+              "Article 142"
+            ],
+            "correctIndex": 3,
+            "explanation": "Provides the power of Judicial Review to the Supreme Court.",
+            "difficulty": "Medium",
+            "topicId": "gs-polity",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-29"
+          },
+          {
+            "question": "The West Bengal Panchayat Act of which year provides for the three-tier Panchayat system in the state?",
+            "options": [
+              "1973",
+              "1993",
+              "1994",
+              "1996"
+            ],
+            "correctIndex": 1,
+            "explanation": "Provides for the three-tier Panchayat system in the state.",
+            "difficulty": "Easy",
+            "topicId": "gs-polity",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-29"
+          },
+          {
+            "question": "The Right to Information Act, 2005, was enacted to provide for the right to information which is a fundamental right under Article?",
+            "options": [
+              "19(1)(a)",
+              "19(1)(b)",
+              "19(1)(c)",
+              "19(1)(d)"
+            ],
+            "correctIndex": 1,
+            "explanation": "Article 19(1)(b) provides the right to freedom of speech and expression.",
+            "difficulty": "Medium",
+            "topicId": "gs-polity",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-29"
+          },
+          {
+            "question": "The concept of 'Preamble' in the Constitution of India is based on the model of the United States Constitution, which was adopted in the year?",
+            "options": [
+              "1787",
+              "1791",
+              "1789",
+              "1776"
+            ],
+            "correctIndex": 1,
+            "explanation": "The United States Constitution was adopted in 1787.",
+            "difficulty": "Easy",
+            "topicId": "gs-polity",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-29"
+          }
+        ],
+        "questionCount": 5
+      },
+      "gs-wb-geo": {
+        "topicName": "West Bengal Geography",
+        "subjectName": "General Studies",
+        "questions": [
+          {
+            "question": "Which of the following rivers forms the western boundary of West Bengal?",
+            "options": [
+              "Ganga",
+              "Hooghly",
+              "Brahmaputra",
+              "Subarnarekha"
+            ],
+            "correctIndex": 1,
+            "explanation": "The Hooghly River is a major distributary of the Ganga River.",
+            "difficulty": "Medium",
+            "topicId": "gs-wb-geo",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-29"
+          },
+          {
+            "question": "The Darjeeling Himalayan Railway passes through how many districts of West Bengal?",
+            "options": [
+              "2",
+              "3",
+              "4",
+              "5"
+            ],
+            "correctIndex": 3,
+            "explanation": "The Darjeeling Himalayan Railway passes through 5 districts: Darjeeling, Jalpaiguri, Cooch Behar, Alipurduar, and Kalimpong.",
+            "difficulty": "Medium",
+            "topicId": "gs-wb-geo",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-29"
+          },
+          {
+            "question": "The Sundarbans National Park is located in which of the following districts of West Bengal?",
+            "options": [
+              "South 24 Parganas",
+              "North 24 Parganas",
+              "Howrah",
+              "Hooghly"
+            ],
+            "correctIndex": 0,
+            "explanation": "The Sundarbans National Park is located in South 24 Parganas district.",
+            "difficulty": "Easy",
+            "topicId": "gs-wb-geo",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-29"
+          },
+          {
+            "question": "Which of the following mountain ranges is located in North Bengal?",
+            "options": [
+              "Chota Nagpur Plateau",
+              "Eastern Ghats",
+              "Sikkim Himalayas",
+              "Eastern Himalayas"
+            ],
+            "correctIndex": 2,
+            "explanation": "The Sikkim Himalayas are a part of the Eastern Himalayas mountain range.",
+            "difficulty": "Medium",
+            "topicId": "gs-wb-geo",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-29"
+          },
+          {
+            "question": "The Ganges-Brahmaputra delta is also known as which of the following?",
+            "options": [
+              "Bengal Delta",
+              "Indian Sundarbans",
+              "Hooghly Delta",
+              "Ganga Delta"
+            ],
+            "correctIndex": 0,
+            "explanation": "The Ganges-Brahmaputra delta is also known as the Bengal Delta.",
+            "difficulty": "Medium",
+            "topicId": "gs-wb-geo",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-29"
+          }
+        ],
+        "questionCount": 5
+      },
+      "gs-wb-schemes": {
+        "topicName": "West Bengal Government Schemes",
+        "subjectName": "General Studies",
+        "questions": [
+          {
+            "question": "Which of the following is a flagship programme of the West Bengal government to improve healthcare infrastructure?",
+            "options": [
+              "Swasthya Sathi",
+              "Kanyashree Prakalpa",
+              "Shubhasree",
+              "Mukhya Mantri Gram Dak Seva"
+            ],
+            "correctIndex": 0,
+            "explanation": "Launched to provide free health insurance to 7.6 crore citizens of West Bengal.",
+            "difficulty": "Medium",
+            "topicId": "gs-wb-schemes",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-29"
+          },
+          {
+            "question": "What is the main objective of the Kanyashree Prakalpa scheme of the West Bengal government?",
+            "options": [
+              "To provide financial assistance to the families of martyrs",
+              "To improve the educational status of girls",
+              "To provide vocational training to the rural youth",
+              "To provide scholarships to meritorious students"
+            ],
+            "correctIndex": 1,
+            "explanation": "To incentivize girls to continue their education beyond Class X.",
+            "difficulty": "Medium",
+            "topicId": "gs-wb-schemes",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-29"
+          },
+          {
+            "question": "Which of the following schemes is launched by the West Bengal government to provide pension to the rural and urban poor?",
+            "options": [
+              "Swadhar Scheme",
+              "Anandamalika",
+              "Shubhasree",
+              "Bangla Shahitya Akademi"
+            ],
+            "correctIndex": 3,
+            "explanation": "To provide financial assistance to the elderly and destitute women.",
+            "difficulty": "Easy",
+            "topicId": "gs-wb-schemes",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-29"
+          },
+          {
+            "question": "What is the main goal of the Bangla Sahayata Kendra Scheme of the West Bengal government?",
+            "options": [
+              "To provide employment to the unemployed youth",
+              "To provide financial assistance to the small entrepreneurs",
+              "To provide free legal aid to the poor",
+              "To provide digital literacy training to the rural people"
+            ],
+            "correctIndex": "2",
+            "explanation": "To facilitate online services to the citizens.",
+            "difficulty": "Medium",
+            "topicId": "gs-wb-schemes",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-29"
+          },
+          {
+            "question": "Which of the following initiatives was launched by the West Bengal government to promote the use of digital payments?",
+            "options": [
+              "Digital Bengal",
+              "Banglar Bhawan",
+              "Swasthya Sathi",
+              "Kisan Credit Card"
+            ],
+            "correctIndex": "1",
+            "explanation": "To promote digital transactions and reduce cash usage.",
+            "difficulty": "Easy",
+            "topicId": "gs-wb-schemes",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-29"
+          }
+        ],
+        "questionCount": 5
+      }
+    },
+    "math": {
+      "math-interest": {
+        "topicName": "Simple & Compound Interest",
+        "subjectName": "Arithmetic",
+        "questions": [
+          {
+            "question": "A sum of Rs. 10,000 is invested for 2 years at an interest rate of 8% per annum. Find the simple interest for 2 years.",
+            "options": [
+              "Rs. 1,600",
+              "Rs. 1,600.80",
+              "Rs. 1,600.84",
+              "Rs. 1,600.88"
+            ],
+            "correctIndex": 1,
+            "explanation": "Using the simple interest formula.",
+            "difficulty": "Medium",
+            "topicId": "math-interest",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-29"
+          },
+          {
+            "question": "What is the compound interest on Rs. 8,000 for 1 year at an interest rate of 10% per annum compounded annually?",
+            "options": [
+              "Rs. 800",
+              "Rs. 819",
+              "Rs. 820",
+              "Rs. 840"
+            ],
+            "correctIndex": 1,
+            "explanation": "Using the compound interest formula.",
+            "difficulty": "Medium",
+            "topicId": "math-interest",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-29"
+          },
+          {
+            "question": "A sum of Rs. 5,000 is borrowed at 12% per annum simple interest. How much amount will be paid after 3 years?",
+            "options": [
+              "Rs. 6,000",
+              "Rs. 6,180",
+              "Rs. 6,180.00",
+              "Rs. 6,180.50"
+            ],
+            "correctIndex": 2,
+            "explanation": "Adding the simple interest to the principal amount.",
+            "difficulty": "Medium",
+            "topicId": "math-interest",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-29"
+          },
+          {
+            "question": "If a sum of Rs. 12,000 is invested at compound interest rate of 6% per annum for 2 years, then what will be the amount after 2 years?",
+            "options": [
+              "Rs. 12,936",
+              "Rs. 12,936.36",
+              "Rs. 12,936.40",
+              "Rs. 12,936.80"
+            ],
+            "correctIndex": 1,
+            "explanation": "Using the compound interest formula.",
+            "difficulty": "Medium",
+            "topicId": "math-interest",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-29"
+          },
+          {
+            "question": "A person invested Rs. 15,000 for 2 years at 9% per annum compound interest. Find the amount after 2 years.",
+            "options": [
+              "Rs. 16,665",
+              "Rs. 16,665.25",
+              "Rs. 16,665.30",
+              "Rs. 16,665.50"
+            ],
+            "correctIndex": 0,
+            "explanation": "Using the compound interest formula.",
+            "difficulty": "Medium",
+            "topicId": "math-interest",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-29"
+          }
+        ],
+        "questionCount": 5
+      },
+      "math-tw": {
+        "topicName": "Time, Work & Pipes",
+        "subjectName": "Arithmetic",
+        "questions": [
+          {
+            "question": "A tap can fill 2/3rd of a 1000-liter tank in 30 minutes. How much of the tank can be filled in 45 minutes?",
+            "options": [
+              "400 liters",
+              "600 liters",
+              "800 liters",
+              "1000 liters"
+            ],
+            "correctIndex": 2,
+            "explanation": "The tap can fill 2/3rd of the tank in 30 minutes.",
+            "difficulty": "Medium",
+            "topicId": "math-tw",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-29"
+          },
+          {
+            "question": "Two pipes can fill a tank in 4 hours and 6 hours respectively. They worked together for 2 hours. Then, the first pipe was stopped and the second pipe continued to fill the tank. How much more time was required to fill the tank?",
+            "options": [
+              "3 hours",
+              "4.5 hours",
+              "6 hours",
+              "8 hours"
+            ],
+            "correctIndex": 1,
+            "explanation": "The first pipe fills 1/4 of the tank in 2 hours.",
+            "difficulty": "Hard",
+            "topicId": "math-tw",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-29"
+          },
+          {
+            "question": "A pump can empty a tank in 12 hours. How much of the tank will be filled by a pipe that can fill 1/4 of the tank in 3 hours in 4 hours?",
+            "options": [
+              "1/4",
+              "1/2",
+              "3/4",
+              "1"
+            ],
+            "correctIndex": 3,
+            "explanation": "The pump empties 1/12 of the tank in 1 hour.",
+            "difficulty": "Medium",
+            "topicId": "math-tw",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-29"
+          },
+          {
+            "question": "A group of 8 men can finish a job in 12 days. How many men are required to finish the same job in 6 days?",
+            "options": [
+              "12 men",
+              "16 men",
+              "20 men",
+              "24 men"
+            ],
+            "correctIndex": 1,
+            "explanation": "8 men can finish the job in 12 days.",
+            "difficulty": "Medium",
+            "topicId": "math-tw",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-29"
+          },
+          {
+            "question": "A tank is filled by two pipes A and B. Pipe A can fill 1/4 of the tank in 6 hours and pipe B can fill 1/4 of the tank in 8 hours. If both pipes work together, how long will it take to fill the tank?",
+            "options": [
+              "8 hours",
+              "10 hours",
+              "12 hours",
+              "16 hours"
+            ],
+            "correctIndex": 0,
+            "explanation": "Pipe A fills 1/24 of the tank in 1 hour.",
+            "difficulty": "Medium",
+            "topicId": "math-tw",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-29"
+          }
+        ],
+        "questionCount": 5
+      },
+      "math-tsd": {
+        "topicName": "Time, Speed & Distance",
+        "subjectName": "Arithmetic",
+        "questions": [
+          {
+            "question": "A train travels from Kolkata to Asansol at an average speed of 60 km/h. If the distance between the two cities is 120 km, how many hours will it take?",
+            "options": [
+              "3 hours",
+              "4 hours",
+              "5 hours",
+              "6 hours"
+            ],
+            "correctIndex": 2,
+            "explanation": "Time = Distance / Speed.",
+            "difficulty": "Medium",
+            "topicId": "math-tsd",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-29"
+          },
+          {
+            "question": "A car travels from Siliguri to Gangtok at an average speed of 40 km/h, covering a distance of 240 km. How many hours will it take to cover the remaining 160 km?",
+            "options": [
+              "2 hours",
+              "4 hours",
+              "6 hours",
+              "8 hours"
+            ],
+            "correctIndex": 0,
+            "explanation": "Time = Distance / Speed.",
+            "difficulty": "Medium",
+            "topicId": "math-tsd",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-29"
+          },
+          {
+            "question": "A bus travels at an average speed of 30 km/h, covering a distance of 180 km in 6 hours. How much distance will it cover in 3 hours?",
+            "options": [
+              "60 km",
+              "90 km",
+              "120 km",
+              "150 km"
+            ],
+            "correctIndex": 0,
+            "explanation": "Distance = Speed x Time.",
+            "difficulty": "Medium",
+            "topicId": "math-tsd",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-29"
+          },
+          {
+            "question": "A train travels from Sealdah to Bardhaman at an average speed of 50 km/h, covering a distance of 200 km. How much time will it take to cover the remaining 150 km?",
+            "options": [
+              "3 hours",
+              "4 hours",
+              "5 hours",
+              "6 hours"
+            ],
+            "correctIndex": 1,
+            "explanation": "Time = Distance / Speed.",
+            "difficulty": "Medium",
+            "topicId": "math-tsd",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-29"
+          },
+          {
+            "question": "A taxi travels at an average speed of 25 km/h, covering a distance of 120 km. How much time will it take to cover a distance of 180 km?",
+            "options": [
+              "6 hours",
+              "7 hours",
+              "8 hours",
+              "9 hours"
+            ],
+            "correctIndex": 2,
+            "explanation": "Time = Distance / Speed.",
+            "difficulty": "Medium",
+            "topicId": "math-tsd",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-29"
+          }
+        ],
+        "questionCount": 5
+      }
+    },
+    "reasoning": {
+      "rs-coding": {
+        "topicName": "Coding-Decoding",
+        "subjectName": "Reasoning",
+        "questions": [
+          {
+            "question": "If 4 is represented by #, then what is 13 represented by?",
+            "options": [
+              "##",
+              "###",
+              "###",
+              "####"
+            ],
+            "correctIndex": 2,
+            "explanation": "In this pattern, each number is represented by one '#'.",
+            "difficulty": "Medium",
+            "topicId": "rs-coding",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-29"
+          },
+          {
+            "question": "If 'SUN' is coded as 'MON', then 'TUE' is coded as?",
+            "options": [
+              "MON",
+              "WED",
+              "TUE",
+              "THU"
+            ],
+            "correctIndex": 1,
+            "explanation": "The given pattern shifts each day by one.",
+            "difficulty": "Medium",
+            "topicId": "rs-coding",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-29"
+          },
+          {
+            "question": "If 'BIRLA' is coded as 'BRAIL', then 'MAHARANA' is coded as?",
+            "options": [
+              "MAHARANL",
+              "MAHARANA",
+              "MAHARANU",
+              "MAHARANIL"
+            ],
+            "correctIndex": 2,
+            "explanation": "The given pattern replaces each letter with the next letter in the alphabet.",
+            "difficulty": "Medium",
+            "topicId": "rs-coding",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-29"
+          },
+          {
+            "question": "If 1 is represented by 'A', 2 is represented by 'B', 3 is represented by 'C', then 11 is represented by?",
+            "options": [
+              "AA",
+              "AB",
+              "AC",
+              "BB"
+            ],
+            "correctIndex": 3,
+            "explanation": "In this pattern, each digit is represented by the corresponding alphabet.",
+            "difficulty": "Medium",
+            "topicId": "rs-coding",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-29"
+          },
+          {
+            "question": "If 'CALCUTTA' is coded as 'KOLKATA', then 'HOWRAH' is coded as?",
+            "options": [
+              "HOWRAH",
+              "HOWRHA",
+              "HOWKHA",
+              "HOWRA"
+            ],
+            "correctIndex": 1,
+            "explanation": "The given pattern replaces 'CALCUTTA' with 'KOLKATA'.",
+            "difficulty": "Medium",
+            "topicId": "rs-coding",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-29"
+          }
+        ],
+        "questionCount": 5
+      },
+      "rs-blood": {
+        "topicName": "Blood Relations",
+        "subjectName": "Reasoning",
+        "questions": [
+          {
+            "question": "Dilip's paternal grandfather is the paternal grandfather of which one of the following relatives of Dilip?",
+            "options": [
+              "Brother",
+              "Mother",
+              "Father",
+              "Sister"
+            ],
+            "correctIndex": 2,
+            "explanation": "Dilip and his paternal grandfather are father and son.",
+            "difficulty": "Medium",
+            "topicId": "rs-blood",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-29"
+          },
+          {
+            "question": "If A is the mother of B and B is the daughter of D, Then who is the mother of D?",
+            "options": [
+              "B",
+              "A",
+              "Grandmother of B",
+              "Daughter of B"
+            ],
+            "correctIndex": 0,
+            "explanation": "B's mother is A, so D is B's paternal grandmother.",
+            "difficulty": "Medium",
+            "topicId": "rs-blood",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-29"
+          },
+          {
+            "question": "A and B are two persons. A's son is B's brother. Which of the following is correct about the relationship of A and B?",
+            "options": [
+              "A is the father of B",
+              "A is the brother of B",
+              "A is the son of B",
+              "A is the brother of B's father"
+            ],
+            "correctIndex": 1,
+            "explanation": "B's brother is A's son.",
+            "difficulty": "Medium",
+            "topicId": "rs-blood",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-29"
+          },
+          {
+            "question": "If A is the father of C and C is the son of D, Then who is the grandfather of D?",
+            "options": [
+              "D",
+              "A",
+              "Brother of D",
+              "Father of D"
+            ],
+            "correctIndex": 0,
+            "explanation": "D's son is C, and C's father is A.",
+            "difficulty": "Medium",
+            "topicId": "rs-blood",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-29"
+          },
+          {
+            "question": "In a family, there is a man, his wife, their daughter and their daughter's son. Who is the grandfather of the son?",
+            "options": [
+              "The man",
+              "The man's wife",
+              "The man's brother",
+              "The man's son"
+            ],
+            "correctIndex": 0,
+            "explanation": "The man is the son's paternal grandfather.",
+            "difficulty": "Medium",
+            "topicId": "rs-blood",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-29"
+          }
+        ],
+        "questionCount": 5
+      }
+    }
+  }
+}
