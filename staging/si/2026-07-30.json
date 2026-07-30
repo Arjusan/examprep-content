@@ -1,0 +1,838 @@
+{
+  "exam": "si",
+  "generatedDate": "2026-07-30",
+  "generatedAt": "2026-07-30T03:41:44.765Z",
+  "model": "llama-3.1-8b-instant",
+  "provider": "groq",
+  "source": "ai_generated",
+  "reviewStatus": "pending",
+  "totalQuestions": 50,
+  "subjects": {
+    "gs": {
+      "gs-polity": {
+        "topicName": "Indian Constitution & Polity",
+        "subjectName": "General Studies",
+        "questions": [
+          {
+            "question": "Which article of the Indian Constitution deals with the fundamental duties of citizens?",
+            "options": [
+              "Article 12",
+              "Article 14",
+              "Article 51A",
+              "Article 75"
+            ],
+            "correctIndex": 2,
+            "explanation": "Article 51A deals with the fundamental duties of citizens.",
+            "difficulty": "Medium",
+            "topicId": "gs-polity",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-30"
+          },
+          {
+            "question": "The concept of 'Panchayati Raj' was first implemented in which state of India?",
+            "options": [
+              "Uttar Pradesh",
+              "Rajasthan",
+              "West Bengal",
+              "Gujarat"
+            ],
+            "correctIndex": 2,
+            "explanation": "The concept of 'Panchayati Raj' was first implemented in West Bengal.",
+            "difficulty": "Easy",
+            "topicId": "gs-polity",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-30"
+          },
+          {
+            "question": "What is the name of the highest court in the hierarchy of the judiciary in India?",
+            "options": [
+              "Supreme Court of India",
+              "Calcutta High Court",
+              "High Court of Judicature at Allahabad",
+              "District Court of Mumbai"
+            ],
+            "correctIndex": 0,
+            "explanation": "The Supreme Court of India is the highest court in the hierarchy of the judiciary in India.",
+            "difficulty": "Medium",
+            "topicId": "gs-polity",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-30"
+          },
+          {
+            "question": "Which of the following is a fundamental right guaranteed by the Indian Constitution?",
+            "options": [
+              "Right to property",
+              "Right to freedom of speech and expression",
+              "Right to education",
+              "Right to live with dignity"
+            ],
+            "correctIndex": 1,
+            "explanation": "The right to freedom of speech and expression is a fundamental right guaranteed by the Indian Constitution.",
+            "difficulty": "Medium",
+            "topicId": "gs-polity",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-30"
+          },
+          {
+            "question": "Which article of the Indian Constitution deals with the power of the President to appoint the Governor of a state?",
+            "options": [
+              "Article 153",
+              "Article 154",
+              "Article 163",
+              "Article 164"
+            ],
+            "correctIndex": 0,
+            "explanation": "Article 153 deals with the power of the President to appoint the Governor of a state.",
+            "difficulty": "Medium",
+            "topicId": "gs-polity",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-30"
+          }
+        ],
+        "questionCount": 5
+      },
+      "gs-freedom": {
+        "topicName": "Indian Freedom Struggle & Bengal",
+        "subjectName": "General Studies",
+        "questions": [
+          {
+            "question": "The Indian National Congress session held in Calcutta in 1886 was the first to be held outside British India.",
+            "options": [
+              "True",
+              "False",
+              "Undetermined",
+              "Not Applicable"
+            ],
+            "correctIndex": 0,
+            "explanation": "This session marked the beginning of the Indian National Congress outside British India.",
+            "difficulty": "Medium",
+            "topicId": "gs-freedom",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-30"
+          },
+          {
+            "question": "Which of the following events led to the partition of Bengal in 1905?",
+            "options": [
+              "Surat Split of 1907",
+              "Swadeshi Movement of 1905",
+              "Jallianwala Bagh Massacre of 1919",
+              "Bengal Tenancy Act of 1885"
+            ],
+            "correctIndex": 1,
+            "explanation": "The partition of Bengal was a major political event in India's struggle for independence.",
+            "difficulty": "Medium",
+            "topicId": "gs-freedom",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-30"
+          },
+          {
+            "question": "Who was the key figure behind the establishment of the Anushilan Samiti in Bengal?",
+            "options": [
+              "Barindra Kumar Ghosh",
+              "Bipin Chandra Pal",
+              "Aurobindo Ghosh",
+              "Sachindra Nath Sanyal"
+            ],
+            "correctIndex": 2,
+            "explanation": "The Anushilan Samiti was a key organization in Bengal's fight for independence.",
+            "difficulty": "Medium",
+            "topicId": "gs-freedom",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-30"
+          },
+          {
+            "question": "The Chauri Chaura incident took place in which district of Uttar Pradesh?",
+            "options": [
+              "Gorakhpur",
+              "Ballia",
+              "Varanasi",
+              "Ghaziabad"
+            ],
+            "correctIndex": 1,
+            "explanation": "This event marked a significant turning point in India's freedom struggle.",
+            "difficulty": "Medium",
+            "topicId": "gs-freedom",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-30"
+          },
+          {
+            "question": "The Non-Cooperation Movement was launched by Mahatma Gandhi in 1920 from which place?",
+            "options": [
+              "Bhawalpur",
+              "Champaran",
+              "Ahmedabad",
+              "Calcutta"
+            ],
+            "correctIndex": 2,
+            "explanation": "The movement was a significant call to action for Indians to resist British rule.",
+            "difficulty": "Medium",
+            "topicId": "gs-freedom",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-30"
+          }
+        ],
+        "questionCount": 5
+      },
+      "gs-wb-geo": {
+        "topicName": "West Bengal Geography",
+        "subjectName": "General Studies",
+        "questions": [
+          {
+            "question": "What is the major river that flows through the Darjeeling district of West Bengal?",
+            "options": [
+              "Kosi",
+              "Mahanadi",
+              "Brahmaputra",
+              "Teesta"
+            ],
+            "correctIndex": 2,
+            "explanation": "The Teesta River is a major river in West Bengal.",
+            "difficulty": "Medium",
+            "topicId": "gs-wb-geo",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-30"
+          },
+          {
+            "question": "Which of the following plateaus is located in the western part of West Bengal?",
+            "options": [
+              "Chota Nagpur",
+              "Deccan",
+              "Chhota Padar",
+              "Garo Hills"
+            ],
+            "correctIndex": 0,
+            "explanation": "The Chota Nagpur plateau is located in the western part of West Bengal.",
+            "difficulty": "Medium",
+            "topicId": "gs-wb-geo",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-30"
+          },
+          {
+            "question": "What is the major delta in West Bengal formed by the Ganges-Brahmaputra river system?",
+            "options": [
+              "Ganges Delta",
+              "Brahmaputra Delta",
+              "Meghna Delta",
+              "Sundarbans Delta"
+            ],
+            "correctIndex": 0,
+            "explanation": "The Sundarbans Delta is the major delta in West Bengal formed by the Ganges-Brahmaputra river system.",
+            "difficulty": "Medium",
+            "topicId": "gs-wb-geo",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-30"
+          },
+          {
+            "question": "Which of the following mountain ranges is a part of the Eastern Himalayas in West Bengal?",
+            "options": [
+              "Garhwal Himalayas",
+              "Kumaon Himalayas",
+              "Sikkim Himalayas",
+              "Darjeeling Himalayas"
+            ],
+            "correctIndex": 2,
+            "explanation": "The Sikkim Himalayas is a part of the Eastern Himalayas in West Bengal.",
+            "difficulty": "Medium",
+            "topicId": "gs-wb-geo",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-30"
+          },
+          {
+            "question": "What is the name of the mangrove forest that is located in the Sundarbans region of West Bengal?",
+            "options": [
+              "Sundarbans Mangrove Forest",
+              "Bhagabanpur Mangrove Forest",
+              "Kakdwip Mangrove Forest",
+              "Narikeljung Mangrove Forest"
+            ],
+            "correctIndex": 0,
+            "explanation": "The Sundarbans Mangrove Forest is located in the Sundarbans region of West Bengal.",
+            "difficulty": "Medium",
+            "topicId": "gs-wb-geo",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-30"
+          }
+        ],
+        "questionCount": 5
+      },
+      "gs-current": {
+        "topicName": "Current Affairs (Last 12 Months)",
+        "subjectName": "General Studies",
+        "questions": [
+          {
+            "question": "The recent announcement of the Mamata Banerjee-led government to set up a new AIIMS in which district of West Bengal?",
+            "options": [
+              "North 24 Parganas",
+              "Birbhum",
+              "South 24 Parganas",
+              "Bankura"
+            ],
+            "correctIndex": 0,
+            "explanation": "The new AIIMS will be set up in North 24 Parganas district.",
+            "difficulty": "Medium",
+            "topicId": "gs-current",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-30"
+          },
+          {
+            "question": "Which of the following West Bengal government initiatives aims to promote sustainable agriculture practices?",
+            "options": [
+              "Swasthya Sathi",
+              "Sabooj Sathi",
+              "Mukhyamantri Kisan Aay Badhir Yojana",
+              "Mukhyamantri Swasthya Bima Yojana"
+            ],
+            "correctIndex": 2,
+            "explanation": "The Mukhyamantri Kisan Aay Badhir Yojana aims to promote sustainable agriculture practices.",
+            "difficulty": "Medium",
+            "topicId": "gs-current",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-30"
+          },
+          {
+            "question": "The recent floods in West Bengal were primarily caused by the overflow of which river?",
+            "options": [
+              "Ganges",
+              "Brahmaputra",
+              "Hooghly",
+              "Dhansiri"
+            ],
+            "correctIndex": 0,
+            "explanation": "The Ganges river primarily caused the recent floods in West Bengal.",
+            "difficulty": "Easy",
+            "topicId": "gs-current",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-30"
+          },
+          {
+            "question": "The West Bengal government has recently launched a new scheme to provide financial assistance to which category of beneficiaries?",
+            "options": [
+              "Weavers",
+              "Artisans",
+              "Small-scale industrialists",
+              "Farmers"
+            ],
+            "correctIndex": 1,
+            "explanation": "The West Bengal government has recently launched a new scheme to provide financial assistance to artisans.",
+            "difficulty": "Medium",
+            "topicId": "gs-current",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-30"
+          },
+          {
+            "question": "The recent decision by the West Bengal government to impose a ban on the use of plastic bags in which type of establishments?",
+            "options": [
+              "All establishments",
+              "Government offices",
+              "Private schools",
+              "Restaurants and hotels"
+            ],
+            "correctIndex": 3,
+            "explanation": "The West Bengal government has imposed a ban on the use of plastic bags in restaurants and hotels.",
+            "difficulty": "Easy",
+            "topicId": "gs-current",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-30"
+          }
+        ],
+        "questionCount": 5
+      },
+      "gs-wb-schemes": {
+        "topicName": "West Bengal Government Schemes",
+        "subjectName": "General Studies",
+        "questions": [
+          {
+            "question": "Which of the following is a flagship scheme of the Government of West Bengal for the welfare of the Scheduled Castes?",
+            "options": [
+              "Sikshashree",
+              "Swasthya Sathi",
+              "Duare Sarkar",
+              "Kanyashree Prakalpa"
+            ],
+            "correctIndex": 3,
+            "explanation": "Kanyashree Prakalpa is a scheme to prevent child marriage and provide financial assistance to girls.",
+            "difficulty": "Medium",
+            "topicId": "gs-wb-schemes",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-30"
+          },
+          {
+            "question": "What is the name of the scheme launched by the Government of West Bengal to provide health insurance to its citizens?",
+            "options": [
+              "Swasthya Sathi",
+              "Ayushman Bharat",
+              "Rashtriya Swasthya Bima Yojana",
+              "Modi Care"
+            ],
+            "correctIndex": 0,
+            "explanation": "Swasthya Sathi is a health insurance scheme of the Government of West Bengal.",
+            "difficulty": "Easy",
+            "topicId": "gs-wb-schemes",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-30"
+          },
+          {
+            "question": "Which of the following schemes is aimed at providing assistance to the rural poor to purchase electricity connections?",
+            "options": [
+              "Sikshashree",
+              "Swasthya Sathi",
+              "Duare Sarkar",
+              "Jaya Jawa Jala Scheme"
+            ],
+            "correctIndex": 3,
+            "explanation": "Jaya Jawa Jala Scheme provides assistance to the rural poor to purchase electricity connections.",
+            "difficulty": "Medium",
+            "topicId": "gs-wb-schemes",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-30"
+          },
+          {
+            "question": "What is the name of the scheme launched by the Government of West Bengal to provide financial assistance to the families of the martyrs?",
+            "options": [
+              "Sikshashree",
+              "Swasthya Sathi",
+              "Uttarayan",
+              "Bijoy Sanghaat"
+            ],
+            "correctIndex": 2,
+            "explanation": "Uttarayan is a scheme to provide financial assistance to the families of the martyrs.",
+            "difficulty": "Easy",
+            "topicId": "gs-wb-schemes",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-30"
+          },
+          {
+            "question": "Which of the following schemes is aimed at providing assistance to the women of West Bengal for their personal and professional development?",
+            "options": [
+              "Uttarayan",
+              "Bijoy Sanghaat",
+              "Kanyashree Prakalpa",
+              "Swami Vivekananda Merit Cum Means Scholarship"
+            ],
+            "correctIndex": 2,
+            "explanation": "Bijoy Sanghaat is a scheme to provide assistance to the women of West Bengal for their personal and professional development.",
+            "difficulty": "Medium",
+            "topicId": "gs-wb-schemes",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-30"
+          }
+        ],
+        "questionCount": 5
+      }
+    },
+    "math": {
+      "math-percent": {
+        "topicName": "Percentage & Profit-Loss",
+        "subjectName": "Arithmetic",
+        "questions": [
+          {
+            "question": "In a shop selling items at a profit of 20% in Kolkata, if a customer pays Rs. 880 for an item, what is the cost price of the item?",
+            "options": [
+              "Rs. 736",
+              "Rs. 736.80",
+              "Rs. 736.00",
+              "Rs. 736.40"
+            ],
+            "correctIndex": 0,
+            "explanation": "Cost price is calculated by dividing the selling price by (1 + profit percentage).",
+            "difficulty": "Medium",
+            "topicId": "math-profit",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-30"
+          },
+          {
+            "question": "A trader from Siliguri sells a toy at a loss of 15%. If he sells the toy for Rs. 390, what is the cost price of the toy?",
+            "options": [
+              "Rs. 460",
+              "Rs. 462.50",
+              "Rs. 461.00",
+              "Rs. 459.50"
+            ],
+            "correctIndex": 1,
+            "explanation": "Cost price is calculated by dividing the selling price by (1 - loss percentage).",
+            "difficulty": "Medium",
+            "topicId": "math-profit",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-30"
+          },
+          {
+            "question": "A fruit seller in Darjeeling increases the price of oranges by 25%. If the original price of an orange was Rs. 12, what is the new price?",
+            "options": [
+              "Rs. 15",
+              "Rs. 14.40",
+              "Rs. 13.50",
+              "Rs. 12.50"
+            ],
+            "correctIndex": 0,
+            "explanation": "New price is calculated by adding the increase to the original price.",
+            "difficulty": "Easy",
+            "topicId": "math-percent",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-30"
+          },
+          {
+            "question": "A merchant from Howrah decreases the price of a product by 10%. If the new price is Rs. 540, what is the original price?",
+            "options": [
+              "Rs. 600",
+              "Rs. 600.00",
+              "Rs. 600.50",
+              "Rs. 599.50"
+            ],
+            "correctIndex": 0,
+            "explanation": "Original price is calculated by dividing the new price by (1 - decrease percentage).",
+            "difficulty": "Medium",
+            "topicId": "math-profit",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-30"
+          },
+          {
+            "question": "A shopkeeper in Asansol offers a discount of 15% on the marked price of a product. If the marked price is Rs. 960, what is the amount of discount?",
+            "options": [
+              "Rs. 144",
+              "Rs. 143.20",
+              "Rs. 144.00",
+              "Rs. 143.50"
+            ],
+            "correctIndex": 0,
+            "explanation": "Amount of discount is calculated by multiplying the marked price by the discount percentage.",
+            "difficulty": "Easy",
+            "topicId": "math-percent",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-30"
+          }
+        ],
+        "questionCount": 5
+      },
+      "math-interest": {
+        "topicName": "Simple & Compound Interest",
+        "subjectName": "Arithmetic",
+        "questions": [
+          {
+            "question": "A sum of ₹ 10,000 is invested in a savings account at 8% interest rate per annum. What is the simple interest earned after 2 years?",
+            "options": [
+              "₹ 1,600",
+              "₹ 1,600.80",
+              "₹ 1,600.84",
+              "₹ 1,601.60"
+            ],
+            "correctIndex": 0,
+            "explanation": "Simple Interest = (Principal * Rate * Time) / 100.",
+            "difficulty": "Medium",
+            "topicId": "math-interest",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-30"
+          },
+          {
+            "question": "If ₹ 8,000 is invested at a compound interest rate of 10% per annum for 3 years, what is the amount at the end of the 3rd year?",
+            "options": [
+              "₹ 11,220",
+              "₹ 11,221",
+              "₹ 11,221.08",
+              "₹ 11,221.10"
+            ],
+            "correctIndex": 1,
+            "explanation": "Compound Interest = P (1 + r)^n - P.",
+            "difficulty": "Medium",
+            "topicId": "math-interest",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-30"
+          },
+          {
+            "question": "A sum of money becomes double in 5 years when invested at a certain rate of interest. What is the rate of interest?",
+            "options": [
+              "8%",
+              "8.1%",
+              "8.2%",
+              "8.3%"
+            ],
+            "correctIndex": 2,
+            "explanation": "Rate of interest = ((2 * Principal) / Principal)^(1 / Time) * 100.",
+            "difficulty": "Medium",
+            "topicId": "math-interest",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-30"
+          },
+          {
+            "question": "₹ 25,000 is deposited at 12% interest rate per annum compounded annually. What is the amount after 2 years?",
+            "options": [
+              "₹ 30,480",
+              "₹ 30,481",
+              "₹ 30,481.60",
+              "₹ 30,482"
+            ],
+            "correctIndex": 0,
+            "explanation": "Compound Interest = P (1 + r)^n - P.",
+            "difficulty": "Medium",
+            "topicId": "math-interest",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-30"
+          },
+          {
+            "question": "If the compound interest on ₹ 5,000 for 2 years at 5% per annum is ₹ 52.50, what is the principal amount?",
+            "options": [
+              "₹ 4,950",
+              "₹ 4,951",
+              "₹ 4,951.00",
+              "₹ 4,951.10"
+            ],
+            "correctIndex": 2,
+            "explanation": "Compound Interest = P (1 + r)^n - P.",
+            "difficulty": "Medium",
+            "topicId": "math-interest",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-30"
+          }
+        ],
+        "questionCount": 5
+      },
+      "math-tsd": {
+        "topicName": "Time, Speed & Distance",
+        "subjectName": "Arithmetic",
+        "questions": [
+          {
+            "question": "A train travels from Howrah to Sealdah in 30 minutes. If the distance between Howrah and Sealdah is 20 km, then the speed of the train is?",
+            "options": [
+              "60 kmph",
+              "80 kmph",
+              "100 kmph",
+              "120 kmph"
+            ],
+            "correctIndex": 2,
+            "explanation": "Speed is calculated as distance divided by time.",
+            "difficulty": "Medium",
+            "topicId": "math-tsd",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-30"
+          },
+          {
+            "question": "A man travels 15 km in 1 hour and 45 minutes. His speed is?",
+            "options": [
+              "6 kmph",
+              "8 kmph",
+              "10 kmph",
+              "12 kmph"
+            ],
+            "correctIndex": 2,
+            "explanation": "Speed is calculated as distance divided by time.",
+            "difficulty": "Medium",
+            "topicId": "math-tsd",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-30"
+          },
+          {
+            "question": "A bus travels 80 km in 2 hours. The speed of the bus is?",
+            "options": [
+              "20 kmph",
+              "40 kmph",
+              "60 kmph",
+              "80 kmph"
+            ],
+            "correctIndex": 2,
+            "explanation": "Speed is calculated as distance divided by time.",
+            "difficulty": "Easy",
+            "topicId": "math-tsd",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-30"
+          },
+          {
+            "question": "A car travels at a speed of 60 kmph. If the distance is 120 km, then the time taken is?",
+            "options": [
+              "2 hours",
+              "2 hours 30 minutes",
+              "3 hours",
+              "3 hours 30 minutes"
+            ],
+            "correctIndex": 3,
+            "explanation": "Time is calculated as distance divided by speed.",
+            "difficulty": "Easy",
+            "topicId": "math-tsd",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-30"
+          },
+          {
+            "question": "A train covers a distance of 240 km in 4 hours. What is the speed of the train?",
+            "options": [
+              "40 kmph",
+              "50 kmph",
+              "60 kmph",
+              "70 kmph"
+            ],
+            "correctIndex": 3,
+            "explanation": "Speed is calculated as distance divided by time.",
+            "difficulty": "Medium",
+            "topicId": "math-tsd",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-30"
+          }
+        ],
+        "questionCount": 5
+      }
+    },
+    "reasoning": {
+      "rs-blood": {
+        "topicName": "Blood Relations",
+        "subjectName": "Reasoning",
+        "questions": [
+          {
+            "question": "If A is the brother of B, B is the husband of C, and D is the daughter of C, then what is the relation of D with A?",
+            "options": [
+              "Son",
+              "Daughter",
+              "Brother",
+              "Father"
+            ],
+            "correctIndex": 2,
+            "explanation": "D is the daughter of C and A is the brother of B, so D is the niece of A.",
+            "difficulty": "Medium",
+            "topicId": "rs-blood",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-30"
+          },
+          {
+            "question": "A and B are brothers, C is the wife of B, and D is the daughter of A. What is the relationship of D with B?",
+            "options": [
+              "Daughter",
+              "Niece",
+              "Sister",
+              "Mother"
+            ],
+            "correctIndex": 0,
+            "explanation": "D is the daughter of A and B is the brother of A.",
+            "difficulty": "Medium",
+            "topicId": "rs-blood",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-30"
+          },
+          {
+            "question": "Maa Sarada is the wife of Sri Ramakrishna. What is the relationship of Sarada Devi with Narendranath Dutta?",
+            "options": [
+              "Maiden",
+              "Wife",
+              "Mother",
+              "Son"
+            ],
+            "correctIndex": "Mother",
+            "explanation": "Maa Sarada is the wife of Sri Ramakrishna, and Narendranath Dutta (Swami Vivekananda) is their spiritual son and the spiritual son of Maa Sarada.",
+            "difficulty": "Medium",
+            "topicId": "rs-blood",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-30"
+          },
+          {
+            "question": "A is the father of B, B is the son of C, and D is the brother of B. What is the relation of D with A?",
+            "options": [
+              "Father",
+              "Son",
+              "Brother",
+              "Uncle"
+            ],
+            "correctIndex": 3,
+            "explanation": "D is the brother of B and B is the son of A.",
+            "difficulty": "Medium",
+            "topicId": "rs-blood",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-30"
+          },
+          {
+            "question": "A is the mother of B, B is the wife of C, and D is the daughter of B and C. What is the relationship of D with A?",
+            "options": [
+              "Granddaughter",
+              "Daughter",
+              "Mother",
+              "Sister"
+            ],
+            "correctIndex": 1,
+            "explanation": "D is the daughter of B and B is the daughter of A.",
+            "difficulty": "Medium",
+            "topicId": "rs-blood",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-30"
+          }
+        ],
+        "questionCount": 5
+      },
+      "rs-direction": {
+        "topicName": "Direction Sense",
+        "subjectName": "Reasoning",
+        "questions": [
+          {
+            "question": "A person is standing at a place where he can see a statue of Swami Vivekananda. If he walks 20 meters east, turns left and walks 15 meters, turns left and walks 40 meters, turns right and walks 20 meters, in which direction is the statue now?",
+            "options": [
+              "North",
+              "South",
+              "East",
+              "West"
+            ],
+            "correctIndex": 0,
+            "explanation": "He is facing north.",
+            "difficulty": "Medium",
+            "topicId": "rs-direction",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-30"
+          },
+          {
+            "question": "A man starts from Howrah Station and walks 5 km towards the Ganges River, then turns right and walks 3 km, and finally turns right and walks 7 km. In which direction is the man from Howrah Station now?",
+            "options": [
+              "North",
+              "South",
+              "East",
+              "West"
+            ],
+            "correctIndex": 0,
+            "explanation": "He is now 3 km south of the starting point.",
+            "difficulty": "Medium",
+            "topicId": "rs-direction",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-30"
+          },
+          {
+            "question": "A woman is facing a temple in Malda. She turns 180 degrees to her left, walks 200 meters, and then turns 90 degrees to her right. In which direction is the woman facing now?",
+            "options": [
+              "Temple",
+              "North",
+              "East",
+              "South"
+            ],
+            "correctIndex": 3,
+            "explanation": "She is facing south.",
+            "difficulty": "Medium",
+            "topicId": "rs-direction",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-30"
+          },
+          {
+            "question": "A group of people are standing at the foot of the Darjeeling Himalayan Railway. If they walk 2 km east, then 1 km north, and finally 1 km west, in which direction are they now?",
+            "options": [
+              "South",
+              "East",
+              "North",
+              "West"
+            ],
+            "correctIndex": 2,
+            "explanation": "They are now 1 km north of the starting point.",
+            "difficulty": "Medium",
+            "topicId": "rs-direction",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-30"
+          },
+          {
+            "question": "A man is standing in the middle of the Ganges River, facing towards the city of Kolkata. He turns 90 degrees to his left, walks 100 meters, and then turns 90 degrees to his left. In which direction is the man facing now?",
+            "options": [
+              "North",
+              "South",
+              "East",
+              "West"
+            ],
+            "correctIndex": 0,
+            "explanation": "He is facing north.",
+            "difficulty": "Medium",
+            "topicId": "rs-direction",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-30"
+          }
+        ],
+        "questionCount": 5
+      }
+    }
+  }
+}
