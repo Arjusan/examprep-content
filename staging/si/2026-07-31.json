@@ -1,0 +1,592 @@
+{
+  "exam": "si",
+  "generatedDate": "2026-07-31",
+  "generatedAt": "2026-07-31T04:01:02.408Z",
+  "model": "llama-3.1-8b-instant",
+  "provider": "groq",
+  "source": "ai_generated",
+  "reviewStatus": "pending",
+  "totalQuestions": 35,
+  "subjects": {
+    "gs": {
+      "gs-polity": {
+        "topicName": "Indian Constitution & Polity",
+        "subjectName": "General Studies",
+        "questions": [
+          {
+            "question": "Which Article of the Indian Constitution deals with the power of Parliament to amend the Constitution?",
+            "options": [
+              "Article 368",
+              "Article 368",
+              "Article 368",
+              "Article 368"
+            ],
+            "correctIndex": 0,
+            "explanation": "Article 368 provides the mechanism for Parliament to amend the Constitution.",
+            "difficulty": "Easy",
+            "topicId": "gs-polity",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-31"
+          },
+          {
+            "question": "The first State in India to adopt the Panchayat system of local self-government was?",
+            "options": [
+              "Rajasthan",
+              "West Bengal",
+              "Uttar Pradesh",
+              "Madhya Pradesh"
+            ],
+            "correctIndex": 1,
+            "explanation": "West Bengal was the first State to adopt the Panchayat system in 1959.",
+            "difficulty": "Medium",
+            "topicId": "gs-polity",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-31"
+          },
+          {
+            "question": "What is the name of the highest court in the State of West Bengal?",
+            "options": [
+              "Calcutta High Court",
+              "Kolkata High Court",
+              "West Bengal High Court",
+              "Bengal High Court"
+            ],
+            "correctIndex": 0,
+            "explanation": "The Calcutta High Court is the highest court in the State of West Bengal.",
+            "difficulty": "Easy",
+            "topicId": "gs-polity",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-31"
+          },
+          {
+            "question": "The provisions of the Indian Constitution that deal with the relationship between the Centre and the States are contained in which Part?",
+            "options": [
+              "Part I",
+              "Part II",
+              "Part IV",
+              "Part XI"
+            ],
+            "correctIndex": 3,
+            "explanation": "Part XI of the Indian Constitution deals with the relationship between the Centre and the States.",
+            "difficulty": "Medium",
+            "topicId": "gs-polity",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-31"
+          },
+          {
+            "question": "What is the name of the Bill that was passed in 1992 to provide for the protection of children in difficult circumstances in West Bengal?",
+            "options": [
+              "West Bengal Children (Juvenile Justice) Bill, 1992",
+              "West Bengal Child Labour (Prohibition and Regulation) Bill, 1992",
+              "West Bengal Juvenile Justice (Care and Protection of Children) Bill, 1992",
+              "West Bengal Child Protection Bill, 1992"
+            ],
+            "correctIndex": 2,
+            "explanation": "The West Bengal Juvenile Justice (Care and Protection of Children) Bill, 1992, was passed to protect children in difficult circumstances.",
+            "difficulty": "Hard",
+            "topicId": "gs-polity",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-31"
+          }
+        ],
+        "questionCount": 5
+      },
+      "gs-wb-geo": {
+        "topicName": "West Bengal Geography",
+        "subjectName": "General Studies",
+        "questions": [
+          {
+            "question": "Which of the following rivers is the main source of water for the Sundarbans mangrove forest?",
+            "options": [
+              "Ganges River",
+              "Brahmaputra River",
+              "Padma River",
+              "Hooghly River"
+            ],
+            "correctIndex": 0,
+            "explanation": "The Ganges River is the main source of water for the Sundarbans mangrove forest.",
+            "difficulty": "Medium",
+            "topicId": "gs-wb-geo",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-31"
+          },
+          {
+            "question": "What is the highest peak in the Darjeeling Himalayan hill region of West Bengal?",
+            "options": [
+              "Siniolchu",
+              "Kabru",
+              "Makalu",
+              "Lhotse"
+            ],
+            "correctIndex": 0,
+            "explanation": "Siniolchu is the highest peak in the Darjeeling Himalayan hill region of West Bengal.",
+            "difficulty": "Medium",
+            "topicId": "gs-wb-geo",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-31"
+          },
+          {
+            "question": "Which of the following is a major delta in West Bengal?",
+            "options": [
+              "Ganges-Brahmaputra Delta",
+              "Meghna Delta",
+              "Surma-Meghna Delta",
+              "Krishna Delta"
+            ],
+            "correctIndex": 0,
+            "explanation": "The Ganges-Brahmaputra Delta is a major delta in West Bengal.",
+            "difficulty": "Medium",
+            "topicId": "gs-wb-geo",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-31"
+          },
+          {
+            "question": "What is the name of the largest wetland in West Bengal?",
+            "options": [
+              "Sundarbans",
+              "Gangani Beel",
+              "Bhagirathi-Hooghly River",
+              "Jaldhaka River"
+            ],
+            "correctIndex": 1,
+            "explanation": "Gangani Beel is the largest wetland in West Bengal.",
+            "difficulty": "Medium",
+            "topicId": "gs-wb-geo",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-31"
+          },
+          {
+            "question": "Which of the following mountain ranges is partially located in West Bengal?",
+            "options": [
+              "Eastern Himalayas",
+              "Eastern Ghats",
+              "Arakan Yoma",
+              "Patkai Hills"
+            ],
+            "correctIndex": 0,
+            "explanation": "The Eastern Himalayas are partially located in West Bengal.",
+            "difficulty": "Medium",
+            "topicId": "gs-wb-geo",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-31"
+          }
+        ],
+        "questionCount": 5
+      },
+      "gs-wb-schemes": {
+        "topicName": "West Bengal Government Schemes",
+        "subjectName": "General Studies",
+        "questions": [
+          {
+            "question": "The Swasthya Sathi scheme was launched by the Government of West Bengal in which year?",
+            "options": [
+              "2016",
+              "2018",
+              "2011",
+              "2014"
+            ],
+            "correctIndex": 0,
+            "explanation": "It was launched in 2016.",
+            "difficulty": "Medium",
+            "topicId": "gs-wb-schemes",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-31"
+          },
+          {
+            "question": "Which of the following West Bengal government schemes provides financial assistance to the women of the state?",
+            "options": [
+              "Kanyashree Prakalpa",
+              "Swasthya Sathi",
+              "Dishari",
+              "Duare Sarkar"
+            ],
+            "correctIndex": 0,
+            "explanation": "It provides financial assistance to the women.",
+            "difficulty": "Medium",
+            "topicId": "gs-wb-schemes",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-31"
+          },
+          {
+            "question": "What is the main objective of the 'Duare Dak' scheme launched by the Government of West Bengal?",
+            "options": [
+              "To provide ration to the poor",
+              "To provide financial assistance to the farmers",
+              "To deliver government services at the doorstep",
+              "To provide health insurance to the people"
+            ],
+            "correctIndex": 2,
+            "explanation": "To deliver government services at the doorstep.",
+            "difficulty": "Medium",
+            "topicId": "gs-wb-schemes",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-31"
+          },
+          {
+            "question": "The Paray Mi Paray scheme was launched by the Government of West Bengal in which year?",
+            "options": [
+              "2020",
+              "2019",
+              "2018",
+              "2017"
+            ],
+            "correctIndex": 0,
+            "explanation": "It was launched in 2020.",
+            "difficulty": "Medium",
+            "topicId": "gs-wb-schemes",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-31"
+          },
+          {
+            "question": "Which of the following is a flagship scheme of the Government of West Bengal to provide free education to girls?",
+            "options": [
+              "Scholarship Scheme",
+              "Kanyashree Prakalpa",
+              "Dishari",
+              "Uchchashiksha Abhiyan"
+            ],
+            "correctIndex": 1,
+            "explanation": "It is a flagship scheme of the government.",
+            "difficulty": "Medium",
+            "topicId": "gs-wb-schemes",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-31"
+          }
+        ],
+        "questionCount": 5
+      }
+    },
+    "math": {
+      "math-percent": {
+        "topicName": "Percentage & Profit-Loss",
+        "subjectName": "Arithmetic",
+        "questions": [
+          {
+            "question": "A shopkeeper in Kolkata buys 15 kg of potatoes at the rate of ₹ 18 per kg. He sells them at a 20% profit. What is the profit percentage if he sells the potatoes at ₹ 24 per kg?",
+            "options": [
+              "5%",
+              "8%",
+              "20%",
+              "12%"
+            ],
+            "correctIndex": 2,
+            "explanation": "Profit percentage is calculated on the cost price.",
+            "difficulty": "Medium",
+            "topicId": "math-profit-loss",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-31"
+          },
+          {
+            "question": "A local dairy in West Bengal sells milk at a price that includes a 15% commission to the distributor and a 10% sales tax. If the distributor's commission is ₹ 2.50 on a can of milk, what is the original price of the milk can?",
+            "options": [
+              "₹ 30",
+              "₹ 50",
+              "₹ 25",
+              "₹ 60"
+            ],
+            "correctIndex": 0,
+            "explanation": "Commission and tax are added to the original price.",
+            "difficulty": "Medium",
+            "topicId": "math-percent",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-31"
+          },
+          {
+            "question": "A farmer in West Bengal sells wheat at ₹ 20 per kg, earning a 25% profit. If he buys the wheat at ₹ 16 per kg, what is his total profit on selling 120 kg of wheat?",
+            "options": [
+              "₹ 800",
+              "₹ 600",
+              "₹ 700",
+              "₹ 900"
+            ],
+            "correctIndex": 0,
+            "explanation": "Profit is the difference between the selling and cost prices.",
+            "difficulty": "Medium",
+            "topicId": "math-profit-loss",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-31"
+          },
+          {
+            "question": "A local store in Kolkata sells a product at a discount of 10% for the first 50 units and 20% for the next 50 units. If the store earns ₹ 5000 by selling 100 units at the discounted prices, what is the original selling price per unit?",
+            "options": [
+              "₹ 50",
+              "₹ 60",
+              "₹ 70",
+              "₹ 80"
+            ],
+            "correctIndex": 2,
+            "explanation": "Discounts are subtracted from the original price.",
+            "difficulty": "Medium",
+            "topicId": "math-percent",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-31"
+          },
+          {
+            "question": "A West Bengal government agency buys 2000 kg of rice at ₹ 22.50 per kg and sells it at a 35% profit. If the profit is ₹ 10,000, what is the selling price per kg of rice?",
+            "options": [
+              "₹ 28.50",
+              "₹ 29.50",
+              "₹ 25.50",
+              "₹ 26.50"
+            ],
+            "correctIndex": 2,
+            "explanation": "Profit is the difference between the selling and cost prices.",
+            "difficulty": "Medium",
+            "topicId": "math-profit-loss",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-31"
+          }
+        ],
+        "questionCount": 5
+      },
+      "math-tsd": {
+        "topicName": "Time, Speed & Distance",
+        "subjectName": "Arithmetic",
+        "questions": [
+          {
+            "question": "A train travels from Howrah to Sealdah covering a distance of 21 km in 1 hour. What is the approximate speed of the train in kmph?",
+            "options": [
+              "20 kmph",
+              "45 kmph",
+              "60 kmph",
+              "80 kmph"
+            ],
+            "correctIndex": 1,
+            "explanation": "Speed is calculated as distance divided by time.",
+            "difficulty": "Medium",
+            "topicId": "math-tsd",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-31"
+          },
+          {
+            "question": "A car travels from Kolkata to Digha covering a distance of 180 km in 3 hours. What is the time taken to cover the next 90 km of the journey at the same speed?",
+            "options": [
+              "1 hour",
+              "1.5 hours",
+              "2 hours",
+              "2.5 hours"
+            ],
+            "correctIndex": 2,
+            "explanation": "Time is calculated as distance divided by speed.",
+            "difficulty": "Medium",
+            "topicId": "math-tsd",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-31"
+          },
+          {
+            "question": "A motorist covers a certain distance at 40 kmph and returns at 60 kmph. What is the average speed of the motorist for the entire journey?",
+            "options": [
+              "30 kmph",
+              "45 kmph",
+              "50 kmph",
+              "55 kmph"
+            ],
+            "correctIndex": 3,
+            "explanation": "Average speed is calculated as total distance divided by total time.",
+            "difficulty": "Medium",
+            "topicId": "math-tsd",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-31"
+          },
+          {
+            "question": "A bus travels from Siliguri to Darjeeling covering a distance of 80 km in 2 hours. What is the time taken to cover the next 20 km of the journey at the same speed?",
+            "options": [
+              "30 minutes",
+              "45 minutes",
+              "1 hour",
+              "1.5 hours"
+            ],
+            "correctIndex": 2,
+            "explanation": "Time is calculated as distance divided by speed.",
+            "difficulty": "Medium",
+            "topicId": "math-tsd",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-31"
+          },
+          {
+            "question": "A train starts from Kolkata and travels to Bardhaman at an average speed of 50 kmph. If the distance between the two cities is 120 km, how much time will it take to cover this distance?",
+            "options": [
+              "1.5 hours",
+              "2 hours",
+              "2.5 hours",
+              "3 hours"
+            ],
+            "correctIndex": 1,
+            "explanation": "Time is calculated as distance divided by speed.",
+            "difficulty": "Medium",
+            "topicId": "math-tsd",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-31"
+          }
+        ],
+        "questionCount": 5
+      }
+    },
+    "reasoning": {
+      "rs-blood": {
+        "topicName": "Blood Relations",
+        "subjectName": "Reasoning",
+        "questions": [
+          {
+            "question": "Kamal is the younger brother of Somen. Somen's wife is the mother of ______________.",
+            "options": [
+              "Kamal",
+              "Somen's younger brother",
+              "Somen's elder sister",
+              "Kamal's elder sister"
+            ],
+            "correctIndex": 0,
+            "explanation": "Kamal is Somen's younger brother.",
+            "difficulty": "Medium",
+            "topicId": "rs-blood",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-31"
+          },
+          {
+            "question": "Biplab is the husband of Sushama. Sushama's sister is married to ______________.",
+            "options": [
+              "Biplab",
+              "Biplab's father",
+              "Biplab's younger brother",
+              "Biplab's elder brother"
+            ],
+            "correctIndex": 2,
+            "explanation": "Biplab's younger brother is Sushama's sister's husband.",
+            "difficulty": "Medium",
+            "topicId": "rs-blood",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-31"
+          },
+          {
+            "question": "Arindam is the father of Suman. Suman's maternal grandmother is the mother of ______________.",
+            "options": [
+              "Arindam",
+              "Arindam's wife",
+              "Suman's younger brother",
+              "Arindam's younger brother"
+            ],
+            "correctIndex": 1,
+            "explanation": "Arindam's wife is Suman's maternal grandmother.",
+            "difficulty": "Medium",
+            "topicId": "rs-blood",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-31"
+          },
+          {
+            "question": "Rahul is the elder brother of Surojit. Surojit's wife is the sister of ______________.",
+            "options": [
+              "Rahul",
+              "Rahul's younger sister",
+              "Rahul's younger brother",
+              "Surojit's younger brother"
+            ],
+            "correctIndex": 2,
+            "explanation": "Rahul's younger brother is Surojit's wife's brother.",
+            "difficulty": "Medium",
+            "topicId": "rs-blood",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-31"
+          },
+          {
+            "question": "Sudipto is the husband of Kalyani. Kalyani's brother is married to ______________.",
+            "options": [
+              "Sudipto",
+              "Sudipto's younger brother",
+              "Sudipto's elder sister",
+              "Kalyani's younger sister"
+            ],
+            "correctIndex": 2,
+            "explanation": "Sudipto's elder sister is Kalyani's brother's wife.",
+            "difficulty": "Medium",
+            "topicId": "rs-blood",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-31"
+          }
+        ],
+        "questionCount": 5
+      },
+      "rs-direction": {
+        "topicName": "Direction Sense",
+        "subjectName": "Reasoning",
+        "questions": [
+          {
+            "question": "A person is facing a wall on the west side and then turns 90 degrees to the right. Which direction is he facing now?",
+            "options": [
+              "East",
+              "North",
+              "South",
+              "West"
+            ],
+            "correctIndex": 1,
+            "explanation": "He turned to the right, so he is facing the north direction.",
+            "difficulty": "Easy",
+            "topicId": "rs-direction",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-31"
+          },
+          {
+            "question": "A person is standing at the foot of a mountain on the banks of the Ganges River. He walks 5 km north along the river, then turns 90 degrees to the left and walks 4 km. Then he turns 90 degrees to the right and walks 3 km. In which direction is he now?",
+            "options": [
+              "North",
+              "South",
+              "East",
+              "West"
+            ],
+            "correctIndex": 0,
+            "explanation": "After turning 90 degrees to the left, he is facing the west direction and walked 4 km, then turned 90 degrees to the right and walked 3 km, so he is facing the north direction.",
+            "difficulty": "Medium",
+            "topicId": "rs-direction",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-31"
+          },
+          {
+            "question": "A man is standing on the banks of the Hooghly River. He walks 4 km along the river in a northerly direction, then turns 90 degrees to the left and walks 2 km, then turns 90 degrees to the right and walks 6 km. In which direction is he now?",
+            "options": [
+              "East",
+              "West",
+              "South",
+              "North"
+            ],
+            "correctIndex": 0,
+            "explanation": "After turning 90 degrees to the left, he is facing the west direction and walked 2 km, then turned 90 degrees to the right and walked 6 km, so he is facing the east direction.",
+            "difficulty": "Medium",
+            "topicId": "rs-direction",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-31"
+          },
+          {
+            "question": "A person is standing at the centre of a square plot with each side measuring 5 km. He walks 2 km towards the north and then turns 90 degrees to the right and walks 2 km. In which direction is he now?",
+            "options": [
+              "North",
+              "East",
+              "West",
+              "South"
+            ],
+            "correctIndex": 2,
+            "explanation": "He walked 2 km towards the north and then turned 90 degrees to the right, so he is facing the west direction.",
+            "difficulty": "Easy",
+            "topicId": "rs-direction",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-31"
+          },
+          {
+            "question": "A person is standing on the banks of a river and is facing a church on the other side. He walks 50 meters upstream and then turns 90 degrees to the right and walks 30 meters. Then he turns 90 degrees to the left and walks 20 meters. Which direction is he now facing?",
+            "options": [
+              "North",
+              "East",
+              "South",
+              "West"
+            ],
+            "correctIndex": 0,
+            "explanation": "He walked 50 meters upstream, then turned 90 degrees to the right and walked 30 meters, and then turned 90 degrees to the left and walked 20 meters, so he is still facing the north direction.",
+            "difficulty": "Easy",
+            "topicId": "rs-direction",
+            "source": "ai_generated",
+            "generatedDate": "2026-07-31"
+          }
+        ],
+        "questionCount": 5
+      }
+    }
+  }
+}
