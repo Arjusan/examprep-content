@@ -1,0 +1,838 @@
+{
+  "exam": "si",
+  "generatedDate": "2026-08-02",
+  "generatedAt": "2026-08-02T04:04:15.107Z",
+  "model": "llama-3.1-8b-instant",
+  "provider": "groq",
+  "source": "ai_generated",
+  "reviewStatus": "pending",
+  "totalQuestions": 50,
+  "subjects": {
+    "gs": {
+      "gs-polity": {
+        "topicName": "Indian Constitution & Polity",
+        "subjectName": "General Studies",
+        "questions": [
+          {
+            "question": "Which of the following articles in the Indian Constitution deals with the Fundamental Duties of citizens?",
+            "options": [
+              "Article 14",
+              "Article 19",
+              "Article 51A",
+              "Article 370"
+            ],
+            "correctIndex": 2,
+            "explanation": "Article 51A enlists Fundamental Duties of citizens.",
+            "difficulty": "Medium",
+            "topicId": "gs-polity",
+            "source": "ai_generated",
+            "generatedDate": "2026-08-02"
+          },
+          {
+            "question": "How many sessions of the West Bengal Legislative Assembly can be summoned by the Governor within a period of six months?",
+            "options": [
+              "Up to 2",
+              "Up to 4",
+              "Up to 6",
+              "Up to 8"
+            ],
+            "correctIndex": 3,
+            "explanation": "Up to 8 sessions can be summoned by the Governor within a period of six months.",
+            "difficulty": "Medium",
+            "topicId": "gs-polity",
+            "source": "ai_generated",
+            "generatedDate": "2026-08-02"
+          },
+          {
+            "question": "Which of the following is a feature of the Panchayati Raj system in West Bengal?",
+            "options": [
+              "Three-tier system",
+              "Two-tier system",
+              "Single-tier system",
+              "No system"
+            ],
+            "correctIndex": 0,
+            "explanation": "The Panchayati Raj system in West Bengal is Three-tier.",
+            "difficulty": "Medium",
+            "topicId": "gs-polity",
+            "source": "ai_generated",
+            "generatedDate": "2026-08-02"
+          },
+          {
+            "question": "Who among the following is the head of the State Election Commission in West Bengal?",
+            "options": [
+              "Chief Minister",
+              "Speaker of Legislative Assembly",
+              "Chief Justice of Calcutta High Court",
+              "State Election Commissioner"
+            ],
+            "correctIndex": 3,
+            "explanation": "The State Election Commissioner is the head of the State Election Commission in West Bengal.",
+            "difficulty": "Medium",
+            "topicId": "gs-polity",
+            "source": "ai_generated",
+            "generatedDate": "2026-08-02"
+          },
+          {
+            "question": "What is the name of the scheme launched by the West Bengal Government to provide free bicycles to girl students?",
+            "options": [
+              "Sabuj Sathi",
+              "Siksha Sathi",
+              "Bikash Yojana",
+              "Shiksha Mitra"
+            ],
+            "correctIndex": 0,
+            "explanation": "Sabuj Sathi is the scheme launched by the West Bengal Government to provide free bicycles to girl students.",
+            "difficulty": "Medium",
+            "topicId": "gs-polity",
+            "source": "ai_generated",
+            "generatedDate": "2026-08-02"
+          }
+        ],
+        "questionCount": 5
+      },
+      "gs-wb-geo": {
+        "topicName": "West Bengal Geography",
+        "subjectName": "General Studies",
+        "questions": [
+          {
+            "question": "The Ganges-Brahmaputra delta is located in which part of West Bengal?",
+            "options": [
+              "Cochin Coast",
+              "Sundarbans",
+              "North Bengal",
+              "South Bengal"
+            ],
+            "correctIndex": 1,
+            "explanation": "It is located in the Sundarbans.",
+            "difficulty": "Easy",
+            "topicId": "gs-wb-geo",
+            "source": "ai_generated",
+            "generatedDate": "2026-08-02"
+          },
+          {
+            "question": "Which mountain range passes through the state of West Bengal?",
+            "options": [
+              "Himalayas",
+              "Aravalli Range",
+              "Eastern Ghats",
+              "Northeastern Hills"
+            ],
+            "correctIndex": 3,
+            "explanation": "It passes through the Northeastern Hills.",
+            "difficulty": "Medium",
+            "topicId": "gs-wb-geo",
+            "source": "ai_generated",
+            "generatedDate": "2026-08-02"
+          },
+          {
+            "question": "Which of the following rivers is not a major tributary of the Hooghly River?",
+            "options": [
+              "Damodar",
+              "Kangsabati",
+              "Rupnarayan",
+              "Ajoy"
+            ],
+            "correctIndex": 2,
+            "explanation": "Kangsabati is a tributary of the Subarnarekha River.",
+            "difficulty": "Medium",
+            "topicId": "gs-wb-geo",
+            "source": "ai_generated",
+            "generatedDate": "2026-08-02"
+          },
+          {
+            "question": "Which of the following cities is the administrative headquarters of the Darjeeling district?",
+            "options": [
+              "Siliguri",
+              "Darjeeling",
+              "Kalimpong",
+              "Kurseong"
+            ],
+            "correctIndex": 1,
+            "explanation": "Darjeeling is the administrative headquarters.",
+            "difficulty": "Easy",
+            "topicId": "gs-wb-geo",
+            "source": "ai_generated",
+            "generatedDate": "2026-08-02"
+          },
+          {
+            "question": "Which of the following is a notable wetland in the Sundarbans region of West Bengal?",
+            "options": [
+              "Sajnekhali Wetland",
+              "Do-Banki Wetland",
+              "Burirdabri Wetland",
+              "Jharkhali Wetland"
+            ],
+            "correctIndex": 0,
+            "explanation": "Sajnekhali Wetland is a notable wetland.",
+            "difficulty": "Medium",
+            "topicId": "gs-wb-geo",
+            "source": "ai_generated",
+            "generatedDate": "2026-08-02"
+          }
+        ],
+        "questionCount": 5
+      },
+      "gs-current": {
+        "topicName": "Current Affairs (Last 12 Months)",
+        "subjectName": "General Studies",
+        "questions": [
+          {
+            "question": "The 13th Finance Commission has recently recommended a higher share of funds for West Bengal, which is likely to help the state address its revenue gap. This recommendation is based on the state's _______________?",
+            "options": [
+              "Population",
+              "Area",
+              "Per Capita Income",
+              "Tax Revenue"
+            ],
+            "correctIndex": 3,
+            "explanation": "The recommendation is based on the state's tax revenue.",
+            "difficulty": "Medium",
+            "topicId": "gs-current",
+            "source": "ai_generated",
+            "generatedDate": "2026-08-02"
+          },
+          {
+            "question": "The recently inaugurated _______________ in Kolkata aims to promote sustainable urban living and reduce the city's carbon footprint.",
+            "options": [
+              "Green City Hub",
+              "Eco-Park",
+              "Kolkata Green Initiative",
+              "Sustainable City Project"
+            ],
+            "correctIndex": 0,
+            "explanation": "The Green City Hub is the recently inaugurated project.",
+            "difficulty": "Easy",
+            "topicId": "gs-current",
+            "source": "ai_generated",
+            "generatedDate": "2026-08-02"
+          },
+          {
+            "question": "The West Bengal government has recently launched an initiative to provide financial assistance to farmers affected by the recent floods. The initiative is being implemented through the _______________ scheme.",
+            "options": [
+              "Krishi Sanjeevani",
+              "Mukhya Mantri Krishi Aarthik Sahayata Yojana",
+              "Bhumiheen Kisan Sahayata Yojana",
+              "Gram Uday Sevikaa"
+            ],
+            "correctIndex": 1,
+            "explanation": "The initiative is being implemented through the Mukhya Mantri Krishi Aarthik Sahayata Yojana scheme.",
+            "difficulty": "Medium",
+            "topicId": "gs-current",
+            "source": "ai_generated",
+            "generatedDate": "2026-08-02"
+          },
+          {
+            "question": "The West Bengal government has recently signed a Memorandum of Understanding (MoU) with the _______________ to promote economic cooperation and development in the state.",
+            "options": [
+              "Bihar Government",
+              "Odisha Government",
+              "Sikkim Government",
+              "Andaman and Nicobar Administration"
+            ],
+            "correctIndex": 1,
+            "explanation": "The West Bengal government has recently signed an MoU with the Odisha Government.",
+            "difficulty": "Easy",
+            "topicId": "gs-current",
+            "source": "ai_generated",
+            "generatedDate": "2026-08-02"
+          },
+          {
+            "question": "The West Bengal government has recently launched a campaign to promote digital literacy among the rural population. The campaign is being implemented through the _______________ initiative.",
+            "options": [
+              "Digital Seva",
+              "Sakshar Bharat",
+              "Gram Uday Sevikaa",
+              "Mukhya Mantri Digital Abhyan"
+            ],
+            "correctIndex": 3,
+            "explanation": "The campaign is being implemented through the Mukhya Mantri Digital Abhyan initiative.",
+            "difficulty": "Medium",
+            "topicId": "gs-current",
+            "source": "ai_generated",
+            "generatedDate": "2026-08-02"
+          }
+        ],
+        "questionCount": 5
+      },
+      "gs-wb-schemes": {
+        "topicName": "West Bengal Government Schemes",
+        "subjectName": "General Studies",
+        "questions": [
+          {
+            "question": "Under which scheme of the West Bengal government, financial assistance is provided to the families of police personnel who die in the line of duty?",
+            "options": [
+              "Swasthya Sathi Yojana",
+              "Karmayogi Yojana",
+              "Karmachari Kalyan Yojana",
+              "Siksha Sathi Yojana"
+            ],
+            "correctIndex": 2,
+            "explanation": "Karmachari Kalyan Yojana provides financial assistance to the families of police personnel who die in the line of duty.",
+            "difficulty": "Medium",
+            "topicId": "gs-wb-schemes",
+            "source": "ai_generated",
+            "generatedDate": "2026-08-02"
+          },
+          {
+            "question": "Which of the following is a flagship programme of the West Bengal government for providing free healthcare services to the citizens?",
+            "options": [
+              "Swasthya Sathi Yojana",
+              "Bangla Sathi Yojana",
+              "Kanyashree Prakalpa",
+              "Sabooj Sathi Yojana"
+            ],
+            "correctIndex": 0,
+            "explanation": "Swasthya Sathi Yojana provides free healthcare services to the citizens.",
+            "difficulty": "Medium",
+            "topicId": "gs-wb-schemes",
+            "source": "ai_generated",
+            "generatedDate": "2026-08-02"
+          },
+          {
+            "question": "What is the name of the West Bengal government's initiative to promote education among the girl child?",
+            "options": [
+              "Kanyashree Prakalpa",
+              "Sabooj Sathi Yojana",
+              "Siksha Sathi Yojana",
+              "Karmayogi Yojana"
+            ],
+            "correctIndex": 0,
+            "explanation": "Kanyashree Prakalpa is the West Bengal government's initiative to promote education among the girl child.",
+            "difficulty": "Easy",
+            "topicId": "gs-wb-schemes",
+            "source": "ai_generated",
+            "generatedDate": "2026-08-02"
+          },
+          {
+            "question": "Under which scheme of the West Bengal government, bicycles are provided to school-going children?",
+            "options": [
+              "Sabooj Sathi Yojana",
+              "Siksha Sathi Yojana",
+              "Kanyashree Prakalpa",
+              "Swasthya Sathi Yojana"
+            ],
+            "correctIndex": 0,
+            "explanation": "Sabooj Sathi Yojana provides bicycles to school-going children.",
+            "difficulty": "Easy",
+            "topicId": "gs-wb-schemes",
+            "source": "ai_generated",
+            "generatedDate": "2026-08-02"
+          },
+          {
+            "question": "Which of the following is a scholarship scheme of the West Bengal government for meritorious students?",
+            "options": [
+              "Kanyashree Prakalpa",
+              "Sabooj Sathi Yojana",
+              "Siksha Sathi Yojana",
+              "Karmayogi Yojana"
+            ],
+            "correctIndex": 2,
+            "explanation": "Siksha Sathi Yojana is a scholarship scheme of the West Bengal government for meritorious students.",
+            "difficulty": "Medium",
+            "topicId": "gs-wb-schemes",
+            "source": "ai_generated",
+            "generatedDate": "2026-08-02"
+          }
+        ],
+        "questionCount": 5
+      }
+    },
+    "math": {
+      "math-interest": {
+        "topicName": "Simple & Compound Interest",
+        "subjectName": "Arithmetic",
+        "questions": [
+          {
+            "question": "At a certain bank in West Bengal, the compound interest (CI) for 2 years on Rs. 10,000 at 8% p.a. rate is calculated as Rs. 1,664. Then what is the simple interest (SI) for the same period?",
+            "options": [
+              "Rs. 1,600",
+              "Rs. 1,664",
+              "Rs. 1,728",
+              "Rs. 1,792"
+            ],
+            "correctIndex": 0,
+            "explanation": "Simple interest is calculated using the formula SI = (P * R * T) / 100.",
+            "difficulty": "Medium",
+            "topicId": "math-interest",
+            "source": "ai_generated",
+            "generatedDate": "2026-08-02"
+          },
+          {
+            "question": "A man borrowed Rs. 12,000 from a local moneylender in Kolkata at an interest rate of 12% p.a. for 3 years. What is the total amount he has to pay at the end of 3 years?",
+            "options": [
+              "Rs. 14,992",
+              "Rs. 15,296",
+              "Rs. 15,600",
+              "Rs. 16,208"
+            ],
+            "correctIndex": 2,
+            "explanation": "The total amount includes the principal amount plus the simple interest.",
+            "difficulty": "Medium",
+            "topicId": "math-interest",
+            "source": "ai_generated",
+            "generatedDate": "2026-08-02"
+          },
+          {
+            "question": "If an amount of Rs. 5,000 is invested at 10% per annum compound interest for 2 years, what is the amount at the end of 2 years?",
+            "options": [
+              "Rs. 5,500",
+              "Rs. 5,600",
+              "Rs. 5,800",
+              "Rs. 6,000"
+            ],
+            "correctIndex": 3,
+            "explanation": "Compound interest is calculated using the formula A = P(1 + r/n)^(nt).",
+            "difficulty": "Medium",
+            "topicId": "math-interest",
+            "source": "ai_generated",
+            "generatedDate": "2026-08-02"
+          },
+          {
+            "question": "A person deposits Rs. 8,000 in a fixed deposit account at 9% p.a. simple interest for 5 years. How much interest will he receive at the end of 5 years?",
+            "options": [
+              "Rs. 1,800",
+              "Rs. 1,920",
+              "Rs. 2,000",
+              "Rs. 2,100"
+            ],
+            "correctIndex": 2,
+            "explanation": "The interest is calculated using the formula SI = (P * R * T) / 100.",
+            "difficulty": "Medium",
+            "topicId": "math-interest",
+            "source": "ai_generated",
+            "generatedDate": "2026-08-02"
+          },
+          {
+            "question": "A bank in Siliguri offers a compound interest (CI) of Rs. 1,368 on an amount of Rs. 7,000 at a rate of 8% p.a. for 2 years. What is the rate of interest on this investment?",
+            "options": [
+              "8%",
+              "9%",
+              "10%",
+              "11%"
+            ],
+            "correctIndex": 0,
+            "explanation": "The formula to calculate compound interest is A = P(1 + r/n)^(nt).",
+            "difficulty": "Medium",
+            "topicId": "math-interest",
+            "source": "ai_generated",
+            "generatedDate": "2026-08-02"
+          }
+        ],
+        "questionCount": 5
+      },
+      "math-tsd": {
+        "topicName": "Time, Speed & Distance",
+        "subjectName": "Arithmetic",
+        "questions": [
+          {
+            "question": "A train travels from Sealdah to Howrah, a distance of 15 km in 30 minutes. What is the speed of the train in km per hour?",
+            "options": [
+              "45 km/h",
+              "60 km/h",
+              "72 km/h",
+              "90 km/h"
+            ],
+            "correctIndex": 2,
+            "explanation": "Speed is calculated by dividing distance by time.",
+            "difficulty": "Medium",
+            "topicId": "math-tsd",
+            "source": "ai_generated",
+            "generatedDate": "2026-08-02"
+          },
+          {
+            "question": "A car travels from Kolkata to Durgapur, a distance of 170 km in 5 hours. What is the average speed of the car in km per hour?",
+            "options": [
+              "24 km/h",
+              "34 km/h",
+              "34.5 km/h",
+              "40 km/h"
+            ],
+            "correctIndex": 2,
+            "explanation": "Average speed is calculated by dividing total distance by total time.",
+            "difficulty": "Medium",
+            "topicId": "math-tsd",
+            "source": "ai_generated",
+            "generatedDate": "2026-08-02"
+          },
+          {
+            "question": "A bus travels from Esplanade to Barrackpore, a distance of 28 km in 1 hour. What is the difference between the average speed of the bus and the speed limit of NH 12?",
+            "options": [
+              "0 km/h",
+              "10 km/h",
+              "20 km/h",
+              "30 km/h"
+            ],
+            "correctIndex": 0,
+            "explanation": "Since the bus's speed is equal to the speed limit, the difference is 0.",
+            "difficulty": "Medium",
+            "topicId": "math-tsd",
+            "source": "ai_generated",
+            "generatedDate": "2026-08-02"
+          },
+          {
+            "question": "A man covers a distance of 48 km in 8 hours. What is the time taken by him to cover a distance of 72 km?",
+            "options": [
+              "3 hours",
+              "4 hours",
+              "6 hours",
+              "8 hours"
+            ],
+            "correctIndex": 2,
+            "explanation": "Time is calculated by dividing distance by speed.",
+            "difficulty": "Medium",
+            "topicId": "math-tsd",
+            "source": "ai_generated",
+            "generatedDate": "2026-08-02"
+          },
+          {
+            "question": "A bus travels from Bidhan Nagar to Barasat, a distance of 32 km in 2 hours. What is the time taken by the bus to cover a distance of 32 km at the same speed?",
+            "options": [
+              "1 hour",
+              "2 hours",
+              "3 hours",
+              "4 hours"
+            ],
+            "correctIndex": 1,
+            "explanation": "Time is calculated as distance divided by speed.",
+            "difficulty": "Medium",
+            "topicId": "math-tsd",
+            "source": "ai_generated",
+            "generatedDate": "2026-08-02"
+          }
+        ],
+        "questionCount": 5
+      }
+    },
+    "reasoning": {
+      "rs-coding": {
+        "topicName": "Coding-Decoding",
+        "subjectName": "Reasoning",
+        "questions": [
+          {
+            "question": "If 'B' is called 'A', 'A' is called 'C', 'C' is called 'D', then what would be called 'B'?",
+            "options": [
+              "River",
+              "Mountain",
+              "Tree",
+              "Animal"
+            ],
+            "correctIndex": 1,
+            "explanation": "This is a direct reverse relation.",
+            "difficulty": "Medium",
+            "topicId": "rs-coding",
+            "source": "ai_generated",
+            "generatedDate": "2026-08-02"
+          },
+          {
+            "question": "In a series 2, 5, 8, 11, 14, 17, what comes next?",
+            "options": [
+              "18",
+              "19",
+              "20",
+              "22"
+            ],
+            "correctIndex": 0,
+            "explanation": "Each term increases by 3.",
+            "difficulty": "Easy",
+            "topicId": "rs-coding",
+            "source": "ai_generated",
+            "generatedDate": "2026-08-02"
+          },
+          {
+            "question": "If 'DOG' is called 'CAT', 'CAT' is called 'ELEPHANT', then what would be called 'DOG'?",
+            "options": [
+              "MONKEY",
+              "BIRD",
+              "TIGER",
+              "HORSE"
+            ],
+            "correctIndex": 2,
+            "explanation": "This is a direct replacement relation.",
+            "difficulty": "Medium",
+            "topicId": "rs-coding",
+            "source": "ai_generated",
+            "generatedDate": "2026-08-02"
+          },
+          {
+            "question": "If 2 is called 5, 5 is called 8, 8 is called 11, then what would be called 2?",
+            "options": [
+              "12",
+              "13",
+              "14",
+              "15"
+            ],
+            "correctIndex": 2,
+            "explanation": "This is a direct replacement relation.",
+            "difficulty": "Medium",
+            "topicId": "rs-coding",
+            "source": "ai_generated",
+            "generatedDate": "2026-08-02"
+          },
+          {
+            "question": "If 1 is called 2, 2 is called 3, 3 is called 4, then what would be called 1?",
+            "options": [
+              "4",
+              "5",
+              "6",
+              "7"
+            ],
+            "correctIndex": 0,
+            "explanation": "This is a direct replacement relation.",
+            "difficulty": "Medium",
+            "topicId": "rs-coding",
+            "source": "ai_generated",
+            "generatedDate": "2026-08-02"
+          }
+        ],
+        "questionCount": 5
+      },
+      "rs-blood": {
+        "topicName": "Blood Relations",
+        "subjectName": "Reasoning",
+        "questions": [
+          {
+            "question": "If P is the mother of R, and R is the son of S, then what is the relationship between S and P?",
+            "options": [
+              "Mother",
+              "Father",
+              "Grandmother",
+              "Grandfather"
+            ],
+            "correctIndex": 1,
+            "explanation": "P is the grandmother of S.",
+            "difficulty": "Medium",
+            "topicId": "rs-blood",
+            "source": "ai_generated",
+            "generatedDate": "2026-08-02"
+          },
+          {
+            "question": "If S is the father of T, and T is the son of U, then what is the relationship between S and U?",
+            "options": [
+              "Grandfather",
+              "Father",
+              "Grandson",
+              "Son"
+            ],
+            "correctIndex": 0,
+            "explanation": "S is the grandfather of U.",
+            "difficulty": "Medium",
+            "topicId": "rs-blood",
+            "source": "ai_generated",
+            "generatedDate": "2026-08-02"
+          },
+          {
+            "question": "If A is the husband of B, and C is the daughter of B, then what is the relationship between A and C?",
+            "options": [
+              "Son-in-law",
+              "Son",
+              "Brother",
+              "Father"
+            ],
+            "correctIndex": 0,
+            "explanation": "A is the son-in-law of B.",
+            "difficulty": "Medium",
+            "topicId": "rs-blood",
+            "source": "ai_generated",
+            "generatedDate": "2026-08-02"
+          },
+          {
+            "question": "If D is the mother of E, and E is the daughter of F, then what is the relationship between D and F?",
+            "options": [
+              "Mother-in-law",
+              "Aunt",
+              "Grandmother",
+              "Mother"
+            ],
+            "correctIndex": 2,
+            "explanation": "D is the grandmother of F.",
+            "difficulty": "Medium",
+            "topicId": "rs-blood",
+            "source": "ai_generated",
+            "generatedDate": "2026-08-02"
+          },
+          {
+            "question": "If G is the brother of H, and H is the son of I, then what is the relationship between G and I?",
+            "options": [
+              "Uncle",
+              "Cousin",
+              "Father",
+              "Grandfather"
+            ],
+            "correctIndex": 1,
+            "explanation": "G is the uncle of H.",
+            "difficulty": "Medium",
+            "topicId": "rs-blood",
+            "source": "ai_generated",
+            "generatedDate": "2026-08-02"
+          }
+        ],
+        "questionCount": 5
+      },
+      "rs-direction": {
+        "topicName": "Direction Sense",
+        "subjectName": "Reasoning",
+        "questions": [
+          {
+            "question": "If you are in the Howrah Bridge and face the city, which direction will you be facing if you turn 135 degrees to your left?",
+            "options": [
+              "South",
+              "East",
+              "North",
+              "West"
+            ],
+            "correctIndex": 3,
+            "explanation": "Turning 135 degrees to the left from the direction facing the city will result in facing the west direction.",
+            "difficulty": "Medium",
+            "topicId": "rs-direction",
+            "source": "ai_generated",
+            "generatedDate": "2026-08-02"
+          },
+          {
+            "question": "If it takes 5 hours to reach the destination from Bardhaman and 3 hours to return, what is the total time taken for a round trip?",
+            "options": [
+              "6 hours",
+              "8 hours",
+              "3.75 hours",
+              "5 hours"
+            ],
+            "correctIndex": 2,
+            "explanation": "Total time taken for a round trip is the sum of the time taken to reach the destination and the time taken to return.",
+            "difficulty": "Easy",
+            "topicId": "rs-time",
+            "source": "ai_generated",
+            "generatedDate": "2026-08-02"
+          },
+          {
+            "question": "If you walk 20 km in 5 hours and then walk at the same speed for another 2 hours, how far would you have walked in total?",
+            "options": [
+              "16 km",
+              "20 km",
+              "24 km",
+              "32 km"
+            ],
+            "correctIndex": 2,
+            "explanation": "Distance walked in the last 2 hours is calculated by multiplying the speed by the time taken.",
+            "difficulty": "Medium",
+            "topicId": "rs-speed",
+            "source": "ai_generated",
+            "generatedDate": "2026-08-02"
+          },
+          {
+            "question": "If it is 9 AM in Siliguri, what will be the time 5 hours and 30 minutes later?",
+            "options": [
+              "2:30 PM",
+              "2:30 AM",
+              "2:30 PM is incorrect, it's 2:30 PM",
+              "2:30 PM"
+            ],
+            "correctIndex": 1,
+            "explanation": "Adding 5 hours and 30 minutes to 9 AM results in 2:30 PM.",
+            "difficulty": "Easy",
+            "topicId": "rs-time",
+            "source": "ai_generated",
+            "generatedDate": "2026-08-02"
+          },
+          {
+            "question": "If you walk 2 km in the north direction and then 3 km in the south direction, what is the net distance walked in the north direction?",
+            "options": [
+              "1 km",
+              "2 km",
+              "3 km",
+              "5 km"
+            ],
+            "correctIndex": 0,
+            "explanation": "Net distance walked in the north direction is the initial distance walked in the north direction minus the distance walked in the south direction.",
+            "difficulty": "Medium",
+            "topicId": "rs-direction",
+            "source": "ai_generated",
+            "generatedDate": "2026-08-02"
+          }
+        ],
+        "questionCount": 5
+      },
+      "rs-series": {
+        "topicName": "Number & Letter Series",
+        "subjectName": "Reasoning",
+        "questions": [
+          {
+            "question": "In a series of numbers, each term is obtained by adding 4 to the previous term. Which of the following numbers will be the 8th term in the series starting from 13?",
+            "options": [
+              "17",
+              "21",
+              "25",
+              "29"
+            ],
+            "correctIndex": 1,
+            "explanation": "The 8th term in the series starting from 13 is 21.",
+            "difficulty": "Medium",
+            "topicId": "number-series",
+            "source": "ai_generated",
+            "generatedDate": "2026-08-02"
+          },
+          {
+            "question": "In a series of alphabets, each term is obtained by shifting the previous term 2 positions to the right in the English alphabet. Which of the following alphabets will be the 5th term in the series starting from 'R'?",
+            "options": [
+              "T",
+              "U",
+              "V",
+              "W"
+            ],
+            "correctIndex": 0,
+            "explanation": "The 5th term in the series starting from 'R' is 'T'.",
+            "difficulty": "Medium",
+            "topicId": "letter-series",
+            "source": "ai_generated",
+            "generatedDate": "2026-08-02"
+          },
+          {
+            "question": "In a series of numbers, each term is obtained by multiplying the previous term by 3. Which of the following numbers will be the 6th term in the series starting from 4?",
+            "options": [
+              "1944",
+              "2076",
+              "2160",
+              "2436"
+            ],
+            "correctIndex": 2,
+            "explanation": "The 6th term in the series starting from 4 is 2160.",
+            "difficulty": "Medium",
+            "topicId": "number-series",
+            "source": "ai_generated",
+            "generatedDate": "2026-08-02"
+          },
+          {
+            "question": "In a series of alphabets, each term is obtained by shifting the previous term 3 positions to the left in the English alphabet. Which of the following alphabets will be the 4th term in the series starting from 'Z'?",
+            "options": [
+              "Y",
+              "X",
+              "V",
+              "W"
+            ],
+            "correctIndex": 1,
+            "explanation": "The 4th term in the series starting from 'Z' is 'X'.",
+            "difficulty": "Medium",
+            "topicId": "letter-series",
+            "source": "ai_generated",
+            "generatedDate": "2026-08-02"
+          },
+          {
+            "question": "In a series of numbers, each term is obtained by adding 2 to the previous term. If the first term is 5 and the seventh term is 21, how many terms are there in the series?",
+            "options": [
+              "6",
+              "7",
+              "8",
+              "9"
+            ],
+            "correctIndex": 2,
+            "explanation": "There are 8 terms in the series.",
+            "difficulty": "Medium",
+            "topicId": "number-series",
+            "source": "ai_generated",
+            "generatedDate": "2026-08-02"
+          }
+        ],
+        "questionCount": 5
+      }
+    }
+  }
+}
