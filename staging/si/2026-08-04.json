@@ -1,0 +1,756 @@
+{
+  "exam": "si",
+  "generatedDate": "2026-08-04",
+  "generatedAt": "2026-08-04T03:49:04.942Z",
+  "model": "llama-3.1-8b-instant",
+  "provider": "groq",
+  "source": "ai_generated",
+  "reviewStatus": "pending",
+  "totalQuestions": 45,
+  "subjects": {
+    "gs": {
+      "gs-polity": {
+        "topicName": "Indian Constitution & Polity",
+        "subjectName": "General Studies",
+        "questions": [
+          {
+            "question": "The Panchayat Samitis are formed at the sub-divisional level in West Bengal as per which part of the Constitution?",
+            "options": [
+              "Article 40",
+              "Article 243A",
+              "Article 42",
+              "Article 45"
+            ],
+            "correctIndex": 1,
+            "explanation": "Article 243A of the Constitution.",
+            "difficulty": "Medium",
+            "topicId": "gs-polity",
+            "source": "ai_generated",
+            "generatedDate": "2026-08-04"
+          },
+          {
+            "question": "The Governor of West Bengal is appointed by the President of India for a term of?",
+            "options": [
+              "5 years",
+              "6 years",
+              "7 years",
+              "No fixed term"
+            ],
+            "correctIndex": 3,
+            "explanation": "No fixed term.",
+            "difficulty": "Easy",
+            "topicId": "gs-polity",
+            "source": "ai_generated",
+            "generatedDate": "2026-08-04"
+          },
+          {
+            "question": "Which of the following is a power of the State Legislature of West Bengal?",
+            "options": [
+              "To make laws on subjects in the State List",
+              "To make laws on subjects in the Concurrent List",
+              "To make laws on subjects in the Union List",
+              "To make laws on subjects in the Union and Concurrent List"
+            ],
+            "correctIndex": 0,
+            "explanation": "Subjects in the State List.",
+            "difficulty": "Easy",
+            "topicId": "gs-polity",
+            "source": "ai_generated",
+            "generatedDate": "2026-08-04"
+          },
+          {
+            "question": "The West Bengal Legislative Assembly has how many seats?",
+            "options": [
+              "60",
+              "81",
+              "90",
+              "300"
+            ],
+            "correctIndex": 1,
+            "explanation": "81.",
+            "difficulty": "Easy",
+            "topicId": "gs-polity",
+            "source": "ai_generated",
+            "generatedDate": "2026-08-04"
+          },
+          {
+            "question": "The concept of 'Basic Structure' of the Constitution was first introduced by the?",
+            "options": [
+              "Kesavananda Bharati v. State of Kerala",
+              "Golaknath v. State of Punjab",
+              "Indira Nehru Gandhi v. Raj Narain",
+              "Minerva Mills Ltd. v. Union of India"
+            ],
+            "correctIndex": 0,
+            "explanation": "Kesavananda Bharati v. State of Kerala.",
+            "difficulty": "Medium",
+            "topicId": "gs-polity",
+            "source": "ai_generated",
+            "generatedDate": "2026-08-04"
+          }
+        ],
+        "questionCount": 5
+      },
+      "gs-freedom": {
+        "topicName": "Indian Freedom Struggle & Bengal",
+        "subjectName": "General Studies",
+        "questions": [
+          {
+            "question": "Who led the historic 'Deshabandhu' title procession in Bengal during the Indian freedom struggle?",
+            "options": [
+              "Subhas Chandra Bose",
+              "Bipin Chandra Pal",
+              "Lala Lajpat Rai",
+              "Bhagat Singh"
+            ],
+            "correctIndex": 0,
+            "explanation": "Subhas Chandra Bose earned the title 'Deshabandhu' from the people of Bengal.",
+            "difficulty": "Medium",
+            "topicId": "gs-freedom",
+            "source": "ai_generated",
+            "generatedDate": "2026-08-04"
+          },
+          {
+            "question": "Which of the following Bengali newspapers played a significant role in the Indian freedom struggle against the British?",
+            "options": [
+              "Amrita Bazar Patrika",
+              "Bangabani",
+              "Sambad Prabhakar",
+              "Hitavadi"
+            ],
+            "correctIndex": 0,
+            "explanation": "Amrita Bazar Patrika was a prominent Bengali newspaper that supported the Indian freedom movement.",
+            "difficulty": "Medium",
+            "topicId": "gs-freedom",
+            "source": "ai_generated",
+            "generatedDate": "2026-08-04"
+          },
+          {
+            "question": "What was the name of the 1905 partition of Bengal that led to widespread protests against the British?",
+            "options": [
+              "Partition of Bihar",
+              "Partition of Bengal",
+              "Partition of Orissa",
+              "Partition of Assam"
+            ],
+            "correctIndex": 1,
+            "explanation": "The 1905 partition of Bengal was a significant event in Indian history that led to anti-British protests.",
+            "difficulty": "Medium",
+            "topicId": "gs-freedom",
+            "source": "ai_generated",
+            "generatedDate": "2026-08-04"
+          },
+          {
+            "question": "Who was the notable Bengali revolutionary involved in the Barisal conspiracy case?",
+            "options": [
+              "Sachindranath Sanyal",
+              "Rashbehari Bose",
+              "Suren Tagore",
+              "Abhinash Bhattacharya"
+            ],
+            "correctIndex": 0,
+            "explanation": "Sachindranath Sanyal was a key figure in the Barisal conspiracy case, a notable event in Bengal's revolutionary history.",
+            "difficulty": "Medium",
+            "topicId": "gs-freedom",
+            "source": "ai_generated",
+            "generatedDate": "2026-08-04"
+          },
+          {
+            "question": "Which Bengal-based organization was instrumental in the Non-Cooperation Movement in 1920?",
+            "options": [
+              "Bengal Provincial Congress Committee",
+              "Bengal Nationalist Party",
+              "Bengal Volunteer Association",
+              "Bengal Provincial Muslim League"
+            ],
+            "correctIndex": 0,
+            "explanation": "The Bengal Provincial Congress Committee played a significant role in organizing the Non-Cooperation Movement in Bengal.",
+            "difficulty": "Medium",
+            "topicId": "gs-freedom",
+            "source": "ai_generated",
+            "generatedDate": "2026-08-04"
+          }
+        ],
+        "questionCount": 5
+      },
+      "gs-current": {
+        "topicName": "Current Affairs (Last 12 Months)",
+        "subjectName": "General Studies",
+        "questions": [
+          {
+            "question": "The West Bengal government has recently launched a new initiative to improve healthcare services in the state's rural areas. What is the name of this initiative?",
+            "options": [
+              "Swasthya Setu",
+              "Swasthya Sathi",
+              "Swasthya Seva",
+              "Swasthya Suraksha"
+            ],
+            "correctIndex": 1,
+            "explanation": "Swasthya Sathi is a government health insurance scheme.",
+            "difficulty": "Medium",
+            "topicId": "gs-current",
+            "source": "ai_generated",
+            "generatedDate": "2026-08-04"
+          },
+          {
+            "question": "Which of the following is a major project recently launched by the West Bengal government to improve the state's water resources?",
+            "options": [
+              "Kangsabati Project",
+              "Dwarakeswar Project",
+              "Mayurakshi Project",
+              "Subarnarekha Project"
+            ],
+            "correctIndex": 0,
+            "explanation": "The Kangsabati Project is a major dam project in West Bengal.",
+            "difficulty": "Medium",
+            "topicId": "gs-current",
+            "source": "ai_generated",
+            "generatedDate": "2026-08-04"
+          },
+          {
+            "question": "Which international airport is currently being expanded by the West Bengal government to increase its capacity?",
+            "options": [
+              "Netaji Subhas Chandra Bose International Airport",
+              "Bagdogra Airport",
+              "Kolkata Airport",
+              "Dum Dum Airport"
+            ],
+            "correctIndex": 0,
+            "explanation": "Netaji Subhas Chandra Bose International Airport is a major international airport in West Bengal.",
+            "difficulty": "Medium",
+            "topicId": "gs-current",
+            "source": "ai_generated",
+            "generatedDate": "2026-08-04"
+          },
+          {
+            "question": "The West Bengal government has recently signed an MoU with which country to increase trade and investment in the state?",
+            "options": [
+              "United Kingdom",
+              "United States",
+              "Japan",
+              "Singapore"
+            ],
+            "correctIndex": 2,
+            "explanation": "Japan and West Bengal have signed an MoU to increase trade and investment.",
+            "difficulty": "Medium",
+            "topicId": "gs-current",
+            "source": "ai_generated",
+            "generatedDate": "2026-08-04"
+          },
+          {
+            "question": "Which of the following festivals was recently declared a state festival by the West Bengal government?",
+            "options": [
+              "Durga Puja",
+              "Kali Puja",
+              "Lakshmi Puja",
+              "Basant Utsav"
+            ],
+            "correctIndex": 2,
+            "explanation": "Kali Puja was recently declared a state festival in West Bengal.",
+            "difficulty": "Medium",
+            "topicId": "gs-current",
+            "source": "ai_generated",
+            "generatedDate": "2026-08-04"
+          }
+        ],
+        "questionCount": 5
+      }
+    },
+    "math": {
+      "math-percent": {
+        "topicName": "Percentage & Profit-Loss",
+        "subjectName": "Arithmetic",
+        "questions": [
+          {
+            "question": "A shopkeeper sells an article at Rs. 960, which is 20% more than its cost price. What is the cost price of the article?",
+            "options": [
+              "Rs. 800",
+              "Rs. 840",
+              "Rs. 880",
+              "Rs. 920"
+            ],
+            "correctIndex": 2,
+            "explanation": "The article is sold at 20% more than the cost price.",
+            "difficulty": "Medium",
+            "topicId": "math-percent",
+            "source": "ai_generated",
+            "generatedDate": "2026-08-04"
+          },
+          {
+            "question": "A person purchases a share for Rs. 100 and sells it at a profit of 10%. What is the selling price of the share?",
+            "options": [
+              "Rs. 90",
+              "Rs. 99",
+              "Rs. 110",
+              "Rs. 120"
+            ],
+            "correctIndex": 3,
+            "explanation": "Profit is calculated as 10% of the cost price.",
+            "difficulty": "Easy",
+            "topicId": "math-profit-loss",
+            "source": "ai_generated",
+            "generatedDate": "2026-08-04"
+          },
+          {
+            "question": "A person buys 12 kg of potatoes at Rs. 15 per kg and sells 15 kg of potatoes at Rs. 18 per kg. What is the profit percentage?",
+            "options": [
+              "5%",
+              "10%",
+              "12%",
+              "15%"
+            ],
+            "correctIndex": 2,
+            "explanation": "Profit percentage is calculated based on the cost price and selling price.",
+            "difficulty": "Medium",
+            "topicId": "math-profit-loss",
+            "source": "ai_generated",
+            "generatedDate": "2026-08-04"
+          },
+          {
+            "question": "A firm's turnover is Rs. 50,000 per month and its profit is 12%. What is the firm's profit in rupees?",
+            "options": [
+              "Rs. 4,000",
+              "Rs. 5,000",
+              "Rs. 6,000",
+              "Rs. 5,500"
+            ],
+            "correctIndex": 3,
+            "explanation": "Profit percentage is calculated as a percentage of the turnover.",
+            "difficulty": "Medium",
+            "topicId": "math-percent",
+            "source": "ai_generated",
+            "generatedDate": "2026-08-04"
+          },
+          {
+            "question": "A shopkeeper marks an article at 20% more than its cost price of Rs. 100. What is the selling price of the article if the shopkeeper gives a discount of 5%?",
+            "options": [
+              "Rs. 90",
+              "Rs. 94",
+              "Rs. 98",
+              "Rs. 102"
+            ],
+            "correctIndex": 1,
+            "explanation": "The selling price is the marked price minus the discount.",
+            "difficulty": "Medium",
+            "topicId": "math-percent",
+            "source": "ai_generated",
+            "generatedDate": "2026-08-04"
+          }
+        ],
+        "questionCount": 5
+      },
+      "math-interest": {
+        "topicName": "Simple & Compound Interest",
+        "subjectName": "Arithmetic",
+        "questions": [
+          {
+            "question": "The simple interest on Rs. 12,000 at 9% per annum for 3 years is?",
+            "options": [
+              "Rs. 3,240",
+              "Rs. 3,600",
+              "Rs. 3,780",
+              "Rs. 3,960"
+            ],
+            "correctIndex": 0,
+            "explanation": "Simple interest is calculated as principal × rate × time.",
+            "difficulty": "Medium",
+            "topicId": "math-interest",
+            "source": "ai_generated",
+            "generatedDate": "2026-08-04"
+          },
+          {
+            "question": "If the compound interest is compounded annually, then what will be the amount for Rs. 8,000 at 10% per annum for 2 years?",
+            "options": [
+              "Rs. 8,800",
+              "Rs. 9,000",
+              "Rs. 9,200",
+              "Rs. 9,400"
+            ],
+            "correctIndex": 2,
+            "explanation": "Compound interest is calculated using the formula A = P(1 + r/100)^n.",
+            "difficulty": "Medium",
+            "topicId": "math-interest",
+            "source": "ai_generated",
+            "generatedDate": "2026-08-04"
+          },
+          {
+            "question": "A sum of money becomes Rs. 18,000 in 2 years at compound interest at the rate of 10% per annum. What is the principal amount?",
+            "options": [
+              "Rs. 12,000",
+              "Rs. 15,000",
+              "Rs. 18,000",
+              "Rs. 20,000"
+            ],
+            "correctIndex": 0,
+            "explanation": "To find the principal amount, we need to reverse calculate using the compound interest formula.",
+            "difficulty": "Medium",
+            "topicId": "math-interest",
+            "source": "ai_generated",
+            "generatedDate": "2026-08-04"
+          },
+          {
+            "question": "If Rs. 6,000 amounts to Rs. 6,760 in 2 years at compound interest, what is the rate of interest?",
+            "options": [
+              "6%",
+              "7%",
+              "8%",
+              "9%"
+            ],
+            "correctIndex": 0,
+            "explanation": "To find the rate of interest, we need to use the compound interest formula and solve for r.",
+            "difficulty": "Medium",
+            "topicId": "math-interest",
+            "source": "ai_generated",
+            "generatedDate": "2026-08-04"
+          },
+          {
+            "question": "The compound interest on Rs. 8,000 at 12% per annum for 1 year, compounded half-yearly is?",
+            "options": [
+              "Rs. 960",
+              "Rs. 980",
+              "Rs. 1,000",
+              "Rs. 1,020"
+            ],
+            "correctIndex": 1,
+            "explanation": "Compound interest is calculated using the formula A = P(1 + r/n)^(nt), where n is the number of times interest is compounded in a year.",
+            "difficulty": "Medium",
+            "topicId": "math-interest",
+            "source": "ai_generated",
+            "generatedDate": "2026-08-04"
+          }
+        ],
+        "questionCount": 5
+      },
+      "math-tsd": {
+        "topicName": "Time, Speed & Distance",
+        "subjectName": "Arithmetic",
+        "questions": [
+          {
+            "question": "A person travels from Kolkata to Digha at an average speed of 60 km/h. If the total distance is 240 km, how many hours will the journey take?",
+            "options": [
+              "4 hours",
+              "5 hours",
+              "6 hours",
+              "8 hours"
+            ],
+            "correctIndex": 2,
+            "explanation": "Total distance divided by average speed.",
+            "difficulty": "Medium",
+            "topicId": "math-tsd",
+            "source": "ai_generated",
+            "generatedDate": "2026-08-04"
+          },
+          {
+            "question": "A bus is traveling from Siliguri to Jalpaiguri. If the distance between the two cities is 120 km and the bus travels at an average speed of 40 km/h, how long will it take to cover the remaining 60 km when it has already covered 60 km?",
+            "options": [
+              "1 hour",
+              "2 hours",
+              "3 hours",
+              "4 hours"
+            ],
+            "correctIndex": 1,
+            "explanation": "Remaining distance divided by speed.",
+            "difficulty": "Medium",
+            "topicId": "math-tsd",
+            "source": "ai_generated",
+            "generatedDate": "2026-08-04"
+          },
+          {
+            "question": "What is the speed of a train if it travels from Sealdah to Howrah in 1 hour and covers a distance of 48 km?",
+            "options": [
+              "40 km/h",
+              "48 km/h",
+              "50 km/h",
+              "60 km/h"
+            ],
+            "correctIndex": 2,
+            "explanation": "Distance divided by time.",
+            "difficulty": "Medium",
+            "topicId": "math-tsd",
+            "source": "ai_generated",
+            "generatedDate": "2026-08-04"
+          },
+          {
+            "question": "A car travels from Darjeeling to Kalimpong at an average speed of 30 km/h for 6 hours. How many kilometers does it travel?",
+            "options": [
+              "120 km",
+              "150 km",
+              "180 km",
+              "200 km"
+            ],
+            "correctIndex": 0,
+            "explanation": "Speed multiplied by time.",
+            "difficulty": "Medium",
+            "topicId": "math-tsd",
+            "source": "ai_generated",
+            "generatedDate": "2026-08-04"
+          },
+          {
+            "question": "A motorcycle travels from Asansol to Durgapur at an average speed of 25 km/h. If it travels for 5 hours, how many kilometers does it cover?",
+            "options": [
+              "100 km",
+              "125 km",
+              "125 km",
+              "150 km"
+            ],
+            "correctIndex": 1,
+            "explanation": "Speed multiplied by time.",
+            "difficulty": "Medium",
+            "topicId": "math-tsd",
+            "source": "ai_generated",
+            "generatedDate": "2026-08-04"
+          }
+        ],
+        "questionCount": 5
+      }
+    },
+    "reasoning": {
+      "rs-coding": {
+        "topicName": "Coding-Decoding",
+        "subjectName": "Reasoning",
+        "questions": [
+          {
+            "question": "If the code 1 stands for A, 2 stands for B, 3 stands for C, 4 stands for D, 5 stands for E and so on, what would be the code for the word NIDHI?",
+            "options": [
+              "1234",
+              "2134",
+              "1324",
+              "4123"
+            ],
+            "correctIndex": 1,
+            "explanation": "Follows alphabetical order.",
+            "difficulty": "Medium",
+            "topicId": "rs-coding",
+            "source": "ai_generated",
+            "generatedDate": "2026-08-04"
+          },
+          {
+            "question": "If the code is as follows: A=1, B=2, C=4, D=8, E=16 and so on, what would be the code for the word WB?",
+            "options": [
+              "17",
+              "27",
+              "35",
+              "37"
+            ],
+            "correctIndex": 2,
+            "explanation": "Uses powers of 2.",
+            "difficulty": "Medium",
+            "topicId": "rs-coding",
+            "source": "ai_generated",
+            "generatedDate": "2026-08-04"
+          },
+          {
+            "question": "If the code is as follows: A=1, B=2, C=4, D=8, and so on, what would be the code for the word SALT?",
+            "options": [
+              "37",
+              "48",
+              "49",
+              "67"
+            ],
+            "correctIndex": 0,
+            "explanation": "Uses powers of 2.",
+            "difficulty": "Medium",
+            "topicId": "rs-coding",
+            "source": "ai_generated",
+            "generatedDate": "2026-08-04"
+          },
+          {
+            "question": "If the word is coded as follows: A=1, B=2, C=3, D=4, E=5 and so on, what would be the code for the word CHANDA?",
+            "options": [
+              "1235",
+              "1354",
+              "2341",
+              "3456"
+            ],
+            "correctIndex": 3,
+            "explanation": "Follows alphabetical order.",
+            "difficulty": "Medium",
+            "topicId": "rs-coding",
+            "source": "ai_generated",
+            "generatedDate": "2026-08-04"
+          },
+          {
+            "question": "If the code is as follows: A=1, B=2, C=4, D=8, E=16 and so on, what would be the code for the word GANGLA?",
+            "options": [
+              "131",
+              "137",
+              "173",
+              "193"
+            ],
+            "correctIndex": 1,
+            "explanation": "Uses powers of 2.",
+            "difficulty": "Medium",
+            "topicId": "rs-coding",
+            "source": "ai_generated",
+            "generatedDate": "2026-08-04"
+          }
+        ],
+        "questionCount": 5
+      },
+      "rs-blood": {
+        "topicName": "Blood Relations",
+        "subjectName": "Reasoning",
+        "questions": [
+          {
+            "question": "A man is married to the daughter of my mother's husband's sister. How is the daughter of the man's sister related to me?",
+            "options": [
+              "Mother",
+              "Sister",
+              "Daughter",
+              "Granddaughter"
+            ],
+            "correctIndex": 2,
+            "explanation": "The daughter of the man's sister is my mother's husband's sister's daughter.",
+            "difficulty": "Medium",
+            "topicId": "rs-blood",
+            "source": "ai_generated",
+            "generatedDate": "2026-08-04"
+          },
+          {
+            "question": "I am the only child of my parents. My paternal grandfather has three children. How many brothers I have?",
+            "options": [
+              "0",
+              "1",
+              "2",
+              "3"
+            ],
+            "correctIndex": 1,
+            "explanation": "Paternal grandfather's children are the children of my father.",
+            "difficulty": "Easy",
+            "topicId": "rs-blood",
+            "source": "ai_generated",
+            "generatedDate": "2026-08-04"
+          },
+          {
+            "question": "A woman's daughter is married to the son of her father's wife. How is the woman related to her son-in-law?",
+            "options": [
+              "Mother",
+              "Father",
+              "Brother",
+              "Son"
+            ],
+            "correctIndex": 0,
+            "explanation": "Woman's daughter is married to woman's son.",
+            "difficulty": "Medium",
+            "topicId": "rs-blood",
+            "source": "ai_generated",
+            "generatedDate": "2026-08-04"
+          },
+          {
+            "question": "A man has a son and a daughter. His son has a son. What is the relationship between the man's son's son and the man?",
+            "options": [
+              "Grandfather",
+              "Grandson",
+              "Father",
+              "Brother"
+            ],
+            "correctIndex": 0,
+            "explanation": "Man is the grandfather of his son's son.",
+            "difficulty": "Easy",
+            "topicId": "rs-blood",
+            "source": "ai_generated",
+            "generatedDate": "2026-08-04"
+          },
+          {
+            "question": "I have two grandsons from my son. What is the relationship between my son and his son's sons?",
+            "options": [
+              "Father",
+              "Grandfather",
+              "Brother",
+              "Uncle"
+            ],
+            "correctIndex": 1,
+            "explanation": "Son's sons are the grandsons of my son.",
+            "difficulty": "Medium",
+            "topicId": "rs-blood",
+            "source": "ai_generated",
+            "generatedDate": "2026-08-04"
+          }
+        ],
+        "questionCount": 5
+      },
+      "rs-series": {
+        "topicName": "Number & Letter Series",
+        "subjectName": "Reasoning",
+        "questions": [
+          {
+            "question": "A sequence of numbers is given: 2, 4, 6, 8, ?. If the pattern continues, what would be the next number in the sequence?",
+            "options": [
+              "10",
+              "12",
+              "9",
+              "11"
+            ],
+            "correctIndex": 0,
+            "explanation": "The pattern in the sequence is adding 2 to each number.",
+            "difficulty": "Medium",
+            "topicId": "rs-series",
+            "source": "ai_generated",
+            "generatedDate": "2026-08-04"
+          },
+          {
+            "question": "A series of letters is given: B, E, H, K, ?. If the pattern continues, what would be the next letter in the series?",
+            "options": [
+              "M",
+              "L",
+              "N",
+              "O"
+            ],
+            "correctIndex": 0,
+            "explanation": "The pattern in the series is moving forward 3 letters in the alphabet.",
+            "difficulty": "Easy",
+            "topicId": "ls-series",
+            "source": "ai_generated",
+            "generatedDate": "2026-08-04"
+          },
+          {
+            "question": "A sequence of numbers is given: 3, 6, 9, 12, ?. If the pattern continues, what would be the next number in the sequence?",
+            "options": [
+              "15",
+              "18",
+              "21",
+              "24"
+            ],
+            "correctIndex": 0,
+            "explanation": "The pattern in the sequence is adding 3 to each number.",
+            "difficulty": "Medium",
+            "topicId": "rs-series",
+            "source": "ai_generated",
+            "generatedDate": "2026-08-04"
+          },
+          {
+            "question": "A series of letters is given: A, C, E, G, ?. If the pattern continues, what would be the next letter in the series?",
+            "options": [
+              "H",
+              "I",
+              "J",
+              "K"
+            ],
+            "correctIndex": 0,
+            "explanation": "The pattern in the series is moving forward 2 letters in the alphabet.",
+            "difficulty": "Easy",
+            "topicId": "ls-series",
+            "source": "ai_generated",
+            "generatedDate": "2026-08-04"
+          },
+          {
+            "question": "A sequence of numbers is given: 5, 10, 15, 20, ?. If the pattern continues, what would be the next number in the sequence?",
+            "options": [
+              "25",
+              "22",
+              "27",
+              "28"
+            ],
+            "correctIndex": 0,
+            "explanation": "The pattern in the sequence is adding 5 to each number.",
+            "difficulty": "Medium",
+            "topicId": "rs-series",
+            "source": "ai_generated",
+            "generatedDate": "2026-08-04"
+          }
+        ],
+        "questionCount": 5
+      }
+    }
+  }
+}
