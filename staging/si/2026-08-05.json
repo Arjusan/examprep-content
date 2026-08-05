@@ -1,0 +1,1000 @@
+{
+  "exam": "si",
+  "generatedDate": "2026-08-05",
+  "generatedAt": "2026-08-05T03:44:04.896Z",
+  "model": "llama-3.1-8b-instant",
+  "provider": "groq",
+  "source": "ai_generated",
+  "reviewStatus": "pending",
+  "totalQuestions": 60,
+  "subjects": {
+    "gs": {
+      "gs-polity": {
+        "topicName": "Indian Constitution & Polity",
+        "subjectName": "General Studies",
+        "questions": [
+          {
+            "question": "Which part of the Indian Constitution deals with the Fundamental Rights?",
+            "options": [
+              "Part III",
+              "Part IV",
+              "Part V",
+              "Part VI"
+            ],
+            "correctIndex": 0,
+            "explanation": "Part III of the Indian Constitution deals with the Fundamental Rights.",
+            "difficulty": "Medium",
+            "topicId": "gs-polity",
+            "source": "ai_generated",
+            "generatedDate": "2026-08-05"
+          },
+          {
+            "question": "The Right to Information Act, 2005, was enacted by the Government of India to promote transparency and accountability in the working of the Government.",
+            "options": [
+              "True",
+              "False"
+            ],
+            "correctIndex": 1,
+            "explanation": "The Right to Information Act, 2005, was enacted by the Government of India to promote transparency and accountability in the working of the Government.",
+            "difficulty": "Easy",
+            "topicId": "gs-polity",
+            "source": "ai_generated",
+            "generatedDate": "2026-08-05"
+          },
+          {
+            "question": "The Sixth Schedule to the Indian Constitution applies to the districts of which states?",
+            "options": [
+              "Meghalaya",
+              "Tripura",
+              "Mizoram",
+              "Assam"
+            ],
+            "correctIndex": 3,
+            "explanation": "The Sixth Schedule to the Indian Constitution applies to the districts of Assam.",
+            "difficulty": "Medium",
+            "topicId": "gs-polity",
+            "source": "ai_generated",
+            "generatedDate": "2026-08-05"
+          },
+          {
+            "question": "The concept of 'Panchayati Raj' was first introduced by which of the following Prime Ministers of India?",
+            "options": [
+              "Jawaharlal Nehru",
+              "Rajiv Gandhi",
+              "Atal Bihari Vajpayee",
+              "Morarji Desai"
+            ],
+            "correctIndex": 0,
+            "explanation": "The concept of 'Panchayati Raj' was first introduced by Jawaharlal Nehru.",
+            "difficulty": "Easy",
+            "topicId": "gs-polity",
+            "source": "ai_generated",
+            "generatedDate": "2026-08-05"
+          },
+          {
+            "question": "Which of the following is a fundamental duty under the Indian Constitution?",
+            "options": [
+              "To pay taxes honestly",
+              "To respect the Constitution of India",
+              "To salute the National Flag",
+              "To participate in the decision-making process of the Panchayat"
+            ],
+            "correctIndex": 1,
+            "explanation": "To respect the Constitution of India is a fundamental duty under the Indian Constitution.",
+            "difficulty": "Medium",
+            "topicId": "gs-polity",
+            "source": "ai_generated",
+            "generatedDate": "2026-08-05"
+          }
+        ],
+        "questionCount": 5
+      },
+      "gs-freedom": {
+        "topicName": "Indian Freedom Struggle & Bengal",
+        "subjectName": "General Studies",
+        "questions": [
+          {
+            "question": "Which prominent leader played a key role in the Non-Cooperation Movement in Bengal?",
+            "options": [
+              "Subhas Chandra Bose",
+              "C.R. Das",
+              "J.L. Nehru",
+              "Bipin Chandra Pal"
+            ],
+            "correctIndex": 1,
+            "explanation": "C.R. Das was a key leader of the Non-Cooperation Movement in Bengal.",
+            "difficulty": "Medium",
+            "topicId": "gs-freedom",
+            "source": "ai_generated",
+            "generatedDate": "2026-08-05"
+          },
+          {
+            "question": "Which of the following events marked a significant milestone in the Bengal Renaissance?",
+            "options": [
+              "Establishment of the University of Calcutta",
+              "Publication of Bankim Chandra Chattopadhyay's novels",
+              "Opening of the Indian Museum in Kolkata",
+              "Foundation of the Indian Association"
+            ],
+            "correctIndex": 2,
+            "explanation": "The Indian Museum in Kolkata was established in 1814, marking a significant milestone in the Bengal Renaissance.",
+            "difficulty": "Medium",
+            "topicId": "gs-freedom",
+            "source": "ai_generated",
+            "generatedDate": "2026-08-05"
+          },
+          {
+            "question": "Who was the leader of the 1857 Sepoy Mutiny in Bengal?",
+            "options": [
+              "Kanhaiya Lal Gupta",
+              "Madan Mohan Malaviya",
+              "Tatya Tope",
+              "Bakht Khan"
+            ],
+            "correctIndex": 0,
+            "explanation": "Kanhaiya Lal Gupta led the 1857 Sepoy Mutiny in Bengal.",
+            "difficulty": "Easy",
+            "topicId": "gs-freedom",
+            "source": "ai_generated",
+            "generatedDate": "2026-08-05"
+          },
+          {
+            "question": "Which Act of the British Parliament was specifically aimed at suppressing the Indian National Congress in Bengal?",
+            "options": [
+              "Rowlatt Act",
+              "Sedition Act",
+              "Unlawful Activities (Prevention) Act",
+              "Anarchical and Revolutionary Crimes Act"
+            ],
+            "correctIndex": 3,
+            "explanation": "The Anarchical and Revolutionary Crimes Act, also known as the Rowlatt Act, was specifically aimed at suppressing the Indian National Congress in Bengal.",
+            "difficulty": "Medium",
+            "topicId": "gs-freedom",
+            "source": "ai_generated",
+            "generatedDate": "2026-08-05"
+          },
+          {
+            "question": "Which of the following revolutionary organizations was founded by Jatin Das and Barindra Kumar Ghose in Bengal?",
+            "options": [
+              "Anushilan Samiti",
+              "Jugantar Party",
+              "Abhinav Bharat",
+              "Bhawani Charan Chattopadhyay's organization"
+            ],
+            "correctIndex": 2,
+            "explanation": "The Jugantar Party was founded by Jatin Das and Barindra Kumar Ghose in Bengal.",
+            "difficulty": "Hard",
+            "topicId": "gs-freedom",
+            "source": "ai_generated",
+            "generatedDate": "2026-08-05"
+          }
+        ],
+        "questionCount": 5
+      },
+      "gs-wb-geo": {
+        "topicName": "West Bengal Geography",
+        "subjectName": "General Studies",
+        "questions": [
+          {
+            "question": "Which of the following rivers is not a tributary of the Ganges in West Bengal?",
+            "options": [
+              "Bhagirathi",
+              "Jalangi",
+              "Kangsabati",
+              "Titas"
+            ],
+            "correctIndex": 2,
+            "explanation": "Kangsa Bati originates in the state of Odisha.",
+            "difficulty": "Medium",
+            "topicId": "gs-wb-geo",
+            "source": "ai_generated",
+            "generatedDate": "2026-08-05"
+          },
+          {
+            "question": "Which of the following mountain ranges is located in the Darjeeling district of West Bengal?",
+            "options": [
+              "Siachen Glacier",
+              "Himalayas",
+              "Shivshankar Parbat",
+              "Eastern Ghats"
+            ],
+            "correctIndex": 1,
+            "explanation": "Darjeeling Himalayan hill region is known for its tea plantations.",
+            "difficulty": "Medium",
+            "topicId": "gs-wb-geo",
+            "source": "ai_generated",
+            "generatedDate": "2026-08-05"
+          },
+          {
+            "question": "What is the name of the largest delta in West Bengal?",
+            "options": [
+              "Ganges-Brahmaputra Delta",
+              "Meghna River Delta",
+              "Krishna River Delta",
+              "Godavari River Delta"
+            ],
+            "correctIndex": 0,
+            "explanation": "This delta is formed by the confluence of three major rivers.",
+            "difficulty": "Easy",
+            "topicId": "gs-wb-geo",
+            "source": "ai_generated",
+            "generatedDate": "2026-08-05"
+          },
+          {
+            "question": "Which of the following islands is located in the Sundarbans region of West Bengal?",
+            "options": [
+              "Midnapore Island",
+              "Sagar Island",
+              "Haldia Island",
+              "Bhagabatpur Island"
+            ],
+            "correctIndex": 1,
+            "explanation": "It is a pilgrimage site for Hindus.",
+            "difficulty": "Medium",
+            "topicId": "gs-wb-geo",
+            "source": "ai_generated",
+            "generatedDate": "2026-08-05"
+          },
+          {
+            "question": "Which of the following West Bengal districts is known as the 'Alpine Station'?",
+            "options": [
+              "Darjeeling",
+              "Kalimpong",
+              "Siliguri",
+              "Jalpaiguri"
+            ],
+            "correctIndex": 0,
+            "explanation": "It is famous for its tea plantations and scenic beauty.",
+            "difficulty": "Medium",
+            "topicId": "gs-wb-geo",
+            "source": "ai_generated",
+            "generatedDate": "2026-08-05"
+          }
+        ],
+        "questionCount": 5
+      },
+      "gs-current": {
+        "topicName": "Current Affairs (Last 12 Months)",
+        "subjectName": "General Studies",
+        "questions": [
+          {
+            "question": "Which West Bengal government scheme aims to provide financial assistance to the families of martyred police personnel?",
+            "options": [
+              "Swasthya Sathi",
+              "Mukhyamantri Karmi Arogya Yojana",
+              "Mukhyamantri Pradhan Mantri Jan Arogya Yojana (MM-JAY)",
+              "Mukhyamantri Karmachari Aarthik Sahayata Yojana"
+            ],
+            "correctIndex": 3,
+            "explanation": "Launched by the West Bengal government to provide financial assistance to the families of martyred police personnel.",
+            "difficulty": "Medium",
+            "topicId": "gs-current",
+            "source": "ai_generated",
+            "generatedDate": "2026-08-05"
+          },
+          {
+            "question": "Which of the following rivers is the main source of water for the Sundarbans, a UNESCO World Heritage Site in West Bengal?",
+            "options": [
+              "Ganges River",
+              "Brahmaputra River",
+              "Hooghly River",
+              "Padma River"
+            ],
+            "correctIndex": 1,
+            "explanation": "The Brahmaputra River is the main source of water for the Sundarbans.",
+            "difficulty": "Medium",
+            "topicId": "gs-current",
+            "source": "ai_generated",
+            "generatedDate": "2026-08-05"
+          },
+          {
+            "question": "Which West Bengal government initiative focuses on promoting local handicrafts and textiles?",
+            "options": [
+              "West Bengal Handicrafts and Handloom Corporation",
+              "West Bengal State Weavers' Cooperative Society",
+              "West Bengal Khadi and Village Industries Board",
+              "Mukhyamantri Swabalamban Yojana"
+            ],
+            "correctIndex": 0,
+            "explanation": "An initiative of the West Bengal government to promote local handicrafts and textiles.",
+            "difficulty": "Medium",
+            "topicId": "gs-current",
+            "source": "ai_generated",
+            "generatedDate": "2026-08-05"
+          },
+          {
+            "question": "Which of the following is a notable festival celebrated in West Bengal during the month of August?",
+            "options": [
+              "Durga Puja",
+              "Kali Puja",
+              "Rathyatra",
+              "Bhadra Purnima"
+            ],
+            "correctIndex": 0,
+            "explanation": "A major festival celebrated in West Bengal with grand processions and festivities.",
+            "difficulty": "Medium",
+            "topicId": "gs-current",
+            "source": "ai_generated",
+            "generatedDate": "2026-08-05"
+          },
+          {
+            "question": "Which West Bengal government scheme aims to provide free education to girls from economically weaker sections?",
+            "options": [
+              "Swami Vivekananda Merit Cum Means Scholarship",
+              "Kanyashree Prakalpa",
+              "Mukhyamantri Shiksha Sahayata Yojana",
+              "Rupashree Prakalpa"
+            ],
+            "correctIndex": 1,
+            "explanation": "A West Bengal government scheme providing financial assistance to girls from economically weaker sections for education.",
+            "difficulty": "Medium",
+            "topicId": "gs-current",
+            "source": "ai_generated",
+            "generatedDate": "2026-08-05"
+          }
+        ],
+        "questionCount": 5
+      },
+      "gs-wb-schemes": {
+        "topicName": "West Bengal Government Schemes",
+        "subjectName": "General Studies",
+        "questions": [
+          {
+            "question": "The West Bengal government's 'Duare Duare' scheme was launched in 2021 to provide various government services to the citizens at their doorstep.",
+            "options": [
+              "Pension distribution",
+              "Health insurance",
+              "Ration distribution",
+              "All of the above"
+            ],
+            "correctIndex": 3,
+            "explanation": "It is a unique initiative to make government services accessible to the people.",
+            "difficulty": "Medium",
+            "topicId": "gs-wb-schemes",
+            "source": "ai_generated",
+            "generatedDate": "2026-08-05"
+          },
+          {
+            "question": "The 'Swasthya Sathi' card is a health insurance scheme launched by the West Bengal government, which provides a sum insured of _______ to the beneficiary.",
+            "options": [
+              "1 Lakh",
+              "2 Lakh",
+              "3 Lakh",
+              "4 Lakh"
+            ],
+            "correctIndex": 1,
+            "explanation": "It aims to provide financial protection to the citizens against medical expenses.",
+            "difficulty": "Easy",
+            "topicId": "gs-wb-schemes",
+            "source": "ai_generated",
+            "generatedDate": "2026-08-05"
+          },
+          {
+            "question": "The 'Kanyashree Prakalpa' scheme was launched by the West Bengal government in 2013 to empower the girl child by providing financial assistance to the parents/guardians of the girl child.",
+            "options": [
+              "Rs. 750/- per year",
+              "Rs. 1,000/- per year",
+              "Rs. 1,500/- per year",
+              "Rs. 2,000/- per year"
+            ],
+            "correctIndex": 1,
+            "explanation": "It aims to reduce the number of child marriages and promote girls' education.",
+            "difficulty": "Medium",
+            "topicId": "gs-wb-schemes",
+            "source": "ai_generated",
+            "generatedDate": "2026-08-05"
+          },
+          {
+            "question": "The 'Bhagya Shree' scheme of the West Bengal government provides financial assistance to the widows and destitute women for their _______.",
+            "options": [
+              "Medical treatment",
+              "Ration and clothing",
+              "Education of their children",
+              "All of the above"
+            ],
+            "correctIndex": 3,
+            "explanation": "It aims to provide economic support to the vulnerable section of society.",
+            "difficulty": "Medium",
+            "topicId": "gs-wb-schemes",
+            "source": "ai_generated",
+            "generatedDate": "2026-08-05"
+          },
+          {
+            "question": "The 'Sabuj Sathi' scheme of the West Bengal government aims to provide _______ bicycles to the students of classes IX to XII.",
+            "options": [
+              "Free",
+              "Subsidized",
+              "On loan",
+              "All of the above"
+            ],
+            "correctIndex": 0,
+            "explanation": "It aims to promote eco-friendly transport and encourage students to attend school regularly.",
+            "difficulty": "Easy",
+            "topicId": "gs-wb-schemes",
+            "source": "ai_generated",
+            "generatedDate": "2026-08-05"
+          }
+        ],
+        "questionCount": 5
+      }
+    },
+    "math": {
+      "math-percent": {
+        "topicName": "Percentage & Profit-Loss",
+        "subjectName": "Arithmetic",
+        "questions": [
+          {
+            "question": "A tea stall owner in Darjeeling sells 150 packets of tea at 10% discount. What is the total discount amount?",
+            "options": [
+              "₹ 15",
+              "₹ 18",
+              "₹ 20",
+              "₹ 22.50"
+            ],
+            "correctIndex": 2,
+            "explanation": "Discount amount is 10% of the original price.",
+            "difficulty": "Medium",
+            "topicId": "math-percent",
+            "source": "ai_generated",
+            "generatedDate": "2026-08-05"
+          },
+          {
+            "question": "Sachin invested ₹ 12000 in a business. After 3 months, he invested another ₹ 15000. If the profit at the end of the year was ₹ 10800, what was the ratio of Sachin's profit to his investment?",
+            "options": [
+              "4:10",
+              "8:15",
+              "12:17",
+              "9:14"
+            ],
+            "correctIndex": 2,
+            "explanation": "The ratio of profit to investment is inversely proportional to the time period.",
+            "difficulty": "Medium",
+            "topicId": "math-profit",
+            "source": "ai_generated",
+            "generatedDate": "2026-08-05"
+          },
+          {
+            "question": "A shopkeeper sells 2/5 of his stock at a 10% profit and the remaining 3/5 at a 10% loss. If the average profit is 2%, then what is the ratio of the original stock price to the selling price?",
+            "options": [
+              "1:2",
+              "2:3",
+              "3:4",
+              "1:3"
+            ],
+            "correctIndex": 1,
+            "explanation": "The average profit is calculated by taking the weighted average of the profit and loss.",
+            "difficulty": "Hard",
+            "topicId": "math-profit",
+            "source": "ai_generated",
+            "generatedDate": "2026-08-05"
+          },
+          {
+            "question": "A person purchases a watch worth ₹ 500 at a 20% discount. What is the selling price of the watch?",
+            "options": [
+              "₹ 400",
+              "₹ 400",
+              "₹ 400",
+              "₹ 400"
+            ],
+            "correctIndex": 0,
+            "explanation": "The selling price is the original price minus the discount.",
+            "difficulty": "Easy",
+            "topicId": "math-percent",
+            "source": "ai_generated",
+            "generatedDate": "2026-08-05"
+          },
+          {
+            "question": "The price of sugar increases by 25% in a year. If a person buys 50 kg of sugar at the initial price and sells it at the increased price, what is the percentage profit?",
+            "options": [
+              "12.5%",
+              "15%",
+              "20%",
+              "25%"
+            ],
+            "correctIndex": 1,
+            "explanation": "The percentage profit is calculated as the difference between the selling price and the cost price divided by the cost price.",
+            "difficulty": "Medium",
+            "topicId": "math-percent",
+            "source": "ai_generated",
+            "generatedDate": "2026-08-05"
+          }
+        ],
+        "questionCount": 5
+      },
+      "math-interest": {
+        "topicName": "Simple & Compound Interest",
+        "subjectName": "Arithmetic",
+        "questions": [
+          {
+            "question": "An amount of Rs. 8,000 is invested at a simple interest rate of 6% per annum for 2 years. The interest earned is calculated as:",
+            "options": [
+              "Rs. 960",
+              "Rs. 960.48",
+              "Rs. 960.96",
+              "Rs. 961.92"
+            ],
+            "correctIndex": 0,
+            "explanation": "Interest is calculated as principal * rate * time.",
+            "difficulty": "Medium",
+            "topicId": "math-interest",
+            "source": "ai_generated",
+            "generatedDate": "2026-08-05"
+          },
+          {
+            "question": "Find the compound interest on Rs. 12,000 for 3 years at 4% per annum, compounded annually.",
+            "options": [
+              "Rs. 1,525.92",
+              "Rs. 1,526.08",
+              "Rs. 1,526.24",
+              "Rs. 1,526.40"
+            ],
+            "correctIndex": 3,
+            "explanation": "Compound interest formula is A = P(1 + r/n)^(nt).",
+            "difficulty": "Medium",
+            "topicId": "math-interest",
+            "source": "ai_generated",
+            "generatedDate": "2026-08-05"
+          },
+          {
+            "question": "A certain sum of money is invested at a compound interest rate of 5% per annum. If the amount after 2 years is Rs. 11,260.30, then the principal amount is:",
+            "options": [
+              "Rs. 10,000",
+              "Rs. 10,100",
+              "Rs. 10,200",
+              "Rs. 10,500"
+            ],
+            "correctIndex": 2,
+            "explanation": "To find the principal amount, use the formula A = P(1 + r)^n.",
+            "difficulty": "Medium",
+            "topicId": "math-interest",
+            "source": "ai_generated",
+            "generatedDate": "2026-08-05"
+          },
+          {
+            "question": "Sachin borrows Rs. 20,000 from his friend at the rate of 8% per annum for 3 years compounded annually. The amount he has to pay after 3 years is:",
+            "options": [
+              "Rs. 22,796.80",
+              "Rs. 22,800.04",
+              "Rs. 22,800.08",
+              "Rs. 22,800.16"
+            ],
+            "correctIndex": 0,
+            "explanation": "Compound interest is calculated as principal * (1 + r)^n.",
+            "difficulty": "Medium",
+            "topicId": "math-interest",
+            "source": "ai_generated",
+            "generatedDate": "2026-08-05"
+          },
+          {
+            "question": "Find the rate of interest at which the amount becomes double in 5 years on a principal of Rs. 9,000.",
+            "options": [
+              "6%",
+              "6.25%",
+              "6.5%",
+              "6.75%"
+            ],
+            "correctIndex": 3,
+            "explanation": "Use the formula A = P(1 + r)^n to find the rate of interest.",
+            "difficulty": "Medium",
+            "topicId": "math-interest",
+            "source": "ai_generated",
+            "generatedDate": "2026-08-05"
+          }
+        ],
+        "questionCount": 5
+      },
+      "math-tsd": {
+        "topicName": "Time, Speed & Distance",
+        "subjectName": "Arithmetic",
+        "questions": [
+          {
+            "question": "A train travels from Howrah to Durgapur at an average speed of 60 kmph. How much distance will it cover in 3 hours?",
+            "options": [
+              "180 km",
+              "220 km",
+              "240 km",
+              "260 km"
+            ],
+            "correctIndex": 0,
+            "explanation": "Distance covered is speed multiplied by time.",
+            "difficulty": "Medium",
+            "topicId": "math-tsd",
+            "source": "ai_generated",
+            "generatedDate": "2026-08-05"
+          },
+          {
+            "question": "A bus covers a distance of 240 km in 6 hours. What is its average speed in kmph?",
+            "options": [
+              "30 kmph",
+              "40 kmph",
+              "50 kmph",
+              "60 kmph"
+            ],
+            "correctIndex": 2,
+            "explanation": "Average speed is distance divided by time.",
+            "difficulty": "Easy",
+            "topicId": "math-tsd",
+            "source": "ai_generated",
+            "generatedDate": "2026-08-05"
+          },
+          {
+            "question": "A car travels from Kolkata to Siliguri at an average speed of 70 kmph. If it takes 4 hours to cover the distance, what is the distance between the two places?",
+            "options": [
+              "280 km",
+              "300 km",
+              "320 km",
+              "340 km"
+            ],
+            "correctIndex": 2,
+            "explanation": "Distance covered is speed multiplied by time.",
+            "difficulty": "Medium",
+            "topicId": "math-tsd",
+            "source": "ai_generated",
+            "generatedDate": "2026-08-05"
+          },
+          {
+            "question": "A motorist covers a distance of 360 km in 8 hours. What is the average speed of the motorist in kmph?",
+            "options": [
+              "40 kmph",
+              "45 kmph",
+              "50 kmph",
+              "55 kmph"
+            ],
+            "correctIndex": 0,
+            "explanation": "Average speed is distance divided by time.",
+            "difficulty": "Easy",
+            "topicId": "math-tsd",
+            "source": "ai_generated",
+            "generatedDate": "2026-08-05"
+          },
+          {
+            "question": "A train starts from Sealdah station at 6:00 AM and reaches the destination at 9:00 AM. If the average speed of the train is 40 kmph, what is the distance covered by the train?",
+            "options": [
+              "240 km",
+              "260 km",
+              "280 km",
+              "300 km"
+            ],
+            "correctIndex": 2,
+            "explanation": "Distance covered is speed multiplied by time.",
+            "difficulty": "Medium",
+            "topicId": "math-tsd",
+            "source": "ai_generated",
+            "generatedDate": "2026-08-05"
+          }
+        ],
+        "questionCount": 5
+      }
+    },
+    "reasoning": {
+      "rs-coding": {
+        "topicName": "Coding-Decoding",
+        "subjectName": "Reasoning",
+        "questions": [
+          {
+            "question": "If the first letter of each word in the given sentence 'Durgapur Nabadwip' is assigned a number as per the English alphabetical order (A=1, B=2, etc.), what will be the sum of the numbers assigned to the first letters of the words 'Nabadwip'?",
+            "options": [
+              "12",
+              "13",
+              "14",
+              "15"
+            ],
+            "correctIndex": 2,
+            "explanation": "The first letters of 'Nabadwip' are 'N', 'A', 'B', 'D' and 'W'.",
+            "difficulty": "Medium",
+            "topicId": "rs-coding",
+            "source": "ai_generated",
+            "generatedDate": "2026-08-05"
+          },
+          {
+            "question": "If the word 'Kolkata' is written in a special code where each letter is assigned a digit as per its position in the English alphabet, what will be the code for the word 'Kolkata'?",
+            "options": [
+              "11 15 12 12 1 1 20 1",
+              "11 1 12 1 1 20 1",
+              "11 15 12 12 1 1 1",
+              "11 15 12 12 12 1 1 20"
+            ],
+            "correctIndex": 1,
+            "explanation": "K=11, O=15, L=12, K=12, A=1, T=1, A=1, H=20, A=1",
+            "difficulty": "Medium",
+            "topicId": "rs-coding",
+            "source": "ai_generated",
+            "generatedDate": "2026-08-05"
+          },
+          {
+            "question": "In the given series of numbers 3, 7, 11, 15, 19, 23, 27, what comes next?",
+            "options": [
+              "31",
+              "33",
+              "31",
+              "31"
+            ],
+            "correctIndex": 1,
+            "explanation": "The numbers in the series are increasing by 4 each time.",
+            "difficulty": "Easy",
+            "topicId": "rs-coding",
+            "source": "ai_generated",
+            "generatedDate": "2026-08-05"
+          },
+          {
+            "question": "If the letters of the word 'Darjeeling' are written in reverse order, what will be the third letter of the word 'Darjeeling'?",
+            "options": [
+              "D",
+              "E",
+              "L",
+              "E"
+            ],
+            "correctIndex": 3,
+            "explanation": "The word 'Darjeeling' spelled in reverse is 'GnilEerajD'.",
+            "difficulty": "Easy",
+            "topicId": "rs-coding",
+            "source": "ai_generated",
+            "generatedDate": "2026-08-05"
+          },
+          {
+            "question": "If the word 'Siliguri' is encoded by replacing each letter with the letter three positions ahead of it in the alphabet, what will be the encoded word?",
+            "options": [
+              "Vlhodwxr",
+              "Vlhodwxg",
+              "Vlhodwxr",
+              "Vlhodwxg"
+            ],
+            "correctIndex": 0,
+            "explanation": "The word 'Siliguri' spelled out is 'S-I-L-I-G-U-R-I'.",
+            "difficulty": "Medium",
+            "topicId": "rs-coding",
+            "source": "ai_generated",
+            "generatedDate": "2026-08-05"
+          }
+        ],
+        "questionCount": 5
+      },
+      "rs-blood": {
+        "topicName": "Blood Relations",
+        "subjectName": "Reasoning",
+        "questions": [
+          {
+            "question": "Rajiv is the son of Rohan's wife's brother. How is Rajiv related to Rohan?",
+            "options": [
+              "Brother",
+              "Son",
+              "Father",
+              "Uncle"
+            ],
+            "correctIndex": 1,
+            "explanation": "Rajiv is the son of Rohan's sister's husband.",
+            "difficulty": "Medium",
+            "topicId": "rs-blood",
+            "source": "ai_generated",
+            "generatedDate": "2026-08-05"
+          },
+          {
+            "question": "A is the mother of B, B is the husband of C and C is the daughter of D. How is D related to A?",
+            "options": [
+              "Father",
+              "Mother",
+              "Grandmother",
+              "Grandfather"
+            ],
+            "correctIndex": 2,
+            "explanation": "D is the grandmother of A.",
+            "difficulty": "Medium",
+            "topicId": "rs-blood",
+            "source": "ai_generated",
+            "generatedDate": "2026-08-05"
+          },
+          {
+            "question": "If P is the father of Q and Q is the son of R, then P is the __________ of R.",
+            "options": [
+              "Father",
+              "Son",
+              "Brother",
+              "Uncle"
+            ],
+            "correctIndex": 0,
+            "explanation": "P is the grandfather of R.",
+            "difficulty": "Medium",
+            "topicId": "rs-blood",
+            "source": "ai_generated",
+            "generatedDate": "2026-08-05"
+          },
+          {
+            "question": "If A is the brother of B and B is the sister of C, then C is the __________ of A.",
+            "options": [
+              "Brother",
+              "Sister",
+              "Father",
+              "Mother"
+            ],
+            "correctIndex": 1,
+            "explanation": "C is the sister of A.",
+            "difficulty": "Medium",
+            "topicId": "rs-blood",
+            "source": "ai_generated",
+            "generatedDate": "2026-08-05"
+          },
+          {
+            "question": "If A is the mother of B and C, then B and C are the __________ of A.",
+            "options": [
+              "Brother and sister",
+              "Father and mother",
+              "Son and daughter",
+              "Uncle and aunt"
+            ],
+            "correctIndex": 2,
+            "explanation": "B and C are the children of A.",
+            "difficulty": "Medium",
+            "topicId": "rs-blood",
+            "source": "ai_generated",
+            "generatedDate": "2026-08-05"
+          }
+        ],
+        "questionCount": 5
+      },
+      "rs-direction": {
+        "topicName": "Direction Sense",
+        "subjectName": "Reasoning",
+        "questions": [
+          {
+            "question": "A person is facing east and walks 50 meters. Then, he turns left and walks 25 meters. Next, he turns right and walks 75 meters. Which direction is he facing now?",
+            "options": [
+              "North",
+              "South",
+              "East",
+              "West"
+            ],
+            "correctIndex": 2,
+            "explanation": "He turns right after walking 25 meters.",
+            "difficulty": "Medium",
+            "topicId": "rs-direction",
+            "source": "ai_generated",
+            "generatedDate": "2026-08-05"
+          },
+          {
+            "question": "A person is at the foot of a hill. He climbs up 200 meters and then turns right and walks 100 meters. Next, he turns left and walks 150 meters. Which direction is he from the foot of the hill now?",
+            "options": [
+              "Upslope",
+              "Downslope",
+              "North",
+              "South"
+            ],
+            "correctIndex": 1,
+            "explanation": "He walked downslope after the initial climb.",
+            "difficulty": "Medium",
+            "topicId": "rs-direction",
+            "source": "ai_generated",
+            "generatedDate": "2026-08-05"
+          },
+          {
+            "question": "A person starts from his home, walks 20 meters towards the north, then 15 meters towards east, then 10 meters towards south, and finally 5 meters towards west. What is the distance of his house from his final position?",
+            "options": [
+              "25 meters",
+              "5 meters",
+              "15 meters",
+              "20 meters"
+            ],
+            "correctIndex": 0,
+            "explanation": "He walked 20 meters towards the north and 10 meters towards south.",
+            "difficulty": "Medium",
+            "topicId": "rs-direction",
+            "source": "ai_generated",
+            "generatedDate": "2026-08-05"
+          },
+          {
+            "question": "In a village in West Bengal, a person is facing a temple at a distance of 200 meters. He walks 150 meters towards the temple. Then, he turns right and walks 75 meters. Next, he turns left and walks 100 meters. Which direction is the temple from his current position now?",
+            "options": [
+              "East",
+              "West",
+              "North",
+              "South"
+            ],
+            "correctIndex": 1,
+            "explanation": "He walked 75 meters towards the west.",
+            "difficulty": "Medium",
+            "topicId": "rs-direction",
+            "source": "ai_generated",
+            "generatedDate": "2026-08-05"
+          },
+          {
+            "question": "A person is standing in a field and sees a tree at a distance of 300 meters. He walks 120 meters towards the tree, then turns right and walks 60 meters, and finally turns left and walks 120 meters. Which direction is the tree from his current position now?",
+            "options": [
+              "North",
+              "South",
+              "East",
+              "West"
+            ],
+            "correctIndex": 0,
+            "explanation": "He walked 120 meters towards the tree.",
+            "difficulty": "Medium",
+            "topicId": "rs-direction",
+            "source": "ai_generated",
+            "generatedDate": "2026-08-05"
+          }
+        ],
+        "questionCount": 5
+      },
+      "rs-series": {
+        "topicName": "Number & Letter Series",
+        "subjectName": "Reasoning",
+        "questions": [
+          {
+            "question": "Find the next term in the series: 5, 15, 35, 65, 105, _",
+            "options": [
+              "125",
+              "135",
+              "145",
+              "155"
+            ],
+            "correctIndex": 0,
+            "explanation": "The pattern increases by 10, then 20, then 30, and so on.",
+            "difficulty": "Easy",
+            "topicId": "rs-series",
+            "source": "ai_generated",
+            "generatedDate": "2026-08-05"
+          },
+          {
+            "question": "In a sequence of letters, the pattern is: B, E, H, K, _",
+            "options": [
+              "N",
+              "O",
+              "P",
+              "Q"
+            ],
+            "correctIndex": 3,
+            "explanation": "Each letter increases by 3 positions in the alphabet.",
+            "difficulty": "Easy",
+            "topicId": "ls-series",
+            "source": "ai_generated",
+            "generatedDate": "2026-08-05"
+          },
+          {
+            "question": "A man has 3 children: R, T, U. If he has twins again, what will be their places in the sequence?",
+            "options": [
+              "V, W",
+              "X, Y",
+              "V, Y",
+              "W, X"
+            ],
+            "correctIndex": 2,
+            "explanation": "The twins will have places V and Y in the sequence.",
+            "difficulty": "Medium",
+            "topicId": "ls-series",
+            "source": "ai_generated",
+            "generatedDate": "2026-08-05"
+          },
+          {
+            "question": "Find the next number in the series: 2, 6, 12, 20, 30, _",
+            "options": [
+              "42",
+              "40",
+              "38",
+              "36"
+            ],
+            "correctIndex": 0,
+            "explanation": "The pattern increases by 4, then 6, then 8, and so on.",
+            "difficulty": "Medium",
+            "topicId": "rs-series",
+            "source": "ai_generated",
+            "generatedDate": "2026-08-05"
+          },
+          {
+            "question": "In a sequence of numbers, the pattern is: 1, 2, 4, 8, 16, _",
+            "options": [
+              "32",
+              "64",
+              "28",
+              "36"
+            ],
+            "correctIndex": 0,
+            "explanation": "The pattern is obtained by multiplying the previous term by 2.",
+            "difficulty": "Easy",
+            "topicId": "rs-series",
+            "source": "ai_generated",
+            "generatedDate": "2026-08-05"
+          }
+        ],
+        "questionCount": 5
+      }
+    }
+  }
+}
