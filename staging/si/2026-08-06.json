@@ -1,0 +1,838 @@
+{
+  "exam": "si",
+  "generatedDate": "2026-08-06",
+  "generatedAt": "2026-08-06T03:50:10.772Z",
+  "model": "llama-3.1-8b-instant",
+  "provider": "groq",
+  "source": "ai_generated",
+  "reviewStatus": "pending",
+  "totalQuestions": 50,
+  "subjects": {
+    "gs": {
+      "gs-polity": {
+        "topicName": "Indian Constitution & Polity",
+        "subjectName": "General Studies",
+        "questions": [
+          {
+            "question": "Which Article of the Indian Constitution empowers the President to declare financial emergency?",
+            "options": [
+              "Article 360",
+              "Article 356",
+              "Article 370",
+              "Article 371"
+            ],
+            "correctIndex": 0,
+            "explanation": "Article 360 authorizes the President to declare a financial emergency.",
+            "difficulty": "Medium",
+            "topicId": "gs-polity",
+            "source": "ai_generated",
+            "generatedDate": "2026-08-06"
+          },
+          {
+            "question": "Which of the following is a fundamental duty under the Indian Constitution?",
+            "options": [
+              "To follow the instructions of the government",
+              "To promote harmony and the spirit of common brotherhood amongst all the people of India",
+              "To vote compulsorily in all elections",
+              "To pay taxes"
+            ],
+            "correctIndex": 1,
+            "explanation": "It requires promoting harmony and the spirit of common brotherhood amongst all the people of India.",
+            "difficulty": "Medium",
+            "topicId": "gs-polity",
+            "source": "ai_generated",
+            "generatedDate": "2026-08-06"
+          },
+          {
+            "question": "The Panchayat system is enshrined in which Article of the Indian Constitution?",
+            "options": [
+              "Article 40",
+              "Article 41",
+              "Article 243A",
+              "Article 243B"
+            ],
+            "correctIndex": 2,
+            "explanation": "Article 243A provides for the establishment of Panchayat Raj institutions.",
+            "difficulty": "Medium",
+            "topicId": "gs-polity",
+            "source": "ai_generated",
+            "generatedDate": "2026-08-06"
+          },
+          {
+            "question": "Who among the following is the head of a Scheduled Caste/ Scheduled Tribe Welfare Board in West Bengal?",
+            "options": [
+              "Chairperson of the Board",
+              "District Magistrate",
+              "Collector",
+              "Tahsildar"
+            ],
+            "correctIndex": 0,
+            "explanation": "The Chairperson is the head of the Scheduled Caste/ Scheduled Tribe Welfare Board in West Bengal.",
+            "difficulty": "Medium",
+            "topicId": "gs-govt",
+            "source": "ai_generated",
+            "generatedDate": "2026-08-06"
+          },
+          {
+            "question": "Which of the following is a feature of the Sixth Schedule of the Indian Constitution?",
+            "options": [
+              "Creation of Autonomous District Councils",
+              "Creation of Autonomous State Councils",
+              "Creation of Autonomous Regional Councils",
+              "Creation of Autonomous City Councils"
+            ],
+            "correctIndex": 0,
+            "explanation": "It provides for the creation of Autonomous District Councils.",
+            "difficulty": "Medium",
+            "topicId": "gs-polity",
+            "source": "ai_generated",
+            "generatedDate": "2026-08-06"
+          }
+        ],
+        "questionCount": 5
+      },
+      "gs-freedom": {
+        "topicName": "Indian Freedom Struggle & Bengal",
+        "subjectName": "General Studies",
+        "questions": [
+          {
+            "question": "Who was the first Indian to be hanged by the British in Bengal for the 1857 rebellion?",
+            "options": [
+              "Madan Lal Dhingra",
+              "Veer Kunwar Singh",
+              "Mangal Pandey",
+              "Bagha Jatin"
+            ],
+            "correctIndex": 2,
+            "explanation": "He was the first to spark the Indian Rebellion of 1857.",
+            "difficulty": "Medium",
+            "topicId": "gs-freedom",
+            "source": "ai_generated",
+            "generatedDate": "2026-08-06"
+          },
+          {
+            "question": "What was the name of the Swadeshi Movement's iconic symbol in Bengal?",
+            "options": [
+              "Charkha",
+              "Bhagwa Dhwaj",
+              "Swadeshi Flag",
+              "Dandi"
+            ],
+            "correctIndex": 2,
+            "explanation": "A red flag with eight pointed stars and the words 'Bande Mataram' on it.",
+            "difficulty": "Easy",
+            "topicId": "gs-freedom",
+            "source": "ai_generated",
+            "generatedDate": "2026-08-06"
+          },
+          {
+            "question": "Which of the following events marked the beginning of the Quit India Movement in Bengal?",
+            "options": [
+              "Dum Dum arms factory raid",
+              "Chittagong Armoury Raid",
+              "Direct Action Day",
+              "Dharasur to Bagerhat march"
+            ],
+            "correctIndex": 0,
+            "explanation": "The British were forced to abandon a major arms factory in Kolkata.",
+            "difficulty": "Medium",
+            "topicId": "gs-freedom",
+            "source": "ai_generated",
+            "generatedDate": "2026-08-06"
+          },
+          {
+            "question": "Who was the prominent Bengal revolutionary associated with the Jugantar Party?",
+            "options": [
+              "Bagha Jatin",
+              "Surya Sen",
+              "Bhagat Singh",
+              "Rash Behari Bose"
+            ],
+            "correctIndex": 1,
+            "explanation": "He played a key role in the 1930 Chittagong Armoury Raid.",
+            "difficulty": "Medium",
+            "topicId": "gs-freedom",
+            "source": "ai_generated",
+            "generatedDate": "2026-08-06"
+          },
+          {
+            "question": "What was the name of the Bengali newspaper that played a significant role in the Swadeshi Movement?",
+            "options": [
+              "Bande Mataram",
+              "Yugantar",
+              "Sandhya",
+              "Sahitya"
+            ],
+            "correctIndex": 0,
+            "explanation": "Founded by Aurobindo Ghosh in 1906.",
+            "difficulty": "Easy",
+            "topicId": "gs-freedom",
+            "source": "ai_generated",
+            "generatedDate": "2026-08-06"
+          }
+        ],
+        "questionCount": 5
+      },
+      "gs-wb-geo": {
+        "topicName": "West Bengal Geography",
+        "subjectName": "General Studies",
+        "questions": [
+          {
+            "question": "Which mountain range runs through the northern part of West Bengal, India?",
+            "options": [
+              "The Eastern Ghats",
+              "The Sikkim Himalayas",
+              "The Eastern Himalayas",
+              "The Vindhyas"
+            ],
+            "correctIndex": 2,
+            "explanation": "The Eastern Himalayas traverse the northern part of West Bengal.",
+            "difficulty": "Medium",
+            "topicId": "gs-wb-geo",
+            "source": "ai_generated",
+            "generatedDate": "2026-08-06"
+          },
+          {
+            "question": "Which major river originates in the Himalayas and flows through the state of West Bengal before emptying into the Bay of Bengal?",
+            "options": [
+              "The Ganges",
+              "The Brahmaputra",
+              "The Mahanadi",
+              "The Godavari"
+            ],
+            "correctIndex": 0,
+            "explanation": "The Ganges originates in the Himalayas and flows through West Bengal.",
+            "difficulty": "Medium",
+            "topicId": "gs-wb-geo",
+            "source": "ai_generated",
+            "generatedDate": "2026-08-06"
+          },
+          {
+            "question": "Which delta region is located in the state of West Bengal, India?",
+            "options": [
+              "The Sunderbans",
+              "The Ganges Delta",
+              "The Brahmaputra-Jamuna Delta",
+              "The Mahanadi River Delta"
+            ],
+            "correctIndex": 0,
+            "explanation": "The Sunderbans is a delta region located in West Bengal.",
+            "difficulty": "Medium",
+            "topicId": "gs-wb-geo",
+            "source": "ai_generated",
+            "generatedDate": "2026-08-06"
+          },
+          {
+            "question": "What is the name of the largest city and the capital of the state of West Bengal, India?",
+            "options": [
+              "Kolkata",
+              "Siliguri",
+              "Asansol",
+              "Bardhaman"
+            ],
+            "correctIndex": 0,
+            "explanation": "Kolkata is the capital of West Bengal.",
+            "difficulty": "Easy",
+            "topicId": "gs-wb-geo",
+            "source": "ai_generated",
+            "generatedDate": "2026-08-06"
+          },
+          {
+            "question": "Which of the following hills is part of the Darjeeling Himalayan hill region in West Bengal, India?",
+            "options": [
+              "The Buxa Hills",
+              "The Chota Nagpur Plateau",
+              "The Darjeeling Hills",
+              "The Jalpaiguri Hills"
+            ],
+            "correctIndex": 2,
+            "explanation": "The Darjeeling Hills are part of the Darjeeling Himalayan hill region.",
+            "difficulty": "Medium",
+            "topicId": "gs-wb-geo",
+            "source": "ai_generated",
+            "generatedDate": "2026-08-06"
+          }
+        ],
+        "questionCount": 5
+      },
+      "gs-current": {
+        "topicName": "Current Affairs (Last 12 Months)",
+        "subjectName": "General Studies",
+        "questions": [
+          {
+            "question": "Which of the following West Bengal government schemes aims to provide financial assistance to farmers for crop diversification and improvement of agricultural productivity?",
+            "options": [
+              "Krishi Rin Samadhan Yojana",
+              "Krishi Ashirwad Yojana",
+              "Krishi Unnayan Yojana",
+              "Krishi Swasthya Yojana"
+            ],
+            "correctIndex": 2,
+            "explanation": "It is a state government scheme to promote agricultural growth.",
+            "difficulty": "Medium",
+            "topicId": "gs-current",
+            "source": "ai_generated",
+            "generatedDate": "2026-08-06"
+          },
+          {
+            "question": "Which of the following is a major component of the West Bengal government's 'Project Saraswati' aimed at rejuvenating the state's water bodies?",
+            "options": [
+              "Riverfront development",
+              "Watershed management",
+              "Lake conservation",
+              "Soil conservation"
+            ],
+            "correctIndex": 3,
+            "explanation": "It is a component of the project to conserve soil.",
+            "difficulty": "Medium",
+            "topicId": "gs-current",
+            "source": "ai_generated",
+            "generatedDate": "2026-08-06"
+          },
+          {
+            "question": "In 2025, which of the following West Bengal government's initiatives was launched to promote digital literacy among the state's rural population?",
+            "options": [
+              "Digital Seva",
+              "Gramin Jyoti Abhiyan",
+              "Rajarshi",
+              "Shiksha Sathi"
+            ],
+            "correctIndex": 0,
+            "explanation": "It is a digital literacy initiative by the state government.",
+            "difficulty": "Medium",
+            "topicId": "gs-current",
+            "source": "ai_generated",
+            "generatedDate": "2026-08-06"
+          },
+          {
+            "question": "Which of the following is a key feature of the West Bengal government's 'Mission Nabin' aimed at improving the state's healthcare infrastructure?",
+            "options": [
+              "Enhanced healthcare budget",
+              "Increased number of medical colleges",
+              "Improved telemedicine facilities",
+              "Increased healthcare manpower"
+            ],
+            "correctIndex": 2,
+            "explanation": "It is a feature of the mission to improve telemedicine facilities.",
+            "difficulty": "Medium",
+            "topicId": "gs-current",
+            "source": "ai_generated",
+            "generatedDate": "2026-08-06"
+          },
+          {
+            "question": "Which of the following West Bengal government schemes provides financial assistance to women entrepreneurs in the state for setting up and running their own businesses?",
+            "options": [
+              "Mamata Banerjee Swasthya Yojana",
+              "Biswa Bangla Scheme",
+              "Stree Shakti Yojana",
+              "Kanyashree Prakalpa"
+            ],
+            "correctIndex": 2,
+            "explanation": "It is a scheme to support women entrepreneurs.",
+            "difficulty": "Medium",
+            "topicId": "gs-current",
+            "source": "ai_generated",
+            "generatedDate": "2026-08-06"
+          }
+        ],
+        "questionCount": 5
+      },
+      "gs-wb-schemes": {
+        "topicName": "West Bengal Government Schemes",
+        "subjectName": "General Studies",
+        "questions": [
+          {
+            "question": "Laal Hospital Scheme is a health initiative launched by the Government of West Bengal to provide free medical treatment to which category of people?",
+            "options": [
+              "Only the elderly",
+              "Only women",
+              "Only Below Poverty Line (BPL) families",
+              "All of the above"
+            ],
+            "correctIndex": 3,
+            "explanation": "Laal Hospital Scheme aims to provide free medical treatment to all categories of people.",
+            "difficulty": "Medium",
+            "topicId": "gs-wb-schemes",
+            "source": "ai_generated",
+            "generatedDate": "2026-08-06"
+          },
+          {
+            "question": "The Unnayan Scheme by the Government of West Bengal focuses on the economic empowerment of which section of society?",
+            "options": [
+              "Scheduled Castes (SC)",
+              "Scheduled Tribes (ST)",
+              "Women",
+              "Small and Medium Entrepreneurs"
+            ],
+            "correctIndex": 2,
+            "explanation": "The Unnayan Scheme is designed for women's economic empowerment.",
+            "difficulty": "Medium",
+            "topicId": "gs-wb-schemes",
+            "source": "ai_generated",
+            "generatedDate": "2026-08-06"
+          },
+          {
+            "question": "The Bangla Sahayata Scheme is a financial assistance program introduced by the Government of West Bengal for which purpose?",
+            "options": [
+              "Education",
+              "Healthcare",
+              "Small Business Loans",
+              "Disaster Relief"
+            ],
+            "correctIndex": "2",
+            "explanation": "The Bangla Sahayata Scheme provides financial assistance for small business loans.",
+            "difficulty": "Medium",
+            "topicId": "gs-wb-schemes",
+            "source": "ai_generated",
+            "generatedDate": "2026-08-06"
+          },
+          {
+            "question": "The Anandadhara Scheme by the Government of West Bengal aims to provide financial assistance to which category of students?",
+            "options": [
+              "Students from economically backward families",
+              "Students with disabilities",
+              "Students from rural areas",
+              "All of the above"
+            ],
+            "correctIndex": "0",
+            "explanation": "The Anandadhara Scheme provides financial assistance to students from economically backward families.",
+            "difficulty": "Medium",
+            "topicId": "gs-wb-schemes",
+            "source": "ai_generated",
+            "generatedDate": "2026-08-06"
+          },
+          {
+            "question": "The Swayamsidha Scheme by the Government of West Bengal focuses on the skill development and entrepreneurship of which category of women?",
+            "options": [
+              "Unmarried women",
+              "Widowed women",
+              "Women from Below Poverty Line (BPL) families",
+              "All of the above"
+            ],
+            "correctIndex": "2",
+            "explanation": "The Swayamsidha Scheme targets women from Below Poverty Line (BPL) families.",
+            "difficulty": "Medium",
+            "topicId": "gs-wb-schemes",
+            "source": "ai_generated",
+            "generatedDate": "2026-08-06"
+          }
+        ],
+        "questionCount": 5
+      }
+    },
+    "math": {
+      "math-percent": {
+        "topicName": "Percentage & Profit-Loss",
+        "subjectName": "Arithmetic",
+        "questions": [
+          {
+            "question": "If a merchant in Howrah sells an article at a profit of 20%, then the cost price of the article is what percentage of the selling price?",
+            "options": [
+              "80%",
+              "120%",
+              "125%",
+              "100%"
+            ],
+            "correctIndex": 0,
+            "explanation": "Cost price is 80% of the selling price.",
+            "difficulty": "Medium",
+            "topicId": "math-percent",
+            "source": "ai_generated",
+            "generatedDate": "2026-08-06"
+          },
+          {
+            "question": "A person buys 100 kg of potatoes at Rs 15 per kg. If he sells them at a loss of 8%, then what is the loss in rupees?",
+            "options": [
+              "Rs 150",
+              "Rs 12",
+              "Rs 1200",
+              "Rs 15"
+            ],
+            "correctIndex": 2,
+            "explanation": "Loss is Rs 1200.",
+            "difficulty": "Medium",
+            "topicId": "math-profit-loss",
+            "source": "ai_generated",
+            "generatedDate": "2026-08-06"
+          },
+          {
+            "question": "If a man in Darjeeling increases his selling price by 10%, then his profit percentage is?",
+            "options": [
+              "8%",
+              "9%",
+              "10%",
+              "12%"
+            ],
+            "correctIndex": 3,
+            "explanation": "Profit percentage is 12%.",
+            "difficulty": "Medium",
+            "topicId": "math-percent",
+            "source": "ai_generated",
+            "generatedDate": "2026-08-06"
+          },
+          {
+            "question": "A shopkeeper in Siliguri buys an article for Rs 800 and sells it for Rs 920. His profit percentage is?",
+            "options": [
+              "10%",
+              "12%",
+              "15%",
+              "16%"
+            ],
+            "correctIndex": 3,
+            "explanation": "Profit percentage is 15%.",
+            "difficulty": "Medium",
+            "topicId": "math-profit-loss",
+            "source": "ai_generated",
+            "generatedDate": "2026-08-06"
+          },
+          {
+            "question": "A certain quantity of goods is sold at 15% profit and the selling price is Rs 210. What is the cost price of the goods?",
+            "options": [
+              "Rs 182",
+              "Rs 180",
+              "Rs 190",
+              "Rs 200"
+            ],
+            "correctIndex": 1,
+            "explanation": "Cost price is Rs 180.",
+            "difficulty": "Medium",
+            "topicId": "math-profit-loss",
+            "source": "ai_generated",
+            "generatedDate": "2026-08-06"
+          }
+        ],
+        "questionCount": 5
+      },
+      "math-tsd": {
+        "topicName": "Time, Speed & Distance",
+        "subjectName": "Arithmetic",
+        "questions": [
+          {
+            "question": "A train travels from Howrah to Sealdah, a distance of 25 km, in 1 hour. What is the approximate speed of the train in km/hr?",
+            "options": [
+              "40 km/hr",
+              "50 km/hr",
+              "60 km/hr",
+              "70 km/hr"
+            ],
+            "correctIndex": 2,
+            "explanation": "Speed is calculated as distance/time.",
+            "difficulty": "Medium",
+            "topicId": "math-tsd",
+            "source": "ai_generated",
+            "generatedDate": "2026-08-06"
+          },
+          {
+            "question": "A man walks from his house to the local market at a speed of 4 kmph and returns at a speed of 5 kmph. What is his average speed for the entire journey?",
+            "options": [
+              "4.25 kmph",
+              "4.5 kmph",
+              "4.75 kmph",
+              "5 kmph"
+            ],
+            "correctIndex": 1,
+            "explanation": "Average speed is calculated as total distance/total time.",
+            "difficulty": "Medium",
+            "topicId": "math-tsd",
+            "source": "ai_generated",
+            "generatedDate": "2026-08-06"
+          },
+          {
+            "question": "A bus covers a distance of 120 km from Kolkata to Barasat in 3 hours. How much time will it take to cover a distance of 180 km?",
+            "options": [
+              "4 hours",
+              "4.5 hours",
+              "5 hours",
+              "5.5 hours"
+            ],
+            "correctIndex": 2,
+            "explanation": "Time is calculated as distance/speed.",
+            "difficulty": "Medium",
+            "topicId": "math-tsd",
+            "source": "ai_generated",
+            "generatedDate": "2026-08-06"
+          },
+          {
+            "question": "A car travels from Siliguri to Darjeeling, a distance of 90 km, in 2.5 hours. What is the average speed of the car in km/hr?",
+            "options": [
+              "32 km/hr",
+              "35 km/hr",
+              "36 km/hr",
+              "38 km/hr"
+            ],
+            "correctIndex": 2,
+            "explanation": "Average speed is calculated as total distance/total time.",
+            "difficulty": "Medium",
+            "topicId": "math-tsd",
+            "source": "ai_generated",
+            "generatedDate": "2026-08-06"
+          },
+          {
+            "question": "A motorcycle covers a distance of 80 km from Asansol to Durgapur in 2 hours. What is its average speed in km/hr?",
+            "options": [
+              "30 km/hr",
+              "32 km/hr",
+              "34 km/hr",
+              "36 km/hr"
+            ],
+            "correctIndex": 2,
+            "explanation": "Average speed is calculated as total distance/total time.",
+            "difficulty": "Medium",
+            "topicId": "math-tsd",
+            "source": "ai_generated",
+            "generatedDate": "2026-08-06"
+          }
+        ],
+        "questionCount": 5
+      }
+    },
+    "reasoning": {
+      "rs-coding": {
+        "topicName": "Coding-Decoding",
+        "subjectName": "Reasoning",
+        "questions": [
+          {
+            "question": "If the first letter of a word is changed to 'D' and the second letter is changed to 'A', then 'KOLKATA' becomes?",
+            "options": [
+              "DOALKDA",
+              "DAALKAT",
+              "DOLAKTA",
+              "DOALKAT"
+            ],
+            "correctIndex": 3,
+            "explanation": "The correct decoding is 'DOALKAT' by replacing 'K' with 'D' and 'O' with 'A'.",
+            "difficulty": "Medium",
+            "topicId": "rs-coding",
+            "source": "ai_generated",
+            "generatedDate": "2026-08-06"
+          },
+          {
+            "question": "If a is coded as 1, b is coded as 2, c is coded as 3, and so on, then what will be the code for 'G'?",
+            "options": [
+              "6",
+              "7",
+              "8",
+              "9"
+            ],
+            "correctIndex": 3,
+            "explanation": "The correct code is '9' as 'G' is the 9th letter in the English alphabet.",
+            "difficulty": "Medium",
+            "topicId": "rs-coding",
+            "source": "ai_generated",
+            "generatedDate": "2026-08-06"
+          },
+          {
+            "question": "If the first and the last letters of a word are interchanged, then 'RAAJYOT' becomes?",
+            "options": [
+              "YTOAJAR",
+              "AJYTOAR",
+              "TOYJARA",
+              "AJYTOJA"
+            ],
+            "correctIndex": 0,
+            "explanation": "The correct decoding is 'YTOAJAR' by interchanging the first and last letters.",
+            "difficulty": "Medium",
+            "topicId": "rs-coding",
+            "source": "ai_generated",
+            "generatedDate": "2026-08-06"
+          },
+          {
+            "question": "If a word is coded as the reverse of its alphabet position, then what will be the code for 'Z'?",
+            "options": [
+              "1",
+              "2",
+              "3",
+              "26"
+            ],
+            "correctIndex": 3,
+            "explanation": "The correct code is '26' as 'Z' is the 26th letter in the English alphabet.",
+            "difficulty": "Medium",
+            "topicId": "rs-coding",
+            "source": "ai_generated",
+            "generatedDate": "2026-08-06"
+          },
+          {
+            "question": "If a code is given by shifting each letter 3 places forward in the alphabet, then what will be the code for 'B'?",
+            "options": [
+              "E",
+              "F",
+              "G",
+              "H"
+            ],
+            "correctIndex": 0,
+            "explanation": "The correct code is 'E' as 'B' shifted 3 places forward is 'E'.",
+            "difficulty": "Medium",
+            "topicId": "rs-coding",
+            "source": "ai_generated",
+            "generatedDate": "2026-08-06"
+          }
+        ],
+        "questionCount": 5
+      },
+      "rs-blood": {
+        "topicName": "Blood Relations",
+        "subjectName": "Reasoning",
+        "questions": [
+          {
+            "question": "If A is the mother of B and B is the father of C, then how is A related to C?",
+            "options": [
+              "Grandfather",
+              "Grandmother",
+              "Father",
+              "Mother"
+            ],
+            "correctIndex": 1,
+            "explanation": "A is C's grandmother.",
+            "difficulty": "Medium",
+            "topicId": "rs-blood",
+            "source": "ai_generated",
+            "generatedDate": "2026-08-06"
+          },
+          {
+            "question": "A boy has three siblings, two of them are sisters. If 'M' is his paternal uncle, then how is his third sibling related to 'M'?",
+            "options": [
+              "Paternal aunt",
+              "Paternal uncle",
+              "Mother",
+              "Brother"
+            ],
+            "correctIndex": 0,
+            "explanation": "The third sibling is M's daughter.",
+            "difficulty": "Medium",
+            "topicId": "rs-blood",
+            "source": "ai_generated",
+            "generatedDate": "2026-08-06"
+          },
+          {
+            "question": "A woman is the daughter of her father's brother's son. What is the relation of the woman to her father?",
+            "options": [
+              "Daughter",
+              "Father",
+              "Mother",
+              "Granddaughter"
+            ],
+            "correctIndex": 0,
+            "explanation": "The woman is her father's daughter.",
+            "difficulty": "Medium",
+            "topicId": "rs-blood",
+            "source": "ai_generated",
+            "generatedDate": "2026-08-06"
+          },
+          {
+            "question": "X is the only son of P, Y is the daughter of X and Q is the daughter of Y. What is the relation of Q to P?",
+            "options": [
+              "Daughter",
+              "Father",
+              "Mother",
+              "Granddaughter"
+            ],
+            "correctIndex": 2,
+            "explanation": "Q is P's granddaughter.",
+            "difficulty": "Medium",
+            "topicId": "rs-blood",
+            "source": "ai_generated",
+            "generatedDate": "2026-08-06"
+          },
+          {
+            "question": "A and B are brothers, C is the wife of A and D is the daughter of B. How is C related to D?",
+            "options": [
+              "Mother",
+              "Grandmother",
+              "Sister",
+              "Aunt"
+            ],
+            "correctIndex": 0,
+            "explanation": "C is D's mother.",
+            "difficulty": "Medium",
+            "topicId": "rs-blood",
+            "source": "ai_generated",
+            "generatedDate": "2026-08-06"
+          }
+        ],
+        "questionCount": 5
+      },
+      "rs-direction": {
+        "topicName": "Direction Sense",
+        "subjectName": "Reasoning",
+        "questions": [
+          {
+            "question": "If a person walks 8 km east from a point and then walks 5 km north, he will be 10 km away from the starting point. Which direction is he facing now?",
+            "options": [
+              "North",
+              "East",
+              "South",
+              "West"
+            ],
+            "correctIndex": 0,
+            "explanation": "He will be facing North.",
+            "difficulty": "Medium",
+            "topicId": "rs-direction",
+            "source": "ai_generated",
+            "generatedDate": "2026-08-06"
+          },
+          {
+            "question": "A man is standing at a crossroads. He walks 15 km in the north direction, then 10 km in the west direction and then 6 km in the south direction. In which direction is he standing now?",
+            "options": [
+              "North",
+              "South",
+              "East",
+              "West"
+            ],
+            "correctIndex": 0,
+            "explanation": "He will be standing in the North direction.",
+            "difficulty": "Medium",
+            "topicId": "rs-direction",
+            "source": "ai_generated",
+            "generatedDate": "2026-08-06"
+          },
+          {
+            "question": "A man is standing at a point. He walks 15 km east, then 10 km south and then 12 km in a direction making an angle of 60° with the south. What is the direction he is facing now?",
+            "options": [
+              "North",
+              "East",
+              "South",
+              "West"
+            ],
+            "correctIndex": 1,
+            "explanation": "He will be facing East.",
+            "difficulty": "Medium",
+            "topicId": "rs-direction",
+            "source": "ai_generated",
+            "generatedDate": "2026-08-06"
+          },
+          {
+            "question": "A tourist is standing at the bank of river Hooghly in Kolkata. He walks 2 km east along the river, then 4 km south and then 1 km in the west direction. In which direction is he standing now?",
+            "options": [
+              "North",
+              "South",
+              "East",
+              "West"
+            ],
+            "correctIndex": 0,
+            "explanation": "He will be standing in the South direction.",
+            "difficulty": "Medium",
+            "topicId": "rs-direction",
+            "source": "ai_generated",
+            "generatedDate": "2026-08-06"
+          },
+          {
+            "question": "A person walks 8 km from a point in the direction of Dakshineswar Temple, then 5 km in the direction of Howrah Bridge and finally 3 km in the north direction. In which direction is he standing now?",
+            "options": [
+              "North",
+              "East",
+              "South",
+              "West"
+            ],
+            "correctIndex": 1,
+            "explanation": "He will be facing East.",
+            "difficulty": "Medium",
+            "topicId": "rs-direction",
+            "source": "ai_generated",
+            "generatedDate": "2026-08-06"
+          }
+        ],
+        "questionCount": 5
+      }
+    }
+  }
+}
