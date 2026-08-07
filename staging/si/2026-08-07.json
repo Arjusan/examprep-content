@@ -1,0 +1,756 @@
+{
+  "exam": "si",
+  "generatedDate": "2026-08-07",
+  "generatedAt": "2026-08-07T03:29:53.198Z",
+  "model": "llama-3.1-8b-instant",
+  "provider": "groq",
+  "source": "ai_generated",
+  "reviewStatus": "pending",
+  "totalQuestions": 45,
+  "subjects": {
+    "gs": {
+      "gs-polity": {
+        "topicName": "Indian Constitution & Polity",
+        "subjectName": "General Studies",
+        "questions": [
+          {
+            "question": "Which of the following is the primary source of the Constitution of India?",
+            "options": [
+              "The British Monarchy",
+              "The Constituent Assembly of India",
+              "The Indian Independence Act, 1947",
+              "The Government of India Act, 1935"
+            ],
+            "correctIndex": 1,
+            "explanation": "The Constituent Assembly of India drafted the Constitution of India.",
+            "difficulty": "Medium",
+            "topicId": "gs-polity",
+            "source": "ai_generated",
+            "generatedDate": "2026-08-07"
+          },
+          {
+            "question": "The Panchayat system in West Bengal is based on which of the following provisions of the Indian Constitution?",
+            "options": [
+              "Article 40",
+              "Article 42",
+              "Article 73",
+              "Article 243B"
+            ],
+            "correctIndex": 3,
+            "explanation": "Article 243B specifically deals with the powers, authority and responsibilities of Gram Panchayats.",
+            "difficulty": "Medium",
+            "topicId": "gs-polity",
+            "source": "ai_generated",
+            "generatedDate": "2026-08-07"
+          },
+          {
+            "question": "Which of the following Fundamental Rights is not justiciable in India?",
+            "options": [
+              "Right to Equality",
+              "Right to Freedom",
+              "Right against Exploitation",
+              "Right to Property"
+            ],
+            "correctIndex": 3,
+            "explanation": "The Right to Property is not a justiciable fundamental right.",
+            "difficulty": "Medium",
+            "topicId": "gs-polity",
+            "source": "ai_generated",
+            "generatedDate": "2026-08-07"
+          },
+          {
+            "question": "Which of the following is a feature of the Parliamentary System of Government in India?",
+            "options": [
+              "Separation of Powers",
+              "Collective Responsibility",
+              "Independent Judiciary",
+              "Federal System"
+            ],
+            "correctIndex": 1,
+            "explanation": "The Cabinet Minister heads the Parliament and is collectively responsible to it.",
+            "difficulty": "Medium",
+            "topicId": "gs-polity",
+            "source": "ai_generated",
+            "generatedDate": "2026-08-07"
+          },
+          {
+            "question": "Which of the following is the basic structure doctrine of the Indian Constitution?",
+            "options": [
+              "The doctrine of judicial review",
+              "The doctrine of separation of powers",
+              "The doctrine of parliamentary supremacy",
+              "The doctrine of federalism"
+            ],
+            "correctIndex": 0,
+            "explanation": "The judicial review is the cornerstone of the Indian Constitution's basic structure doctrine.",
+            "difficulty": "Medium",
+            "topicId": "gs-polity",
+            "source": "ai_generated",
+            "generatedDate": "2026-08-07"
+          }
+        ],
+        "questionCount": 5
+      },
+      "gs-wb-geo": {
+        "topicName": "West Bengal Geography",
+        "subjectName": "General Studies",
+        "questions": [
+          {
+            "question": "Which of the following rivers forms the northern boundary of West Bengal?",
+            "options": [
+              "Brahmaputra River",
+              "Ganges River",
+              "Meghna River",
+              "Subarnarekha River"
+            ],
+            "correctIndex": 1,
+            "explanation": "It forms the northern boundary of West Bengal.",
+            "difficulty": "Medium",
+            "topicId": "gs-wb-geo",
+            "source": "ai_generated",
+            "generatedDate": "2026-08-07"
+          },
+          {
+            "question": "What is the name of the largest island in the Sundarbans?",
+            "options": [
+              "Gosaba Island",
+              "Lohachara Island",
+              "Long Island",
+              "South Talpatti Island"
+            ],
+            "correctIndex": 2,
+            "explanation": "It is located in the Sundarbans.",
+            "difficulty": "Easy",
+            "topicId": "gs-wb-geo",
+            "source": "ai_generated",
+            "generatedDate": "2026-08-07"
+          },
+          {
+            "question": "Which of the following mountain ranges passes through the state of West Bengal?",
+            "options": [
+              "The Great Himalayan Range",
+              "The Eastern Ghats",
+              "The Eastern Himalayas",
+              "The Vindhya Range"
+            ],
+            "correctIndex": 2,
+            "explanation": "It passes through the state of West Bengal.",
+            "difficulty": "Medium",
+            "topicId": "gs-wb-geo",
+            "source": "ai_generated",
+            "generatedDate": "2026-08-07"
+          },
+          {
+            "question": "Which district in West Bengal is known as the 'Land of the Twin Sisters'?",
+            "options": [
+              "Alipurduar District",
+              "Cooch Behar District",
+              "Jalpaiguri District",
+              "Darjeeling District"
+            ],
+            "correctIndex": 1,
+            "explanation": "It is famous for the twin sisters, Murti and Payal.",
+            "difficulty": "Medium",
+            "topicId": "gs-wb-geo",
+            "source": "ai_generated",
+            "generatedDate": "2026-08-07"
+          },
+          {
+            "question": "Which of the following is the highest peak in West Bengal?",
+            "options": [
+              "Siniolchu Peak",
+              "Kanchenjunga Peak",
+              "Sandakphu Peak",
+              "Brahmaphuta Peak"
+            ],
+            "correctIndex": 0,
+            "explanation": "It is the second-highest peak in the world.",
+            "difficulty": "Medium",
+            "topicId": "gs-wb-geo",
+            "source": "ai_generated",
+            "generatedDate": "2026-08-07"
+          }
+        ],
+        "questionCount": 5
+      },
+      "gs-wb-schemes": {
+        "topicName": "West Bengal Government Schemes",
+        "subjectName": "General Studies",
+        "questions": [
+          {
+            "question": "Which of the following schemes is launched by the West Bengal government to provide financial assistance to the beneficiaries of the Scheduled Castes?",
+            "options": [
+              "Uttarayan Scheme",
+              "Swasthya Sathi Scheme",
+              "Sikshashree Scheme",
+              "Saraswati Scheme"
+            ],
+            "correctIndex": 0,
+            "explanation": "Uttarayan Scheme provides financial assistance to the beneficiaries of the Scheduled Castes.",
+            "difficulty": "Medium",
+            "topicId": "gs-wb-schemes",
+            "source": "ai_generated",
+            "generatedDate": "2026-08-07"
+          },
+          {
+            "question": "The West Bengal government's 'Kanyashree Prakalpa' scheme aims to empower girls by providing them with?",
+            "options": [
+              "Scholarship and cash incentive",
+              "Scholarship only",
+              "Cash incentive only",
+              "No financial assistance"
+            ],
+            "correctIndex": 0,
+            "explanation": "Kanyashree Prakalpa provides a scholarship and cash incentive to girls.",
+            "difficulty": "Medium",
+            "topicId": "gs-wb-schemes",
+            "source": "ai_generated",
+            "generatedDate": "2026-08-07"
+          },
+          {
+            "question": "The 'Swasthya Sathi' scheme of West Bengal government provides which of the following benefits to its beneficiaries?",
+            "options": [
+              "Free treatment in government hospitals",
+              "Discount on treatment at private hospitals",
+              "Free treatment at private hospitals",
+              "Cashless treatment"
+            ],
+            "correctIndex": 3,
+            "explanation": "Swasthya Sathi provides cashless treatment to its beneficiaries.",
+            "difficulty": "Medium",
+            "topicId": "gs-wb-schemes",
+            "source": "ai_generated",
+            "generatedDate": "2026-08-07"
+          },
+          {
+            "question": "The 'Pathashree' scheme of the West Bengal government aims to provide financial assistance to which of the following?",
+            "options": [
+              "Beneficiaries of the Scheduled Castes",
+              "Students for higher education",
+              "Women for self-employment",
+              "All of the above"
+            ],
+            "correctIndex": 2,
+            "explanation": "Pathashree scheme aims to provide financial assistance to women for self-employment.",
+            "difficulty": "Medium",
+            "topicId": "gs-wb-schemes",
+            "source": "ai_generated",
+            "generatedDate": "2026-08-07"
+          },
+          {
+            "question": "The 'Duare Duare Ration' scheme of the West Bengal government has been launched to provide ration to the beneficiaries at their doorsteps through which of the following vehicles?",
+            "options": [
+              "Tractors",
+              "Carts",
+              "Cars",
+              "Autorickshaws"
+            ],
+            "correctIndex": 3,
+            "explanation": "Duare Duare Ration scheme provides ration at doorsteps through autorickshaws.",
+            "difficulty": "Medium",
+            "topicId": "gs-wb-schemes",
+            "source": "ai_generated",
+            "generatedDate": "2026-08-07"
+          }
+        ],
+        "questionCount": 5
+      }
+    },
+    "math": {
+      "math-percent": {
+        "topicName": "Percentage & Profit-Loss",
+        "subjectName": "Arithmetic",
+        "questions": [
+          {
+            "question": "A fruit vendor sells oranges at the rate of 12 rupees per kilogram. If he allows a discount of 10%, what is the discount amount per kilogram of oranges?",
+            "options": [
+              "1.20 rupees",
+              "1.80 rupees",
+              "2.00 rupees",
+              "2.50 rupees"
+            ],
+            "correctIndex": 0,
+            "explanation": "Discount amount is 10% of the selling price.",
+            "difficulty": "Medium",
+            "topicId": "math-percent",
+            "source": "ai_generated",
+            "generatedDate": "2026-08-07"
+          },
+          {
+            "question": "An article is bought at a discount of 15% and is sold at a profit of 25%. If the cost price of the article is 100 rupees, what is the selling price?",
+            "options": [
+              "125.00 rupees",
+              "130.00 rupees",
+              "132.50 rupees",
+              "135.00 rupees"
+            ],
+            "correctIndex": 2,
+            "explanation": "Profit made is 25% of the selling price.",
+            "difficulty": "Medium",
+            "topicId": "math-profit",
+            "source": "ai_generated",
+            "generatedDate": "2026-08-07"
+          },
+          {
+            "question": "A shopkeeper marks a product at 20% above its cost price. If the marked price of the product is 150 rupees and the shopkeeper offers a discount of 5%, how much will the customer have to pay?",
+            "options": [
+              "141.00 rupees",
+              "142.50 rupees",
+              "145.00 rupees",
+              "150.00 rupees"
+            ],
+            "correctIndex": 0,
+            "explanation": "Final price is 95% of the marked price.",
+            "difficulty": "Easy",
+            "topicId": "math-percent",
+            "source": "ai_generated",
+            "generatedDate": "2026-08-07"
+          },
+          {
+            "question": "A person invests 5000 rupees in a business that gives an annual return of 8%. How much money will he have after 2 years?",
+            "options": [
+              "900.00 rupees",
+              "940.00 rupees",
+              "960.00 rupees",
+              "1000.00 rupees"
+            ],
+            "correctIndex": 1,
+            "explanation": "Interest for 2 years is 8% of the principal amount.",
+            "difficulty": "Medium",
+            "topicId": "math-interest",
+            "source": "ai_generated",
+            "generatedDate": "2026-08-07"
+          },
+          {
+            "question": "A man purchases two items, one for 80 rupees and the other for 120 rupees. If he sells both items at a profit of 10%, how much will he get in total?",
+            "options": [
+              "248.00 rupees",
+              "260.00 rupees",
+              "268.00 rupees",
+              "280.00 rupees"
+            ],
+            "correctIndex": 2,
+            "explanation": "Profit made is 10% of the total cost price.",
+            "difficulty": "Medium",
+            "topicId": "math-profit",
+            "source": "ai_generated",
+            "generatedDate": "2026-08-07"
+          }
+        ],
+        "questionCount": 5
+      },
+      "math-interest": {
+        "topicName": "Simple & Compound Interest",
+        "subjectName": "Arithmetic",
+        "questions": [
+          {
+            "question": "A sum of Rs. 5000 is invested for 3 years at a compound interest rate of 10% per annum. What is the amount after 3 years?",
+            "options": [
+              "Rs. 5975",
+              "Rs. 6075",
+              "Rs. 6175",
+              "Rs. 6275"
+            ],
+            "correctIndex": 0,
+            "explanation": "Using compound interest formula A = P(1 + r/100)^n.",
+            "difficulty": "Medium",
+            "topicId": "math-interest",
+            "source": "ai_generated",
+            "generatedDate": "2026-08-07"
+          },
+          {
+            "question": "If the simple interest on Rs. 2000 at 5% per annum for 2 years is Rs. 100, what is the rate of interest for Rs. 4000 for 1 year?",
+            "options": [
+              "5%",
+              "4%",
+              "3%",
+              "6%"
+            ],
+            "correctIndex": 2,
+            "explanation": "Using simple interest formula I = (PRT)/100 and proportionality.",
+            "difficulty": "Medium",
+            "topicId": "math-interest",
+            "source": "ai_generated",
+            "generatedDate": "2026-08-07"
+          },
+          {
+            "question": "A person borrows Rs. 15000 at a simple interest rate of 8% per annum for 4 years. How much amount will be paid at the end of 4 years?",
+            "options": [
+              "Rs. 19200",
+              "Rs. 19240",
+              "Rs. 19320",
+              "Rs. 19360"
+            ],
+            "correctIndex": 3,
+            "explanation": "Using simple interest formula I = (PRT)/100 and total amount A = P + I.",
+            "difficulty": "Medium",
+            "topicId": "math-interest",
+            "source": "ai_generated",
+            "generatedDate": "2026-08-07"
+          },
+          {
+            "question": "Find the compound interest on Rs. 12000 for 2 years at 12% per annum compounded annually.",
+            "options": [
+              "Rs. 2987.20",
+              "Rs. 2987.80",
+              "Rs. 2988.00",
+              "Rs. 2988.20"
+            ],
+            "correctIndex": 0,
+            "explanation": "Using compound interest formula A = P(1 + r/100)^n and CI = A - P.",
+            "difficulty": "Medium",
+            "topicId": "math-interest",
+            "source": "ai_generated",
+            "generatedDate": "2026-08-07"
+          },
+          {
+            "question": "What is the amount on Rs. 8000 at 6% per annum compound interest for 1 year compounded half-yearly?",
+            "options": [
+              "Rs. 8480",
+              "Rs. 8480.40",
+              "Rs. 8481.20",
+              "Rs. 8482"
+            ],
+            "correctIndex": 1,
+            "explanation": "Using compound interest formula A = P(1 + r/100)^(2n) where n is the number of times interest is compounded in a year.",
+            "difficulty": "Medium",
+            "topicId": "math-interest",
+            "source": "ai_generated",
+            "generatedDate": "2026-08-07"
+          }
+        ],
+        "questionCount": 5
+      },
+      "math-tw": {
+        "topicName": "Time, Work & Pipes",
+        "subjectName": "Arithmetic",
+        "questions": [
+          {
+            "question": "A person can complete 1/4th of the work in 3 days. If he works 7 hours a day, how many days will he take to complete the whole work?",
+            "options": [
+              "10 days",
+              "15 days",
+              "20 days",
+              "25 days"
+            ],
+            "correctIndex": 2,
+            "explanation": "Total work is done in 20 days.",
+            "difficulty": "Medium",
+            "topicId": "math-tw",
+            "source": "ai_generated",
+            "generatedDate": "2026-08-07"
+          },
+          {
+            "question": "If two pipes A and B can fill a tank in 12 hours and 16 hours respectively, then the time taken to fill the tank when both pipes are working simultaneously is?",
+            "options": [
+              "10 hours",
+              "12 hours",
+              "16 hours",
+              "20 hours"
+            ],
+            "correctIndex": 0,
+            "explanation": "The work done by both pipes together in one hour is 1/12 + 1/16 = 7/48.",
+            "difficulty": "Medium",
+            "topicId": "math-tw",
+            "source": "ai_generated",
+            "generatedDate": "2026-08-07"
+          },
+          {
+            "question": "A contractor has to complete a project in 50 days. He has 20 men working on the project. After 20 days, 5 men are added to the work force. What is the total number of days required to complete the remaining work?",
+            "options": [
+              "15 days",
+              "20 days",
+              "25 days",
+              "30 days"
+            ],
+            "correctIndex": 2,
+            "explanation": "Remaining work is to be completed by 25 men.",
+            "difficulty": "Medium",
+            "topicId": "math-tw",
+            "source": "ai_generated",
+            "generatedDate": "2026-08-07"
+          },
+          {
+            "question": "If 8 men can build a wall 56 meters long in 6 days, then how many men are required to build a wall 140 meters long in 5 days?",
+            "options": [
+              "12 men",
+              "15 men",
+              "20 men",
+              "25 men"
+            ],
+            "correctIndex": 2,
+            "explanation": "20 men are required to build a wall 140 meters long in 5 days.",
+            "difficulty": "Medium",
+            "topicId": "math-tw",
+            "source": "ai_generated",
+            "generatedDate": "2026-08-07"
+          },
+          {
+            "question": "A pump can fill a tank in 10 hours. Due to a leak, it takes 15 hours to fill the tank. The time taken to fill the tank when the leak is plugged is?",
+            "options": [
+              "5 hours",
+              "6 hours",
+              "7 hours",
+              "8 hours"
+            ],
+            "correctIndex": 2,
+            "explanation": "Time taken to fill the tank when the leak is plugged is 7 hours.",
+            "difficulty": "Medium",
+            "topicId": "math-tw",
+            "source": "ai_generated",
+            "generatedDate": "2026-08-07"
+          }
+        ],
+        "questionCount": 5
+      }
+    },
+    "reasoning": {
+      "rs-coding": {
+        "topicName": "Coding-Decoding",
+        "subjectName": "Reasoning",
+        "questions": [
+          {
+            "question": "If the first letter of a word is changed to a letter two positions ahead of it in the alphabet, what is the coded form of the word 'DOCK'?",
+            "options": [
+              "Fock",
+              "Hock",
+              "Kock",
+              "Lock"
+            ],
+            "correctIndex": 1,
+            "explanation": "The correct coded word is 'HOCK'.",
+            "difficulty": "Medium",
+            "topicId": "rs-coding",
+            "source": "ai_generated",
+            "generatedDate": "2026-08-07"
+          },
+          {
+            "question": "If the second and third letters of a word are interchanged, what is the coded form of the word 'BENGAL'?",
+            "options": [
+              "BENGLA",
+              "BEGNAL",
+              "BENGAL",
+              "BENAGR"
+            ],
+            "correctIndex": 3,
+            "explanation": "The correct coded word is 'BENAGR'.",
+            "difficulty": "Medium",
+            "topicId": "rs-coding",
+            "source": "ai_generated",
+            "generatedDate": "2026-08-07"
+          },
+          {
+            "question": "A code is defined as: A -> B, B -> C, C -> A, D -> E, E -> D. What is the coded form of the word 'DARJEELING'?",
+            "options": [
+              "BEAJEELEB",
+              "BEAJEELEB",
+              "BEAREELIG",
+              "BEALJEELEG"
+            ],
+            "correctIndex": 2,
+            "explanation": "The correct coded word is 'BEAREELIG'.",
+            "difficulty": "Medium",
+            "topicId": "rs-coding",
+            "source": "ai_generated",
+            "generatedDate": "2026-08-07"
+          },
+          {
+            "question": "If the first letter of a word is changed to the sixth letter from the end of the word, what is the coded form of the word 'SUBJECT'?",
+            "options": [
+              "TBJECTS",
+              "SUBBJECT",
+              "SUBJECT",
+              "SUBJECTS"
+            ],
+            "correctIndex": 3,
+            "explanation": "The correct coded word is 'SUBJECTS'.",
+            "difficulty": "Medium",
+            "topicId": "rs-coding",
+            "source": "ai_generated",
+            "generatedDate": "2026-08-07"
+          },
+          {
+            "question": "If a word is written in the reverse order, what is the coded form of the word 'KOLKATA'?",
+            "options": [
+              "ATALKOK",
+              "ATALKOL",
+              "ATALKOK",
+              "ATALKOA"
+            ],
+            "correctIndex": 0,
+            "explanation": "The correct coded word is 'ATALKOK'.",
+            "difficulty": "Medium",
+            "topicId": "rs-coding",
+            "source": "ai_generated",
+            "generatedDate": "2026-08-07"
+          }
+        ],
+        "questionCount": 5
+      },
+      "rs-blood": {
+        "topicName": "Blood Relations",
+        "subjectName": "Reasoning",
+        "questions": [
+          {
+            "question": "Amar is the son of Bipin's daughter. Bipin's wife is the sister of Amar's mother's husband. How is Amar related to Bipin?",
+            "options": [
+              "Brother",
+              "Son",
+              "Father",
+              "Uncle"
+            ],
+            "correctIndex": 2,
+            "explanation": "Amar is the son of Bipin's daughter.",
+            "difficulty": "Medium",
+            "topicId": "rs-blood",
+            "source": "ai_generated",
+            "generatedDate": "2026-08-07"
+          },
+          {
+            "question": "Rajiv's father is the only son of Santi's father. Santi is the daughter of Rajiv's mother's husband's mother. How is Santi related to Rajiv?",
+            "options": [
+              "Mother",
+              "Grandmother",
+              "Grandfather",
+              "Sister"
+            ],
+            "correctIndex": 1,
+            "explanation": "Santi is the daughter of Rajiv's mother's husband's mother.",
+            "difficulty": "Medium",
+            "topicId": "rs-blood",
+            "source": "ai_generated",
+            "generatedDate": "2026-08-07"
+          },
+          {
+            "question": "A person's mother is the sister of his father's wife. The person's father is the only son of his grandfather's only son. How is the person related to his maternal grandmother?",
+            "options": [
+              "Granddaughter",
+              "Daughter",
+              "Sister",
+              "Wife"
+            ],
+            "correctIndex": 0,
+            "explanation": "The person's mother is the sister of his father's wife.",
+            "difficulty": "Medium",
+            "topicId": "rs-blood",
+            "source": "ai_generated",
+            "generatedDate": "2026-08-07"
+          },
+          {
+            "question": "A person's mother is the daughter of her father's brother's wife. How is the person related to her maternal grandmother?",
+            "options": [
+              "Granddaughter",
+              "Daughter",
+              "Sister",
+              "Wife"
+            ],
+            "correctIndex": 0,
+            "explanation": "The person's mother is the daughter of her father's brother's wife.",
+            "difficulty": "Medium",
+            "topicId": "rs-blood",
+            "source": "ai_generated",
+            "generatedDate": "2026-08-07"
+          },
+          {
+            "question": "A person's father's wife is the daughter of her husband's mother's husband's sister. How is the person's father related to his father's wife's father?",
+            "options": [
+              "Nephew",
+              "Son",
+              "Brother",
+              "Cousin"
+            ],
+            "correctIndex": 1,
+            "explanation": "The person's father is the son of his father's wife's father's sister's husband.",
+            "difficulty": "Medium",
+            "topicId": "rs-blood",
+            "source": "ai_generated",
+            "generatedDate": "2026-08-07"
+          }
+        ],
+        "questionCount": 5
+      },
+      "rs-direction": {
+        "topicName": "Direction Sense",
+        "subjectName": "Reasoning",
+        "questions": [
+          {
+            "question": "If a person is facing west and turns 135 degrees to the right, in which direction is he facing?",
+            "options": [
+              "North",
+              "East",
+              "South",
+              "West"
+            ],
+            "correctIndex": 2,
+            "explanation": "A 135-degree turn to the right from facing west means turning towards the south.",
+            "difficulty": "Medium",
+            "topicId": "rs-direction",
+            "source": "ai_generated",
+            "generatedDate": "2026-08-07"
+          },
+          {
+            "question": "Rashbehari is walking from Howrah to Sealdah. If he turns 90 degrees to the right, then 90 degrees to the left, and finally 180 degrees to the right, in which direction is Rashbehari walking?",
+            "options": [
+              "North",
+              "South",
+              "East",
+              "West"
+            ],
+            "correctIndex": 1,
+            "explanation": "After a 90-degree turn to the right and a 90-degree turn to the left, Rashbehari will be walking in the same direction as he started, which is towards Sealdah, and after a 180-degree turn to the right, he will be facing the opposite direction of Sealdah, which is towards Howrah, but Rashbehari is walking towards Sealdah.",
+            "difficulty": "Hard",
+            "topicId": "rs-direction",
+            "source": "ai_generated",
+            "generatedDate": "2026-08-07"
+          },
+          {
+            "question": "If a person is standing at the Dakshineswar Kali Temple and facing the Ganges River, which direction is he facing?",
+            "options": [
+              "North",
+              "East",
+              "South",
+              "West"
+            ],
+            "correctIndex": 2,
+            "explanation": "The Ganges River is located in the south of Dakshineswar Kali Temple.",
+            "difficulty": "Easy",
+            "topicId": "rs-direction",
+            "source": "ai_generated",
+            "generatedDate": "2026-08-07"
+          },
+          {
+            "question": "A person is walking from the Park Circus to the B.B.D. Bagh in Kolkata. If she turns 180 degrees to the right, in which direction is she walking?",
+            "options": [
+              "North",
+              "East",
+              "South",
+              "West"
+            ],
+            "correctIndex": 3,
+            "explanation": "A 180-degree turn to the right means turning around and walking in the opposite direction.",
+            "difficulty": "Medium",
+            "topicId": "rs-direction",
+            "source": "ai_generated",
+            "generatedDate": "2026-08-07"
+          },
+          {
+            "question": "If a person is standing at the Esplanade in Kolkata and facing the Howrah Bridge, which direction is he facing?",
+            "options": [
+              "North",
+              "East",
+              "South",
+              "West"
+            ],
+            "correctIndex": 2,
+            "explanation": "The Howrah Bridge is located in the south of the Esplanade in Kolkata.",
+            "difficulty": "Easy",
+            "topicId": "rs-direction",
+            "source": "ai_generated",
+            "generatedDate": "2026-08-07"
+          }
+        ],
+        "questionCount": 5
+      }
+    }
+  }
+}
