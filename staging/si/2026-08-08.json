@@ -1,0 +1,674 @@
+{
+  "exam": "si",
+  "generatedDate": "2026-08-08",
+  "generatedAt": "2026-08-08T02:28:19.421Z",
+  "model": "llama-3.1-8b-instant",
+  "provider": "groq",
+  "source": "ai_generated",
+  "reviewStatus": "pending",
+  "totalQuestions": 40,
+  "subjects": {
+    "gs": {
+      "gs-polity": {
+        "topicName": "Indian Constitution & Polity",
+        "subjectName": "General Studies",
+        "questions": [
+          {
+            "question": "Which Article of the Indian Constitution guarantees fundamental rights to citizens?",
+            "options": [
+              "Article 14",
+              "Article 15",
+              "Article 16",
+              "Article 19"
+            ],
+            "correctIndex": 2,
+            "explanation": "Article 16 deals with equality of opportunity in matters of public employment.",
+            "difficulty": "Medium",
+            "topicId": "gs-polity",
+            "source": "ai_generated",
+            "generatedDate": "2026-08-08"
+          },
+          {
+            "question": "What is the name of the scheme launched by the Government of West Bengal for the welfare of Scheduled Castes?",
+            "options": [
+              "Anandam Scheme",
+              "Dhani Scheme",
+              "Swami Vivekananda Antyodaya Yojana",
+              "Kanyashree Prakalpa"
+            ],
+            "correctIndex": 2,
+            "explanation": "Swami Vivekananda Antyodaya Yojana aims to provide financial support to the Scheduled Castes.",
+            "difficulty": "Easy",
+            "topicId": "gs-polity",
+            "source": "ai_generated",
+            "generatedDate": "2026-08-08"
+          },
+          {
+            "question": "Which institution in India is responsible for the appointment of judges to the Supreme Court?",
+            "options": [
+              "President",
+              "Prime Minister",
+              "Chief Justice of India",
+              "Judicial Commission"
+            ],
+            "correctIndex": 3,
+            "explanation": "The Judicial Commission is responsible for the appointment of judges to the Supreme Court.",
+            "difficulty": "Hard",
+            "topicId": "gs-polity",
+            "source": "ai_generated",
+            "generatedDate": "2026-08-08"
+          },
+          {
+            "question": "What is the name of the amendment to the Indian Constitution that introduced the concept of 'Right to Information'?",
+            "options": [
+              "Article 51A",
+              "Article 14",
+              "Article 21",
+              "Right to Information Act, 2005"
+            ],
+            "correctIndex": 0,
+            "explanation": "Article 51A pertains to Fundamental Duties, but Right to Information is actually a legislation.",
+            "difficulty": "Medium",
+            "topicId": "gs-polity",
+            "source": "ai_generated",
+            "generatedDate": "2026-08-08"
+          },
+          {
+            "question": "Which of the following is a feature of the Panchayati Raj system in West Bengal?",
+            "options": [
+              "Three-tier system",
+              "Five-tier system",
+              "Direct election of panchayat members",
+              "Separate departments for different subjects"
+            ],
+            "correctIndex": 0,
+            "explanation": "West Bengal follows a three-tier system of Panchayati Raj, comprising Gram Panchayats, Panchayat Samitis, and Zilla Parishads.",
+            "difficulty": "Easy",
+            "topicId": "gs-polity",
+            "source": "ai_generated",
+            "generatedDate": "2026-08-08"
+          }
+        ],
+        "questionCount": 5
+      },
+      "gs-wb-geo": {
+        "topicName": "West Bengal Geography",
+        "subjectName": "General Studies",
+        "questions": [
+          {
+            "question": "Which river forms the eastern boundary of West Bengal?",
+            "options": [
+              "Ganges",
+              "Hooghly",
+              "Brahmaputra",
+              "Meghna"
+            ],
+            "correctIndex": 1,
+            "explanation": "The Hooghly River is a distributary of the Ganges River.",
+            "difficulty": "Medium",
+            "topicId": "gs-wb-geo",
+            "source": "ai_generated",
+            "generatedDate": "2026-08-08"
+          },
+          {
+            "question": "What is the highest peak in the Darjeeling Himalayan Hill Railway range?",
+            "options": [
+              "Tiffindara",
+              "Tonglu",
+              "Sandakphu",
+              "Katao"
+            ],
+            "correctIndex": 2,
+            "explanation": "Sandakphu is the highest point in the Darjeeling Himalayan Hill Railway range.",
+            "difficulty": "Easy",
+            "topicId": "gs-wb-geo",
+            "source": "ai_generated",
+            "generatedDate": "2026-08-08"
+          },
+          {
+            "question": "Which of the following islands is located off the coast of West Bengal?",
+            "options": [
+              "Sundarbans",
+              "Andaman and Nicobar Islands",
+              "Lakshadweep",
+              "Nicobar Islands"
+            ],
+            "correctIndex": 0,
+            "explanation": "The Sundarbans is a delta and the largest single block of tidal mangrove forest in the world.",
+            "difficulty": "Medium",
+            "topicId": "gs-wb-geo",
+            "source": "ai_generated",
+            "generatedDate": "2026-08-08"
+          },
+          {
+            "question": "Which mountain range is part of the Eastern Himalayas and runs through West Bengal?",
+            "options": [
+              "Sikkim Himalayas",
+              "Darjeeling Himalayan Hill Railway range",
+              "Kanchenjunga range",
+              "Nathula range"
+            ],
+            "correctIndex": 2,
+            "explanation": "The Kanchenjunga range is part of the Eastern Himalayas and runs through West Bengal.",
+            "difficulty": "Hard",
+            "topicId": "gs-wb-geo",
+            "source": "ai_generated",
+            "generatedDate": "2026-08-08"
+          },
+          {
+            "question": "Which part of West Bengal is known for its tea plantations?",
+            "options": [
+              "Darjeeling",
+              "Terai",
+              "Dooars",
+              "Singhbhum"
+            ],
+            "correctIndex": 0,
+            "explanation": "Darjeeling is famous for its tea plantations.",
+            "difficulty": "Medium",
+            "topicId": "gs-wb-geo",
+            "source": "ai_generated",
+            "generatedDate": "2026-08-08"
+          }
+        ],
+        "questionCount": 5
+      }
+    },
+    "math": {
+      "math-percent": {
+        "topicName": "Percentage & Profit-Loss",
+        "subjectName": "Arithmetic",
+        "questions": [
+          {
+            "question": "A fruit vendor sold 100 kg of oranges at 20% profit. If the cost price of 1 kg of orange is ₹70, what is the total selling price of 100 kg of oranges?",
+            "options": [
+              "₹14,000",
+              "₹17,000",
+              "₹21,000",
+              "₹25,000"
+            ],
+            "correctIndex": 1,
+            "explanation": "It can be calculated as 100 * 1.2 * 70.",
+            "difficulty": "Medium",
+            "topicId": "math-profit-loss",
+            "source": "ai_generated",
+            "generatedDate": "2026-08-08"
+          },
+          {
+            "question": "In a village, the population of Bengal Tiger decreased by 30% in last year. If there were 100 Bengal Tigers in the village before the decrease, what is the present population of Bengal Tigers?",
+            "options": [
+              "60",
+              "70",
+              "80",
+              "90"
+            ],
+            "correctIndex": 0,
+            "explanation": "It can be calculated as 100  -  30% of 100.",
+            "difficulty": "Easy",
+            "topicId": "math-percent",
+            "source": "ai_generated",
+            "generatedDate": "2026-08-08"
+          },
+          {
+            "question": "A shopkeeper marked up a product by 25% and then offered a discount of 10% on the marked price. What is the net price of the product, if the cost price is ₹100?",
+            "options": [
+              "₹85",
+              "₹90",
+              "₹95",
+              "₹100"
+            ],
+            "correctIndex": 2,
+            "explanation": "It can be calculated as 100 * 1.25 * 0.9.",
+            "difficulty": "Medium",
+            "topicId": "math-profit-loss",
+            "source": "ai_generated",
+            "generatedDate": "2026-08-08"
+          },
+          {
+            "question": "A person's salary is increased by 15%. If his new salary is ₹18,000, what was his original salary?",
+            "options": [
+              "₹15,789",
+              "₹15,800",
+              "₹15,810",
+              "₹15,850"
+            ],
+            "correctIndex": 1,
+            "explanation": "It can be calculated as 18000 / 1.15.",
+            "difficulty": "Easy",
+            "topicId": "math-percent",
+            "source": "ai_generated",
+            "generatedDate": "2026-08-08"
+          },
+          {
+            "question": "A dealer sells his goods at a profit of 20% of the cost price and then allows a discount of 5% on the selling price. If he sells a product for ₹1,260, what is the cost price of the product?",
+            "options": [
+              "₹1,000",
+              "₹1,050",
+              "₹1,100",
+              "₹1,150"
+            ],
+            "correctIndex": 2,
+            "explanation": "It can be calculated as 1260 / 1.05.",
+            "difficulty": "Medium",
+            "topicId": "math-profit-loss",
+            "source": "ai_generated",
+            "generatedDate": "2026-08-08"
+          }
+        ],
+        "questionCount": 5
+      },
+      "math-interest": {
+        "topicName": "Simple & Compound Interest",
+        "subjectName": "Arithmetic",
+        "questions": [
+          {
+            "question": "If the simple interest on a certain amount at 10% p.a. for 2 years is Rs. 120, then the principal amount is?",
+            "options": [
+              "Rs. 4000",
+              "Rs. 6000",
+              "Rs. 8000",
+              "Rs. 10000"
+            ],
+            "correctIndex": 1,
+            "explanation": "Using the simple interest formula, we can calculate the principal amount.",
+            "difficulty": "Easy",
+            "topicId": "math-interest",
+            "source": "ai_generated",
+            "generatedDate": "2026-08-08"
+          },
+          {
+            "question": "What is the compound interest accrued on an amount of Rs. 5000 for 2 years at 5% p.a. compounded annually?",
+            "options": [
+              "Rs. 251.25",
+              "Rs. 256.25",
+              "Rs. 261.25",
+              "Rs. 266.25"
+            ],
+            "correctIndex": 0,
+            "explanation": "Using the compound interest formula, we can calculate the interest accrued.",
+            "difficulty": "Medium",
+            "topicId": "math-interest",
+            "source": "ai_generated",
+            "generatedDate": "2026-08-08"
+          },
+          {
+            "question": "A person borrows Rs. 2000 at 12% p.a. compound interest for 3 years. What is the amount he has to pay at the end of 3 years?",
+            "options": [
+              "Rs. 2739.51",
+              "Rs. 2899.51",
+              "Rs. 3069.51",
+              "Rs. 3239.51"
+            ],
+            "correctIndex": 2,
+            "explanation": "Using the compound interest formula, we can calculate the total amount to be paid.",
+            "difficulty": "Hard",
+            "topicId": "math-interest",
+            "source": "ai_generated",
+            "generatedDate": "2026-08-08"
+          },
+          {
+            "question": "If the compound interest on Rs. 8000 for 2 years at 8% p.a. compounded half-yearly is Rs. 326.9336, then the rate of interest is?",
+            "options": [
+              "6%",
+              "7%",
+              "8%",
+              "9%"
+            ],
+            "correctIndex": 2,
+            "explanation": "Using the compound interest formula, we can calculate the rate of interest.",
+            "difficulty": "Hard",
+            "topicId": "math-interest",
+            "source": "ai_generated",
+            "generatedDate": "2026-08-08"
+          },
+          {
+            "question": "A sum of money at compound interest amounts to Rs. 3313.59 in 2 years. If the rate of interest is 5% p.a. compounded annually, then the principal amount is?",
+            "options": [
+              "Rs. 3000",
+              "Rs. 3100",
+              "Rs. 3200",
+              "Rs. 3300"
+            ],
+            "correctIndex": 3,
+            "explanation": "Using the compound interest formula, we can calculate the principal amount.",
+            "difficulty": "Medium",
+            "topicId": "math-interest",
+            "source": "ai_generated",
+            "generatedDate": "2026-08-08"
+          }
+        ],
+        "questionCount": 5
+      },
+      "math-tw": {
+        "topicName": "Time, Work & Pipes",
+        "subjectName": "Arithmetic",
+        "questions": [
+          {
+            "question": "A person can complete 1/4th of a job in 3 hours. How long will it take him to complete 3/4th of the job?",
+            "options": [
+              "6 hours",
+              "9 hours",
+              "12 hours",
+              "15 hours"
+            ],
+            "correctIndex": 2,
+            "explanation": "By using the inverse proportion rule.",
+            "difficulty": "Medium",
+            "topicId": "math-tw",
+            "source": "ai_generated",
+            "generatedDate": "2026-08-08"
+          },
+          {
+            "question": "If a tap can fill 3/4th of a 250-liter tank in 30 minutes, how long will it take to fill the entire tank?",
+            "options": [
+              "45 minutes",
+              "60 minutes",
+              "75 minutes",
+              "90 minutes"
+            ],
+            "correctIndex": 2,
+            "explanation": "By using the concept of work done in a given time.",
+            "difficulty": "Medium",
+            "topicId": "math-tw",
+            "source": "ai_generated",
+            "generatedDate": "2026-08-08"
+          },
+          {
+            "question": "A man can finish a job in 6 days. If he works 1/3rd of the day, how much work will he do?",
+            "options": [
+              "1/18",
+              "1/6",
+              "1/8",
+              "1/36"
+            ],
+            "correctIndex": 2,
+            "explanation": "By calculating the work done in a fraction of a day.",
+            "difficulty": "Easy",
+            "topicId": "math-tw",
+            "source": "ai_generated",
+            "generatedDate": "2026-08-08"
+          },
+          {
+            "question": "A pipe can fill a tank in 12 hours. A leak in the tank can empty it in 8 hours. If both the pipe and the leak work together, how long will it take to fill the tank?",
+            "options": [
+              "6 hours",
+              "8 hours",
+              "10 hours",
+              "12 hours"
+            ],
+            "correctIndex": 0,
+            "explanation": "By using the concept of work done by combined rates.",
+            "difficulty": "Medium",
+            "topicId": "math-tw",
+            "source": "ai_generated",
+            "generatedDate": "2026-08-08"
+          },
+          {
+            "question": "A person can do 1/5th of a job in 2 hours. How long will it take him to do 3 times the job?",
+            "options": [
+              "6 hours",
+              "8 hours",
+              "10 hours",
+              "12 hours"
+            ],
+            "correctIndex": 2,
+            "explanation": "By using the inverse proportion rule.",
+            "difficulty": "Medium",
+            "topicId": "math-tw",
+            "source": "ai_generated",
+            "generatedDate": "2026-08-08"
+          }
+        ],
+        "questionCount": 5
+      }
+    },
+    "reasoning": {
+      "rs-coding": {
+        "topicName": "Coding-Decoding",
+        "subjectName": "Reasoning",
+        "questions": [
+          {
+            "question": "In the given series 2, 5, 8, 11, 14, what comes next?",
+            "options": [
+              "3",
+              "5",
+              "7",
+              "9"
+            ],
+            "correctIndex": 2,
+            "explanation": "The series is an arithmetic progression with a common difference of 3.",
+            "difficulty": "Easy",
+            "topicId": "rs-coding",
+            "source": "ai_generated",
+            "generatedDate": "2026-08-08"
+          },
+          {
+            "question": "In a certain code, 'B' is represented by 'X', 'T' is represented by 'Y', 'A' is represented by 'Z', 'R' is represented by 'W' and 'E' is represented by 'V'. In this code, what is the equivalent of 'BARE'?",
+            "options": [
+              "XVYZ",
+              "VWYZ",
+              "WVYZ",
+              "VWXY"
+            ],
+            "correctIndex": 1,
+            "explanation": "Each letter is represented by the next letter in the alphabet, shifted down by 1 position from 'A'.",
+            "difficulty": "Medium",
+            "topicId": "rs-coding",
+            "source": "ai_generated",
+            "generatedDate": "2026-08-08"
+          },
+          {
+            "question": "If 'A' is represented by '@', 'B' is represented by '$', 'C' is represented by '%', 'D' is represented by '^', 'E' is represented by '&' and 'F' is represented by '*', then what is the code for 'CALCULATE'?",
+            "options": [
+              "@#$%^&*",
+              "@%^%&*",
+              "@%^&*%",
+              "@%^&*"
+            ],
+            "correctIndex": 0,
+            "explanation": "Each letter is represented by a symbol from the top row of a standard keyboard.",
+            "difficulty": "Medium",
+            "topicId": "rs-coding",
+            "source": "ai_generated",
+            "generatedDate": "2026-08-08"
+          },
+          {
+            "question": "What will be the next number in the series 1, 2, 4, 7, 11, 16?",
+            "options": [
+              "20",
+              "22",
+              "24",
+              "26"
+            ],
+            "correctIndex": 3,
+            "explanation": "The series is formed by adding consecutive increments (1, 2, 3, 4, 5, ...).",
+            "difficulty": "Medium",
+            "topicId": "rs-coding",
+            "source": "ai_generated",
+            "generatedDate": "2026-08-08"
+          },
+          {
+            "question": "In a certain code, 'D' is represented by 'C', 'E' is represented by 'D', 'F' is represented by 'E', 'G' is represented by 'F' and 'H' is represented by 'G'. What is the code for 'FEED'?",
+            "options": [
+              "CCDD",
+              "CDDE",
+              "DDEE",
+              "EEDF"
+            ],
+            "correctIndex": 2,
+            "explanation": "Each letter is shifted down by 1 position in the alphabet, but with the last letter looping around to the start.",
+            "difficulty": "Easy",
+            "topicId": "rs-coding",
+            "source": "ai_generated",
+            "generatedDate": "2026-08-08"
+          }
+        ],
+        "questionCount": 5
+      },
+      "rs-direction": {
+        "topicName": "Direction Sense",
+        "subjectName": "Reasoning",
+        "questions": [
+          {
+            "question": "If Pranab is facing north and walks 20 metres, then turns right and walks 15 metres, which direction is Pranab facing?",
+            "options": [
+              "West",
+              "North",
+              "East",
+              "South"
+            ],
+            "correctIndex": 3,
+            "explanation": "Pranab turns right after walking north.",
+            "difficulty": "Medium",
+            "topicId": "rs-direction",
+            "source": "ai_generated",
+            "generatedDate": "2026-08-08"
+          },
+          {
+            "question": "If a person reaches Asansol from Burdwan, then in which direction is he travelling?",
+            "options": [
+              "East",
+              "West",
+              "North",
+              "South"
+            ],
+            "correctIndex": 1,
+            "explanation": "Burdwan and Asansol are in the north and south of the Burdwan district.",
+            "difficulty": "Easy",
+            "topicId": "rs-direction",
+            "source": "ai_generated",
+            "generatedDate": "2026-08-08"
+          },
+          {
+            "question": "A person is standing in the Howrah Bridge and looking at the Vidyasagar Setu. In which direction is the person facing?",
+            "options": [
+              "North",
+              "South",
+              "East",
+              "West"
+            ],
+            "correctIndex": 3,
+            "explanation": "The Vidyasagar Setu is located in the west of the Howrah Bridge.",
+            "difficulty": "Easy",
+            "topicId": "rs-direction",
+            "source": "ai_generated",
+            "generatedDate": "2026-08-08"
+          },
+          {
+            "question": "A person is at the Darjeeling railway station. The person walks 15 metres towards the east and then turns left and walks 25 metres. Then in which direction is the person facing?",
+            "options": [
+              "North",
+              "East",
+              "South",
+              "West"
+            ],
+            "correctIndex": 2,
+            "explanation": "After turning left, the person is facing south.",
+            "difficulty": "Medium",
+            "topicId": "rs-direction",
+            "source": "ai_generated",
+            "generatedDate": "2026-08-08"
+          },
+          {
+            "question": "If a person reaches the Hooghly river from the Damodar river, then in which direction is he travelling?",
+            "options": [
+              "North",
+              "South",
+              "East",
+              "West"
+            ],
+            "correctIndex": 0,
+            "explanation": "The Hooghly and Damodar rivers are in the north and south of the Burdwan district.",
+            "difficulty": "Easy",
+            "topicId": "rs-direction",
+            "source": "ai_generated",
+            "generatedDate": "2026-08-08"
+          }
+        ],
+        "questionCount": 5
+      },
+      "rs-series": {
+        "topicName": "Number & Letter Series",
+        "subjectName": "Reasoning",
+        "questions": [
+          {
+            "question": "If a bicycle has 15 wheels, 7 wheels are in the front, and the remaining wheels are in the back, then how many wheels are in the back?",
+            "options": [
+              "5 wheels",
+              "8 wheels",
+              "10 wheels",
+              "12 wheels"
+            ],
+            "correctIndex": 1,
+            "explanation": "The remaining wheels after subtracting the front wheels are in the back.",
+            "difficulty": "Easy",
+            "topicId": "rs-series",
+            "source": "ai_generated",
+            "generatedDate": "2026-08-08"
+          },
+          {
+            "question": "Identify the next number in the series: 2, 5, 8, 11, ___?",
+            "options": [
+              "14",
+              "17",
+              "20",
+              "22"
+            ],
+            "correctIndex": 0,
+            "explanation": "The series is formed by adding 3 to each number.",
+            "difficulty": "Medium",
+            "topicId": "rs-series",
+            "source": "ai_generated",
+            "generatedDate": "2026-08-08"
+          },
+          {
+            "question": "Identify the next letter in the series: A, D, G, J, ___?",
+            "options": [
+              "K",
+              "L",
+              "M",
+              "N"
+            ],
+            "correctIndex": 2,
+            "explanation": "The series is formed by adding 3 letters from the alphabet.",
+            "difficulty": "Easy",
+            "topicId": "rs-series",
+            "source": "ai_generated",
+            "generatedDate": "2026-08-08"
+          },
+          {
+            "question": "In a sequence of numbers, each number is 5 more than the previous number. If 5 is the first number, what is the 6th number?",
+            "options": [
+              "20",
+              "25",
+              "30",
+              "35"
+            ],
+            "correctIndex": 2,
+            "explanation": "Each number is 5 more than the previous number.",
+            "difficulty": "Medium",
+            "topicId": "rs-series",
+            "source": "ai_generated",
+            "generatedDate": "2026-08-08"
+          },
+          {
+            "question": "Identify the next number in the series: 3, 6, 9, 12, 15, ___?",
+            "options": [
+              "18",
+              "20",
+              "21",
+              "24"
+            ],
+            "correctIndex": 0,
+            "explanation": "The series is formed by adding 3 to each number.",
+            "difficulty": "Easy",
+            "topicId": "rs-series",
+            "source": "ai_generated",
+            "generatedDate": "2026-08-08"
+          }
+        ],
+        "questionCount": 5
+      }
+    }
+  }
+}
