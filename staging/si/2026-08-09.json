@@ -1,0 +1,674 @@
+{
+  "exam": "si",
+  "generatedDate": "2026-08-09",
+  "generatedAt": "2026-08-09T02:35:47.367Z",
+  "model": "llama-3.1-8b-instant",
+  "provider": "groq",
+  "source": "ai_generated",
+  "reviewStatus": "pending",
+  "totalQuestions": 40,
+  "subjects": {
+    "gs": {
+      "gs-polity": {
+        "topicName": "Indian Constitution & Polity",
+        "subjectName": "General Studies",
+        "questions": [
+          {
+            "question": "Which of the following articles of the Indian Constitution deals with the principles of state policy?",
+            "options": [
+              "Article 14",
+              "Article 16",
+              "Article 38",
+              "Article 51A"
+            ],
+            "correctIndex": 2,
+            "explanation": "Article 38 provides for the state to secure a social order for the promotion of welfare of the people.",
+            "difficulty": "Medium",
+            "topicId": "gs-polity",
+            "source": "ai_generated",
+            "generatedDate": "2026-08-09"
+          },
+          {
+            "question": "The concept of 'Panchayati Raj' was first implemented in?",
+            "options": [
+              "1961",
+              "1962",
+              "1959",
+              "1950"
+            ],
+            "correctIndex": 2,
+            "explanation": "The concept of 'Panchayati Raj' was first implemented in 1959 in Nagpur, Maharashtra.",
+            "difficulty": "Easy",
+            "topicId": "gs-polity",
+            "source": "ai_generated",
+            "generatedDate": "2026-08-09"
+          },
+          {
+            "question": "Which of the following is a fundamental duty under the Indian Constitution?",
+            "options": [
+              "To pay taxes honestly",
+              "To salute the national flag",
+              "To respect the Constitution",
+              "To defend the country"
+            ],
+            "correctIndex": 3,
+            "explanation": "Defending the country is a fundamental duty under the Indian Constitution.",
+            "difficulty": "Medium",
+            "topicId": "gs-polity",
+            "source": "ai_generated",
+            "generatedDate": "2026-08-09"
+          },
+          {
+            "question": "The 'Right to Information' is a fundamental right under which article of the Indian Constitution?",
+            "options": [
+              "Article 19(1)(a)",
+              "Article 14",
+              "Article 21",
+              "Article 51A"
+            ],
+            "correctIndex": 0,
+            "explanation": "The 'Right to Information' is a fundamental right under Article 19(1)(a) of the Indian Constitution.",
+            "difficulty": "Medium",
+            "topicId": "gs-polity",
+            "source": "ai_generated",
+            "generatedDate": "2026-08-09"
+          },
+          {
+            "question": "Which of the following is a part of the 'Sixth Schedule' of the Indian Constitution?",
+            "options": [
+              "Autonomous District Councils in Assam",
+              "Autonomous District Councils in Meghalaya",
+              "Autonomous District Councils in Tripura",
+              "All of the above"
+            ],
+            "correctIndex": 3,
+            "explanation": "The 'Sixth Schedule' of the Indian Constitution deals with the autonomous districts in Assam, Meghalaya, Tripura, and Mizoram.",
+            "difficulty": "Hard",
+            "topicId": "gs-polity",
+            "source": "ai_generated",
+            "generatedDate": "2026-08-09"
+          }
+        ],
+        "questionCount": 5
+      },
+      "gs-wb-geo": {
+        "topicName": "West Bengal Geography",
+        "subjectName": "General Studies",
+        "questions": [
+          {
+            "question": "Which river forms the northern boundary of the state of West Bengal?",
+            "options": [
+              "Ganges",
+              "Brahmaputra",
+              "Meghna",
+              "Tista"
+            ],
+            "correctIndex": 0,
+            "explanation": "The Ganges forms the northern boundary of West Bengal.",
+            "difficulty": "Easy",
+            "topicId": "gs-wb-geo",
+            "source": "ai_generated",
+            "generatedDate": "2026-08-09"
+          },
+          {
+            "question": "Which of the following hill stations is located in the Darjeeling district of West Bengal?",
+            "options": [
+              "Kalimpong",
+              "Mirik",
+              "Kurseong",
+              "Rishop"
+            ],
+            "correctIndex": 1,
+            "explanation": "Mirik is a popular hill station in the Darjeeling district of West Bengal.",
+            "difficulty": "Medium",
+            "topicId": "gs-wb-geo",
+            "source": "ai_generated",
+            "generatedDate": "2026-08-09"
+          },
+          {
+            "question": "What is the name of the Sundarbans delta located in the southern part of West Bengal?",
+            "options": [
+              "Sundarbans",
+              "Ganges Delta",
+              "Hooghly-Matla Bhabar",
+              "Bhagirathi-Hooghly Bhabar"
+            ],
+            "correctIndex": 0,
+            "explanation": "Sundarbans is the largest delta in the world by area.",
+            "difficulty": "Easy",
+            "topicId": "gs-wb-geo",
+            "source": "ai_generated",
+            "generatedDate": "2026-08-09"
+          },
+          {
+            "question": "Which of the following rivers originates from the Cherrapunji hills and flows through the state of West Bengal?",
+            "options": [
+              "Subarnarekha",
+              "Baitarani",
+              "Mayurakshi",
+              "Kangra"
+            ],
+            "correctIndex": 2,
+            "explanation": "The Mayurakshi originates from the Cherrapunji hills and flows through West Bengal.",
+            "difficulty": "Medium",
+            "topicId": "gs-wb-geo",
+            "source": "ai_generated",
+            "generatedDate": "2026-08-09"
+          },
+          {
+            "question": "Which of the following national parks is located in the Bankura district of West Bengal?",
+            "options": [
+              "Sundarbans National Park",
+              "Buxa Tiger Reserve",
+              "Kaziranga National Park",
+              "Singalila National Park"
+            ],
+            "correctIndex": 2,
+            "explanation": "The Sundarbans National Park is the largest mangrove forest in the world.",
+            "difficulty": "Medium",
+            "topicId": "gs-wb-geo",
+            "source": "ai_generated",
+            "generatedDate": "2026-08-09"
+          }
+        ],
+        "questionCount": 5
+      }
+    },
+    "math": {
+      "math-interest": {
+        "topicName": "Simple & Compound Interest",
+        "subjectName": "Arithmetic",
+        "questions": [
+          {
+            "question": "If the rate of interest is 8% per annum, compounded annually, and the principal amount is ₹ 5000, the amount after 2 years is?",
+            "options": [
+              "₹ 5410",
+              "₹ 5416",
+              "₹ 5418",
+              "₹ 5420"
+            ],
+            "correctIndex": 1,
+            "explanation": "Interest is compounded annually.",
+            "difficulty": "Medium",
+            "topicId": "math-interest",
+            "source": "ai_generated",
+            "generatedDate": "2026-08-09"
+          },
+          {
+            "question": "What is the difference between simple and compound interest on ₹ 10000 at 6% interest rate for 2 years?",
+            "options": [
+              "₹ 22",
+              "₹ 24",
+              "₹ 36",
+              "₹ 40"
+            ],
+            "correctIndex": 3,
+            "explanation": "Compound interest is more than simple interest.",
+            "difficulty": "Medium",
+            "topicId": "math-interest",
+            "source": "ai_generated",
+            "generatedDate": "2026-08-09"
+          },
+          {
+            "question": "If the rate of interest is 12% per annum, compounded half-yearly, and the amount after 1 year is ₹ 1234, the principal amount is?",
+            "options": [
+              "₹ 1130",
+              "₹ 1131",
+              "₹ 1132",
+              "₹ 1133"
+            ],
+            "correctIndex": 0,
+            "explanation": "Interest is compounded half-yearly.",
+            "difficulty": "Medium",
+            "topicId": "math-interest",
+            "source": "ai_generated",
+            "generatedDate": "2026-08-09"
+          },
+          {
+            "question": "What is the time period for which ₹ 8000 amounts ₹ 8820 at 10% simple interest?",
+            "options": [
+              "1 year",
+              "2 years",
+              "3 years",
+              "4 years"
+            ],
+            "correctIndex": 2,
+            "explanation": "Interest is simple.",
+            "difficulty": "Medium",
+            "topicId": "math-interest",
+            "source": "ai_generated",
+            "generatedDate": "2026-08-09"
+          },
+          {
+            "question": "If the simple interest on ₹ 15000 for 3 years at 9% per annum is ₹ 4275, the compound interest for the same amount and time period is?",
+            "options": [
+              "₹ 450.09",
+              "₹ 450.45",
+              "₹ 450.9",
+              "₹ 451"
+            ],
+            "correctIndex": 2,
+            "explanation": "Compound interest is more than simple interest.",
+            "difficulty": "Medium",
+            "topicId": "math-interest",
+            "source": "ai_generated",
+            "generatedDate": "2026-08-09"
+          }
+        ],
+        "questionCount": 5
+      },
+      "math-tw": {
+        "topicName": "Time, Work & Pipes",
+        "subjectName": "Arithmetic",
+        "questions": [
+          {
+            "question": "A person can finish a piece of work in 20 days. He works for 8 hours a day. How much time will be saved if another person works with him for 6 hours a day, whose daily work efficiency is twice that of the first person?",
+            "options": [
+              "6 days",
+              "8 days",
+              "10 days",
+              "4 days"
+            ],
+            "correctIndex": 2,
+            "explanation": "Total work done in a day will increase, saving time.",
+            "difficulty": "Medium",
+            "topicId": "math-tw",
+            "source": "ai_generated",
+            "generatedDate": "2026-08-09"
+          },
+          {
+            "question": "A group of 4 men can do a piece of work in 20 days. How long will it take for a group of 8 men to finish the same work?",
+            "options": [
+              "10 days",
+              "15 days",
+              "20 days",
+              "25 days"
+            ],
+            "correctIndex": 1,
+            "explanation": "More workers will reduce the time required.",
+            "difficulty": "Medium",
+            "topicId": "math-tw",
+            "source": "ai_generated",
+            "generatedDate": "2026-08-09"
+          },
+          {
+            "question": "A tap can fill 1/5th of a tank in 30 minutes. What is the time taken to fill the entire tank from an empty state?",
+            "options": [
+              "15 minutes",
+              "30 minutes",
+              "45 minutes",
+              "60 minutes"
+            ],
+            "correctIndex": 0,
+            "explanation": "The tap can fill 1/5th of the tank in 30 minutes.",
+            "difficulty": "Medium",
+            "topicId": "math-tw",
+            "source": "ai_generated",
+            "generatedDate": "2026-08-09"
+          },
+          {
+            "question": "A person can fill a tank in 12 hours. A leak in the tank can empty it in 18 hours. How long will it take to fill the tank when both the person and the leak are working together?",
+            "options": [
+              "10.2 hours",
+              "12 hours",
+              "14.2 hours",
+              "16.5 hours"
+            ],
+            "correctIndex": 0,
+            "explanation": "Net work done per hour will be the sum of individual work rates.",
+            "difficulty": "Medium",
+            "topicId": "math-tw",
+            "source": "ai_generated",
+            "generatedDate": "2026-08-09"
+          },
+          {
+            "question": "A pipe can fill 2/3rd of a tank in 6 hours. How much more time will it take to fill the tank when a leak in the tank is emptying it?",
+            "options": [
+              "4 hours",
+              "6 hours",
+              "8 hours",
+              "10 hours"
+            ],
+            "correctIndex": 2,
+            "explanation": "Net work done per hour will be the difference of individual work rates.",
+            "difficulty": "Medium",
+            "topicId": "math-tw",
+            "source": "ai_generated",
+            "generatedDate": "2026-08-09"
+          }
+        ],
+        "questionCount": 5
+      },
+      "math-tsd": {
+        "topicName": "Time, Speed & Distance",
+        "subjectName": "Arithmetic",
+        "questions": [
+          {
+            "question": "A train travels from Sealdah to Dankuni at an average speed of 60 km/h. If the distance between Sealdah and Dankuni is 30 km, how long will the train take to cover this distance?",
+            "options": [
+              "1 hour",
+              "30 minutes",
+              "0.5 hours",
+              "45 minutes"
+            ],
+            "correctIndex": 2,
+            "explanation": "Using the formula, time = distance/speed.",
+            "difficulty": "Medium",
+            "topicId": "math-tsd",
+            "source": "ai_generated",
+            "generatedDate": "2026-08-09"
+          },
+          {
+            "question": "A bus travels from Howrah to Barrackpore at an average speed of 30 km/h. If it covers half the distance in 2 hours, what is the total distance covered by the bus?",
+            "options": [
+              "60 km",
+              "30 km",
+              "90 km",
+              "120 km"
+            ],
+            "correctIndex": 0,
+            "explanation": "Since the bus covers half the distance in 2 hours, it will cover the total distance in 4 hours.",
+            "difficulty": "Medium",
+            "topicId": "math-tsd",
+            "source": "ai_generated",
+            "generatedDate": "2026-08-09"
+          },
+          {
+            "question": "If a man walks at a speed of 6 km/h and covers a distance of 12 km in 2 hours, how much time will he take to cover 36 km?",
+            "options": [
+              "4 hours",
+              "6 hours",
+              "8 hours",
+              "10 hours"
+            ],
+            "correctIndex": 2,
+            "explanation": "Using the formula, time = distance/speed.",
+            "difficulty": "Medium",
+            "topicId": "math-tsd",
+            "source": "ai_generated",
+            "generatedDate": "2026-08-09"
+          },
+          {
+            "question": "A car travels from Kolkata to Chandannagar at an average speed of 40 km/h. If the distance between Kolkata and Chandannagar is 48 km, how long will the car take to cover this distance?",
+            "options": [
+              "1.2 hours",
+              "1.5 hours",
+              "1 hour",
+              "1.8 hours"
+            ],
+            "correctIndex": 1,
+            "explanation": "Using the formula, time = distance/speed.",
+            "difficulty": "Medium",
+            "topicId": "math-tsd",
+            "source": "ai_generated",
+            "generatedDate": "2026-08-09"
+          },
+          {
+            "question": "A cyclist covers a distance of 24 km in 2 hours while cycling at an average speed of 12 km/h. What is the increase in speed if the cyclist covers 48 km in 4 hours?",
+            "options": [
+              "6 km/h",
+              "8 km/h",
+              "4 km/h",
+              "10 km/h"
+            ],
+            "correctIndex": 0,
+            "explanation": "To find the increase in speed, we need to find the new speed and subtract the initial speed.",
+            "difficulty": "Medium",
+            "topicId": "math-tsd",
+            "source": "ai_generated",
+            "generatedDate": "2026-08-09"
+          }
+        ],
+        "questionCount": 5
+      }
+    },
+    "reasoning": {
+      "rs-coding": {
+        "topicName": "Coding-Decoding",
+        "subjectName": "Reasoning",
+        "questions": [
+          {
+            "question": "If 'P' means '+' , 'B' means '-', and 'T' means '×', then 15 P 27 B 3 T 9 is equal to?",
+            "options": [
+              "198",
+              "108",
+              "72",
+              "18"
+            ],
+            "correctIndex": 2,
+            "explanation": "Using the given operators, perform the operations.",
+            "difficulty": "Medium",
+            "topicId": "rs-coding",
+            "source": "ai_generated",
+            "generatedDate": "2026-08-09"
+          },
+          {
+            "question": "If 'S' means 'add 5' and 'D' means 'multiply by 2', then 18 S 3 D is equal to?",
+            "options": [
+              "41",
+              "46",
+              "36",
+              "26"
+            ],
+            "correctIndex": 1,
+            "explanation": "Using the given operations, perform the calculations.",
+            "difficulty": "Medium",
+            "topicId": "rs-coding",
+            "source": "ai_generated",
+            "generatedDate": "2026-08-09"
+          },
+          {
+            "question": "If 'A' means 'double the number' and 'B' means 'decrease by 2', then 10 A B is equal to?",
+            "options": [
+              "18",
+              "16",
+              "20",
+              "22"
+            ],
+            "correctIndex": 1,
+            "explanation": "Using the given operations, perform the calculations.",
+            "difficulty": "Medium",
+            "topicId": "rs-coding",
+            "source": "ai_generated",
+            "generatedDate": "2026-08-09"
+          },
+          {
+            "question": "If 'K' means 'square of the number' and 'L' means 'cube of the number', then 3 L K is equal to?",
+            "options": [
+              "729",
+              "27",
+              "81",
+              "243"
+            ],
+            "correctIndex": 3,
+            "explanation": "Using the given operations, perform the calculations.",
+            "difficulty": "Medium",
+            "topicId": "rs-coding",
+            "source": "ai_generated",
+            "generatedDate": "2026-08-09"
+          },
+          {
+            "question": "If 'G' means 'add 8' and 'H' means 'subtract 3', then 16 G H is equal to?",
+            "options": [
+              "13",
+              "19",
+              "11",
+              "23"
+            ],
+            "correctIndex": 0,
+            "explanation": "Using the given operations, perform the calculations.",
+            "difficulty": "Medium",
+            "topicId": "rs-coding",
+            "source": "ai_generated",
+            "generatedDate": "2026-08-09"
+          }
+        ],
+        "questionCount": 5
+      },
+      "rs-blood": {
+        "topicName": "Blood Relations",
+        "subjectName": "Reasoning",
+        "questions": [
+          {
+            "question": "Tapan's mother is the sister of whose mother?",
+            "options": [
+              "Father of Tapan",
+              "Father of Tapan's mother",
+              "Tapan",
+              "Brother of Tapan"
+            ],
+            "correctIndex": 1,
+            "explanation": "Tapan's mother's sister is also Tapan's aunt.",
+            "difficulty": "Medium",
+            "topicId": "rs-blood",
+            "source": "ai_generated",
+            "generatedDate": "2026-08-09"
+          },
+          {
+            "question": "If A is mother of C, B is father of C and D is brother of C, then who is son of B?",
+            "options": [
+              "A",
+              "D",
+              "C",
+              "None of the above"
+            ],
+            "correctIndex": 2,
+            "explanation": "By the given information, C is the child of both A and B.",
+            "difficulty": "Easy",
+            "topicId": "rs-blood",
+            "source": "ai_generated",
+            "generatedDate": "2026-08-09"
+          },
+          {
+            "question": "If P is the son of Q, then who is the wife of P?",
+            "options": [
+              "Daughter of Q",
+              "Mother of Q",
+              "Sister of Q",
+              "Grandmother of Q"
+            ],
+            "correctIndex": 0,
+            "explanation": "P is the son of Q, and hence his wife is the daughter-in-law of Q's parents.",
+            "difficulty": "Easy",
+            "topicId": "rs-blood",
+            "source": "ai_generated",
+            "generatedDate": "2026-08-09"
+          },
+          {
+            "question": "If A is grandmother of B and B is sister of C, then who is the mother of C?",
+            "options": [
+              "Mother of A",
+              "Aunt of A",
+              "A",
+              "Niece of A"
+            ],
+            "correctIndex": 2,
+            "explanation": "A is grandmother of B, and B is sister of C, so A is the mother of C's mother.",
+            "difficulty": "Medium",
+            "topicId": "rs-blood",
+            "source": "ai_generated",
+            "generatedDate": "2026-08-09"
+          },
+          {
+            "question": "If X is the brother of Y and Y is the sister of Z, then what is the relation of Z with X?",
+            "options": [
+              "Son of X",
+              "Daughter of X",
+              "Father of X",
+              "Brother of X"
+            ],
+            "correctIndex": 2,
+            "explanation": "Z is the sister of Y, and Y is the brother of X, so Z is the sister of X.",
+            "difficulty": "Medium",
+            "topicId": "rs-blood",
+            "source": "ai_generated",
+            "generatedDate": "2026-08-09"
+          }
+        ],
+        "questionCount": 5
+      },
+      "rs-series": {
+        "topicName": "Number & Letter Series",
+        "subjectName": "Reasoning",
+        "questions": [
+          {
+            "question": "Find the next number in the series: 1, 4, 9, 16, 25, ?",
+            "options": [
+              "36",
+              "49",
+              "64",
+              "81"
+            ],
+            "correctIndex": 2,
+            "explanation": "The series consists of consecutive squares of natural numbers.",
+            "difficulty": "Medium",
+            "topicId": "ns-series",
+            "source": "ai_generated",
+            "generatedDate": "2026-08-09"
+          },
+          {
+            "question": "Find the missing letter in the series: A, C, ?, F, H, J",
+            "options": [
+              "B",
+              "D",
+              "E",
+              "K"
+            ],
+            "correctIndex": 2,
+            "explanation": "The series consists of alphabets starting from A and increasing by 2 in the alphabet order.",
+            "difficulty": "Easy",
+            "topicId": "ls-series",
+            "source": "ai_generated",
+            "generatedDate": "2026-08-09"
+          },
+          {
+            "question": "Find the next number in the series: 2, 6, 12, 20, 30, ?",
+            "options": [
+              "42",
+              "40",
+              "48",
+              "36"
+            ],
+            "correctIndex": 0,
+            "explanation": "The series consists of numbers increasing by 4, 6, 8, 10, 12, ...",
+            "difficulty": "Medium",
+            "topicId": "ns-series",
+            "source": "ai_generated",
+            "generatedDate": "2026-08-09"
+          },
+          {
+            "question": "Which of the following is the next letter in the series: A, E, I, M, ?",
+            "options": [
+              "P",
+              "Q",
+              "R",
+              "U"
+            ],
+            "correctIndex": 3,
+            "explanation": "The series consists of alphabets whose positions in the alphabet order are increasing by 4.",
+            "difficulty": "Easy",
+            "topicId": "ls-series",
+            "source": "ai_generated",
+            "generatedDate": "2026-08-09"
+          },
+          {
+            "question": "Find the missing number in the series: 1, 2, 4, 7, 11, 16, ?",
+            "options": [
+              "22",
+              "21",
+              "20",
+              "24"
+            ],
+            "correctIndex": 0,
+            "explanation": "The series consists of prime numbers.",
+            "difficulty": "Medium",
+            "topicId": "ns-series",
+            "source": "ai_generated",
+            "generatedDate": "2026-08-09"
+          }
+        ],
+        "questionCount": 5
+      }
+    }
+  }
+}
