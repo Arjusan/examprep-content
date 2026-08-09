@@ -1,12 +1,12 @@
 {
   "exam": "si",
   "generatedDate": "2026-08-09",
-  "generatedAt": "2026-08-09T02:35:47.367Z",
+  "generatedAt": "2026-08-09T13:29:23.413Z",
   "model": "llama-3.1-8b-instant",
   "provider": "groq",
   "source": "ai_generated",
   "reviewStatus": "pending",
-  "totalQuestions": 40,
+  "totalQuestions": 50,
   "subjects": {
     "gs": {
       "gs-polity": {
@@ -14,76 +14,76 @@
         "subjectName": "General Studies",
         "questions": [
           {
-            "question": "Which of the following articles of the Indian Constitution deals with the principles of state policy?",
+            "question": "The Panchayat Samitis in West Bengal are constituted by the Panchayat Act of which year?",
             "options": [
-              "Article 14",
-              "Article 16",
-              "Article 38",
-              "Article 51A"
+              "1959",
+              "1973",
+              "1993",
+              "1996"
             ],
-            "correctIndex": 2,
-            "explanation": "Article 38 provides for the state to secure a social order for the promotion of welfare of the people.",
+            "correctIndex": 1,
+            "explanation": "The West Bengal Panchayat Act of 1973.",
             "difficulty": "Medium",
             "topicId": "gs-polity",
             "source": "ai_generated",
             "generatedDate": "2026-08-09"
           },
           {
-            "question": "The concept of 'Panchayati Raj' was first implemented in?",
+            "question": "Which of the following articles of the Indian Constitution deals with the Directive Principles of State Policy?",
             "options": [
-              "1961",
-              "1962",
-              "1959",
-              "1950"
+              "35",
+              "36",
+              "37",
+              "42"
             ],
             "correctIndex": 2,
-            "explanation": "The concept of 'Panchayati Raj' was first implemented in 1959 in Nagpur, Maharashtra.",
+            "explanation": "Article 37 of the Indian Constitution.",
             "difficulty": "Easy",
             "topicId": "gs-polity",
             "source": "ai_generated",
             "generatedDate": "2026-08-09"
           },
           {
-            "question": "Which of the following is a fundamental duty under the Indian Constitution?",
+            "question": "The West Bengal State Election Commission is established under which article of the Indian Constitution?",
             "options": [
-              "To pay taxes honestly",
-              "To salute the national flag",
-              "To respect the Constitution",
-              "To defend the country"
+              "243K",
+              "243L",
+              "243M",
+              "243N"
             ],
-            "correctIndex": 3,
-            "explanation": "Defending the country is a fundamental duty under the Indian Constitution.",
+            "correctIndex": 2,
+            "explanation": "Article 243K of the Indian Constitution.",
             "difficulty": "Medium",
             "topicId": "gs-polity",
             "source": "ai_generated",
             "generatedDate": "2026-08-09"
           },
           {
-            "question": "The 'Right to Information' is a fundamental right under which article of the Indian Constitution?",
+            "question": "What is the main objective of the 'Gram Nyayalayas' in West Bengal?",
             "options": [
-              "Article 19(1)(a)",
-              "Article 14",
-              "Article 21",
-              "Article 51A"
+              "To provide speedy justice to the poor",
+              "To increase the number of judges",
+              "To improve infrastructure of courts",
+              "To reduce the workload of lawyers"
             ],
             "correctIndex": 0,
-            "explanation": "The 'Right to Information' is a fundamental right under Article 19(1)(a) of the Indian Constitution.",
-            "difficulty": "Medium",
+            "explanation": "To provide speedy justice to the poor.",
+            "difficulty": "Easy",
             "topicId": "gs-polity",
             "source": "ai_generated",
             "generatedDate": "2026-08-09"
           },
           {
-            "question": "Which of the following is a part of the 'Sixth Schedule' of the Indian Constitution?",
+            "question": "Which of the following is a Fundamental Right under the Indian Constitution?",
             "options": [
-              "Autonomous District Councils in Assam",
-              "Autonomous District Councils in Meghalaya",
-              "Autonomous District Councils in Tripura",
-              "All of the above"
+              "Right to Property",
+              "Right to Education",
+              "Right to Freedom of Speech and Expression",
+              "Right to Work"
             ],
-            "correctIndex": 3,
-            "explanation": "The 'Sixth Schedule' of the Indian Constitution deals with the autonomous districts in Assam, Meghalaya, Tripura, and Mizoram.",
-            "difficulty": "Hard",
+            "correctIndex": 2,
+            "explanation": "Right to Freedom of Speech and Expression.",
+            "difficulty": "Easy",
             "topicId": "gs-polity",
             "source": "ai_generated",
             "generatedDate": "2026-08-09"
@@ -96,77 +96,159 @@
         "subjectName": "General Studies",
         "questions": [
           {
-            "question": "Which river forms the northern boundary of the state of West Bengal?",
+            "question": "Which major river flows through the Darjeeling district in West Bengal?",
             "options": [
-              "Ganges",
-              "Brahmaputra",
-              "Meghna",
-              "Tista"
+              "Teesta River",
+              "Torsa River",
+              "Rai River",
+              "Mahananda River"
             ],
             "correctIndex": 0,
-            "explanation": "The Ganges forms the northern boundary of West Bengal.",
-            "difficulty": "Easy",
+            "explanation": "The Teesta River flows through the Darjeeling district.",
+            "difficulty": "Medium",
             "topicId": "gs-wb-geo",
             "source": "ai_generated",
             "generatedDate": "2026-08-09"
           },
           {
-            "question": "Which of the following hill stations is located in the Darjeeling district of West Bengal?",
+            "question": "Which of the following mountain ranges is not a part of the Himalayas in West Bengal?",
             "options": [
-              "Kalimpong",
-              "Mirik",
-              "Kurseong",
-              "Rishop"
+              "Sikkim Himalayas",
+              "Naga Hills",
+              "Sub-Himalayas",
+              "Bhutan Himalayas"
+            ],
+            "correctIndex": 2,
+            "explanation": "The Sub-Himalayas are not a part of the Himalayas in West Bengal.",
+            "difficulty": "Medium",
+            "topicId": "gs-wb-geo",
+            "source": "ai_generated",
+            "generatedDate": "2026-08-09"
+          },
+          {
+            "question": "Which of the following cities is the administrative headquarters of the Purulia district in West Bengal?",
+            "options": [
+              "Purulia",
+              "Bishnupur",
+              "Asansol",
+              "Rajpur Sonarpur"
+            ],
+            "correctIndex": 0,
+            "explanation": "Purulia is the administrative headquarters of the Purulia district.",
+            "difficulty": "Medium",
+            "topicId": "gs-wb-geo",
+            "source": "ai_generated",
+            "generatedDate": "2026-08-09"
+          },
+          {
+            "question": "Which of the following rivers originates from the Chauri Chaura range in the Darjeeling district of West Bengal?",
+            "options": [
+              "Rai River",
+              "Teesta River",
+              "Rangeet River",
+              "Bhagirathi River"
+            ],
+            "correctIndex": 2,
+            "explanation": "The Rangeet River originates from the Chauri Chaura range.",
+            "difficulty": "Medium",
+            "topicId": "gs-wb-geo",
+            "source": "ai_generated",
+            "generatedDate": "2026-08-09"
+          },
+          {
+            "question": "Which of the following is a major lake located in the Jangalmahal region of West Bengal?",
+            "options": [
+              "Bhopal Sundari",
+              "Deopahar Lake",
+              "Kenduli Lake",
+              "Siddheswari Lake"
+            ],
+            "correctIndex": 0,
+            "explanation": "The Bhopal Sundari is a major lake in the Jangalmahal region.",
+            "difficulty": "Medium",
+            "topicId": "gs-wb-geo",
+            "source": "ai_generated",
+            "generatedDate": "2026-08-09"
+          }
+        ],
+        "questionCount": 5
+      },
+      "gs-current": {
+        "topicName": "Current Affairs (Last 12 Months)",
+        "subjectName": "General Studies",
+        "questions": [
+          {
+            "question": "West Bengal government has recently launched a new initiative to promote digital payments, what is the name of this initiative?",
+            "options": [
+              "Deshi Pay",
+              "Paschim Banga Digital Payment Initiative",
+              "Bangla Pay",
+              "Swastha Card"
             ],
             "correctIndex": 1,
-            "explanation": "Mirik is a popular hill station in the Darjeeling district of West Bengal.",
+            "explanation": "This initiative aims to increase digital payment adoption in the state.",
             "difficulty": "Medium",
-            "topicId": "gs-wb-geo",
+            "topicId": "gs-current",
             "source": "ai_generated",
             "generatedDate": "2026-08-09"
           },
           {
-            "question": "What is the name of the Sundarbans delta located in the southern part of West Bengal?",
+            "question": "Which of the following festivals was celebrated with great pomp and show in West Bengal in May 2025?",
             "options": [
-              "Sundarbans",
-              "Ganges Delta",
-              "Hooghly-Matla Bhabar",
-              "Bhagirathi-Hooghly Bhabar"
+              "Durga Puja",
+              "Laxmi Puja",
+              "Kali Puja",
+              "Rathayatra"
             ],
             "correctIndex": 0,
-            "explanation": "Sundarbans is the largest delta in the world by area.",
+            "explanation": "Durga Puja is a significant festival in West Bengal.",
             "difficulty": "Easy",
-            "topicId": "gs-wb-geo",
+            "topicId": "gs-current",
             "source": "ai_generated",
             "generatedDate": "2026-08-09"
           },
           {
-            "question": "Which of the following rivers originates from the Cherrapunji hills and flows through the state of West Bengal?",
+            "question": "Which of the following schemes is a flagship program of the West Bengal government to provide financial assistance to the poor and vulnerable population?",
             "options": [
-              "Subarnarekha",
-              "Baitarani",
-              "Mayurakshi",
-              "Kangra"
+              "Swasthya Bima Yojana",
+              "Rupashree Yojana",
+              "Khadya Sathi Yojana",
+              "Sabooj Sathi Yojana"
             ],
-            "correctIndex": 2,
-            "explanation": "The Mayurakshi originates from the Cherrapunji hills and flows through West Bengal.",
+            "correctIndex": 1,
+            "explanation": "This scheme provides financial assistance for marriage of girls from poor families.",
             "difficulty": "Medium",
-            "topicId": "gs-wb-geo",
+            "topicId": "gs-current",
             "source": "ai_generated",
             "generatedDate": "2026-08-09"
           },
           {
-            "question": "Which of the following national parks is located in the Bankura district of West Bengal?",
+            "question": "West Bengal government has recently signed an MoU with which of the following countries to promote cultural exchange programs?",
             "options": [
-              "Sundarbans National Park",
-              "Buxa Tiger Reserve",
-              "Kaziranga National Park",
-              "Singalila National Park"
+              "Bhutan",
+              "Nepal",
+              "Bangladesh",
+              "China"
             ],
-            "correctIndex": 2,
-            "explanation": "The Sundarbans National Park is the largest mangrove forest in the world.",
+            "correctIndex": 3,
+            "explanation": "This MoU aims to promote cultural exchange programs between West Bengal and China.",
             "difficulty": "Medium",
-            "topicId": "gs-wb-geo",
+            "topicId": "gs-current",
+            "source": "ai_generated",
+            "generatedDate": "2026-08-09"
+          },
+          {
+            "question": "Which of the following rivers originates from the Himalayas and flows through West Bengal before joining the Bay of Bengal?",
+            "options": [
+              "Ganges",
+              "Hooghly",
+              "Bhagirathi",
+              "Subarnarekha"
+            ],
+            "correctIndex": 0,
+            "explanation": "This river is considered sacred in Hinduism.",
+            "difficulty": "Easy",
+            "topicId": "gs-current",
             "source": "ai_generated",
             "generatedDate": "2026-08-09"
           }
@@ -175,80 +257,162 @@
       }
     },
     "math": {
+      "math-percent": {
+        "topicName": "Percentage & Profit-Loss",
+        "subjectName": "Arithmetic",
+        "questions": [
+          {
+            "question": "A merchant from Kolkata marked an article at 25% above its cost price. If the marked price is Rs. 840, then find the cost price of the article.",
+            "options": [
+              "Rs. 672",
+              "Rs. 680",
+              "Rs. 720",
+              "Rs. 768"
+            ],
+            "correctIndex": 0,
+            "explanation": "The cost price is calculated by dividing the marked price by 1.25.",
+            "difficulty": "Medium",
+            "topicId": "math-percent",
+            "source": "ai_generated",
+            "generatedDate": "2026-08-09"
+          },
+          {
+            "question": "A dealer buys an article for Rs. 240 and sells it at a loss of 10%. What is the selling price of the article?",
+            "options": [
+              "Rs. 216",
+              "Rs. 220",
+              "Rs. 216",
+              "Rs. 224"
+            ],
+            "correctIndex": 1,
+            "explanation": "To find the selling price with a loss, we need to multiply the cost price by the loss percentage and subtract it from the cost price.",
+            "difficulty": "Medium",
+            "topicId": "math-profit_loss",
+            "source": "ai_generated",
+            "generatedDate": "2026-08-09"
+          },
+          {
+            "question": "If a shopkeeper increases the price of an item by 15%, by what percentage will he have to decrease the price to get back to the original price?",
+            "options": [
+              "5%",
+              "10%",
+              "15%",
+              "20%"
+            ],
+            "correctIndex": 2,
+            "explanation": "To get back to the original price, the shopkeeper needs to decrease the price by the percentage increase, which is 15%.",
+            "difficulty": "Medium",
+            "topicId": "math-percent",
+            "source": "ai_generated",
+            "generatedDate": "2026-08-09"
+          },
+          {
+            "question": "A man purchases 15 articles at Rs. 60 each. He then sells 5 articles at a profit of 10% and the remaining at a loss of 5%. If he got a profit of Rs. 21, then find the cost price of the remaining articles.",
+            "options": [
+              "Rs. 450",
+              "Rs. 500",
+              "Rs. 550",
+              "Rs. 600"
+            ],
+            "correctIndex": 3,
+            "explanation": "We need to first calculate the cost price of the remaining articles, and then use it to find the cost price of each article.",
+            "difficulty": "Hard",
+            "topicId": "math-profit_loss",
+            "source": "ai_generated",
+            "generatedDate": "2026-08-09"
+          },
+          {
+            "question": "A shopkeeper bought 48 kg of potatoes at Rs. 12 per kg. He then sold 12 kg of potatoes at a profit of 15% and the remaining at a loss of 12%. If he got a profit of Rs. 108, then find the cost price of the potatoes sold at a loss.",
+            "options": [
+              "Rs. 864",
+              "Rs. 960",
+              "Rs. 1080",
+              "Rs. 1200"
+            ],
+            "correctIndex": 0,
+            "explanation": "We need to first calculate the cost price of the potatoes sold at a loss, and then use it to find the cost price of each potato.",
+            "difficulty": "Hard",
+            "topicId": "math-profit_loss",
+            "source": "ai_generated",
+            "generatedDate": "2026-08-09"
+          }
+        ],
+        "questionCount": 5
+      },
       "math-interest": {
         "topicName": "Simple & Compound Interest",
         "subjectName": "Arithmetic",
         "questions": [
           {
-            "question": "If the rate of interest is 8% per annum, compounded annually, and the principal amount is ₹ 5000, the amount after 2 years is?",
+            "question": "A sum of Rs. 80,000 is invested for 3 years at an interest rate of 8% per annum. What is the approximate amount of compound interest earned in 3 years?",
             "options": [
-              "₹ 5410",
-              "₹ 5416",
-              "₹ 5418",
-              "₹ 5420"
+              "Rs. 11,000",
+              "Rs. 12,000",
+              "Rs. 13,000",
+              "Rs. 14,000"
             ],
-            "correctIndex": 1,
-            "explanation": "Interest is compounded annually.",
+            "correctIndex": 2,
+            "explanation": "Using the compound interest formula A = P(1 + r/100)^n.",
             "difficulty": "Medium",
             "topicId": "math-interest",
             "source": "ai_generated",
             "generatedDate": "2026-08-09"
           },
           {
-            "question": "What is the difference between simple and compound interest on ₹ 10000 at 6% interest rate for 2 years?",
+            "question": "A person borrows Rs. 60,000 at a simple interest rate of 6% per annum for 2 years. What is the interest paid by the person at the end of 2 years?",
             "options": [
-              "₹ 22",
-              "₹ 24",
-              "₹ 36",
-              "₹ 40"
-            ],
-            "correctIndex": 3,
-            "explanation": "Compound interest is more than simple interest.",
-            "difficulty": "Medium",
-            "topicId": "math-interest",
-            "source": "ai_generated",
-            "generatedDate": "2026-08-09"
-          },
-          {
-            "question": "If the rate of interest is 12% per annum, compounded half-yearly, and the amount after 1 year is ₹ 1234, the principal amount is?",
-            "options": [
-              "₹ 1130",
-              "₹ 1131",
-              "₹ 1132",
-              "₹ 1133"
+              "Rs. 7,200",
+              "Rs. 7,500",
+              "Rs. 7,800",
+              "Rs. 8,000"
             ],
             "correctIndex": 0,
-            "explanation": "Interest is compounded half-yearly.",
+            "explanation": "Using the simple interest formula I = (P * R * T) / 100.",
+            "difficulty": "Easy",
+            "topicId": "math-interest",
+            "source": "ai_generated",
+            "generatedDate": "2026-08-09"
+          },
+          {
+            "question": "If the simple interest on Rs. 20,000 at 5% for one year is Rs. 1,000, what is the rate of interest for Rs. 40,000 at the same bank for 2 years?",
+            "options": [
+              "6%",
+              "6.25%",
+              "6.5%",
+              "7%"
+            ],
+            "correctIndex": 1,
+            "explanation": "Applying the simple interest formula and proportionality.",
+            "difficulty": "Hard",
+            "topicId": "math-interest",
+            "source": "ai_generated",
+            "generatedDate": "2026-08-09"
+          },
+          {
+            "question": "A sum of Rs. 50,000 is invested at an interest rate of 9% per annum for 5 years. What is the amount of compound interest earned in 5 years?",
+            "options": [
+              "Rs. 21,187",
+              "Rs. 21,288",
+              "Rs. 21,375",
+              "Rs. 21,500"
+            ],
+            "correctIndex": 0,
+            "explanation": "Using the compound interest formula A = P(1 + r/100)^n.",
             "difficulty": "Medium",
             "topicId": "math-interest",
             "source": "ai_generated",
             "generatedDate": "2026-08-09"
           },
           {
-            "question": "What is the time period for which ₹ 8000 amounts ₹ 8820 at 10% simple interest?",
+            "question": "A person invests Rs. 30,000 at 12% per annum compounded annually. What is the amount after 2 years if the interest is compounded annually?",
             "options": [
-              "1 year",
-              "2 years",
-              "3 years",
-              "4 years"
+              "Rs. 36,720",
+              "Rs. 37,000",
+              "Rs. 37,320",
+              "Rs. 37,500"
             ],
             "correctIndex": 2,
-            "explanation": "Interest is simple.",
-            "difficulty": "Medium",
-            "topicId": "math-interest",
-            "source": "ai_generated",
-            "generatedDate": "2026-08-09"
-          },
-          {
-            "question": "If the simple interest on ₹ 15000 for 3 years at 9% per annum is ₹ 4275, the compound interest for the same amount and time period is?",
-            "options": [
-              "₹ 450.09",
-              "₹ 450.45",
-              "₹ 450.9",
-              "₹ 451"
-            ],
-            "correctIndex": 2,
-            "explanation": "Compound interest is more than simple interest.",
+            "explanation": "Using the compound interest formula A = P(1 + r/100)^n.",
             "difficulty": "Medium",
             "topicId": "math-interest",
             "source": "ai_generated",
@@ -262,75 +426,75 @@
         "subjectName": "Arithmetic",
         "questions": [
           {
-            "question": "A person can finish a piece of work in 20 days. He works for 8 hours a day. How much time will be saved if another person works with him for 6 hours a day, whose daily work efficiency is twice that of the first person?",
+            "question": "If a man can complete 1/4th of a 240 km journey in 4 hours, then how long will it take him to complete the entire journey?",
             "options": [
-              "6 days",
-              "8 days",
-              "10 days",
-              "4 days"
-            ],
-            "correctIndex": 2,
-            "explanation": "Total work done in a day will increase, saving time.",
-            "difficulty": "Medium",
-            "topicId": "math-tw",
-            "source": "ai_generated",
-            "generatedDate": "2026-08-09"
-          },
-          {
-            "question": "A group of 4 men can do a piece of work in 20 days. How long will it take for a group of 8 men to finish the same work?",
-            "options": [
-              "10 days",
-              "15 days",
-              "20 days",
-              "25 days"
-            ],
-            "correctIndex": 1,
-            "explanation": "More workers will reduce the time required.",
-            "difficulty": "Medium",
-            "topicId": "math-tw",
-            "source": "ai_generated",
-            "generatedDate": "2026-08-09"
-          },
-          {
-            "question": "A tap can fill 1/5th of a tank in 30 minutes. What is the time taken to fill the entire tank from an empty state?",
-            "options": [
-              "15 minutes",
-              "30 minutes",
-              "45 minutes",
-              "60 minutes"
-            ],
-            "correctIndex": 0,
-            "explanation": "The tap can fill 1/5th of the tank in 30 minutes.",
-            "difficulty": "Medium",
-            "topicId": "math-tw",
-            "source": "ai_generated",
-            "generatedDate": "2026-08-09"
-          },
-          {
-            "question": "A person can fill a tank in 12 hours. A leak in the tank can empty it in 18 hours. How long will it take to fill the tank when both the person and the leak are working together?",
-            "options": [
-              "10.2 hours",
-              "12 hours",
-              "14.2 hours",
-              "16.5 hours"
-            ],
-            "correctIndex": 0,
-            "explanation": "Net work done per hour will be the sum of individual work rates.",
-            "difficulty": "Medium",
-            "topicId": "math-tw",
-            "source": "ai_generated",
-            "generatedDate": "2026-08-09"
-          },
-          {
-            "question": "A pipe can fill 2/3rd of a tank in 6 hours. How much more time will it take to fill the tank when a leak in the tank is emptying it?",
-            "options": [
-              "4 hours",
               "6 hours",
               "8 hours",
-              "10 hours"
+              "12 hours",
+              "16 hours"
             ],
-            "correctIndex": 2,
-            "explanation": "Net work done per hour will be the difference of individual work rates.",
+            "correctIndex": 0,
+            "explanation": "By applying the concept of proportionality.",
+            "difficulty": "Medium",
+            "topicId": "math-tw",
+            "source": "ai_generated",
+            "generatedDate": "2026-08-09"
+          },
+          {
+            "question": "A water tank can be filled by pipe A in 10 hours and pipe B in 12 hours. How long will it take to fill the tank if both pipes are opened together?",
+            "options": [
+              "8 hours",
+              "9 hours",
+              "10 hours",
+              "12 hours"
+            ],
+            "correctIndex": 1,
+            "explanation": "Using the concept of work rate.",
+            "difficulty": "Medium",
+            "topicId": "math-tw",
+            "source": "ai_generated",
+            "generatedDate": "2026-08-09"
+          },
+          {
+            "question": "Two pipes A and B can fill a tank in 8 hours and 12 hours respectively. If they are opened together, then what portion of the tank is filled in one hour?",
+            "options": [
+              "1/10",
+              "1/12",
+              "1/8",
+              "1/6"
+            ],
+            "correctIndex": 3,
+            "explanation": "By finding the common work rate.",
+            "difficulty": "Medium",
+            "topicId": "math-tw",
+            "source": "ai_generated",
+            "generatedDate": "2026-08-09"
+          },
+          {
+            "question": "A man can do a piece of work in 30 days. He works for 10 days and then stops for 20 days. In how many days will he complete the remaining work?",
+            "options": [
+              "15 days",
+              "20 days",
+              "25 days",
+              "30 days"
+            ],
+            "correctIndex": 0,
+            "explanation": "Using the concept of work done in a certain period.",
+            "difficulty": "Medium",
+            "topicId": "math-tw",
+            "source": "ai_generated",
+            "generatedDate": "2026-08-09"
+          },
+          {
+            "question": "If a pump can fill 1/3rd of a tank in 30 minutes, then how long will it take to fill the entire tank?",
+            "options": [
+              "45 minutes",
+              "60 minutes",
+              "90 minutes",
+              "120 minutes"
+            ],
+            "correctIndex": 1,
+            "explanation": "By converting the time into appropriate units.",
             "difficulty": "Medium",
             "topicId": "math-tw",
             "source": "ai_generated",
@@ -344,75 +508,75 @@
         "subjectName": "Arithmetic",
         "questions": [
           {
-            "question": "A train travels from Sealdah to Dankuni at an average speed of 60 km/h. If the distance between Sealdah and Dankuni is 30 km, how long will the train take to cover this distance?",
+            "question": "A train travels from Sealdah to Howrah at an average speed of 60 km/h. If the distance between Sealdah and Howrah is 16.5 km, how many minutes will it take to cover this distance?",
             "options": [
-              "1 hour",
+              "15 minutes",
               "30 minutes",
-              "0.5 hours",
-              "45 minutes"
-            ],
-            "correctIndex": 2,
-            "explanation": "Using the formula, time = distance/speed.",
-            "difficulty": "Medium",
-            "topicId": "math-tsd",
-            "source": "ai_generated",
-            "generatedDate": "2026-08-09"
-          },
-          {
-            "question": "A bus travels from Howrah to Barrackpore at an average speed of 30 km/h. If it covers half the distance in 2 hours, what is the total distance covered by the bus?",
-            "options": [
-              "60 km",
-              "30 km",
-              "90 km",
-              "120 km"
-            ],
-            "correctIndex": 0,
-            "explanation": "Since the bus covers half the distance in 2 hours, it will cover the total distance in 4 hours.",
-            "difficulty": "Medium",
-            "topicId": "math-tsd",
-            "source": "ai_generated",
-            "generatedDate": "2026-08-09"
-          },
-          {
-            "question": "If a man walks at a speed of 6 km/h and covers a distance of 12 km in 2 hours, how much time will he take to cover 36 km?",
-            "options": [
-              "4 hours",
-              "6 hours",
-              "8 hours",
-              "10 hours"
-            ],
-            "correctIndex": 2,
-            "explanation": "Using the formula, time = distance/speed.",
-            "difficulty": "Medium",
-            "topicId": "math-tsd",
-            "source": "ai_generated",
-            "generatedDate": "2026-08-09"
-          },
-          {
-            "question": "A car travels from Kolkata to Chandannagar at an average speed of 40 km/h. If the distance between Kolkata and Chandannagar is 48 km, how long will the car take to cover this distance?",
-            "options": [
-              "1.2 hours",
-              "1.5 hours",
-              "1 hour",
-              "1.8 hours"
+              "45 minutes",
+              "60 minutes"
             ],
             "correctIndex": 1,
-            "explanation": "Using the formula, time = distance/speed.",
+            "explanation": "Time is calculated as distance divided by speed, and then converted to minutes.",
             "difficulty": "Medium",
             "topicId": "math-tsd",
             "source": "ai_generated",
             "generatedDate": "2026-08-09"
           },
           {
-            "question": "A cyclist covers a distance of 24 km in 2 hours while cycling at an average speed of 12 km/h. What is the increase in speed if the cyclist covers 48 km in 4 hours?",
+            "question": "A bus travels from Kolkata to Digha at an average speed of 60 km/h. If the distance between Kolkata and Digha is 220 km, how many hours will it take to cover this distance?",
             "options": [
-              "6 km/h",
-              "8 km/h",
-              "4 km/h",
-              "10 km/h"
+              "3.33 hours",
+              "4 hours",
+              "4.5 hours",
+              "5 hours"
             ],
             "correctIndex": 0,
-            "explanation": "To find the increase in speed, we need to find the new speed and subtract the initial speed.",
+            "explanation": "Time is calculated as distance divided by speed.",
+            "difficulty": "Medium",
+            "topicId": "math-tsd",
+            "source": "ai_generated",
+            "generatedDate": "2026-08-09"
+          },
+          {
+            "question": "A person walks 1/4 of the distance between Dum Dum and Barasat in 30 minutes. If he walks at an average speed of 4 km/h, what is the distance between Dum Dum and Barasat?",
+            "options": [
+              "5 km",
+              "6 km",
+              "8 km",
+              "10 km"
+            ],
+            "correctIndex": 2,
+            "explanation": "Distance is calculated using the formula speed = distance / time.",
+            "difficulty": "Medium",
+            "topicId": "math-tsd",
+            "source": "ai_generated",
+            "generatedDate": "2026-08-09"
+          },
+          {
+            "question": "A car travels from Esplanade to Rajarhat at an average speed of 80 km/h. If it takes 1.5 hours to cover the distance, what is the distance between Esplanade and Rajarhat?",
+            "options": [
+              "90 km",
+              "100 km",
+              "120 km",
+              "140 km"
+            ],
+            "correctIndex": 3,
+            "explanation": "Distance is calculated as speed multiplied by time.",
+            "difficulty": "Medium",
+            "topicId": "math-tsd",
+            "source": "ai_generated",
+            "generatedDate": "2026-08-09"
+          },
+          {
+            "question": "A train leaves Howrah Station at 8:00 AM and reaches Baidyabati at 9:30 AM. If the average speed of the train is 30 km/h, what is the distance between Howrah and Baidyabati?",
+            "options": [
+              "60 km",
+              "80 km",
+              "90 km",
+              "100 km"
+            ],
+            "correctIndex": 2,
+            "explanation": "Time is calculated in hours, and distance is calculated using the formula speed = distance / time.",
             "difficulty": "Medium",
             "topicId": "math-tsd",
             "source": "ai_generated",
@@ -423,164 +587,164 @@
       }
     },
     "reasoning": {
-      "rs-coding": {
-        "topicName": "Coding-Decoding",
+      "rs-blood": {
+        "topicName": "Blood Relations",
         "subjectName": "Reasoning",
         "questions": [
           {
-            "question": "If 'P' means '+' , 'B' means '-', and 'T' means '×', then 15 P 27 B 3 T 9 is equal to?",
+            "question": "Kajal is the daughter of Dinesh's wife. How is Kajal related to Dinesh?",
             "options": [
-              "198",
-              "108",
-              "72",
-              "18"
+              "Sister",
+              "Daughter",
+              "Wife",
+              "Mother"
+            ],
+            "correctIndex": 1,
+            "explanation": "Kajal is the daughter of Dinesh's wife.",
+            "difficulty": "Medium",
+            "topicId": "rs-blood",
+            "source": "ai_generated",
+            "generatedDate": "2026-08-09"
+          },
+          {
+            "question": "Sudipto is the brother of Nivedita's mother. How is Sudipto related to Nivedita?",
+            "options": [
+              "Father",
+              "Mother",
+              "Uncle",
+              "Cousin"
             ],
             "correctIndex": 2,
-            "explanation": "Using the given operators, perform the operations.",
+            "explanation": "Sudipto is Nivedita's mother's brother.",
             "difficulty": "Medium",
-            "topicId": "rs-coding",
+            "topicId": "rs-blood",
             "source": "ai_generated",
             "generatedDate": "2026-08-09"
           },
           {
-            "question": "If 'S' means 'add 5' and 'D' means 'multiply by 2', then 18 S 3 D is equal to?",
+            "question": "If A is the father of B and B is the son of C, how is C related to A?",
             "options": [
-              "41",
-              "46",
-              "36",
-              "26"
-            ],
-            "correctIndex": 1,
-            "explanation": "Using the given operations, perform the calculations.",
-            "difficulty": "Medium",
-            "topicId": "rs-coding",
-            "source": "ai_generated",
-            "generatedDate": "2026-08-09"
-          },
-          {
-            "question": "If 'A' means 'double the number' and 'B' means 'decrease by 2', then 10 A B is equal to?",
-            "options": [
-              "18",
-              "16",
-              "20",
-              "22"
-            ],
-            "correctIndex": 1,
-            "explanation": "Using the given operations, perform the calculations.",
-            "difficulty": "Medium",
-            "topicId": "rs-coding",
-            "source": "ai_generated",
-            "generatedDate": "2026-08-09"
-          },
-          {
-            "question": "If 'K' means 'square of the number' and 'L' means 'cube of the number', then 3 L K is equal to?",
-            "options": [
-              "729",
-              "27",
-              "81",
-              "243"
-            ],
-            "correctIndex": 3,
-            "explanation": "Using the given operations, perform the calculations.",
-            "difficulty": "Medium",
-            "topicId": "rs-coding",
-            "source": "ai_generated",
-            "generatedDate": "2026-08-09"
-          },
-          {
-            "question": "If 'G' means 'add 8' and 'H' means 'subtract 3', then 16 G H is equal to?",
-            "options": [
-              "13",
-              "19",
-              "11",
-              "23"
+              "Father",
+              "Son",
+              "Brother",
+              "Uncle"
             ],
             "correctIndex": 0,
-            "explanation": "Using the given operations, perform the calculations.",
+            "explanation": "C is the father of B's father.",
             "difficulty": "Medium",
-            "topicId": "rs-coding",
+            "topicId": "rs-blood",
+            "source": "ai_generated",
+            "generatedDate": "2026-08-09"
+          },
+          {
+            "question": "Tapan is the only son of a woman. If the woman is the daughter of Renuka, how is Tapan related to Renuka?",
+            "options": [
+              "Father",
+              "Mother",
+              "Brother",
+              "Grandson"
+            ],
+            "correctIndex": 2,
+            "explanation": "Tapan is Renuka's grandson.",
+            "difficulty": "Medium",
+            "topicId": "rs-blood",
+            "source": "ai_generated",
+            "generatedDate": "2026-08-09"
+          },
+          {
+            "question": "Rahul is the son of a woman, who is the daughter of a man. If this man is the father of Poulami, how is Rahul related to Poulami?",
+            "options": [
+              "Father",
+              "Mother",
+              "Uncle",
+              "Brother"
+            ],
+            "correctIndex": 0,
+            "explanation": "Rahul is Poulami's father.",
+            "difficulty": "Medium",
+            "topicId": "rs-blood",
             "source": "ai_generated",
             "generatedDate": "2026-08-09"
           }
         ],
         "questionCount": 5
       },
-      "rs-blood": {
-        "topicName": "Blood Relations",
+      "rs-direction": {
+        "topicName": "Direction Sense",
         "subjectName": "Reasoning",
         "questions": [
           {
-            "question": "Tapan's mother is the sister of whose mother?",
+            "question": "A person is facing east direction and he walks 20 meters in the north direction. Then he turns right and walks 15 meters. Finally he turns left and walks 20 meters. In which direction is he facing now?",
             "options": [
-              "Father of Tapan",
-              "Father of Tapan's mother",
-              "Tapan",
-              "Brother of Tapan"
-            ],
-            "correctIndex": 1,
-            "explanation": "Tapan's mother's sister is also Tapan's aunt.",
-            "difficulty": "Medium",
-            "topicId": "rs-blood",
-            "source": "ai_generated",
-            "generatedDate": "2026-08-09"
-          },
-          {
-            "question": "If A is mother of C, B is father of C and D is brother of C, then who is son of B?",
-            "options": [
-              "A",
-              "D",
-              "C",
-              "None of the above"
+              "East",
+              "West",
+              "North",
+              "South"
             ],
             "correctIndex": 2,
-            "explanation": "By the given information, C is the child of both A and B.",
-            "difficulty": "Easy",
-            "topicId": "rs-blood",
+            "explanation": "He turned left after walking 15 meters.",
+            "difficulty": "Medium",
+            "topicId": "rs-direction",
             "source": "ai_generated",
             "generatedDate": "2026-08-09"
           },
           {
-            "question": "If P is the son of Q, then who is the wife of P?",
+            "question": "A person is standing at a crossroads. One road leads to Darjeeling, another to Siliguri, and the third to Malda. If a person walks 5 meters towards Darjeeling and then turns right and walks 6 meters, which direction is he facing to reach Malda?",
             "options": [
-              "Daughter of Q",
-              "Mother of Q",
-              "Sister of Q",
-              "Grandmother of Q"
+              "North",
+              "South",
+              "East",
+              "West"
+            ],
+            "correctIndex": 2,
+            "explanation": "By turning right, he is now facing East.",
+            "difficulty": "Medium",
+            "topicId": "rs-direction",
+            "source": "ai_generated",
+            "generatedDate": "2026-08-09"
+          },
+          {
+            "question": "A person is at the bank of the Ganges river and is facing the river. He turns 135 degrees to his right. In which direction is he facing now?",
+            "options": [
+              "West",
+              "East",
+              "North",
+              "South"
             ],
             "correctIndex": 0,
-            "explanation": "P is the son of Q, and hence his wife is the daughter-in-law of Q's parents.",
-            "difficulty": "Easy",
-            "topicId": "rs-blood",
+            "explanation": "A 135-degree turn from the East direction is West.",
+            "difficulty": "Medium",
+            "topicId": "rs-direction",
             "source": "ai_generated",
             "generatedDate": "2026-08-09"
           },
           {
-            "question": "If A is grandmother of B and B is sister of C, then who is the mother of C?",
+            "question": "A person is walking in the east direction for some time and then turns left and walks for 20 meters. Then he turns right and walks for 10 meters. Finally, he turns left and walks for 10 meters. After this, he turns left and walks for 20 meters. In which direction is he facing now?",
             "options": [
-              "Mother of A",
-              "Aunt of A",
-              "A",
-              "Niece of A"
+              "East",
+              "West",
+              "North",
+              "South"
             ],
-            "correctIndex": 2,
-            "explanation": "A is grandmother of B, and B is sister of C, so A is the mother of C's mother.",
-            "difficulty": "Medium",
-            "topicId": "rs-blood",
+            "correctIndex": 0,
+            "explanation": "He turned left and then right twice, resulting in East direction.",
+            "difficulty": "Hard",
+            "topicId": "rs-direction",
             "source": "ai_generated",
             "generatedDate": "2026-08-09"
           },
           {
-            "question": "If X is the brother of Y and Y is the sister of Z, then what is the relation of Z with X?",
+            "question": "A person is facing the Hooghly river and walks 20 meters towards it. Then he turns right and walks 15 meters. Finally, he turns left and walks 20 meters. In which direction is he facing now?",
             "options": [
-              "Son of X",
-              "Daughter of X",
-              "Father of X",
-              "Brother of X"
+              "East",
+              "West",
+              "North",
+              "South"
             ],
-            "correctIndex": 2,
-            "explanation": "Z is the sister of Y, and Y is the brother of X, so Z is the sister of X.",
+            "correctIndex": 3,
+            "explanation": "He turned left and walked 20 meters, resulting in South direction.",
             "difficulty": "Medium",
-            "topicId": "rs-blood",
+            "topicId": "rs-direction",
             "source": "ai_generated",
             "generatedDate": "2026-08-09"
           }
@@ -592,7 +756,37 @@
         "subjectName": "Reasoning",
         "questions": [
           {
-            "question": "Find the next number in the series: 1, 4, 9, 16, 25, ?",
+            "question": "In the following number series: 3, 7, 13, 21, 31, ?, find the next number.",
+            "options": [
+              "43",
+              "47",
+              "52",
+              "61"
+            ],
+            "correctIndex": 0,
+            "explanation": "Each number increases by 4, 6, 8, 10, and so on.",
+            "difficulty": "Medium",
+            "topicId": "number-series",
+            "source": "ai_generated",
+            "generatedDate": "2026-08-09"
+          },
+          {
+            "question": "Complete the letter series: A, D, G, J, M, ?",
+            "options": [
+              "P",
+              "Q",
+              "R",
+              "S"
+            ],
+            "correctIndex": 3,
+            "explanation": "The series is formed by adding 2, 3, 4, 5, and so on, to the previous letter.",
+            "difficulty": "Easy",
+            "topicId": "letter-series",
+            "source": "ai_generated",
+            "generatedDate": "2026-08-09"
+          },
+          {
+            "question": "Find the missing number in the following series: 1, 4, 9, 16, 25, ?",
             "options": [
               "36",
               "49",
@@ -600,69 +794,39 @@
               "81"
             ],
             "correctIndex": 2,
-            "explanation": "The series consists of consecutive squares of natural numbers.",
-            "difficulty": "Medium",
-            "topicId": "ns-series",
-            "source": "ai_generated",
-            "generatedDate": "2026-08-09"
-          },
-          {
-            "question": "Find the missing letter in the series: A, C, ?, F, H, J",
-            "options": [
-              "B",
-              "D",
-              "E",
-              "K"
-            ],
-            "correctIndex": 2,
-            "explanation": "The series consists of alphabets starting from A and increasing by 2 in the alphabet order.",
+            "explanation": "The series consists of square numbers.",
             "difficulty": "Easy",
-            "topicId": "ls-series",
+            "topicId": "number-series",
             "source": "ai_generated",
             "generatedDate": "2026-08-09"
           },
           {
-            "question": "Find the next number in the series: 2, 6, 12, 20, 30, ?",
+            "question": "Identify the correct pattern in the series: 5, 10, 17, 26, 37, ?",
             "options": [
-              "42",
-              "40",
-              "48",
-              "36"
-            ],
-            "correctIndex": 0,
-            "explanation": "The series consists of numbers increasing by 4, 6, 8, 10, 12, ...",
-            "difficulty": "Medium",
-            "topicId": "ns-series",
-            "source": "ai_generated",
-            "generatedDate": "2026-08-09"
-          },
-          {
-            "question": "Which of the following is the next letter in the series: A, E, I, M, ?",
-            "options": [
-              "P",
-              "Q",
-              "R",
-              "U"
+              "50",
+              "52",
+              "57",
+              "61"
             ],
             "correctIndex": 3,
-            "explanation": "The series consists of alphabets whose positions in the alphabet order are increasing by 4.",
-            "difficulty": "Easy",
-            "topicId": "ls-series",
+            "explanation": "The differences between consecutive numbers are increasing by 5, 7, 9, and so on.",
+            "difficulty": "Medium",
+            "topicId": "number-series",
             "source": "ai_generated",
             "generatedDate": "2026-08-09"
           },
           {
-            "question": "Find the missing number in the series: 1, 2, 4, 7, 11, 16, ?",
+            "question": "Complete the series: KOLKATA, HOWRAH, ?",
             "options": [
-              "22",
-              "21",
-              "20",
-              "24"
+              "BURDWAN",
+              "BARASAT",
+              "BIRBHUM",
+              "SERAMPORE"
             ],
             "correctIndex": 0,
-            "explanation": "The series consists of prime numbers.",
-            "difficulty": "Medium",
-            "topicId": "ns-series",
+            "explanation": "The series consists of major cities in West Bengal.",
+            "difficulty": "Easy",
+            "topicId": "letter-series",
             "source": "ai_generated",
             "generatedDate": "2026-08-09"
           }
