@@ -1,0 +1,674 @@
+{
+  "exam": "si",
+  "generatedDate": "2026-08-10",
+  "generatedAt": "2026-08-10T02:41:19.312Z",
+  "model": "llama-3.1-8b-instant",
+  "provider": "groq",
+  "source": "ai_generated",
+  "reviewStatus": "pending",
+  "totalQuestions": 40,
+  "subjects": {
+    "gs": {
+      "gs-polity": {
+        "topicName": "Indian Constitution & Polity",
+        "subjectName": "General Studies",
+        "questions": [
+          {
+            "question": "The Panchayat system in West Bengal is based on which article of the Indian Constitution?",
+            "options": [
+              "Article 243A",
+              "Article 244A",
+              "Article 243D",
+              "Article 243C"
+            ],
+            "correctIndex": 0,
+            "explanation": "Panchayat system is based on Article 243A.",
+            "difficulty": "Medium",
+            "topicId": "gs-polity",
+            "source": "ai_generated",
+            "generatedDate": "2026-08-10"
+          },
+          {
+            "question": "Which of the following is a fundamental duty as per Article 51A of the Indian Constitution?",
+            "options": [
+              "To promote harmony and the spirit of common brotherhood amongst all people",
+              "To protect the environment",
+              "To protect the nation",
+              "To protect the state"
+            ],
+            "correctIndex": 0,
+            "explanation": "To promote harmony and the spirit of common brotherhood amongst all people.",
+            "difficulty": "Medium",
+            "topicId": "gs-polity",
+            "source": "ai_generated",
+            "generatedDate": "2026-08-10"
+          },
+          {
+            "question": "The concept of 'Panchayati Raj' is associated with which of the following Prime Ministers of India?",
+            "options": [
+              "Jawaharlal Nehru",
+              "Indira Gandhi",
+              "Morarji Desai",
+              "Vallabhbhai Patel"
+            ],
+            "correctIndex": 3,
+            "explanation": "Panchayati Raj is associated with Vallabhbhai Patel.",
+            "difficulty": "Medium",
+            "topicId": "gs-polity",
+            "source": "ai_generated",
+            "generatedDate": "2026-08-10"
+          },
+          {
+            "question": "The 73rd Amendment Act of the Indian Constitution was implemented in West Bengal in which year?",
+            "options": [
+              "1993",
+              "2000",
+              "2004",
+              "2006"
+            ],
+            "correctIndex": 0,
+            "explanation": "The 73rd Amendment Act was implemented in West Bengal in 1993.",
+            "difficulty": "Easy",
+            "topicId": "gs-polity",
+            "source": "ai_generated",
+            "generatedDate": "2026-08-10"
+          },
+          {
+            "question": "Which of the following is a state subject under the 7th Schedule of the Indian Constitution?",
+            "options": [
+              "Public Order",
+              "Police",
+              "Revenue",
+              "Education"
+            ],
+            "correctIndex": 3,
+            "explanation": "Education is a state subject under the 7th Schedule.",
+            "difficulty": "Medium",
+            "topicId": "gs-polity",
+            "source": "ai_generated",
+            "generatedDate": "2026-08-10"
+          }
+        ],
+        "questionCount": 5
+      },
+      "gs-wb-geo": {
+        "topicName": "West Bengal Geography",
+        "subjectName": "General Studies",
+        "questions": [
+          {
+            "question": "Which of the following rivers is the main water source for the Sundarbans mangrove ecosystem?",
+            "options": [
+              "Brahmaputra River",
+              "Ganges River",
+              "Hooghly River",
+              "Padma River"
+            ],
+            "correctIndex": 2,
+            "explanation": "Hooghly River is the primary water source.",
+            "difficulty": "Medium",
+            "topicId": "gs-wb-geo",
+            "source": "ai_generated",
+            "generatedDate": "2026-08-10"
+          },
+          {
+            "question": "What is the name of the highest peak in the Darjeeling Himalayan hill region of West Bengal?",
+            "options": [
+              "Sandakphu",
+              "Tonglu",
+              "Rishop",
+              "Darjeeling"
+            ],
+            "correctIndex": 0,
+            "explanation": "Sandakphu is the highest peak.",
+            "difficulty": "Medium",
+            "topicId": "gs-wb-geo",
+            "source": "ai_generated",
+            "generatedDate": "2026-08-10"
+          },
+          {
+            "question": "Which of the following mountain ranges is located in northern West Bengal?",
+            "options": [
+              "Sikkim Himalayas",
+              "Darjeeling Himalayas",
+              "Eastern Ghats",
+              "Chota Nagpur Plateau"
+            ],
+            "correctIndex": 1,
+            "explanation": "Darjeeling Himalayas are located in northern West Bengal.",
+            "difficulty": "Medium",
+            "topicId": "gs-wb-geo",
+            "source": "ai_generated",
+            "generatedDate": "2026-08-10"
+          },
+          {
+            "question": "Which river flows through the city of Kolkata?",
+            "options": [
+              "Ganges River",
+              "Hooghly River",
+              "Padma River",
+              "Brahmaputra River"
+            ],
+            "correctIndex": 1,
+            "explanation": "Hooghly River flows through the city of Kolkata.",
+            "difficulty": "Easy",
+            "topicId": "gs-wb-geo",
+            "source": "ai_generated",
+            "generatedDate": "2026-08-10"
+          },
+          {
+            "question": "What is the name of the largest delta in India, located in West Bengal?",
+            "options": [
+              "Sundarbans Delta",
+              "Ganges Delta",
+              "Meghna Delta",
+              "Brahmaputra Delta"
+            ],
+            "correctIndex": 0,
+            "explanation": "Sundarbans Delta is the largest delta in India.",
+            "difficulty": "Medium",
+            "topicId": "gs-wb-geo",
+            "source": "ai_generated",
+            "generatedDate": "2026-08-10"
+          }
+        ],
+        "questionCount": 5
+      },
+      "gs-wb-schemes": {
+        "topicName": "West Bengal Government Schemes",
+        "subjectName": "General Studies",
+        "questions": [
+          {
+            "question": "The 'Swasthya Sathi' health insurance card scheme is implemented by the Government of West Bengal to provide comprehensive health coverage to which of the following?",
+            "options": [
+              "BPL families",
+              "All citizens of West Bengal",
+              "Below 18 years of age",
+              "Only elderly citizens"
+            ],
+            "correctIndex": 0,
+            "explanation": "BPL families.",
+            "difficulty": "Medium",
+            "topicId": "gs-wb-schemes",
+            "source": "ai_generated",
+            "generatedDate": "2026-08-10"
+          },
+          {
+            "question": "The 'Sabooj Sathi' scheme of the Government of West Bengal aims to provide free bicycles to which of the following students?",
+            "options": [
+              "Students of classes 1-5",
+              "Students of classes 9-12",
+              "Girls students of classes 6-12",
+              "Boys students of classes 6-12"
+            ],
+            "correctIndex": 2,
+            "explanation": "Girls students of classes 6-12.",
+            "difficulty": "Easy",
+            "topicId": "gs-wb-schemes",
+            "source": "ai_generated",
+            "generatedDate": "2026-08-10"
+          },
+          {
+            "question": "The 'Kanyashree Prakalpa' scheme of the Government of West Bengal aims to provide financial assistance to which of the following girls?",
+            "options": [
+              "Girls studying in classes 9-12",
+              "Girls studying in classes 6-8",
+              "Girls between 13-18 years of age",
+              "Girls between 18-21 years of age"
+            ],
+            "correctIndex": 2,
+            "explanation": "Girls between 13-18 years of age.",
+            "difficulty": "Medium",
+            "topicId": "gs-wb-schemes",
+            "source": "ai_generated",
+            "generatedDate": "2026-08-10"
+          },
+          {
+            "question": "The 'Pathashree' scheme of the Government of West Bengal aims to provide assistance to which of the following women?",
+            "options": [
+              "Single women",
+              "Unmarried women",
+              "Divorced women",
+              "Widowed women"
+            ],
+            "correctIndex": 3,
+            "explanation": "Widowed women.",
+            "difficulty": "Medium",
+            "topicId": "gs-wb-schemes",
+            "source": "ai_generated",
+            "generatedDate": "2026-08-10"
+          },
+          {
+            "question": "The 'Mukhya Mantri Jan Sikshan Sansthan' scheme of the Government of West Bengal aims to provide free education and skill training to which of the following?",
+            "options": [
+              "Children of BPL families",
+              "Children of SC/ST communities",
+              "Unemployed youth of West Bengal",
+              "All citizens of West Bengal"
+            ],
+            "correctIndex": 0,
+            "explanation": "Children of BPL families.",
+            "difficulty": "Medium",
+            "topicId": "gs-wb-schemes",
+            "source": "ai_generated",
+            "generatedDate": "2026-08-10"
+          }
+        ],
+        "questionCount": 5
+      }
+    },
+    "math": {
+      "math-interest": {
+        "topicName": "Simple & Compound Interest",
+        "subjectName": "Arithmetic",
+        "questions": [
+          {
+            "question": "A certain amount of money is invested for 2 years at 6% simple interest. If the interest earned is Rs. 108, what is the principal amount?",
+            "options": [
+              "Rs. 1500",
+              "Rs. 1800",
+              "Rs. 2000",
+              "Rs. 3000"
+            ],
+            "correctIndex": 2,
+            "explanation": "Using the simple interest formula.",
+            "difficulty": "Medium",
+            "topicId": "math-interest",
+            "source": "ai_generated",
+            "generatedDate": "2026-08-10"
+          },
+          {
+            "question": "If a sum of Rs. 10,000 is invested at 12% compound interest rate for one year, calculate the amount after one year.",
+            "options": [
+              "Rs. 11,000",
+              "Rs. 11,200",
+              "Rs. 11,500",
+              "Rs. 12,000"
+            ],
+            "correctIndex": 1,
+            "explanation": "Using the compound interest formula.",
+            "difficulty": "Medium",
+            "topicId": "math-interest",
+            "source": "ai_generated",
+            "generatedDate": "2026-08-10"
+          },
+          {
+            "question": "Calculate the compound interest on Rs. 25,000 for 3 years at the rate of 9% per annum, compounded annually.",
+            "options": [
+              "Rs. 7,400",
+              "Rs. 7,500",
+              "Rs. 7,800",
+              "Rs. 8,000"
+            ],
+            "correctIndex": 0,
+            "explanation": "Using the compound interest formula.",
+            "difficulty": "Medium",
+            "topicId": "math-interest",
+            "source": "ai_generated",
+            "generatedDate": "2026-08-10"
+          },
+          {
+            "question": "A sum of Rs. 8,000 is invested at an interest rate of 10% per annum. What is the amount after 2 years if interest is compounded half-yearly?",
+            "options": [
+              "Rs. 9,100",
+              "Rs. 9,200",
+              "Rs. 9,300",
+              "Rs. 9,400"
+            ],
+            "correctIndex": 2,
+            "explanation": "Using the compound interest formula.",
+            "difficulty": "Medium",
+            "topicId": "math-interest",
+            "source": "ai_generated",
+            "generatedDate": "2026-08-10"
+          },
+          {
+            "question": "Find the rate of interest at which Rs. 5,000 will become Rs. 6,000 in 2 years, compounded annually.",
+            "options": [
+              "8%",
+              "9%",
+              "10%",
+              "11%"
+            ],
+            "correctIndex": 2,
+            "explanation": "Using the compound interest formula.",
+            "difficulty": "Medium",
+            "topicId": "math-interest",
+            "source": "ai_generated",
+            "generatedDate": "2026-08-10"
+          }
+        ],
+        "questionCount": 5
+      },
+      "math-tw": {
+        "topicName": "Time, Work & Pipes",
+        "subjectName": "Arithmetic",
+        "questions": [
+          {
+            "question": "A contractor has to complete a project in 65 days. Due to some issues, he only gets 40 workers instead of 65. How many more days will it take to complete the project?",
+            "options": [
+              "35 days",
+              "40 days",
+              "45 days",
+              "50 days"
+            ],
+            "correctIndex": 1,
+            "explanation": "Man-days remain constant.",
+            "difficulty": "Medium",
+            "topicId": "math-tw",
+            "source": "ai_generated",
+            "generatedDate": "2026-08-10"
+          },
+          {
+            "question": "A tap can fill 1/4th of a tank in 10 minutes. The other tap can fill 1/5th of the tank in the same time. How long will it take to fill the tank if both the taps are open?",
+            "options": [
+              "10 minutes",
+              "20 minutes",
+              "25 minutes",
+              "30 minutes"
+            ],
+            "correctIndex": 2,
+            "explanation": "Combined rate is sum of individual rates.",
+            "difficulty": "Medium",
+            "topicId": "math-pw",
+            "source": "ai_generated",
+            "generatedDate": "2026-08-10"
+          },
+          {
+            "question": "If the speed of a boat in still water is 15 km/h and the speed of the current is 3 km/h, then the speed of the boat downstream is",
+            "options": [
+              "6 km/h",
+              "10 km/h",
+              "12 km/h",
+              "18 km/h"
+            ],
+            "correctIndex": 2,
+            "explanation": "Downstream speed is sum of speed of boat and speed of current.",
+            "difficulty": "Easy",
+            "topicId": "math-tw",
+            "source": "ai_generated",
+            "generatedDate": "2026-08-10"
+          },
+          {
+            "question": "A pipe can fill a tank in 12 hours. Due to leakage, it takes 16 hours to fill the tank. What is the time taken to fill the tank if the pipe is closed and only the leakage is allowed?",
+            "options": [
+              "16 hours",
+              "20 hours",
+              "24 hours",
+              "32 hours"
+            ],
+            "correctIndex": 1,
+            "explanation": "Time taken to fill the tank through leakage is reciprocal of leakage rate.",
+            "difficulty": "Medium",
+            "topicId": "math-pw",
+            "source": "ai_generated",
+            "generatedDate": "2026-08-10"
+          },
+          {
+            "question": "A man can do a piece of work in 60 days. His son can do the same work in 40 days. How many days will they take to complete the work if both of them work together?",
+            "options": [
+              "10 days",
+              "12 days",
+              "18 days",
+              "20 days"
+            ],
+            "correctIndex": 2,
+            "explanation": "Man-days remain constant.",
+            "difficulty": "Medium",
+            "topicId": "math-tw",
+            "source": "ai_generated",
+            "generatedDate": "2026-08-10"
+          }
+        ],
+        "questionCount": 5
+      },
+      "math-tsd": {
+        "topicName": "Time, Speed & Distance",
+        "subjectName": "Arithmetic",
+        "questions": [
+          {
+            "question": "A car travels from Kolkata to Digha at a speed of 80 km/h. If the distance between Kolkata and Digha is 220 km, how much time will the car take to reach Digha?",
+            "options": [
+              "5 hours",
+              "5.5 hours",
+              "6 hours",
+              "6.5 hours"
+            ],
+            "correctIndex": 1,
+            "explanation": "Time = Distance / Speed.",
+            "difficulty": "Easy",
+            "topicId": "math-tsd",
+            "source": "ai_generated",
+            "generatedDate": "2026-08-10"
+          },
+          {
+            "question": "If a train travels from Sealdah to Howrah at a speed of 60 km/h and the distance between the two stations is 24 km, how much time will the train take to travel the last 48 km of the journey?",
+            "options": [
+              "48 minutes",
+              "40 minutes",
+              "32 minutes",
+              "24 minutes"
+            ],
+            "correctIndex": 3,
+            "explanation": "Time = Distance / Speed.",
+            "difficulty": "Medium",
+            "topicId": "math-tsd",
+            "source": "ai_generated",
+            "generatedDate": "2026-08-10"
+          },
+          {
+            "question": "A bus starts from Siliguri and travels to Kalimpong at an average speed of 40 km/h. If the bus takes 3 hours to cover the distance, how far is Kalimpong from Siliguri?",
+            "options": [
+              "120 km",
+              "140 km",
+              "160 km",
+              "180 km"
+            ],
+            "correctIndex": 0,
+            "explanation": "Distance = Speed × Time.",
+            "difficulty": "Easy",
+            "topicId": "math-tsd",
+            "source": "ai_generated",
+            "generatedDate": "2026-08-10"
+          },
+          {
+            "question": "A man travels from Bardhaman to Asansol at an average speed of 60 km/h. If he takes 2 hours to cover the distance, how much time will he take to cover the same distance at a speed of 30 km/h?",
+            "options": [
+              "4 hours",
+              "6 hours",
+              "8 hours",
+              "10 hours"
+            ],
+            "correctIndex": 1,
+            "explanation": "Time = Distance / Speed.",
+            "difficulty": "Medium",
+            "topicId": "math-tsd",
+            "source": "ai_generated",
+            "generatedDate": "2026-08-10"
+          },
+          {
+            "question": "A goods train travels from Haldia to Kharagpur at an average speed of 50 km/h. If the distance between the two stations is 150 km, how much time will the train take to cover 2/3 of the distance?",
+            "options": [
+              "2 hours",
+              "2.5 hours",
+              "3 hours",
+              "3.5 hours"
+            ],
+            "correctIndex": 2,
+            "explanation": "Distance = Speed × Time.",
+            "difficulty": "Easy",
+            "topicId": "math-tsd",
+            "source": "ai_generated",
+            "generatedDate": "2026-08-10"
+          }
+        ],
+        "questionCount": 5
+      }
+    },
+    "reasoning": {
+      "rs-coding": {
+        "topicName": "Coding-Decoding",
+        "subjectName": "Reasoning",
+        "questions": [
+          {
+            "question": "If 'F' is called 'E', 'E' is called 'D', 'D' is called 'C' and so on, then 'A' will be called as?",
+            "options": [
+              "Z",
+              "Y",
+              "X",
+              "B"
+            ],
+            "correctIndex": 2,
+            "explanation": "Given a reverse alphabetical order pattern.",
+            "difficulty": "Medium",
+            "topicId": "rs-coding",
+            "source": "ai_generated",
+            "generatedDate": "2026-08-10"
+          },
+          {
+            "question": "The word 'Bengal' is encoded as '@%$#'. Find the code for the word 'West'?",
+            "options": [
+              "!@#",
+              "#$%",
+              "$%^",
+              "%^&"
+            ],
+            "correctIndex": 2,
+            "explanation": "Alphabet to special character encoding.",
+            "difficulty": "Medium",
+            "topicId": "rs-coding",
+            "source": "ai_generated",
+            "generatedDate": "2026-08-10"
+          },
+          {
+            "question": "If '1' is called '10', '2' is called '20', '3' is called '30' and so on, then '9' will be called as?",
+            "options": [
+              "90",
+              "80",
+              "90",
+              "100"
+            ],
+            "correctIndex": 0,
+            "explanation": "Given a sequential pattern.",
+            "difficulty": "Medium",
+            "topicId": "rs-coding",
+            "source": "ai_generated",
+            "generatedDate": "2026-08-10"
+          },
+          {
+            "question": "The word 'KOLKATA' is encoded as 'K=1, O=15, L=12, K=11, A=1, T=20, A=1'. Find the code for the word 'HOWRAH'?",
+            "options": [
+              "H=8, O=15, W=23, R=18, A=1, H=8",
+              "H=7, O=14, W=21, R=16, A=1, H=9",
+              "H=8, O=15, W=22, R=17, A=1, H=8",
+              "H=9, O=16, W=23, R=18, A=1, H=7"
+            ],
+            "correctIndex": 2,
+            "explanation": "Alphabet to numerical encoding based on English alphabet positions.",
+            "difficulty": "Hard",
+            "topicId": "rs-coding",
+            "source": "ai_generated",
+            "generatedDate": "2026-08-10"
+          },
+          {
+            "question": "In a sequence, 2nd term is obtained by reversing the first term, 3rd term is obtained by reversing the 2nd term and so on. If 1st term is 1234, then what is the 5th term in the sequence?",
+            "options": [
+              "4321",
+              "3214",
+              "4123",
+              "2341"
+            ],
+            "correctIndex": 0,
+            "explanation": "Given a reversal pattern starting from the first term.",
+            "difficulty": "Hard",
+            "topicId": "rs-coding",
+            "source": "ai_generated",
+            "generatedDate": "2026-08-10"
+          }
+        ],
+        "questionCount": 5
+      },
+      "rs-blood": {
+        "topicName": "Blood Relations",
+        "subjectName": "Reasoning",
+        "questions": [
+          {
+            "question": "Kakali's grandson is the son of her daughter-in-law's son. How is Kakali related to her grandson?",
+            "options": [
+              "Mother",
+              "Father",
+              "Grandmother",
+              "Uncle"
+            ],
+            "correctIndex": 2,
+            "explanation": "Kakali is the grandmother of her grandson.",
+            "difficulty": "Medium",
+            "topicId": "rs-blood",
+            "source": "ai_generated",
+            "generatedDate": "2026-08-10"
+          },
+          {
+            "question": "If Ramesh is the brother of Suresh, who is the mother of Suresh?",
+            "options": [
+              "Sister of Ramesh's father",
+              "Daughter of Ramesh's father",
+              "Sister of Ramesh's mother",
+              "Mother of Ramesh"
+            ],
+            "correctIndex": 0,
+            "explanation": "The mother of Suresh is the sister of Ramesh's father.",
+            "difficulty": "Easy",
+            "topicId": "rs-blood",
+            "source": "ai_generated",
+            "generatedDate": "2026-08-10"
+          },
+          {
+            "question": "If A is the father of B, B is the son of C, and C is the husband of D, who is the mother of A?",
+            "options": [
+              "D",
+              "E",
+              "F",
+              "G"
+            ],
+            "correctIndex": 0,
+            "explanation": "The mother of A is D.",
+            "difficulty": "Medium",
+            "topicId": "rs-blood",
+            "source": "ai_generated",
+            "generatedDate": "2026-08-10"
+          },
+          {
+            "question": "Srikrishna is the only son of his parents. If the father of Srikrishna is the son of the mother of Anupam, how is Anupam related to Srikrishna?",
+            "options": [
+              "Father",
+              "Mother",
+              "Father's brother",
+              "Father's sister"
+            ],
+            "correctIndex": 2,
+            "explanation": "Anupam is the father's brother of Srikrishna.",
+            "difficulty": "Hard",
+            "topicId": "rs-blood",
+            "source": "ai_generated",
+            "generatedDate": "2026-08-10"
+          },
+          {
+            "question": "If D is the wife of E, E is the son of F, and F is the husband of G, how is G related to D?",
+            "options": [
+              "Mother",
+              "Father",
+              "Brother",
+              "Sister"
+            ],
+            "correctIndex": 0,
+            "explanation": "G is the mother of D.",
+            "difficulty": "Easy",
+            "topicId": "rs-blood",
+            "source": "ai_generated",
+            "generatedDate": "2026-08-10"
+          }
+        ],
+        "questionCount": 5
+      }
+    }
+  }
+}
