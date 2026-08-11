@@ -1,7 +1,7 @@
 {
   "exam": "si",
   "generatedDate": "2026-08-11",
-  "generatedAt": "2026-08-11T02:35:21.430Z",
+  "generatedAt": "2026-08-11T13:50:53.964Z",
   "model": "llama-3.1-8b-instant",
   "provider": "groq",
   "source": "ai_generated",
@@ -14,159 +14,77 @@
         "subjectName": "General Studies",
         "questions": [
           {
-            "question": "Which provision of the Constitution of India deals with the creation of the West Bengal Legislative Assembly?",
+            "question": "The Panchayats Extension to Scheduled Areas Act (PESA) was enacted in",
             "options": [
-              "Article 80",
-              "Article 170",
-              "Article 172",
-              "Article 245"
-            ],
-            "correctIndex": 2,
-            "explanation": "Article 172 deals with the creation of Legislative Assemblies in States.",
-            "difficulty": "Medium",
-            "topicId": "gs-polity",
-            "source": "ai_generated",
-            "generatedDate": "2026-08-11"
-          },
-          {
-            "question": "Who is the Governor of the State of West Bengal under Article 163 of the Constitution of India?",
-            "options": [
-              "The Chief Minister of West Bengal",
-              "The Speaker of the West Bengal Legislative Assembly",
-              "The Governor of West Bengal",
-              "The Chief Minister of India"
-            ],
-            "correctIndex": 2,
-            "explanation": "The Governor of West Bengal is the head of the state under Article 163.",
-            "difficulty": "Easy",
-            "topicId": "gs-polity",
-            "source": "ai_generated",
-            "generatedDate": "2026-08-11"
-          },
-          {
-            "question": "What is the name of the highest court in the State of West Bengal?",
-            "options": [
-              "Calcutta High Court",
-              "Kolkata High Court",
-              "West Bengal High Court",
-              "Bengal High Court"
+              "1993",
+              "1996",
+              "2006",
+              "2010"
             ],
             "correctIndex": 0,
-            "explanation": "The highest court in the State of West Bengal is the Calcutta High Court.",
-            "difficulty": "Easy",
-            "topicId": "gs-polity",
-            "source": "ai_generated",
-            "generatedDate": "2026-08-11"
-          },
-          {
-            "question": "Which of the following is a Fundamental Right under the Constitution of India?",
-            "options": [
-              "Right to Property",
-              "Right to Freedom of Speech and Expression",
-              "Right to Education",
-              "Right to Equality"
-            ],
-            "correctIndex": 1,
-            "explanation": "Right to Freedom of Speech and Expression is a Fundamental Right under the Constitution of India.",
+            "explanation": "PESA was enacted in 1996 to give powers to Gram Sabhas.",
             "difficulty": "Medium",
             "topicId": "gs-polity",
             "source": "ai_generated",
             "generatedDate": "2026-08-11"
           },
           {
-            "question": "What is the name of the Panchayat Raj Institution in the State of West Bengal?",
+            "question": "Which of the following is the primary source of power for the Governor of West Bengal?",
             "options": [
-              "Gram Panchayat",
-              "Municipal Corporation",
-              "Panchayat Samiti",
-              "Zilla Parishad"
-            ],
-            "correctIndex": 0,
-            "explanation": "Gram Panchayat is the lowest level of Panchayat Raj Institution in the State of West Bengal.",
-            "difficulty": "Easy",
-            "topicId": "gs-polity",
-            "source": "ai_generated",
-            "generatedDate": "2026-08-11"
-          }
-        ],
-        "questionCount": 5
-      },
-      "gs-freedom": {
-        "topicName": "Indian Freedom Struggle & Bengal",
-        "subjectName": "General Studies",
-        "questions": [
-          {
-            "question": "Which of the following Bengali revolutionaries was hanged by the British in 1908?",
-            "options": [
-              "Khudiram Bose",
-              "Bagha Jatin",
-              "Barindra Kumar Ghosh",
-              "Pulin Das"
-            ],
-            "correctIndex": 0,
-            "explanation": "Khudiram Bose was a Bengali revolutionary who fought for India's independence.",
-            "difficulty": "Easy",
-            "topicId": "gs-freedom",
-            "source": "ai_generated",
-            "generatedDate": "2026-08-11"
-          },
-          {
-            "question": "The Chuar Rebellion of 1832-1833 in Bengal was led by",
-            "options": [
-              "Tegh Bahadur",
-              "Tipu Sultan",
-              "Chuar leaders",
-              "Bajubandhu Kakati"
+              "Article 163 of the Indian Constitution",
+              "Article 164 of the Indian Constitution",
+              "Article 155 of the Indian Constitution",
+              "Article 153 of the Indian Constitution"
             ],
             "correctIndex": 2,
-            "explanation": "The Chuar Rebellion was a major rebellion against British rule in Bengal.",
+            "explanation": "Article 155 of the Indian Constitution is the primary source of power for the Governor.",
             "difficulty": "Medium",
-            "topicId": "gs-freedom",
+            "topicId": "gs-polity",
             "source": "ai_generated",
             "generatedDate": "2026-08-11"
           },
           {
-            "question": "The 'Swadeshi Movement' in Bengal was led by",
+            "question": "What is the ratio of the elected and nominated members in the West Bengal Legislative Council?",
             "options": [
-              "Rabindranath Tagore",
-              "Aurobindo Ghosh",
-              "Satish Chandra Mukherjee",
-              "Gopal Krishna Gokhale"
-            ],
-            "correctIndex": 1,
-            "explanation": "Aurobindo Ghosh was a key leader of the Swadeshi Movement in Bengal.",
-            "difficulty": "Medium",
-            "topicId": "gs-freedom",
-            "source": "ai_generated",
-            "generatedDate": "2026-08-11"
-          },
-          {
-            "question": "The 'Dandi March' of 1930 was inspired by",
-            "options": [
-              "Mahatma Gandhi",
-              "Subhas Chandra Bose",
-              "Lokmanya Tilak",
-              "Bipin Chandra Pal"
+              "1:2",
+              "1:3",
+              "1:4",
+              "2:3"
             ],
             "correctIndex": 0,
-            "explanation": "Mahatma Gandhi's Dandi March was a key event in the Indian Independence Movement.",
-            "difficulty": "Easy",
-            "topicId": "gs-freedom",
+            "explanation": "The ratio is 1:3.",
+            "difficulty": "Medium",
+            "topicId": "gs-polity",
             "source": "ai_generated",
             "generatedDate": "2026-08-11"
           },
           {
-            "question": "The 'Bengal Provincial Congress Committee' was established in",
+            "question": "The Lokayukta is the anti-corruption ombudsman in",
             "options": [
-              "1901",
-              "1920",
-              "1905",
-              "1914"
+              "West Bengal",
+              "Uttar Pradesh",
+              "Bihar",
+              "Karnataka"
             ],
-            "correctIndex": 2,
-            "explanation": "The Bengal Provincial Congress Committee played a crucial role in Bengal's freedom struggle.",
+            "correctIndex": 3,
+            "explanation": "The Lokayukta is the anti-corruption ombudsman in Karnataka.",
             "difficulty": "Medium",
-            "topicId": "gs-freedom",
+            "topicId": "gs-polity",
+            "source": "ai_generated",
+            "generatedDate": "2026-08-11"
+          },
+          {
+            "question": "The West Bengal Right to Public Services Act, 2013, aims to provide which of the following services within 30 days?",
+            "options": [
+              "Revenue services",
+              "Health services",
+              "Education services",
+              "All of the above"
+            ],
+            "correctIndex": 3,
+            "explanation": "The Act aims to provide all of the above services within 30 days.",
+            "difficulty": "Medium",
+            "topicId": "gs-polity",
             "source": "ai_generated",
             "generatedDate": "2026-08-11"
           }
@@ -178,75 +96,75 @@
         "subjectName": "General Studies",
         "questions": [
           {
-            "question": "Which of the following rivers is the longest river in West Bengal?",
+            "question": "Which of the following rivers forms the international border between India and Bangladesh in the state of West Bengal?",
             "options": [
-              "Ganges",
-              "Brahmaputra",
-              "Hooghly",
-              "Subarnarekha"
+              "Ganges River",
+              "Brahmaputra River",
+              "Hooghly River",
+              "Subarnarekha River"
             ],
             "correctIndex": 0,
-            "explanation": "The Ganges River is the longest river in West Bengal.",
+            "explanation": "The Ganges River forms the international border.",
             "difficulty": "Medium",
             "topicId": "gs-wb-geo",
             "source": "ai_generated",
             "generatedDate": "2026-08-11"
           },
           {
-            "question": "What is the name of the highest peak in the Darjeeling Himalayan hill region?",
+            "question": "What is the name of the highest peak in the Darjeeling Himalayan hill region of West Bengal?",
             "options": [
-              "Kanchenjunga Base Camp",
               "Sandakphu",
-              "Tiffin Top",
-              "Singalila National Park"
-            ],
-            "correctIndex": 1,
-            "explanation": "Sandakphu is the highest peak in the Darjeeling Himalayan hill region.",
-            "difficulty": "Medium",
-            "topicId": "gs-wb-geo",
-            "source": "ai_generated",
-            "generatedDate": "2026-08-11"
-          },
-          {
-            "question": "Which of the following districts is the largest district in West Bengal in terms of area?",
-            "options": [
-              "North 24 Parganas",
-              "South 24 Parganas",
-              "Murshidabad",
-              "Malda"
-            ],
-            "correctIndex": 2,
-            "explanation": "Murshidabad is the largest district in West Bengal in terms of area.",
-            "difficulty": "Medium",
-            "topicId": "gs-wb-geo",
-            "source": "ai_generated",
-            "generatedDate": "2026-08-11"
-          },
-          {
-            "question": "What is the name of the Sundarbans region's largest delta?",
-            "options": [
-              "Sundarban Delta",
-              "Ganges-Brahmaputra Delta",
-              "Meghna-Brahmaputra Delta",
-              "Surma-Meghna Delta"
-            ],
-            "correctIndex": 1,
-            "explanation": "The Ganges-Brahmaputra Delta is the largest delta in the Sundarbans region.",
-            "difficulty": "Easy",
-            "topicId": "gs-wb-geo",
-            "source": "ai_generated",
-            "generatedDate": "2026-08-11"
-          },
-          {
-            "question": "Which of the following mountain ranges is located in the northern part of West Bengal?",
-            "options": [
-              "Eastern Himalayas",
-              "Western Himalayas",
-              "Eastern Ghats",
-              "Arakan Yoma Range"
+              "Makalu",
+              "Kangchenjunga",
+              "Siniolchu"
             ],
             "correctIndex": 0,
-            "explanation": "The Eastern Himalayas are located in the northern part of West Bengal.",
+            "explanation": "Sandakphu is the highest peak.",
+            "difficulty": "Medium",
+            "topicId": "gs-wb-geo",
+            "source": "ai_generated",
+            "generatedDate": "2026-08-11"
+          },
+          {
+            "question": "Which of the following is a major delta region in West Bengal?",
+            "options": [
+              "Ganges-Brahmaputra delta",
+              "Meghna delta",
+              "Subarnarekha delta",
+              "Damodar delta"
+            ],
+            "correctIndex": 0,
+            "explanation": "Ganges-Brahmaputra delta is a major delta region.",
+            "difficulty": "Medium",
+            "topicId": "gs-wb-geo",
+            "source": "ai_generated",
+            "generatedDate": "2026-08-11"
+          },
+          {
+            "question": "What is the name of the Sundarbans mangrove forest, a UNESCO World Heritage Site in West Bengal?",
+            "options": [
+              "Sundarbans National Park",
+              "Bhagirathi National Park",
+              "Kakdwip National Park",
+              "Jaldapara Wildlife Sanctuary"
+            ],
+            "correctIndex": 0,
+            "explanation": "Sundarbans National Park is the Sundarbans mangrove forest.",
+            "difficulty": "Medium",
+            "topicId": "gs-wb-geo",
+            "source": "ai_generated",
+            "generatedDate": "2026-08-11"
+          },
+          {
+            "question": "Which of the following is the longest river flowing through West Bengal?",
+            "options": [
+              "Ganges River",
+              "Brahmaputra River",
+              "Hooghly River",
+              "Barakar River"
+            ],
+            "correctIndex": 0,
+            "explanation": "The Ganges River is the longest river.",
             "difficulty": "Medium",
             "topicId": "gs-wb-geo",
             "source": "ai_generated",
@@ -260,76 +178,76 @@
         "subjectName": "General Studies",
         "questions": [
           {
-            "question": "Who was appointed as the new Chief Minister of West Bengal in July 2026?",
+            "question": "The 2025 West Bengal State Budget, presented by the Chief Minister in February, allocated how many crores for the education sector?",
             "options": [
-              "Mamata Banerjee",
-              "Suvendu Adhikari",
-              "Mukul Roy",
-              "Abhishek Banerjee"
+              "Rs. 20,000 crores",
+              "Rs. 25,000 crores",
+              "Rs. 30,000 crores",
+              "Rs. 35,000 crores"
             ],
-            "correctIndex": 0,
-            "explanation": "Mamata Banerjee retained her position.",
+            "correctIndex": 2,
+            "explanation": "The 2025 West Bengal State Budget allocated Rs. 30,000 crores for the education sector.",
             "difficulty": "Medium",
             "topicId": "gs-current",
             "source": "ai_generated",
             "generatedDate": "2026-08-11"
           },
           {
-            "question": "Which Indian state has launched the 'Sikha Shiksha Sathi' scheme for the welfare of tea garden workers?",
+            "question": "Which river in West Bengal was declared as a 'National Waterway' by the Indian Government in 2024?",
             "options": [
-              "West Bengal",
-              "Assam",
-              "Tripura",
-              "Meghalaya"
+              "Ganges",
+              "Hooghly",
+              "Kolkata Wetland",
+              "Torsa"
             ],
-            "correctIndex": 0,
-            "explanation": "West Bengal has implemented this scheme.",
+            "correctIndex": 1,
+            "explanation": "The Hooghly river in West Bengal was declared as a 'National Waterway' by the Indian Government in 2024.",
             "difficulty": "Medium",
             "topicId": "gs-current",
             "source": "ai_generated",
             "generatedDate": "2026-08-11"
           },
           {
-            "question": "The 'Durga Puja' festival in Kolkata was declared a UNESCO Intangible Cultural Heritage of Humanity in which year?",
+            "question": "The West Bengal government launched the 'Swasthya Sathi' health insurance scheme in which year?",
             "options": [
-              "2023",
-              "2024",
-              "2025",
-              "Not yet"
+              "2016",
+              "2018",
+              "2020",
+              "2022"
             ],
             "correctIndex": 3,
-            "explanation": "The declaration has not occurred yet.",
+            "explanation": "The West Bengal government launched the 'Swasthya Sathi' health insurance scheme in 2022.",
             "difficulty": "Easy",
             "topicId": "gs-current",
             "source": "ai_generated",
             "generatedDate": "2026-08-11"
           },
           {
-            "question": "Name the Indian Railway zone that operates in West Bengal?",
+            "question": "Which of the following West Bengal-based companies was listed among the Fortune India 500 companies in 2025?",
             "options": [
-              "Eastern Railway Zone",
-              "South Eastern Railway Zone",
-              "Eastern Centre Railway Zone",
-              "Northeast Frontier Railway Zone"
+              "ITC Limited",
+              "Emami Limited",
+              "Tata Steel Limited (West Bengal operations)",
+              "Birla Corporation Limited"
             ],
             "correctIndex": 0,
-            "explanation": "It is an Indian Railway zone operating in West Bengal.",
+            "explanation": "ITC Limited, a West Bengal-based company, was listed among the Fortune India 500 companies in 2025.",
             "difficulty": "Medium",
             "topicId": "gs-current",
             "source": "ai_generated",
             "generatedDate": "2026-08-11"
           },
           {
-            "question": "Which of the following rivers originates in the Himalayas of West Bengal and flows through Sikkim?",
+            "question": "The West Bengal government launched the 'Yubasree' initiative in which year to empower youth?",
             "options": [
-              "Tista River",
-              "Subansiri River",
-              "Brahmaputra River",
-              "Jaldhaka River"
+              "2022",
+              "2023",
+              "2024",
+              "2025"
             ],
-            "correctIndex": 0,
-            "explanation": "It originates in the Himalayas of West Bengal.",
-            "difficulty": "Medium",
+            "correctIndex": 3,
+            "explanation": "The West Bengal government launched the 'Yubasree' initiative in 2025 to empower youth.",
+            "difficulty": "Easy",
             "topicId": "gs-current",
             "source": "ai_generated",
             "generatedDate": "2026-08-11"
@@ -342,75 +260,75 @@
         "subjectName": "General Studies",
         "questions": [
           {
-            "question": "Which of the following is a flagship scheme of the West Bengal Government to promote entrepreneurship among women?",
+            "question": "Under which scheme, the West Bengal government provides financial assistance to the families of martyred police personnel?",
             "options": [
-              "Swasthya Sathi",
-              "Siksha Sathi",
-              "Mukhya Mantri Prashikshan Yojana",
-              "Mukhya Mantri Swasthya Bima Yojana"
-            ],
-            "correctIndex": 2,
-            "explanation": "Mukhya Mantri Prashikshan Yojana is a scheme to promote entrepreneurship.",
-            "difficulty": "Medium",
-            "topicId": "gs-wb-schemes",
-            "source": "ai_generated",
-            "generatedDate": "2026-08-11"
-          },
-          {
-            "question": "What is the main objective of the 'Sabooj Sathi' scheme launched by the West Bengal Government?",
-            "options": [
-              "To provide free bicycles to students of classes IX to XII",
-              "To provide free laptops to students of classes VI to VIII",
-              "To provide free textbooks to students of classes I to V",
-              "To provide free uniforms to students of classes VI to X"
-            ],
-            "correctIndex": 0,
-            "explanation": "Sabooj Sathi scheme provides free bicycles to students.",
-            "difficulty": "Easy",
-            "topicId": "gs-wb-schemes",
-            "source": "ai_generated",
-            "generatedDate": "2026-08-11"
-          },
-          {
-            "question": "Which of the following is a scheme of the West Bengal Government to provide health insurance coverage to the poor?",
-            "options": [
-              "Swasthya Sathi",
-              "Mukhya Mantri Swasthya Bima Yojana",
-              "Mukhya Mantri Janajami Yojana",
-              "Mukhya Mantri Unnayon Scheme"
+              "Swami Vivekananda Merit Cum Means Scholarship",
+              "Desh Prem Scheme",
+              "Karmchari Kalyan Board Scheme",
+              "Uttam Shiksha Scheme"
             ],
             "correctIndex": 1,
-            "explanation": "Mukhya Mantri Swasthya Bima Yojana is a health insurance scheme.",
+            "explanation": "Desh Prem Scheme is the correct answer.",
             "difficulty": "Medium",
             "topicId": "gs-wb-schemes",
             "source": "ai_generated",
             "generatedDate": "2026-08-11"
           },
           {
-            "question": "What is the main objective of the 'Kanyashree Prakalpa' scheme launched by the West Bengal Government?",
+            "question": "Which of the following schemes aims to improve the quality of life of slum dwellers in West Bengal?",
             "options": [
-              "To promote entrepreneurship among girls",
-              "To provide education and health benefits to girls",
-              "To prevent child marriage and promote girls' education",
-              "To provide financial assistance to girls for higher education"
-            ],
-            "correctIndex": 2,
-            "explanation": "Kanyashree Prakalpa aims to prevent child marriage and promote girls' education.",
-            "difficulty": "Medium",
-            "topicId": "gs-wb-schemes",
-            "source": "ai_generated",
-            "generatedDate": "2026-08-11"
-          },
-          {
-            "question": "Which of the following is a scheme of the West Bengal Government to provide financial assistance to the poor and vulnerable sections of society?",
-            "options": [
-              "Mukhya Mantri Janajami Yojana",
-              "Mukhya Mantri Unnayon Scheme",
-              "Mukhya Mantri Swasthya Bima Yojana",
-              "Mukhya Mantri Krishi Sanjeevani Yojana"
+              "Slum Improvement and Upgradation of Sanitation Scheme",
+              "Jal Jeevan Mission",
+              "Swachh Bharat Abhiyan",
+              "Pradhan Mantri Awas Yojana"
             ],
             "correctIndex": 0,
-            "explanation": "Mukhya Mantri Janajami Yojana provides financial assistance to the poor.",
+            "explanation": "Slum Improvement and Upgradation of Sanitation Scheme is the correct answer.",
+            "difficulty": "Medium",
+            "topicId": "gs-wb-schemes",
+            "source": "ai_generated",
+            "generatedDate": "2026-08-11"
+          },
+          {
+            "question": "What is the name of the West Bengal government's scheme for the development of rural areas?",
+            "options": [
+              "Rural Development Scheme",
+              "Gram Swaraj Abhiyan",
+              "Amaay Kanya Scheme",
+              "Sabuj Gram Yojana"
+            ],
+            "correctIndex": 3,
+            "explanation": "Sabuj Gram Yojana is the correct answer.",
+            "difficulty": "Medium",
+            "topicId": "gs-wb-schemes",
+            "source": "ai_generated",
+            "generatedDate": "2026-08-11"
+          },
+          {
+            "question": "Which of the following schemes provides financial assistance to the families of women who die in childbirth or shortly after delivery?",
+            "options": [
+              "Kanyashree Prakalpa",
+              "Swasthya Sathi Scheme",
+              "Didi Ke Bolo",
+              "Mamta Scheme"
+            ],
+            "correctIndex": 3,
+            "explanation": "Mamta Scheme is the correct answer.",
+            "difficulty": "Medium",
+            "topicId": "gs-wb-schemes",
+            "source": "ai_generated",
+            "generatedDate": "2026-08-11"
+          },
+          {
+            "question": "What is the name of the West Bengal government's scheme for providing free education to girls?",
+            "options": [
+              "Kanyashree Prakalpa",
+              "Uttam Shiksha Scheme",
+              "Swami Vivekananda Merit Cum Means Scholarship",
+              "Anandam Scheme"
+            ],
+            "correctIndex": 0,
+            "explanation": "Kanyashree Prakalpa is the correct answer.",
             "difficulty": "Medium",
             "topicId": "gs-wb-schemes",
             "source": "ai_generated",
@@ -426,75 +344,75 @@
         "subjectName": "Arithmetic",
         "questions": [
           {
-            "question": "If the interest rate is 8% p.a and the principal amount is Rs. 5000, the simple interest (S.I) for two years will be?",
+            "question": "A certain sum of money becomes Rs. 840 in 2 years and Rs. 882 in 3 years on compound interest. The rate of interest per annum is?",
             "options": [
-              "Rs. 800",
-              "Rs. 800",
-              "Rs. 800",
-              "Rs. 1000"
-            ],
-            "correctIndex": 0,
-            "explanation": "Simple interest is calculated as (principal * rate * time)/100.",
-            "difficulty": "Medium",
-            "topicId": "math-interest",
-            "source": "ai_generated",
-            "generatedDate": "2026-08-11"
-          },
-          {
-            "question": "What will be the amount on maturity after 3 years if the principal amount is Rs. 12000 at a compound interest rate of 10% p.a?",
-            "options": [
-              "Rs. 15930.92",
-              "Rs. 16139.04",
-              "Rs. 16227.52",
-              "Rs. 16317.44"
-            ],
-            "correctIndex": 2,
-            "explanation": "Compound interest is calculated as principle * (1 + rate/100)^time.",
-            "difficulty": "Medium",
-            "topicId": "math-interest",
-            "source": "ai_generated",
-            "generatedDate": "2026-08-11"
-          },
-          {
-            "question": "A sum of money invested in a fixed deposit for 2 years at a rate of 9% p.a. earns an interest of?",
-            "options": [
-              "9% of principal",
-              "18% of principal",
-              "18.36% of principal",
-              "20% of principal"
-            ],
-            "correctIndex": 2,
-            "explanation": "Simple interest for two years is calculated as (principal * rate * time)/100.",
-            "difficulty": "Medium",
-            "topicId": "math-interest",
-            "source": "ai_generated",
-            "generatedDate": "2026-08-11"
-          },
-          {
-            "question": "A money lender lends Rs. 1000 at 10% p.a. simple interest for 2 years. The money lender will receive Rs.?",
-            "options": [
-              "Rs. 1000",
-              "Rs. 210",
-              "Rs. 200",
-              "Rs. 1100"
+              "7%",
+              "6%",
+              "8%",
+              "9%"
             ],
             "correctIndex": 1,
-            "explanation": "Simple interest for two years is calculated as (principal * rate * time)/100.",
+            "explanation": "Difference between compound interest and simple interest is used to find the rate of interest.",
             "difficulty": "Medium",
             "topicId": "math-interest",
             "source": "ai_generated",
             "generatedDate": "2026-08-11"
           },
           {
-            "question": "A sum of money invested in a fixed deposit for 5 years at a rate of 8% p.a. earns an interest of?",
+            "question": "If Rs. 800 amounts to Rs. 926.20 in 2 years at compound interest rate, the rate of interest per annum is?",
             "options": [
-              "40% of principal",
-              "40.4% of principal",
-              "40.4% of principal",
-              "40% of principal"
+              "6%",
+              "5%",
+              "6.5%",
+              "6.9%"
+            ],
+            "correctIndex": 0,
+            "explanation": "Compound interest formula A = P(1 + r/100)^t is used to calculate the rate of interest.",
+            "difficulty": "Medium",
+            "topicId": "math-interest",
+            "source": "ai_generated",
+            "generatedDate": "2026-08-11"
+          },
+          {
+            "question": "The simple interest on Rs. 1800 for 3 years at 5% per annum is?",
+            "options": [
+              "Rs. 270",
+              "Rs. 270.50",
+              "Rs. 270.85",
+              "Rs. 270"
             ],
             "correctIndex": 3,
-            "explanation": "Simple interest for five years is calculated as (principal * rate * time)/100.",
+            "explanation": "Simple interest formula I = (P * r * t)/100 is used to find the simple interest.",
+            "difficulty": "Easy",
+            "topicId": "math-interest",
+            "source": "ai_generated",
+            "generatedDate": "2026-08-11"
+          },
+          {
+            "question": "The difference between compound interest and simple interest on Rs. 1500 for 2 years at 5% per annum is?",
+            "options": [
+              "Rs. 5",
+              "Rs. 5.25",
+              "Rs. 5.50",
+              "Rs. 5"
+            ],
+            "correctIndex": 2,
+            "explanation": "Difference between compound interest and simple interest is used to find the interest.",
+            "difficulty": "Medium",
+            "topicId": "math-interest",
+            "source": "ai_generated",
+            "generatedDate": "2026-08-11"
+          },
+          {
+            "question": "The amount on Rs. 600 for 2 years at 4% per annum compound interest is?",
+            "options": [
+              "Rs. 630.24",
+              "Rs. 630.50",
+              "Rs. 630",
+              "Rs. 630.24"
+            ],
+            "correctIndex": 0,
+            "explanation": "Compound interest formula A = P(1 + r/100)^t is used to calculate the amount.",
             "difficulty": "Medium",
             "topicId": "math-interest",
             "source": "ai_generated",
@@ -508,77 +426,159 @@
         "subjectName": "Arithmetic",
         "questions": [
           {
-            "question": "A group of 8 volunteers are engaged in a relief operation in a flood-affected area of West Bengal. They take 12 hours to complete a certain work. How long will it take if 4 more volunteers join them?",
+            "question": "A person can complete 1/4th of a job in 4 hours. How long will it take him to complete 3/4th of the job?",
             "options": [
-              "8 hours",
               "6 hours",
-              "10 hours",
-              "12 hours"
+              "8 hours",
+              "12 hours",
+              "16 hours"
             ],
-            "correctIndex": 2,
-            "explanation": "The speed of work increases with more volunteers.",
+            "correctIndex": 0,
+            "explanation": "This problem can be solved using the concept of inverse proportionality.",
             "difficulty": "Medium",
             "topicId": "math-tw",
             "source": "ai_generated",
             "generatedDate": "2026-08-11"
           },
           {
-            "question": "A water pipe can fill 2/3rd of a tank in 2 hours. How long will it take to fill the entire tank?",
+            "question": "A pipe can fill 1/2 of a tank in 2 hours. If another pipe can fill the whole tank in 4 hours, how long will it take to fill 3/4 of the tank?",
+            "options": [
+              "6 hours",
+              "8 hours",
+              "12 hours",
+              "2 hours"
+            ],
+            "correctIndex": 3,
+            "explanation": "This problem can be solved using the concept of work and time.",
+            "difficulty": "Medium",
+            "topicId": "math-tw",
+            "source": "ai_generated",
+            "generatedDate": "2026-08-11"
+          },
+          {
+            "question": "A person can do a work in 20 days. In how many days can he do 2/3 of the work?",
+            "options": [
+              "10 days",
+              "12 days",
+              "14 days",
+              "16 days"
+            ],
+            "correctIndex": 1,
+            "explanation": "This problem can be solved using the concept of inverse proportionality.",
+            "difficulty": "Medium",
+            "topicId": "math-tw",
+            "source": "ai_generated",
+            "generatedDate": "2026-08-11"
+          },
+          {
+            "question": "Two pipes A and B can fill 1/4 of a tank in 1 hour and 1/4 of a tank in 2 hours respectively. How long will it take to fill 3/4 of the tank if both pipes are opened?",
+            "options": [
+              "6 hours",
+              "4 hours",
+              "2 hours",
+              "8 hours"
+            ],
+            "correctIndex": 3,
+            "explanation": "This problem can be solved using the concept of work and time.",
+            "difficulty": "Medium",
+            "topicId": "math-tw",
+            "source": "ai_generated",
+            "generatedDate": "2026-08-11"
+          },
+          {
+            "question": "A group of 4 men can finish a piece of work in 5 days. How long will it take for 2 men to complete 2/3 of the work?",
+            "options": [
+              "8 days",
+              "10 days",
+              "12 days",
+              "14 days"
+            ],
+            "correctIndex": 2,
+            "explanation": "This problem can be solved using the concept of inverse proportionality.",
+            "difficulty": "Medium",
+            "topicId": "math-tw",
+            "source": "ai_generated",
+            "generatedDate": "2026-08-11"
+          }
+        ],
+        "questionCount": 5
+      },
+      "math-tsd": {
+        "topicName": "Time, Speed & Distance",
+        "subjectName": "Arithmetic",
+        "questions": [
+          {
+            "question": "A train travels from Howrah to Sealdah, a distance of 22 km in 15 minutes. What is the speed of the train in km/h?",
+            "options": [
+              "65 km/h",
+              "80 km/h",
+              "90 km/h",
+              "100 km/h"
+            ],
+            "correctIndex": 0,
+            "explanation": "Speed is calculated as distance divided by time in hours.",
+            "difficulty": "Medium",
+            "topicId": "math-tsd",
+            "source": "ai_generated",
+            "generatedDate": "2026-08-11"
+          },
+          {
+            "question": "A bus covers a distance of 120 km from Kolkata to Barasat in 2 hours. What is the average speed of the bus?",
+            "options": [
+              "60 km/h",
+              "65 km/h",
+              "70 km/h",
+              "75 km/h"
+            ],
+            "correctIndex": 0,
+            "explanation": "Average speed is calculated as total distance divided by total time.",
+            "difficulty": "Medium",
+            "topicId": "math-tsd",
+            "source": "ai_generated",
+            "generatedDate": "2026-08-11"
+          },
+          {
+            "question": "A man walks at a speed of 4 km/h from Dum Dum to Baranagar, a distance of 8 km. How long will he take to reach his destination?",
             "options": [
               "1 hour",
               "2 hours",
-              "2.5 hours",
-              "3 hours"
+              "3 hours",
+              "4 hours"
             ],
             "correctIndex": 2,
-            "explanation": "Since 2/3rd of the tank is filled in 2 hours, the remaining 1/3rd will be filled in 1 hour.",
+            "explanation": "Time is calculated as distance divided by speed.",
             "difficulty": "Medium",
-            "topicId": "math-tw",
+            "topicId": "math-tsd",
             "source": "ai_generated",
             "generatedDate": "2026-08-11"
           },
           {
-            "question": "A team of 12 workers can finish a project in 8 days. If 4 more workers join them, in how many days will they finish the project?",
+            "question": "A car travels from Esplanade to Salt Lake, a distance of 18 km in 45 minutes. What is the speed of the car in km/h?",
             "options": [
-              "5 days",
-              "6 days",
-              "7 days",
-              "9 days"
-            ],
-            "correctIndex": 2,
-            "explanation": "The rate of work increases with more workers.",
-            "difficulty": "Medium",
-            "topicId": "math-tw",
-            "source": "ai_generated",
-            "generatedDate": "2026-08-11"
-          },
-          {
-            "question": "A pipe can fill a tank in 6 hours. After working for 2 hours, it is closed for 2 hours and then opened again. How long will it take to fill the tank completely?",
-            "options": [
-              "4 hours",
-              "5 hours",
-              "6 hours",
-              "7 hours"
-            ],
-            "correctIndex": 2,
-            "explanation": "The work done in the first 2 hours will be 2/6 = 1/3rd of the tank.",
-            "difficulty": "Medium",
-            "topicId": "math-tw",
-            "source": "ai_generated",
-            "generatedDate": "2026-08-11"
-          },
-          {
-            "question": "A group of 10 men can finish a piece of work in 6 days working 8 hours a day. How many days will it take for 15 men working 10 hours a day to finish the same work?",
-            "options": [
-              "3 days",
-              "4 days",
-              "5 days",
-              "6 days"
+              "50 km/h",
+              "60 km/h",
+              "70 km/h",
+              "80 km/h"
             ],
             "correctIndex": 3,
-            "explanation": "The total work hours required to complete the work remains the same.",
+            "explanation": "Speed is calculated as distance divided by time in hours.",
             "difficulty": "Medium",
-            "topicId": "math-tw",
+            "topicId": "math-tsd",
+            "source": "ai_generated",
+            "generatedDate": "2026-08-11"
+          },
+          {
+            "question": "A cyclist rides at a speed of 15 km/h from Gariahat to Jadavpur, a distance of 10 km. How long will he take to reach his destination?",
+            "options": [
+              "30 minutes",
+              "1 hour",
+              "2 hours",
+              "3 hours"
+            ],
+            "correctIndex": 0,
+            "explanation": "Time is calculated as distance divided by speed.",
+            "difficulty": "Medium",
+            "topicId": "math-tsd",
             "source": "ai_generated",
             "generatedDate": "2026-08-11"
           }
@@ -587,164 +587,164 @@
       }
     },
     "reasoning": {
-      "rs-coding": {
-        "topicName": "Coding-Decoding",
+      "rs-blood": {
+        "topicName": "Blood Relations",
         "subjectName": "Reasoning",
         "questions": [
           {
-            "question": "A person says, 'My mother has as many children as I have brothers.' The person's statement is true. How many children does the person have?",
+            "question": "A man is the son of the wife of his grandfather. Who is the man's mother?",
             "options": [
-              "One child",
-              "Two children",
-              "Three children",
-              "Four children"
-            ],
-            "correctIndex": 3,
-            "explanation": "The person has four children.",
-            "difficulty": "Medium",
-            "topicId": "rs-coding",
-            "source": "ai_generated",
-            "generatedDate": "2026-08-11"
-          },
-          {
-            "question": "In a certain code, 'A' is represented by '1', 'B' is represented by '2', and so on. Which of the following represents the word 'WEST BENGAL'?",
-            "options": [
-              "21 5 19 20 6 1 4 1 12 1 9",
-              "21 5 19 20 6 1 4 1 12 1 9 12 1 9 1 5 4",
-              "21 5 19 20 6 1 4 1 12 1 9 12 5 19 20",
-              "21 5 19 20 1 1 1 1 12 1 9 12 5 19 20 6"
+              "Sister of the Man",
+              "Daughter of the Man",
+              "Wife of the Man's Father",
+              "Granddaughter of the Man"
             ],
             "correctIndex": 2,
-            "explanation": "The correct code for 'WEST BENGAL' is 21 5 19 20 6 1 4 1 12 1 9 12 5 19 20.",
+            "explanation": "Since he is the son of the wife of his grandfather, his mother is the wife of his father.",
             "difficulty": "Medium",
-            "topicId": "rs-coding",
+            "topicId": "rs-blood",
             "source": "ai_generated",
             "generatedDate": "2026-08-11"
           },
           {
-            "question": "A code is formed by replacing each letter with the letter three positions ahead of it in the alphabet. What is the code for 'POLICE'?",
+            "question": "A woman has two children, one son and one daughter. The son is the father of a child. How is the child related to the woman?",
             "options": [
-              "RQNDW",
-              "RVNDX",
-              "RQNDX",
-              "RQNDW"
-            ],
-            "correctIndex": 0,
-            "explanation": "The code for 'POLICE' is 'RQNDW'.",
-            "difficulty": "Medium",
-            "topicId": "rs-coding",
-            "source": "ai_generated",
-            "generatedDate": "2026-08-11"
-          },
-          {
-            "question": "In a certain code, '0' represents 'A', '1' represents 'B', '2' represents 'C', and so on. Which of the following represents the word 'KOLKATA'?",
-            "options": [
-              "11 15 12 12 1 1 20",
-              "11 15 12 12 1 1 21 20",
-              "11 15 12 12 1 1 12 20",
-              "11 15 12 12 1 1 10 20"
-            ],
-            "correctIndex": 0,
-            "explanation": "The correct code for 'KOLKATA' is 11 15 12 12 1 1 20.",
-            "difficulty": "Medium",
-            "topicId": "rs-coding",
-            "source": "ai_generated",
-            "generatedDate": "2026-08-11"
-          },
-          {
-            "question": "If 'CAT' is represented as 'DOG', 'DOG' is represented as 'CAT', 'MOUSE' is represented as 'LION', and 'LION' is represented as 'MOUSE', then what is the code for 'BENGAL'?",
-            "options": [
-              "KOLKATA",
-              "WEST BENGAL",
-              "BANGLADESH",
-              "GUJARAT"
+              "Grandchild",
+              "Daughter",
+              "Granddaughter",
+              "Son"
             ],
             "correctIndex": 1,
-            "explanation": "The code for 'BENGAL' is 'WEST BENGAL'.",
+            "explanation": "Since the child is the son of the woman's son, the child is the woman's daughter.",
             "difficulty": "Medium",
-            "topicId": "rs-coding",
+            "topicId": "rs-blood",
+            "source": "ai_generated",
+            "generatedDate": "2026-08-11"
+          },
+          {
+            "question": "In a family, Rina is the daughter of the son of the mother of Priya. How is Rina related to Priya?",
+            "options": [
+              "Sister",
+              "Daughter",
+              "Granddaughter",
+              "Mother"
+            ],
+            "correctIndex": 2,
+            "explanation": "Rina is the daughter of Priya's uncle, making Rina Priya's granddaughter.",
+            "difficulty": "Medium",
+            "topicId": "rs-blood",
+            "source": "ai_generated",
+            "generatedDate": "2026-08-11"
+          },
+          {
+            "question": "Arun is the grandson of the father of his mother. How is Arun related to his mother?",
+            "options": [
+              "Son",
+              "Brother",
+              "Grandson",
+              "Father"
+            ],
+            "correctIndex": 0,
+            "explanation": "Since Arun is the grandson of the father of his mother, Arun is the son of his mother.",
+            "difficulty": "Medium",
+            "topicId": "rs-blood",
+            "source": "ai_generated",
+            "generatedDate": "2026-08-11"
+          },
+          {
+            "question": "If A is the brother of the father of B, then what is the relationship between A and B?",
+            "options": [
+              "Grandson",
+              "Father",
+              "Son",
+              "Brother"
+            ],
+            "correctIndex": 1,
+            "explanation": "A is the brother of B's father, making A the father of B.",
+            "difficulty": "Medium",
+            "topicId": "rs-blood",
             "source": "ai_generated",
             "generatedDate": "2026-08-11"
           }
         ],
         "questionCount": 5
       },
-      "rs-blood": {
-        "topicName": "Blood Relations",
+      "rs-direction": {
+        "topicName": "Direction Sense",
         "subjectName": "Reasoning",
         "questions": [
           {
-            "question": "Kabita is the wife of Sunil. Sunil is the son of whom?",
+            "question": "A person is standing at a point A in Kolkata, facing a park. If he turns 270° to his right and walks 20 meters, then turns 90° to his left and walks 25 meters. Where will he be?",
             "options": [
-              "Paplu",
-              "Bablu",
-              "Ranju",
-              "Mamta"
+              "Point B in the park",
+              "Point C on the road",
+              "Point D near a shop",
+              "Point E near a temple"
             ],
-            "correctIndex": 0,
-            "explanation": "Paplu is the father of Sunil.",
-            "difficulty": "Easy",
-            "topicId": "rs-blood",
+            "correctIndex": 1,
+            "explanation": "He will be at a point on the road.",
+            "difficulty": "Medium",
+            "topicId": "rs-direction",
             "source": "ai_generated",
             "generatedDate": "2026-08-11"
           },
           {
-            "question": "Babulal is the grandfather of whom?",
+            "question": "A man is traveling from Howrah to Sealdah by train. If he is facing west and gets down at a station, which direction will he go?",
             "options": [
-              "Ramesh",
-              "Ranjan",
-              "Rajesh",
-              "Rahul"
+              "North",
+              "South",
+              "East",
+              "West"
+            ],
+            "correctIndex": 1,
+            "explanation": "He will go south.",
+            "difficulty": "Medium",
+            "topicId": "rs-direction",
+            "source": "ai_generated",
+            "generatedDate": "2026-08-11"
+          },
+          {
+            "question": "A person is standing in front of a building in Park Circus, facing north. If he turns 90° to his right and walks 15 meters, then turns 90° to his right and walks 20 meters. Where will he be?",
+            "options": [
+              "Inside the building",
+              "Near a tree",
+              "On the road",
+              "Near a shop"
             ],
             "correctIndex": 2,
-            "explanation": "Rajesh is the great-grandson of Babulal.",
+            "explanation": "He will be on the road.",
             "difficulty": "Medium",
-            "topicId": "rs-blood",
+            "topicId": "rs-direction",
             "source": "ai_generated",
             "generatedDate": "2026-08-11"
           },
           {
-            "question": "Rabindranath Tagore is the nephew of whom?",
+            "question": "A girl is standing at the Gariahat crossing, facing east. If she turns 270° to her left and walks 12 meters, then turns 90° to her left and walks 18 meters. Where will she be?",
             "options": [
-              "Dwijendranath Tagore",
-              "Satyendranath Tagore",
-              "Jyotirindranath Tagore",
-              "Sarojini Devi"
+              "Near a market",
+              "On the road",
+              "Near a restaurant",
+              "In a park"
             ],
-            "correctIndex": 1,
-            "explanation": "Satyendranath Tagore is the brother of Rabindranath Tagore.",
-            "difficulty": "Hard",
-            "topicId": "rs-blood",
+            "correctIndex": 0,
+            "explanation": "She will be near a market.",
+            "difficulty": "Medium",
+            "topicId": "rs-direction",
             "source": "ai_generated",
             "generatedDate": "2026-08-11"
           },
           {
-            "question": "If A is the brother of B, then B is the",
+            "question": "A boy is standing in front of a temple in Dakshineswar, facing south. If he turns 90° to his left and walks 28 meters, then turns 90° to his left and walks 22 meters. Where will he be?",
             "options": [
-              "Sister of A",
-              "Son of A",
-              "Mother of A",
-              "Father of A"
-            ],
-            "correctIndex": 1,
-            "explanation": "B is the son of A.",
-            "difficulty": "Easy",
-            "topicId": "rs-blood",
-            "source": "ai_generated",
-            "generatedDate": "2026-08-11"
-          },
-          {
-            "question": "Rajkumar is the great-grandson of whom?",
-            "options": [
-              "Dhiren",
-              "Biren",
-              "Sukumar",
-              "Haripada"
+              "Inside the temple",
+              "Near a pond",
+              "On the Ganges",
+              "In a garden"
             ],
             "correctIndex": 3,
-            "explanation": "Haripada is the great-grandfather of Rajkumar.",
+            "explanation": "He will be in a garden.",
             "difficulty": "Medium",
-            "topicId": "rs-blood",
+            "topicId": "rs-direction",
             "source": "ai_generated",
             "generatedDate": "2026-08-11"
           }
@@ -756,77 +756,77 @@
         "subjectName": "Reasoning",
         "questions": [
           {
-            "question": "Find the next number in the series: 2, 7, 12, 17, 22, ?",
+            "question": "Find the next number in the series: 2, 5, 8, 11, 14, ?",
             "options": [
-              "5",
-              "6",
-              "8",
-              "10"
+              "1",
+              "15",
+              "16",
+              "21"
             ],
-            "correctIndex": 0,
-            "explanation": "The series follows an arithmetic progression with a common difference of 5.",
+            "correctIndex": 1,
+            "explanation": "The pattern in the series is an increase of 3 each time.",
             "difficulty": "Medium",
-            "topicId": "rs-series",
+            "topicId": "ns-series",
             "source": "ai_generated",
             "generatedDate": "2026-08-11"
           },
           {
-            "question": "Find the missing letter in the series: a, e, i, m, ?, p",
+            "question": "Which number is missing in the series: 1, 4, 9, 16, 25, ?, 49?",
             "options": [
-              "h",
-              "l",
-              "r",
-              "t"
+              "36",
+              "40",
+              "30",
+              "32"
+            ],
+            "correctIndex": 0,
+            "explanation": "The pattern in the series is the square of consecutive natural numbers.",
+            "difficulty": "Medium",
+            "topicId": "ns-series",
+            "source": "ai_generated",
+            "generatedDate": "2026-08-11"
+          },
+          {
+            "question": "Find the next letter in the series: B, E, H, K, N, ?",
+            "options": [
+              "Q",
+              "R",
+              "S",
+              "T"
             ],
             "correctIndex": 3,
-            "explanation": "The series consists of letters in the English alphabet that are 3 positions apart.",
+            "explanation": "The pattern in the series is an increase of 3 in the alphabetical order.",
             "difficulty": "Medium",
-            "topicId": "rs-series",
+            "topicId": "ls-series",
             "source": "ai_generated",
             "generatedDate": "2026-08-11"
           },
           {
-            "question": "Find the next number in the series: 5, 10, 20, 40, 80, ?",
+            "question": "Which letter is missing in the series: A, D, G, J, M, ?",
             "options": [
-              "160",
-              "1600",
-              "16",
-              "16x"
+              "P",
+              "O",
+              "Q",
+              "R"
             ],
-            "correctIndex": 0,
-            "explanation": "The series consists of numbers that are multiplied by 2.",
-            "difficulty": "Easy",
-            "topicId": "rs-series",
+            "correctIndex": 1,
+            "explanation": "The pattern in the series is an increase of 3 in the alphabetical order, then a shift of 1 to the right.",
+            "difficulty": "Medium",
+            "topicId": "ls-series",
             "source": "ai_generated",
             "generatedDate": "2026-08-11"
           },
           {
-            "question": "Find the missing number in the series: 1, 4, 9, 16, ?, 36",
+            "question": "Find the next number in the series: 3, 6, 12, 24, 48, ?",
             "options": [
-              "25",
-              "36",
-              "49",
+              "96",
+              "72",
+              "100",
               "64"
             ],
-            "correctIndex": 0,
-            "explanation": "The series consists of perfect squares of consecutive integers.",
+            "correctIndex": 1,
+            "explanation": "The pattern in the series is a doubling of the previous term.",
             "difficulty": "Medium",
-            "topicId": "rs-series",
-            "source": "ai_generated",
-            "generatedDate": "2026-08-11"
-          },
-          {
-            "question": "Find the next number in the series: 1, 2, 4, 7, 11, 16, ?",
-            "options": [
-              "22",
-              "24",
-              "25",
-              "26"
-            ],
-            "correctIndex": 2,
-            "explanation": "The series consists of numbers that follow the pattern of increasing by consecutive increments of 1, 2, 3, and so on.",
-            "difficulty": "Hard",
-            "topicId": "rs-series",
+            "topicId": "ns-series",
             "source": "ai_generated",
             "generatedDate": "2026-08-11"
           }
