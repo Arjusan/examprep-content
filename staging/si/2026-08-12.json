@@ -1,0 +1,838 @@
+{
+  "exam": "si",
+  "generatedDate": "2026-08-12",
+  "generatedAt": "2026-08-12T03:04:53.248Z",
+  "model": "llama-3.1-8b-instant",
+  "provider": "groq",
+  "source": "ai_generated",
+  "reviewStatus": "pending",
+  "totalQuestions": 50,
+  "subjects": {
+    "gs": {
+      "gs-polity": {
+        "topicName": "Indian Constitution & Polity",
+        "subjectName": "General Studies",
+        "questions": [
+          {
+            "question": "The Panchayat system in West Bengal is primarily based on which of the following provisions of the Indian Constitution?",
+            "options": [
+              "Article 243A",
+              "Article 243B",
+              "Article 40",
+              "Article 51A"
+            ],
+            "correctIndex": 0,
+            "explanation": "Article 243A deals with the establishment and composition of Gram Panchayats.",
+            "difficulty": "Medium",
+            "topicId": "gs-polity",
+            "source": "ai_generated",
+            "generatedDate": "2026-08-12"
+          },
+          {
+            "question": "Which of the following is a fundamental duty as per Article 51A of the Indian Constitution?",
+            "options": [
+              "To protect the environment",
+              "To develop scientific temper",
+              "To cherish and follow the noble ideals which inspired the national movement",
+              "To defend the country"
+            ],
+            "correctIndex": 2,
+            "explanation": "This option is a correct fundamental duty as per Article 51A of the Indian Constitution.",
+            "difficulty": "Easy",
+            "topicId": "gs-polity",
+            "source": "ai_generated",
+            "generatedDate": "2026-08-12"
+          },
+          {
+            "question": "The Sixth Schedule to the Indian Constitution applies to which of the following states/union territories?",
+            "options": [
+              "Assam",
+              "Meghalaya",
+              "Tripura",
+              "West Bengal"
+            ],
+            "correctIndex": 1,
+            "explanation": "The Sixth Schedule deals with the administration of the Hill Areas in Assam, Meghalaya, Tripura, and Mizoram.",
+            "difficulty": "Medium",
+            "topicId": "gs-polity",
+            "source": "ai_generated",
+            "generatedDate": "2026-08-12"
+          },
+          {
+            "question": "The Indian Constitution has a provision for the establishment of a National Commission for Scheduled Castes. Which of the following is a key feature of this provision?",
+            "options": [
+              "It provides for a chairperson and four other members",
+              "It provides for a chairperson and two other members",
+              "It provides for a chairperson and a member",
+              "It provides for five members"
+            ],
+            "correctIndex": 0,
+            "explanation": "The provision provides for a chairperson and four other members.",
+            "difficulty": "Medium",
+            "topicId": "gs-polity",
+            "source": "ai_generated",
+            "generatedDate": "2026-08-12"
+          },
+          {
+            "question": "Which of the following is a power of the Governor of West Bengal?",
+            "options": [
+              "To promulgate ordinances in cases of an emergency",
+              "To grant pardons and reprieves to convicts",
+              "To appoint the Chief Minister",
+              "To dissolve the Legislative Assembly"
+            ],
+            "correctIndex": 0,
+            "explanation": "The Governor can promulgate ordinances in cases of an emergency.",
+            "difficulty": "Easy",
+            "topicId": "gs-polity",
+            "source": "ai_generated",
+            "generatedDate": "2026-08-12"
+          }
+        ],
+        "questionCount": 5
+      },
+      "gs-freedom": {
+        "topicName": "Indian Freedom Struggle & Bengal",
+        "subjectName": "General Studies",
+        "questions": [
+          {
+            "question": "Who was the founder of the Indian National Congress, which was initially called the Indian National Association?",
+            "options": [
+              "Dadabhai Naoroji",
+              "A.O. Hume",
+              "Surendranath Banerjee",
+              "Romesh Chunder Dutt"
+            ],
+            "correctIndex": 1,
+            "explanation": "A.O. Hume was a British civil servant.",
+            "difficulty": "Medium",
+            "topicId": "gs-freedom",
+            "source": "ai_generated",
+            "generatedDate": "2026-08-12"
+          },
+          {
+            "question": "Which of the following Swadeshi Movement leaders was from Bengal?",
+            "options": [
+              "Bipin Chandra Pal",
+              "Lala Lajpat Rai",
+              "Barindra Kumar Ghosh",
+              "Bal Gangadhar Tilak"
+            ],
+            "correctIndex": 2,
+            "explanation": "Barindra Kumar Ghosh was a key figure of the Alipore Bomb Case.",
+            "difficulty": "Medium",
+            "topicId": "gs-freedom",
+            "source": "ai_generated",
+            "generatedDate": "2026-08-12"
+          },
+          {
+            "question": "What was the name of the treaty that marked the beginning of British rule in Bengal in 1757?",
+            "options": [
+              "Treaty of Allahabad",
+              "Treaty of Chandernagore",
+              "Treaty of Paris",
+              "Treaty of Pleasance"
+            ],
+            "correctIndex": 0,
+            "explanation": "The Treaty of Pleasance was signed by the East India Company.",
+            "difficulty": "Medium",
+            "topicId": "gs-bengal",
+            "source": "ai_generated",
+            "generatedDate": "2026-08-12"
+          },
+          {
+            "question": "Which of the following was a key feature of the Non-Cooperation Movement led by Mahatma Gandhi in Bengal?",
+            "options": [
+              "Quit India Movement",
+              "Civil Disobedience Movement",
+              "Swadeshi Movement",
+              "Boycott of foreign goods"
+            ],
+            "correctIndex": 3,
+            "explanation": "The movement aimed to boycott foreign goods and promote Swadeshi products.",
+            "difficulty": "Medium",
+            "topicId": "gs-freedom",
+            "source": "ai_generated",
+            "generatedDate": "2026-08-12"
+          },
+          {
+            "question": "Who was the key leader of the Bengal Volunteers during the Non-Cooperation Movement?",
+            "options": [
+              "Jatin Das",
+              "Bhagat Singh",
+              "Sukumar Mitra",
+              "Sachindra Nath Sanyal"
+            ],
+            "correctIndex": 2,
+            "explanation": "Sachindra Nath Sanyal was a key figure of the Bengal Volunteers.",
+            "difficulty": "Medium",
+            "topicId": "gs-bengal",
+            "source": "ai_generated",
+            "generatedDate": "2026-08-12"
+          }
+        ],
+        "questionCount": 5
+      },
+      "gs-wb-geo": {
+        "topicName": "West Bengal Geography",
+        "subjectName": "General Studies",
+        "questions": [
+          {
+            "question": "Which of the following rivers is the longest in West Bengal?",
+            "options": [
+              "Brahmaputra",
+              "Ganges",
+              "Hooghly",
+              "Torsa"
+            ],
+            "correctIndex": 2,
+            "explanation": "Hooghly is a major distributary of the Ganges.",
+            "difficulty": "Easy",
+            "topicId": "gs-wb-geo",
+            "source": "ai_generated",
+            "generatedDate": "2026-08-12"
+          },
+          {
+            "question": "What is the highest peak in the Darjeeling Himalayan hill region?",
+            "options": [
+              "Sandakphu",
+              "Phalut",
+              "Singalila",
+              "Makalu"
+            ],
+            "correctIndex": 0,
+            "explanation": "Sandakphu is at an elevation of 3,636 meters.",
+            "difficulty": "Medium",
+            "topicId": "gs-wb-geo",
+            "source": "ai_generated",
+            "generatedDate": "2026-08-12"
+          },
+          {
+            "question": "Which of the following islands is located in the Sundarbans region?",
+            "options": [
+              "Sagar Island",
+              "Bhagabatpur Island",
+              "Holliday Island",
+              "Gosaba Island"
+            ],
+            "correctIndex": 2,
+            "explanation": "Holliday Island is a part of the Sundarbans.",
+            "difficulty": "Medium",
+            "topicId": "gs-wb-geo",
+            "source": "ai_generated",
+            "generatedDate": "2026-08-12"
+          },
+          {
+            "question": "What is the name of the largest delta in West Bengal?",
+            "options": [
+              "Sundarbans Delta",
+              "Ganges Delta",
+              "Brahmaputra Delta",
+              "Hooghly Delta"
+            ],
+            "correctIndex": 1,
+            "explanation": "The Ganges Delta is formed by the confluence of the Ganges, Brahmaputra, and Meghna rivers.",
+            "difficulty": "Easy",
+            "topicId": "gs-wb-geo",
+            "source": "ai_generated",
+            "generatedDate": "2026-08-12"
+          },
+          {
+            "question": "Which of the following mountain ranges is located in the northern part of West Bengal?",
+            "options": [
+              "Eastern Ghats",
+              "Chota Nagpur Plateau",
+              "Himalayas",
+              "Sub-Himalayas"
+            ],
+            "correctIndex": 2,
+            "explanation": "The Himalayas stretch across northern West Bengal, forming a part of its border with Nepal and Sikkim.",
+            "difficulty": "Medium",
+            "topicId": "gs-wb-geo",
+            "source": "ai_generated",
+            "generatedDate": "2026-08-12"
+          }
+        ],
+        "questionCount": 5
+      },
+      "gs-current": {
+        "topicName": "Current Affairs (Last 12 Months)",
+        "subjectName": "General Studies",
+        "questions": [
+          {
+            "question": "The Government of West Bengal has recently launched a new scheme to promote tourism in the state. What is the name of this scheme?",
+            "options": [
+              "Swacch Bharat Abhiyan",
+              "Utkarsh Bangla",
+              "Sabuj Sangha",
+              "Prakriti Bachao Abhiyan"
+            ],
+            "correctIndex": 1,
+            "explanation": "The scheme aims to promote tourism in the state.",
+            "difficulty": "Medium",
+            "topicId": "gs-current",
+            "source": "ai_generated",
+            "generatedDate": "2026-08-12"
+          },
+          {
+            "question": "Which of the following rivers in West Bengal has been declared as a National Waterway?",
+            "options": [
+              "Ganges",
+              "Hooghly",
+              "Brahmaputra",
+              "Damodar"
+            ],
+            "correctIndex": 1,
+            "explanation": "It has been declared as National Waterway 44.",
+            "difficulty": "Medium",
+            "topicId": "gs-current",
+            "source": "ai_generated",
+            "generatedDate": "2026-08-12"
+          },
+          {
+            "question": "The Government of West Bengal has recently launched a new program to promote renewable energy in the state. What is the name of this program?",
+            "options": [
+              "Udaya Bangla",
+              "Surya Bangla",
+              "Shakti Bangla",
+              "Prakriti Bangla"
+            ],
+            "correctIndex": 2,
+            "explanation": "The program aims to promote renewable energy in the state.",
+            "difficulty": "Medium",
+            "topicId": "gs-current",
+            "source": "ai_generated",
+            "generatedDate": "2026-08-12"
+          },
+          {
+            "question": "Which of the following festivals is celebrated with great enthusiasm in the state of West Bengal?",
+            "options": [
+              "Diwali",
+              "Durga Puja",
+              "Holi",
+              "Eid"
+            ],
+            "correctIndex": 1,
+            "explanation": "It is a significant festival in West Bengal.",
+            "difficulty": "Easy",
+            "topicId": "gs-current",
+            "source": "ai_generated",
+            "generatedDate": "2026-08-12"
+          },
+          {
+            "question": "The Government of West Bengal has recently launched a new scheme to promote digital literacy in the state. What is the name of this scheme?",
+            "options": [
+              "Digital Bangla",
+              "Swavalamban Bangla",
+              "Shiksha Bangla",
+              "Krishi Bangla"
+            ],
+            "correctIndex": 0,
+            "explanation": "The scheme aims to promote digital literacy in the state.",
+            "difficulty": "Medium",
+            "topicId": "gs-current",
+            "source": "ai_generated",
+            "generatedDate": "2026-08-12"
+          }
+        ],
+        "questionCount": 5
+      }
+    },
+    "math": {
+      "math-percent": {
+        "topicName": "Percentage & Profit-Loss",
+        "subjectName": "Arithmetic",
+        "questions": [
+          {
+            "question": "A shopkeeper in Kolkata sells an item at a profit of 20% and still incurs a loss of 2%. The cost price of the item is?",
+            "options": [
+              "₹ 100",
+              "₹ 120",
+              "₹ 150",
+              "₹ 180"
+            ],
+            "correctIndex": 2,
+            "explanation": "Let's assume the selling price is SP. Given a 20% profit, SP = 1.2 * CP, and a 2% loss, SP = 0.98 * CP.",
+            "difficulty": "Medium",
+            "topicId": "math-profit-loss",
+            "source": "ai_generated",
+            "generatedDate": "2026-08-12"
+          },
+          {
+            "question": "A person buys a share at ₹ 80 and sells it at a 10% loss. What is the selling price?",
+            "options": [
+              "₹ 72",
+              "₹ 70",
+              "₹ 74",
+              "₹ 76"
+            ],
+            "correctIndex": 0,
+            "explanation": "If the loss is 10%, then the selling price is 90% of the cost price.",
+            "difficulty": "Easy",
+            "topicId": "math-profit-loss",
+            "source": "ai_generated",
+            "generatedDate": "2026-08-12"
+          },
+          {
+            "question": "If 15% of a number is 27, what is 12% of the number?",
+            "options": [
+              "12",
+              "13",
+              "15",
+              "16"
+            ],
+            "correctIndex": 1,
+            "explanation": "Let's assume the number is x. Then 15% of x = 0.15x = 27.",
+            "difficulty": "Easy",
+            "topicId": "math-percentage",
+            "source": "ai_generated",
+            "generatedDate": "2026-08-12"
+          },
+          {
+            "question": "A certain amount of money is invested at 10% per annum compound interest for 2 years. If the amount becomes 1.21 times the principal after 2 years, what is the rate of interest?",
+            "options": [
+              "8%",
+              "10%",
+              "12%",
+              "15%"
+            ],
+            "correctIndex": 2,
+            "explanation": "For compound interest, A = P(1 + r/100)^n, where A is the amount, P is the principal, r is the rate of interest, and n is the time period.",
+            "difficulty": "Hard",
+            "topicId": "math-interest",
+            "source": "ai_generated",
+            "generatedDate": "2026-08-12"
+          },
+          {
+            "question": "A person buys a item at a discount of 5% and sells it at a profit of 15%. If the cost price is ₹ 100, what is the selling price?",
+            "options": [
+              "₹ 105",
+              "₹ 110",
+              "₹ 115",
+              "₹ 120"
+            ],
+            "correctIndex": 2,
+            "explanation": "Let's assume the selling price is SP. Given a 5% discount, CP = 95% of SP, and a 15% profit, SP = 115% of CP.",
+            "difficulty": "Medium",
+            "topicId": "math-profit-loss",
+            "source": "ai_generated",
+            "generatedDate": "2026-08-12"
+          }
+        ],
+        "questionCount": 5
+      },
+      "math-interest": {
+        "topicName": "Simple & Compound Interest",
+        "subjectName": "Arithmetic",
+        "questions": [
+          {
+            "question": "A person invested Rs. 5000 in a fixed deposit for 2 years at 9% per annum compound interest. Find out the amount after 2 years.",
+            "options": [
+              "Rs. 5410",
+              "Rs. 5411",
+              "Rs. 5412",
+              "Rs. 5413"
+            ],
+            "correctIndex": 0,
+            "explanation": "Use compound interest formula.",
+            "difficulty": "Medium",
+            "topicId": "math-interest",
+            "source": "ai_generated",
+            "generatedDate": "2026-08-12"
+          },
+          {
+            "question": "A sum of Rs. 8000 is invested for 3 years at simple interest rate of 6% per annum. Find out the interest earned.",
+            "options": [
+              "Rs. 720",
+              "Rs. 729",
+              "Rs. 738",
+              "Rs. 768"
+            ],
+            "correctIndex": 1,
+            "explanation": "Use simple interest formula.",
+            "difficulty": "Medium",
+            "topicId": "math-interest",
+            "source": "ai_generated",
+            "generatedDate": "2026-08-12"
+          },
+          {
+            "question": "What is the rate of interest per annum if a sum of Rs. 12000 is invested for 2 years at simple interest and Rs. 288 as interest is earned?",
+            "options": [
+              "4%",
+              "5%",
+              "6%",
+              "7%"
+            ],
+            "correctIndex": 2,
+            "explanation": "Use simple interest formula and solve for rate of interest.",
+            "difficulty": "Medium",
+            "topicId": "math-interest",
+            "source": "ai_generated",
+            "generatedDate": "2026-08-12"
+          },
+          {
+            "question": "Find the difference in the amount between simple and compound interest for 3 years at 8% per annum on a principal of Rs. 15000.",
+            "options": [
+              "Rs. 100",
+              "Rs. 150",
+              "Rs. 200",
+              "Rs. 250"
+            ],
+            "correctIndex": 3,
+            "explanation": "Calculate both simple and compound interest and find the difference.",
+            "difficulty": "Medium",
+            "topicId": "math-interest",
+            "source": "ai_generated",
+            "generatedDate": "2026-08-12"
+          },
+          {
+            "question": "A person borrowed Rs. 20000 for 2 years at 8% per annum compound interest. Find the amount to be paid including the interest at the end of 2 years.",
+            "options": [
+              "Rs. 22090",
+              "Rs. 22091",
+              "Rs. 22092",
+              "Rs. 22093"
+            ],
+            "correctIndex": 0,
+            "explanation": "Use compound interest formula.",
+            "difficulty": "Medium",
+            "topicId": "math-interest",
+            "source": "ai_generated",
+            "generatedDate": "2026-08-12"
+          }
+        ],
+        "questionCount": 5
+      },
+      "math-tw": {
+        "topicName": "Time, Work & Pipes",
+        "subjectName": "Arithmetic",
+        "questions": [
+          {
+            "question": "A pipe can fill 3/8th of a 360-meter long canal in 2 hours. How much time will it take to fill the canal completely?",
+            "options": [
+              "4 hours",
+              "5 hours",
+              "6 hours",
+              "8 hours"
+            ],
+            "correctIndex": 0,
+            "explanation": "We can calculate the time taken using the formula.",
+            "difficulty": "Medium",
+            "topicId": "math-tw",
+            "source": "ai_generated",
+            "generatedDate": "2026-08-12"
+          },
+          {
+            "question": "A man can do a piece of work in 8 days. He works for 3 days and then stops. How much of the work has been completed?",
+            "options": [
+              "1/8th",
+              "3/8th",
+              "1/2",
+              "3/4"
+            ],
+            "correctIndex": 2,
+            "explanation": "We can calculate the work done as a fraction.",
+            "difficulty": "Easy",
+            "topicId": "math-tw",
+            "source": "ai_generated",
+            "generatedDate": "2026-08-12"
+          },
+          {
+            "question": "Two pipes A and B can fill a tank in 6 hours and 12 hours respectively. If both the pipes work together, how long will it take to fill the tank?",
+            "options": [
+              "4 hours",
+              "4.5 hours",
+              "5 hours",
+              "6 hours"
+            ],
+            "correctIndex": 1,
+            "explanation": "We can calculate the time taken using the formula.",
+            "difficulty": "Medium",
+            "topicId": "math-tw",
+            "source": "ai_generated",
+            "generatedDate": "2026-08-12"
+          },
+          {
+            "question": "A group of 8 workers can complete a piece of work in 6 days. How many days will it take for 6 workers to complete the work?",
+            "options": [
+              "4 days",
+              "6 days",
+              "8 days",
+              "10 days"
+            ],
+            "correctIndex": 2,
+            "explanation": "We can calculate the time taken using the inverse proportionality principle.",
+            "difficulty": "Medium",
+            "topicId": "math-tw",
+            "source": "ai_generated",
+            "generatedDate": "2026-08-12"
+          },
+          {
+            "question": "A pump can empty a tank in 12 hours. How long will it take to empty 1/4th of the tank?",
+            "options": [
+              "2 hours",
+              "3 hours",
+              "4 hours",
+              "6 hours"
+            ],
+            "correctIndex": 2,
+            "explanation": "We can calculate the time taken using the inverse proportionality principle.",
+            "difficulty": "Easy",
+            "topicId": "math-tw",
+            "source": "ai_generated",
+            "generatedDate": "2026-08-12"
+          }
+        ],
+        "questionCount": 5
+      }
+    },
+    "reasoning": {
+      "rs-coding": {
+        "topicName": "Coding-Decoding",
+        "subjectName": "Reasoning",
+        "questions": [
+          {
+            "question": "If 'DOG' is coded as 'CAT', how will 'BIRD' be coded?",
+            "options": [
+              "BAT",
+              "CAT",
+              "HAT",
+              "MAT"
+            ],
+            "correctIndex": 0,
+            "explanation": "The pattern is replacing the first letter with the corresponding letter in the alphabet.",
+            "difficulty": "Medium",
+            "topicId": "rs-coding",
+            "source": "ai_generated",
+            "generatedDate": "2026-08-12"
+          },
+          {
+            "question": "In a certain code, 'TIGER' is coded as 'GURHI'. How will 'WOLF' be coded?",
+            "options": [
+              "FGPQ",
+              "LZHO",
+              "KVMN",
+              "FGLP"
+            ],
+            "correctIndex": 2,
+            "explanation": "The pattern is shifting each letter two positions forward in the alphabet.",
+            "difficulty": "Medium",
+            "topicId": "rs-coding",
+            "source": "ai_generated",
+            "generatedDate": "2026-08-12"
+          },
+          {
+            "question": "If '1' is coded as 'A', '2' as 'B', and so on, then what is the code for '12'?",
+            "options": [
+              "L",
+              "M",
+              "N",
+              "O"
+            ],
+            "correctIndex": 3,
+            "explanation": "The code is based on the alphabetical order of the corresponding numerical value.",
+            "difficulty": "Medium",
+            "topicId": "rs-coding",
+            "source": "ai_generated",
+            "generatedDate": "2026-08-12"
+          },
+          {
+            "question": "In a certain code, 'SUNNY' is coded as 'NYYRS'. How will 'RAGA' be coded?",
+            "options": [
+              "YAGR",
+              "AGAY",
+              "YGRA",
+              "GARY"
+            ],
+            "correctIndex": 0,
+            "explanation": "The pattern is reversing the order of the letters.",
+            "difficulty": "Medium",
+            "topicId": "rs-coding",
+            "source": "ai_generated",
+            "generatedDate": "2026-08-12"
+          },
+          {
+            "question": "If 'HELLO' is coded as 'SVLVT', then what is the code for 'WORLD'?",
+            "options": [
+              "LZRUHP",
+              "SVLVT",
+              "LVTWU",
+              "LVTWV"
+            ],
+            "correctIndex": 0,
+            "explanation": "The pattern is replacing each letter with a letter that is two positions ahead of it in the alphabet.",
+            "difficulty": "Medium",
+            "topicId": "rs-coding",
+            "source": "ai_generated",
+            "generatedDate": "2026-08-12"
+          }
+        ],
+        "questionCount": 5
+      },
+      "rs-blood": {
+        "topicName": "Blood Relations",
+        "subjectName": "Reasoning",
+        "questions": [
+          {
+            "question": "A person X is the brother of Z, father of Y and grandfather of K. How is Y related to K?",
+            "options": [
+              "Son",
+              "Father",
+              "Brother",
+              "Grandfather"
+            ],
+            "correctIndex": 0,
+            "explanation": "Y is the son of X.",
+            "difficulty": "Medium",
+            "topicId": "rs-blood",
+            "source": "ai_generated",
+            "generatedDate": "2026-08-12"
+          },
+          {
+            "question": "A is the mother of B. B is the daughter of C. How is C related to A?",
+            "options": [
+              "Father",
+              "Mother",
+              "Son",
+              "Grandson"
+            ],
+            "correctIndex": 1,
+            "explanation": "C is the mother of A.",
+            "difficulty": "Easy",
+            "topicId": "rs-blood",
+            "source": "ai_generated",
+            "generatedDate": "2026-08-12"
+          },
+          {
+            "question": "Father of R is the son of X. Grandfather of R is the brother of Y. How is R related to Y?",
+            "options": [
+              "Father",
+              "Son",
+              "Brother",
+              "Uncle"
+            ],
+            "correctIndex": 2,
+            "explanation": "R is the son of Y's brother's son.",
+            "difficulty": "Medium",
+            "topicId": "rs-blood",
+            "source": "ai_generated",
+            "generatedDate": "2026-08-12"
+          },
+          {
+            "question": "A is the maternal aunt of B. B is the daughter of C. How is C related to A?",
+            "options": [
+              "Father",
+              "Mother",
+              "Son",
+              "Grandson"
+            ],
+            "correctIndex": 0,
+            "explanation": "C is the sister of B's mother.",
+            "difficulty": "Medium",
+            "topicId": "rs-blood",
+            "source": "ai_generated",
+            "generatedDate": "2026-08-12"
+          },
+          {
+            "question": "A is the daughter of B. B is the wife of C. C is the son of D. How is D related to A?",
+            "options": [
+              "Father",
+              "Mother",
+              "Son",
+              "Grandson"
+            ],
+            "correctIndex": 0,
+            "explanation": "D is the father of A's father.",
+            "difficulty": "Hard",
+            "topicId": "rs-blood",
+            "source": "ai_generated",
+            "generatedDate": "2026-08-12"
+          }
+        ],
+        "questionCount": 5
+      },
+      "rs-direction": {
+        "topicName": "Direction Sense",
+        "subjectName": "Reasoning",
+        "questions": [
+          {
+            "question": "A person starts walking from the Howrah Bridge, turns left at the Esplanade, and walks for 200 meters. Then, he turns right and walks for another 150 meters. Which direction is he facing now?",
+            "options": [
+              "South",
+              "North",
+              "East",
+              "West"
+            ],
+            "correctIndex": 2,
+            "explanation": "He is facing East after the second turn.",
+            "difficulty": "Medium",
+            "topicId": "rs-direction",
+            "source": "ai_generated",
+            "generatedDate": "2026-08-12"
+          },
+          {
+            "question": "A man walks 15 meters north from the Dakshineswar Kali Temple, then 20 meters east, and finally 5 meters south. In which direction is he now in relation to the temple?",
+            "options": [
+              "North",
+              "South",
+              "East",
+              "West"
+            ],
+            "correctIndex": 3,
+            "explanation": "He is now 10 meters west of the temple.",
+            "difficulty": "Medium",
+            "topicId": "rs-direction",
+            "source": "ai_generated",
+            "generatedDate": "2026-08-12"
+          },
+          {
+            "question": "A person is standing at the Park Circus crossing. If he walks 250 meters towards the north, then 300 meters towards the east, and finally 100 meters towards the south, in which direction is he now?",
+            "options": [
+              "North",
+              "East",
+              "South",
+              "West"
+            ],
+            "correctIndex": 1,
+            "explanation": "He is now facing East.",
+            "difficulty": "Medium",
+            "topicId": "rs-direction",
+            "source": "ai_generated",
+            "generatedDate": "2026-08-12"
+          },
+          {
+            "question": "A man walks 8 meters towards the Birla Planetarium from the Science City. Then, he turns left and walks 5 meters. After that, he turns right and walks 10 meters. Which direction is he now?",
+            "options": [
+              "East",
+              "West",
+              "North",
+              "South"
+            ],
+            "correctIndex": 2,
+            "explanation": "He is now facing North.",
+            "difficulty": "Medium",
+            "topicId": "rs-direction",
+            "source": "ai_generated",
+            "generatedDate": "2026-08-12"
+          },
+          {
+            "question": "A person starts from the Alipore Zoo and walks 200 meters towards the north. Then, he turns right and walks 300 meters. After that, he turns left and walks 150 meters. Which direction is he now?",
+            "options": [
+              "North",
+              "East",
+              "South",
+              "West"
+            ],
+            "correctIndex": 0,
+            "explanation": "He is now facing South.",
+            "difficulty": "Medium",
+            "topicId": "rs-direction",
+            "source": "ai_generated",
+            "generatedDate": "2026-08-12"
+          }
+        ],
+        "questionCount": 5
+      }
+    }
+  }
+}
