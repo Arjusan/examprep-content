@@ -1,12 +1,12 @@
 {
   "exam": "si",
   "generatedDate": "2026-08-13",
-  "generatedAt": "2026-08-13T03:08:00.353Z",
+  "generatedAt": "2026-08-13T13:54:18.837Z",
   "model": "llama-3.1-8b-instant",
   "provider": "groq",
   "source": "ai_generated",
   "reviewStatus": "pending",
-  "totalQuestions": 40,
+  "totalQuestions": 50,
   "subjects": {
     "gs": {
       "gs-polity": {
@@ -14,76 +14,76 @@
         "subjectName": "General Studies",
         "questions": [
           {
-            "question": "Which of the following articles of the Indian Constitution specifically mentions the power of the State to regulate the burden of taxation?",
+            "question": "Which Article of the Indian Constitution guarantees fundamental rights?",
             "options": [
-              "Article 73",
-              "Article 246",
-              "Article 282",
-              "Article 370"
+              "Article 11",
+              "Article 14",
+              "Article 19",
+              "Article 21"
             ],
             "correctIndex": 2,
-            "explanation": "Article 282 specifically mentions the power of the State to regulate the burden of taxation.",
+            "explanation": "Article 19 of the Indian Constitution guarantees fundamental rights.",
+            "difficulty": "Easy",
+            "topicId": "gs-polity",
+            "source": "ai_generated",
+            "generatedDate": "2026-08-13"
+          },
+          {
+            "question": "Which of the following is the Preamble to the Constitution of India?",
+            "options": [
+              "We, the people of India",
+              "We, the people of Bangladesh",
+              "We, the people of Pakistan",
+              "We, the people of Sri Lanka"
+            ],
+            "correctIndex": 0,
+            "explanation": "The Preamble to the Constitution of India is 'We, the people of India'.",
             "difficulty": "Medium",
             "topicId": "gs-polity",
             "source": "ai_generated",
             "generatedDate": "2026-08-13"
           },
           {
-            "question": "What is the name of the highest court in West Bengal?",
+            "question": "Under which Article of the Constitution, the President of India can call a joint sitting of both houses of Parliament?",
+            "options": [
+              "Article 79",
+              "Article 80",
+              "Article 108",
+              "Article 122"
+            ],
+            "correctIndex": 2,
+            "explanation": "Article 108 of the Constitution empowers the President to call a joint sitting of both houses of Parliament.",
+            "difficulty": "Medium",
+            "topicId": "gs-polity",
+            "source": "ai_generated",
+            "generatedDate": "2026-08-13"
+          },
+          {
+            "question": "Which of the following is the highest court in the West Bengal State?",
             "options": [
               "Calcutta High Court",
-              "West Bengal Judicial Commission",
-              "West Bengal District Courts",
-              "West Bengal Law Commission"
+              "Calcutta Supreme Court",
+              "West Bengal Supreme Court",
+              "Kolkata High Court"
             ],
             "correctIndex": 0,
-            "explanation": "The Calcutta High Court is the highest court in West Bengal.",
-            "difficulty": "Easy",
+            "explanation": "The Calcutta High Court is the highest court in the West Bengal State.",
+            "difficulty": "Medium",
             "topicId": "gs-polity",
             "source": "ai_generated",
             "generatedDate": "2026-08-13"
           },
           {
-            "question": "According to the Indian Constitution, which of the following is a fundamental duty of every citizen?",
+            "question": "What is the process by which a part of the Indian Constitution can be amended?",
             "options": [
-              "To vote in elections",
-              "To uphold the Constitution and respect its ideals and institutions",
-              "To pay taxes on time",
-              "To participate in protest marches"
+              "Concurrent List",
+              "Amending List",
+              "Money Bill",
+              "Ordinance"
             ],
             "correctIndex": 1,
-            "explanation": "To uphold the Constitution and respect its ideals and institutions is a fundamental duty of every citizen.",
-            "difficulty": "Medium",
-            "topicId": "gs-polity",
-            "source": "ai_generated",
-            "generatedDate": "2026-08-13"
-          },
-          {
-            "question": "Which of the following is a feature of the Panchayati Raj system in West Bengal?",
-            "options": [
-              "Three-tier Panchayat structure",
-              "Two-tier Panchayat structure",
-              "Single-tier Panchayat structure",
-              "No Panchayat system is implemented"
-            ],
-            "correctIndex": 0,
-            "explanation": "The Panchayati Raj system in West Bengal has a three-tier Panchayat structure.",
-            "difficulty": "Medium",
-            "topicId": "gs-polity",
-            "source": "ai_generated",
-            "generatedDate": "2026-08-13"
-          },
-          {
-            "question": "What is the term for the separation of powers among the legislative, executive, and judicial branches of the government in India?",
-            "options": [
-              "checks and balances",
-              "separation of powers",
-              "rule of law",
-              "federalism"
-            ],
-            "correctIndex": 1,
-            "explanation": "The separation of powers is the term for the separation of powers among the legislative, executive, and judicial branches of the government in India.",
-            "difficulty": "Medium",
+            "explanation": "The Amending List in the Indian Constitution is the process by which a part of the Constitution can be amended.",
+            "difficulty": "Hard",
             "topicId": "gs-polity",
             "source": "ai_generated",
             "generatedDate": "2026-08-13"
@@ -91,164 +91,164 @@
         ],
         "questionCount": 5
       },
-      "gs-wb-geo": {
-        "topicName": "West Bengal Geography",
+      "gs-freedom": {
+        "topicName": "Indian Freedom Struggle & Bengal",
         "subjectName": "General Studies",
         "questions": [
           {
-            "question": "Which one of the following rivers originates from the Himalayas and flows through West Bengal?",
+            "question": "Who among the following was the founder of the Indian National Congress (1885)?",
             "options": [
-              "Arunachal Pradesh's Brahmaputra River",
-              "Bhutan's Kali River",
-              "Tibet's Teesta River",
-              "Sikkim's Rangeet River"
+              "A. Dadabhai Naoroji",
+              "B. Womesh Chandra Bonnerjee",
+              "C. Allan Octavian Hume",
+              "D. Lala Lajpat Rai"
             ],
             "correctIndex": 2,
-            "explanation": "The Teesta River originates from the Himalayas in Tibet.",
+            "explanation": "He was the key figure behind the formation of the Indian National Congress.",
             "difficulty": "Medium",
-            "topicId": "gs-wb-geo",
+            "topicId": "gs-freedom",
             "source": "ai_generated",
             "generatedDate": "2026-08-13"
           },
           {
-            "question": "Which of the following plateaus is located in West Bengal?",
+            "question": "The Swadeshi Movement of 1905, which had a significant impact on Bengal, was primarily led by which of the following?",
             "options": [
-              "Chhotanagpur Plateau",
-              "Deccan Plateau",
-              "Malwa Plateau",
-              "Chanda Plateau"
+              "A. Rabindranath Tagore",
+              "B. Aurobindo Ghosh",
+              "C. Subhas Chandra Bose",
+              "D. Bipin Chandra Pal"
             ],
             "correctIndex": 0,
-            "explanation": "The Chhotanagpur Plateau is a part of the eastern Deccan Plateau.",
-            "difficulty": "Easy",
-            "topicId": "gs-wb-geo",
+            "explanation": "He was a key figure in the development of the Swadeshi Movement in Bengal.",
+            "difficulty": "Medium",
+            "topicId": "gs-freedom",
             "source": "ai_generated",
             "generatedDate": "2026-08-13"
           },
           {
-            "question": "Which of the following is the highest peak in the Darjeeling Himalayan hill region?",
+            "question": "Which of the following acts was passed by the British government in 1859 to introduce the principle of 'District Magistrates' in Bengal?",
             "options": [
-              "Sandakphu",
-              "Singalila Peak",
-              "Tongchol La",
-              "Kangchenjunga's peak"
+              "A. Indian Councils Act, 1858",
+              "B. Indian Act of 1857",
+              "C. Indian District Administration Act, 1859",
+              "D. Government of India Act, 1858"
+            ],
+            "correctIndex": 2,
+            "explanation": "The act aimed to improve the administrative structure of Bengal.",
+            "difficulty": "Medium",
+            "topicId": "gs-bengal",
+            "source": "ai_generated",
+            "generatedDate": "2026-08-13"
+          },
+          {
+            "question": "The Indian National Army (I.N.A.) formed during World War II, had a significant presence in which region of Bengal?",
+            "options": [
+              "A. Midnapore",
+              "B. Jalpaiguri",
+              "C. Malda",
+              "D. Birbhum"
+            ],
+            "correctIndex": 2,
+            "explanation": "The region was one of the key strongholds of the I.N.A. in Bengal.",
+            "difficulty": "Medium",
+            "topicId": "gs-freedom",
+            "source": "ai_generated",
+            "generatedDate": "2026-08-13"
+          },
+          {
+            "question": "Who among the following Bengali revolutionaries was hanged to death in 1908 for his role in the Alipore Bomb Case?",
+            "options": [
+              "A. Khudiram Bose",
+              "B. Prafulla Chaki",
+              "C. Bhagat Singh",
+              "D. Rani Rashmoni"
             ],
             "correctIndex": 0,
-            "explanation": "Sandakphu is the highest peak in the Darjeeling Himalayan hill region.",
+            "explanation": "He was a key figure in the Alipore Bomb Case.",
             "difficulty": "Medium",
-            "topicId": "gs-wb-geo",
+            "topicId": "gs-bengal",
+            "source": "ai_generated",
+            "generatedDate": "2026-08-13"
+          }
+        ],
+        "questionCount": 5
+      },
+      "gs-current": {
+        "topicName": "Current Affairs (Last 12 Months)",
+        "subjectName": "General Studies",
+        "questions": [
+          {
+            "question": "Who is the current Chief Minister of West Bengal?",
+            "options": [
+              "Mamata Banerjee",
+              "Suvendu Adhikari",
+              "Abhishek Banerjee",
+              "Shubhendu Adhikari"
+            ],
+            "correctIndex": 0,
+            "explanation": "She is the Chief Minister of West Bengal.",
+            "difficulty": "Medium",
+            "topicId": "gs-current",
             "source": "ai_generated",
             "generatedDate": "2026-08-13"
           },
           {
-            "question": "Which of the following rivers flows through the Sundarbans delta?",
+            "question": "Which of the following rivers forms the border between Bangladesh and West Bengal?",
             "options": [
-              "Hooghly River",
-              "Ganges River",
+              "Kolkata River",
+              "Bhagirathi River",
               "Padma River",
-              "Brahmaputra River"
-            ],
-            "correctIndex": 3,
-            "explanation": "The Sundarbans delta is formed by the combined flow of the Ganges, Hooghly, and Brahmaputra rivers.",
-            "difficulty": "Easy",
-            "topicId": "gs-wb-geo",
-            "source": "ai_generated",
-            "generatedDate": "2026-08-13"
-          },
-          {
-            "question": "Which of the following is a prominent island in the Sundarbans delta?",
-            "options": [
-              "Sagar Island",
-              "Gangasagar Island",
-              "Hollong Island",
-              "Kochuberia Island"
-            ],
-            "correctIndex": 1,
-            "explanation": "Gangasagar Island is a prominent island in the Sundarbans delta.",
-            "difficulty": "Easy",
-            "topicId": "gs-wb-geo",
-            "source": "ai_generated",
-            "generatedDate": "2026-08-13"
-          }
-        ],
-        "questionCount": 5
-      },
-      "gs-wb-schemes": {
-        "topicName": "West Bengal Government Schemes",
-        "subjectName": "General Studies",
-        "questions": [
-          {
-            "question": "Under the Swasthya Sathi Scheme, what is the primary goal?",
-            "options": [
-              "To provide cashless treatment to all citizens",
-              "To provide free treatment to patients in government hospitals",
-              "To cover 10 crore families under health insurance",
-              "To reduce out-of-pocket expenditure on healthcare"
-            ],
-            "correctIndex": 3,
-            "explanation": "The Swasthya Sathi Scheme aims to reduce out-of-pocket expenditure on healthcare.",
-            "difficulty": "Medium",
-            "topicId": "gs-wb-schemes",
-            "source": "ai_generated",
-            "generatedDate": "2026-08-13"
-          },
-          {
-            "question": "The Kanyashree Prakalpa is an initiative launched by the West Bengal government to?",
-            "options": [
-              "Increase literacy among girls",
-              "Provide financial assistance to girls for education",
-              "Support girls in rural areas for higher education",
-              "Promote girls' education and prevent child marriage"
-            ],
-            "correctIndex": 4,
-            "explanation": "This initiative promotes girls' education and prevents child marriage.",
-            "difficulty": "Easy",
-            "topicId": "gs-wb-schemes",
-            "source": "ai_generated",
-            "generatedDate": "2026-08-13"
-          },
-          {
-            "question": "The Duare Duare Ration Scheme was launched by the state government to provide?",
-            "options": [
-              "Ration to the poor and underprivileged communities",
-              "Ration to the people of North Bengal",
-              "Ration to the people of South Bengal",
-              "Ration to the people of Kolkata"
-            ],
-            "correctIndex": 0,
-            "explanation": "The Duare Duare Ration Scheme aims to provide ration to the poor and underprivileged communities.",
-            "difficulty": "Easy",
-            "topicId": "gs-wb-schemes",
-            "source": "ai_generated",
-            "generatedDate": "2026-08-13"
-          },
-          {
-            "question": "The Sakha (One Stop Centre) Scheme was launched by the West Bengal government to?",
-            "options": [
-              "Provide shelter to women in distress",
-              "Provide legal aid to women in distress",
-              "Provide counseling and support to women in distress",
-              "Provide emergency assistance to women in distress"
+              "Ganges River"
             ],
             "correctIndex": 2,
-            "explanation": "The Sakha (One Stop Centre) Scheme provides counseling and support to women in distress.",
+            "explanation": "The Padma River forms a part of the border between Bangladesh and West Bengal.",
             "difficulty": "Medium",
-            "topicId": "gs-wb-schemes",
+            "topicId": "gs-current",
             "source": "ai_generated",
             "generatedDate": "2026-08-13"
           },
           {
-            "question": "The Banglar Krishi Bikash (BKB) Scheme was launched by the state government to?",
+            "question": "The 2024 India floods affected which state in West Bengal?",
             "options": [
-              "Promote organic farming in West Bengal",
-              "Increase crop production and productivity in West Bengal",
-              "Provide financial assistance to farmers in West Bengal",
-              "Promote irrigation facilities in West Bengal"
+              "North 24 Parganas",
+              "South 24 Parganas",
+              "Paschim Bardhaman",
+              "Darjeeling"
             ],
-            "correctIndex": 1,
-            "explanation": "The Banglar Krishi Bikash (BKB) Scheme aims to increase crop production and productivity in West Bengal.",
+            "correctIndex": "1",
+            "explanation": "South 24 Parganas was one of the worst-hit districts.",
             "difficulty": "Medium",
-            "topicId": "gs-wb-schemes",
+            "topicId": "gs-current",
+            "source": "ai_generated",
+            "generatedDate": "2026-08-13"
+          },
+          {
+            "question": "The West Bengal government has recently launched a new initiative called 'Yubayatri' for?",
+            "options": [
+              "Tourism in Darjeeling",
+              "Education in rural areas",
+              "Cultural preservation",
+              "Youth employment"
+            ],
+            "correctIndex": "2",
+            "explanation": "The initiative aims to preserve and promote the state's rich cultural heritage.",
+            "difficulty": "Medium",
+            "topicId": "gs-current",
+            "source": "ai_generated",
+            "generatedDate": "2026-08-13"
+          },
+          {
+            "question": "Which of the following cities in West Bengal has been selected under the Smart City Mission?",
+            "options": [
+              "Kolkata",
+              "Howrah",
+              "Siliguri",
+              "Asansol"
+            ],
+            "correctIndex": "3",
+            "explanation": "Asansol was selected under the Smart City Mission in 2015.",
+            "difficulty": "Medium",
+            "topicId": "gs-current",
             "source": "ai_generated",
             "generatedDate": "2026-08-13"
           }
@@ -257,164 +257,164 @@
       }
     },
     "math": {
-      "math-interest": {
-        "topicName": "Simple & Compound Interest",
+      "math-percent": {
+        "topicName": "Percentage & Profit-Loss",
         "subjectName": "Arithmetic",
         "questions": [
           {
-            "question": "If a person invests ₹ 8,000 at a 6% compound interest rate per annum for 3 years, what will be the amount at the end of 3 years?",
+            "question": "A shopkeeper sold an article at Rs. 750, which is 12.5% more than its cost price. What is the cost price of the article?",
             "options": [
-              "₹ 8,400",
-              "₹ 9,216",
-              "₹ 8,688",
-              "₹ 9,000"
+              "Rs. 667.50",
+              "Rs. 666.00",
+              "Rs. 666.67",
+              "Rs. 661.11"
+            ],
+            "correctIndex": 2,
+            "explanation": "Using the formula, Selling Price = Cost Price + Profit.",
+            "difficulty": "Medium",
+            "topicId": "math-percent",
+            "source": "ai_generated",
+            "generatedDate": "2026-08-13"
+          },
+          {
+            "question": "A fruit seller has 240 kg of apples. He sells 20% of the apples at Rs. 80 per kg and the remaining at Rs. 90 per kg. Find the average selling price per kg of the apples.",
+            "options": [
+              "Rs. 83.50",
+              "Rs. 84.00",
+              "Rs. 84.20",
+              "Rs. 84.50"
+            ],
+            "correctIndex": 0,
+            "explanation": "Calculate the total selling price and then find the average price.",
+            "difficulty": "Medium",
+            "topicId": "math-percent",
+            "source": "ai_generated",
+            "generatedDate": "2026-08-13"
+          },
+          {
+            "question": "A person buys 15 shares of Rs. 10 each at Rs. 12 per share. What is his percentage profit if he sells all the shares at Rs. 15 per share?",
+            "options": [
+              "6.25%",
+              "6.75%",
+              "8.00%",
+              "8.25%"
+            ],
+            "correctIndex": 2,
+            "explanation": "Use the formula, Profit Percentage = (Selling Price - Cost Price) / Cost Price * 100.",
+            "difficulty": "Easy",
+            "topicId": "math-percent",
+            "source": "ai_generated",
+            "generatedDate": "2026-08-13"
+          },
+          {
+            "question": "If a car is sold at a loss of 10%, the selling price will be Rs. 36,800. What is the cost price of the car?",
+            "options": [
+              "Rs. 40,000",
+              "Rs. 40,800",
+              "Rs. 41,000",
+              "Rs. 41,600"
             ],
             "correctIndex": 1,
-            "explanation": "Using the compound interest formula A = P(1 + r)^n",
-            "difficulty": "Medium",
-            "topicId": "math-interest",
-            "source": "ai_generated",
-            "generatedDate": "2026-08-13"
-          },
-          {
-            "question": "A person buys a fixed deposit of ₹ 50,000 for 2 years at a 5% simple interest rate. What is the total amount he will receive at the end of 2 years?",
-            "options": [
-              "₹ 52,500",
-              "₹ 52,000",
-              "₹ 51,999",
-              "₹ 51,500"
-            ],
-            "correctIndex": 0,
-            "explanation": "Using the simple interest formula A = P + (P * r * t)",
+            "explanation": "Use the formula, Cost Price = Selling Price / (1 - Loss Percentage).",
             "difficulty": "Easy",
-            "topicId": "math-interest",
+            "topicId": "math-percent",
             "source": "ai_generated",
             "generatedDate": "2026-08-13"
           },
           {
-            "question": "A bank offers a compound interest rate of 8% per annum. If a person invests ₹ 20,000 for 5 years, what will be the amount at the end of 5 years?",
+            "question": "A man buys a bike for Rs. 1,20,000 and sells it at a loss of 8%. The bike is sold for Rs. 1,08,000. What is the profit/loss percentage if the bike is bought for Rs. 1,05,000?",
             "options": [
-              "₹ 32,360",
-              "₹ 32,000",
-              "₹ 32,400",
-              "₹ 32,800"
-            ],
-            "correctIndex": 0,
-            "explanation": "Using the compound interest formula A = P(1 + r)^n",
-            "difficulty": "Medium",
-            "topicId": "math-interest",
-            "source": "ai_generated",
-            "generatedDate": "2026-08-13"
-          },
-          {
-            "question": "A person invests ₹ 15,000 at a 4% simple interest rate per annum for 4 years. How much interest will be earned in 4 years?",
-            "options": [
-              "₹ 1,920",
-              "₹ 2,000",
-              "₹ 1,800",
-              "₹ 1,600"
+              "1.00%",
+              "1.50%",
+              "3.00%",
+              "6.00%"
             ],
             "correctIndex": 2,
-            "explanation": "Using the simple interest formula SI = (P * r * t)",
+            "explanation": "Compare the selling price with the cost price to find the profit/loss percentage.",
             "difficulty": "Medium",
-            "topicId": "math-interest",
-            "source": "ai_generated",
-            "generatedDate": "2026-08-13"
-          },
-          {
-            "question": "What is the rate of interest at which a sum of ₹ 12,000 will become ₹ 13,650 in 3 years?",
-            "options": [
-              "6%",
-              "7%",
-              "8%",
-              "9%"
-            ],
-            "correctIndex": 2,
-            "explanation": "Using the compound interest formula A = P(1 + r)^n",
-            "difficulty": "Medium",
-            "topicId": "math-interest",
+            "topicId": "math-percent",
             "source": "ai_generated",
             "generatedDate": "2026-08-13"
           }
         ],
         "questionCount": 5
       },
-      "math-tw": {
-        "topicName": "Time, Work & Pipes",
+      "math-interest": {
+        "topicName": "Simple & Compound Interest",
         "subjectName": "Arithmetic",
         "questions": [
           {
-            "question": "A pump can fill 1/4th of a tank in 10 minutes. It can fill 3/4th of the tank in?",
+            "question": "A sum of ₹ 10,000 is borrowed for 2 years at an interest rate of 10% per annum compounded annually. What is the amount of money that can be repaid after 2 years?",
             "options": [
-              "4 minutes",
-              "5 minutes",
-              "12 minutes",
-              "15 minutes"
+              "₹ 11,220",
+              "₹ 11,000",
+              "₹ 11,100",
+              "₹ 10,820"
+            ],
+            "correctIndex": 0,
+            "explanation": "Using compound interest formula with annual compounding.",
+            "difficulty": "Medium",
+            "topicId": "math-interest",
+            "source": "ai_generated",
+            "generatedDate": "2026-08-13"
+          },
+          {
+            "question": "An individual invested ₹ 5,000 in a fixed deposit for 1 year at an interest rate of 8% per annum. What is the simple interest earned on this investment?",
+            "options": [
+              "₹ 400",
+              "₹ 410",
+              "₹ 420",
+              "₹ 400.00"
+            ],
+            "correctIndex": 0,
+            "explanation": "Calculating simple interest with principal, rate, and time.",
+            "difficulty": "Easy",
+            "topicId": "math-interest",
+            "source": "ai_generated",
+            "generatedDate": "2026-08-13"
+          },
+          {
+            "question": "Mr. Roy borrowed ₹ 15,000 for 3 years at an annual interest rate of 12% compounded semi-annually. What is the total amount he needs to repay after 3 years?",
+            "options": [
+              "₹ 19,561",
+              "₹ 19,500",
+              "₹ 19,600",
+              "₹ 19,421"
             ],
             "correctIndex": 2,
-            "explanation": "The remaining 1/4th of the tank will take 10 minutes to fill.",
-            "difficulty": "Medium",
-            "topicId": "math-tw",
+            "explanation": "Using compound interest formula with semi-annual compounding.",
+            "difficulty": "Hard",
+            "topicId": "math-interest",
             "source": "ai_generated",
             "generatedDate": "2026-08-13"
           },
           {
-            "question": "A man can do a piece of work in 10 days, if he works 4 hours a day. How many hours a day will he work to finish the work in 5 days?",
+            "question": "In West Bengal, a fixed deposit of ₹ 8,000 is invested for 6 months at an interest rate of 6% per annum. What is the simple interest earned on this investment?",
             "options": [
-              "4 hours",
-              "5 hours",
-              "6 hours",
-              "8 hours"
+              "₹ 120",
+              "₹ 121",
+              "₹ 122",
+              "₹ 120.00"
             ],
-            "correctIndex": 2,
-            "explanation": "He needs to work more hours a day to complete the work in 5 days.",
-            "difficulty": "Medium",
-            "topicId": "math-tw",
+            "correctIndex": 0,
+            "explanation": "Calculating simple interest with principal, rate, and time.",
+            "difficulty": "Easy",
+            "topicId": "math-interest",
             "source": "ai_generated",
             "generatedDate": "2026-08-13"
           },
           {
-            "question": "Two pipes A and B can fill a tank in 6 hours and 8 hours respectively. If they work together, they can fill the tank in?",
+            "question": "A sum of ₹ 25,000 is borrowed for 4 years at an interest rate of 15% per annum compounded monthly. What is the amount of money that can be repaid after 4 years?",
             "options": [
-              "4 hours",
-              "5 hours",
-              "6 hours",
-              "8 hours"
+              "₹ 40,900",
+              "₹ 41,100",
+              "₹ 41,000",
+              "₹ 40,820"
             ],
-            "correctIndex": 1,
-            "explanation": "When pipes A and B work together, their combined rate of work increases.",
-            "difficulty": "Medium",
-            "topicId": "math-tw",
-            "source": "ai_generated",
-            "generatedDate": "2026-08-13"
-          },
-          {
-            "question": "A tap can fill 1/2 of a cistern in 1 hour and another tap can fill 1/4 of the cistern in 1 hour. If both taps work together, they can fill the cistern in?",
-            "options": [
-              "1 hour",
-              "30 minutes",
-              "45 minutes",
-              "1 hour 15 minutes"
-            ],
-            "correctIndex": 3,
-            "explanation": "They can fill the cistern together in less than 1 hour.",
-            "difficulty": "Medium",
-            "topicId": "math-tw",
-            "source": "ai_generated",
-            "generatedDate": "2026-08-13"
-          },
-          {
-            "question": "A well can be filled by a pipe in 20 days. If 2/5th of the pipe's capacity is used to fill the well, in how many days will the well be filled?",
-            "options": [
-              "12 days",
-              "15 days",
-              "10 days",
-              "8 days"
-            ],
-            "correctIndex": 1,
-            "explanation": "The rate of filling the well is directly proportional to the capacity of the pipe.",
-            "difficulty": "Medium",
-            "topicId": "math-tw",
+            "correctIndex": 0,
+            "explanation": "Using compound interest formula with monthly compounding.",
+            "difficulty": "Hard",
+            "topicId": "math-interest",
             "source": "ai_generated",
             "generatedDate": "2026-08-13"
           }
@@ -426,75 +426,75 @@
         "subjectName": "Arithmetic",
         "questions": [
           {
-            "question": "A train covers a distance of 240 km in 8 hours. How much distance will it cover in 24 hours?",
+            "question": "A car travels from Kolkata to Digha at an average speed of 60 km/h. What distance does it cover in 3 hours?",
             "options": [
-              "288 km",
-              "240 km",
-              "360 km",
-              "320 km"
+              "180 km",
+              "200 km",
+              "220 km",
+              "240 km"
             ],
             "correctIndex": 2,
-            "explanation": "Distance covered is directly proportional to the time taken.",
+            "explanation": "Distance = Speed * Time.",
             "difficulty": "Medium",
             "topicId": "math-tsd",
             "source": "ai_generated",
             "generatedDate": "2026-08-13"
           },
           {
-            "question": "A person travels from Kolkata to Siliguri at an average speed of 60 km/h. How many hours will he take to cover a distance of 360 km?",
+            "question": "A bus starts from Esplanade, Kolkata and reaches Howrah Bridge in 30 minutes. If the average speed of the bus is 40 km/h, what is the distance between Esplanade and Howrah Bridge?",
             "options": [
-              "3 hours",
-              "4 hours",
-              "5 hours",
-              "6 hours"
+              "4 km",
+              "5 km",
+              "6 km",
+              "8 km"
             ],
-            "correctIndex": 0,
-            "explanation": "Time taken is inversely proportional to the speed.",
+            "correctIndex": 3,
+            "explanation": "Speed = Distance / Time.",
             "difficulty": "Medium",
             "topicId": "math-tsd",
             "source": "ai_generated",
             "generatedDate": "2026-08-13"
           },
           {
-            "question": "Two cyclists start from the same point and travel in opposite directions. One travels at 15 km/h and the other at 10 km/h. What is their relative speed?",
+            "question": "A person walks from B.T. Road to Garia at a speed of 5 km/h. If he takes 2 hours to cover the distance, what is the one-way distance?",
             "options": [
-              "10 km/h",
-              "15 km/h",
-              "20 km/h",
-              "25 km/h"
+              "6 km",
+              "8 km",
+              "10 km",
+              "12 km"
             ],
-            "correctIndex": 2,
-            "explanation": "Relative speed is the sum of individual speeds.",
+            "correctIndex": 3,
+            "explanation": "Distance = Speed * Time.",
             "difficulty": "Medium",
             "topicId": "math-tsd",
             "source": "ai_generated",
             "generatedDate": "2026-08-13"
           },
           {
-            "question": "A bus travels from Durgapur to Asansol at an average speed of 50 km/h and returns back at an average speed of 40 km/h. What is its average speed for the entire journey?",
+            "question": "A train travels from Sealdah to Barasat at an average speed of 60 km/h. If the train takes 45 minutes to cover the distance, what is the distance between Sealdah and Barasat?",
             "options": [
-              "45 km/h",
-              "46 km/h",
-              "47 km/h",
-              "48 km/h"
-            ],
-            "correctIndex": 0,
-            "explanation": "Average speed for the entire journey is the harmonic mean of the individual speeds.",
-            "difficulty": "Hard",
-            "topicId": "math-tsd",
-            "source": "ai_generated",
-            "generatedDate": "2026-08-13"
-          },
-          {
-            "question": "A train is traveling from Sealdah to Bardhaman at an average speed of 80 km/h. If it is traveling for 3 hours, how much distance will it cover in the last 45 minutes?",
-            "options": [
-              "18 km",
               "20 km",
-              "22 km",
-              "24 km"
+              "24 km",
+              "30 km",
+              "36 km"
             ],
-            "correctIndex": 2,
-            "explanation": "Distance covered is directly proportional to the time taken.",
+            "correctIndex": 3,
+            "explanation": "Speed = Distance / Time.",
+            "difficulty": "Medium",
+            "topicId": "math-tsd",
+            "source": "ai_generated",
+            "generatedDate": "2026-08-13"
+          },
+          {
+            "question": "A bicycle travels from Science City to Nicco Park at an average speed of 20 km/h. If it takes 1 hour and 15 minutes to cover the distance, what is the one-way distance?",
+            "options": [
+              "15 km",
+              "20 km",
+              "25 km",
+              "30 km"
+            ],
+            "correctIndex": 3,
+            "explanation": "Distance = Speed * Time.",
             "difficulty": "Medium",
             "topicId": "math-tsd",
             "source": "ai_generated",
@@ -505,80 +505,244 @@
       }
     },
     "reasoning": {
+      "rs-coding": {
+        "topicName": "Coding-Decoding",
+        "subjectName": "Reasoning",
+        "questions": [
+          {
+            "question": "If 'D' denotes '3', 'F' denotes '1', 'J' denotes '8', then what will 'B' denote?",
+            "options": [
+              "5",
+              "4",
+              "6",
+              "7"
+            ],
+            "correctIndex": 0,
+            "explanation": "It is based on given numerical value of alphabets.",
+            "difficulty": "Medium",
+            "topicId": "rs-coding",
+            "source": "ai_generated",
+            "generatedDate": "2026-08-13"
+          },
+          {
+            "question": "If 'A' denotes '4', 'B' denotes '5', 'C' denotes '6', then what will 'A + B' denote?",
+            "options": [
+              "9",
+              "10",
+              "11",
+              "12"
+            ],
+            "correctIndex": 1,
+            "explanation": "It is based on given numerical value of alphabets.",
+            "difficulty": "Medium",
+            "topicId": "rs-coding",
+            "source": "ai_generated",
+            "generatedDate": "2026-08-13"
+          },
+          {
+            "question": "In a sequence of alphabets, 'A' denotes '2', 'B' denotes '5', 'C' denotes '8', then what will 'D' denote?",
+            "options": [
+              "10",
+              "11",
+              "12",
+              "15"
+            ],
+            "correctIndex": 0,
+            "explanation": "It is based on given numerical value of alphabets.",
+            "difficulty": "Medium",
+            "topicId": "rs-coding",
+            "source": "ai_generated",
+            "generatedDate": "2026-08-13"
+          },
+          {
+            "question": "If 'A' denotes '15', 'B' denotes '20', 'C' denotes '25', then what will 'A + B' denote?",
+            "options": [
+              "35",
+              "40",
+              "45",
+              "50"
+            ],
+            "correctIndex": 1,
+            "explanation": "It is based on given numerical value of alphabets.",
+            "difficulty": "Medium",
+            "topicId": "rs-coding",
+            "source": "ai_generated",
+            "generatedDate": "2026-08-13"
+          },
+          {
+            "question": "In a sequence of alphabets, 'A' denotes '10', 'B' denotes '14', 'C' denotes '18', then what will 'D' denote?",
+            "options": [
+              "20",
+              "22",
+              "24",
+              "25"
+            ],
+            "correctIndex": 1,
+            "explanation": "It is based on given numerical value of alphabets.",
+            "difficulty": "Medium",
+            "topicId": "rs-coding",
+            "source": "ai_generated",
+            "generatedDate": "2026-08-13"
+          }
+        ],
+        "questionCount": 5
+      },
+      "rs-blood": {
+        "topicName": "Blood Relations",
+        "subjectName": "Reasoning",
+        "questions": [
+          {
+            "question": "Kartick is the son of Suresh's father's brother. How is Kartick related to Suresh?",
+            "options": [
+              "Brother",
+              "Cousin",
+              "Nephew",
+              "Uncle"
+            ],
+            "correctIndex": 1,
+            "explanation": "Kartick is Suresh's maternal uncle's son.",
+            "difficulty": "Medium",
+            "topicId": "rs-blood",
+            "source": "ai_generated",
+            "generatedDate": "2026-08-13"
+          },
+          {
+            "question": "Babu is the father of Kailash. Kailash is the son of whose mother's only child?",
+            "options": [
+              "Babu's sister",
+              "Babu's brother",
+              "Babu's father",
+              "Babu's mother"
+            ],
+            "correctIndex": 2,
+            "explanation": "Babu is the father of Kailash, who is the son of Babu's mother.",
+            "difficulty": "Medium",
+            "topicId": "rs-blood",
+            "source": "ai_generated",
+            "generatedDate": "2026-08-13"
+          },
+          {
+            "question": "If A is the brother of B and C is the sister of B, then C is the?",
+            "options": [
+              "Mother of A",
+              "Father of A",
+              "Sister of A",
+              "Aunt of A"
+            ],
+            "correctIndex": 0,
+            "explanation": "C is the mother of A as B is the brother of A.",
+            "difficulty": "Medium",
+            "topicId": "rs-blood",
+            "source": "ai_generated",
+            "generatedDate": "2026-08-13"
+          },
+          {
+            "question": "If A is the father of B and B is the son of C, then C is the?",
+            "options": [
+              "Mother of A",
+              "Father of A",
+              "Son of A",
+              "Brother of A"
+            ],
+            "correctIndex": 1,
+            "explanation": "B is the son of C and A is the father of B, so C is the father of A.",
+            "difficulty": "Medium",
+            "topicId": "rs-blood",
+            "source": "ai_generated",
+            "generatedDate": "2026-08-13"
+          },
+          {
+            "question": "X is the daughter of Y's son's wife. How is X related to Y?",
+            "options": [
+              "Wife",
+              "Husband",
+              "Mother",
+              "Daughter"
+            ],
+            "correctIndex": 2,
+            "explanation": "X is the daughter of Y's son's wife, making X the daughter of Y.",
+            "difficulty": "Medium",
+            "topicId": "rs-blood",
+            "source": "ai_generated",
+            "generatedDate": "2026-08-13"
+          }
+        ],
+        "questionCount": 5
+      },
       "rs-direction": {
         "topicName": "Direction Sense",
         "subjectName": "Reasoning",
         "questions": [
           {
-            "question": "A man walks 8 km towards the north and then walks 4 km towards the east. He then walks 4 km due south. How far is he from his starting point?",
-            "options": [
-              "5 km",
-              "6 km",
-              "7 km",
-              "8 km"
-            ],
-            "correctIndex": 0,
-            "explanation": "The man is 5 km away from his starting point.",
-            "difficulty": "Medium",
-            "topicId": "rs-direction",
-            "source": "ai_generated",
-            "generatedDate": "2026-08-13"
-          },
-          {
-            "question": "A tourist is at Howrah Bridge in Kolkata. He sees a park to his east, a river to his south, and a statue in the city to his west. In which direction is the city railway station located?",
-            "options": [
-              "North",
-              "South",
-              "East",
-              "West"
-            ],
-            "correctIndex": 0,
-            "explanation": "The city railway station is located in the North direction.",
-            "difficulty": "Medium",
-            "topicId": "rs-direction",
-            "source": "ai_generated",
-            "generatedDate": "2026-08-13"
-          },
-          {
-            "question": "A man walks 12 km due east and then 6 km due west. How far is he from his starting point?",
-            "options": [
-              "3 km",
-              "6 km",
-              "9 km",
-              "12 km"
-            ],
-            "correctIndex": 3,
-            "explanation": "He is still 12 km away from his starting point.",
-            "difficulty": "Medium",
-            "topicId": "rs-direction",
-            "source": "ai_generated",
-            "generatedDate": "2026-08-13"
-          },
-          {
-            "question": "A tourist is at the Darjeeling Himalayan Railway station. He sees a hill to his east and the city of Darjeeling to his north. In which direction is the tea garden located?",
+            "question": "A man is standing at the bank of a river, facing north. If he turns 180 degrees and walks for 10 minutes, then turns right and walks for another 10 minutes, in which direction is he now?",
             "options": [
               "East",
-              "North",
               "South",
-              "West"
-            ],
-            "correctIndex": 0,
-            "explanation": "The tea garden is located in the East direction.",
-            "difficulty": "Medium",
-            "topicId": "rs-direction",
-            "source": "ai_generated",
-            "generatedDate": "2026-08-13"
-          },
-          {
-            "question": "A man walks 5 km towards the north, then 5 km towards the east, 2 km due south, and finally 1 km west. How far is he from his starting point?",
-            "options": [
-              "3 km",
-              "4 km",
-              "5 km",
-              "6 km"
+              "West",
+              "North"
             ],
             "correctIndex": 2,
-            "explanation": "He is still 5 km away from his starting point due to the Pythagorean theorem.",
+            "explanation": "He turned 180 degrees and walked for 10 minutes, then turned right and walked for another 10 minutes.",
+            "difficulty": "Medium",
+            "topicId": "rs-direction",
+            "source": "ai_generated",
+            "generatedDate": "2026-08-13"
+          },
+          {
+            "question": "A person is at a place where three roads meet. If the road to Kolkata is to the east and the road to Siliguri is to the north, which direction is the road to Darjeeling?",
+            "options": [
+              "East",
+              "North",
+              "South",
+              "West"
+            ],
+            "correctIndex": 3,
+            "explanation": "As the roads to Kolkata and Siliguri are east and north respectively, the road to Darjeeling must be in the opposite direction.",
+            "difficulty": "Medium",
+            "topicId": "rs-direction",
+            "source": "ai_generated",
+            "generatedDate": "2026-08-13"
+          },
+          {
+            "question": "A man is at a point in the city of Kolkata which is 5 km east of Howrah Bridge. If he walks 3 km towards the north, then turns 90 degrees to his right and walks 2 km, in which direction is he now?",
+            "options": [
+              "North",
+              "South",
+              "East",
+              "West"
+            ],
+            "correctIndex": 3,
+            "explanation": "He walked 3 km north, then turned 90 degrees right and walked 2 km.",
+            "difficulty": "Medium",
+            "topicId": "rs-direction",
+            "source": "ai_generated",
+            "generatedDate": "2026-08-13"
+          },
+          {
+            "question": "A person is on the top of Howrah Bridge, looking towards the city of Kolkata. If he turns 90 degrees to his left, which direction is he now facing?",
+            "options": [
+              "North",
+              "South",
+              "East",
+              "West"
+            ],
+            "correctIndex": 0,
+            "explanation": "He turned 90 degrees to his left from the direction he was facing.",
+            "difficulty": "Easy",
+            "topicId": "rs-direction",
+            "source": "ai_generated",
+            "generatedDate": "2026-08-13"
+          },
+          {
+            "question": "A man is standing at the bank of a river, facing west. If he swims 10 km across the river to the east and then walks 5 km north, which direction is he now facing?",
+            "options": [
+              "North",
+              "South",
+              "East",
+              "West"
+            ],
+            "correctIndex": 2,
+            "explanation": "He swam 10 km east and then walked 5 km north.",
             "difficulty": "Medium",
             "topicId": "rs-direction",
             "source": "ai_generated",
@@ -592,77 +756,77 @@
         "subjectName": "Reasoning",
         "questions": [
           {
-            "question": "In the following series: 23, 45, 67, 89, ? What is the next number in the series?",
+            "question": "In the series 1, 2, 6, 24, ?, the next number would be?",
             "options": [
-              "110",
-              "119",
-              "125",
-              "128"
+              "1",
+              "8",
+              "4",
+              "12"
+            ],
+            "correctIndex": 1,
+            "explanation": "The series follows a pattern of multiplication by the next integer.",
+            "difficulty": "Medium",
+            "topicId": "rs-series",
+            "source": "ai_generated",
+            "generatedDate": "2026-08-13"
+          },
+          {
+            "question": "Which number is missing in the series: 1, 3, 6, 10, ?, 21?",
+            "options": [
+              "5",
+              "7",
+              "8",
+              "9"
             ],
             "correctIndex": 2,
-            "explanation": "The pattern is adding 22, 22, 22, ...",
+            "explanation": "The series represents the sum of consecutive integers.",
             "difficulty": "Medium",
             "topicId": "rs-series",
             "source": "ai_generated",
             "generatedDate": "2026-08-13"
           },
           {
-            "question": "In the following series: A, B, C, D, ?, what should come next?",
+            "question": "Find the next number in the series: 2, 6, 12, 20, 30, ?",
             "options": [
-              "E",
-              "F",
-              "G",
-              "H"
+              "42",
+              "40",
+              "38",
+              "36"
             ],
             "correctIndex": 0,
-            "explanation": "The pattern is an alphabetical sequence",
-            "difficulty": "Medium",
-            "topicId": "ls-series",
-            "source": "ai_generated",
-            "generatedDate": "2026-08-13"
-          },
-          {
-            "question": "If the letters of the word 'Bengal' are arranged in alphabetical order and then each letter is replaced by the next letter in the English alphabet, what is the new word?",
-            "options": [
-              "Cengam",
-              "Chengf",
-              "Denggi",
-              "Eenghj"
-            ],
-            "correctIndex": 1,
-            "explanation": "Applying alphabetical shift to each letter",
-            "difficulty": "Medium",
-            "topicId": "ls-series",
-            "source": "ai_generated",
-            "generatedDate": "2026-08-13"
-          },
-          {
-            "question": "In the following number series: 1, 7, 19, 37, 61, 91, ? What is the next number in the series?",
-            "options": [
-              "127",
-              "129",
-              "131",
-              "133"
-            ],
-            "correctIndex": 0,
-            "explanation": "The pattern is the sum of consecutive odd numbers",
+            "explanation": "The series follows a pattern of adding 4, then 6, then 8, and so on.",
             "difficulty": "Medium",
             "topicId": "rs-series",
             "source": "ai_generated",
             "generatedDate": "2026-08-13"
           },
           {
-            "question": "If the first and last letters of the word 'Calcutta' are interchanged, what is the new word?",
+            "question": "If the pattern 2, 6, 12, 20, 30 continues, then which number will replace the question mark?",
             "options": [
-              "Alcutta",
-              "Calcuta",
-              "Caltcuta",
-              "Talcutca"
+              "42",
+              "46",
+              "48",
+              "50"
             ],
             "correctIndex": 1,
-            "explanation": "Interchanging first and last letters",
+            "explanation": "The series follows a pattern of adding 4, then 6, then 8, and so on.",
             "difficulty": "Medium",
-            "topicId": "ls-series",
+            "topicId": "rs-series",
+            "source": "ai_generated",
+            "generatedDate": "2026-08-13"
+          },
+          {
+            "question": "Which number is missing in the series: A, C, E, G, I, ?",
+            "options": [
+              "J",
+              "K",
+              "L",
+              "M"
+            ],
+            "correctIndex": 0,
+            "explanation": "The series consists of consecutive letters in the alphabet, starting from A.",
+            "difficulty": "Medium",
+            "topicId": "letter-series",
             "source": "ai_generated",
             "generatedDate": "2026-08-13"
           }
