@@ -1,0 +1,674 @@
+{
+  "exam": "si",
+  "generatedDate": "2026-08-14",
+  "generatedAt": "2026-08-14T03:06:50.848Z",
+  "model": "llama-3.1-8b-instant",
+  "provider": "groq",
+  "source": "ai_generated",
+  "reviewStatus": "pending",
+  "totalQuestions": 40,
+  "subjects": {
+    "gs": {
+      "gs-polity": {
+        "topicName": "Indian Constitution & Polity",
+        "subjectName": "General Studies",
+        "questions": [
+          {
+            "question": "Article 355 of the Indian Constitution deals with the responsibilities of the Centre towards which of the following states?",
+            "options": [
+              "The State of Jammu and Kashmir",
+              "The State of West Bengal",
+              "The States that are not having a president's rule",
+              "The States that are having a president's rule"
+            ],
+            "correctIndex": 2,
+            "explanation": "Article 355 deals with the Centre's responsibilities towards all states.",
+            "difficulty": "Medium",
+            "topicId": "gs-polity",
+            "source": "ai_generated",
+            "generatedDate": "2026-08-14"
+          },
+          {
+            "question": "Which of the following is the power given to the Governor of a state by the Indian Constitution?",
+            "options": [
+              "The power to appoint the chief minister of the state",
+              "The power to summon, prorogue and dissolve the state legislative assembly",
+              "The power to appoint the judges of the high court",
+              "The power to declare a national emergency"
+            ],
+            "correctIndex": 1,
+            "explanation": "The Governor has the power to summon, prorogue and dissolve the state legislative assembly.",
+            "difficulty": "Medium",
+            "topicId": "gs-polity",
+            "source": "ai_generated",
+            "generatedDate": "2026-08-14"
+          },
+          {
+            "question": "The Panchayat Raj system is based on which provision of the Indian Constitution?",
+            "options": [
+              "Article 243 of the Indian Constitution",
+              "Article 40 of the Indian Constitution",
+              "Article 39 of the Indian Constitution",
+              "Article 29 of the Indian Constitution"
+            ],
+            "correctIndex": 0,
+            "explanation": "Article 243 of the Indian Constitution deals with the establishment of the Panchayati Raj system.",
+            "difficulty": "Medium",
+            "topicId": "gs-polity",
+            "source": "ai_generated",
+            "generatedDate": "2026-08-14"
+          },
+          {
+            "question": "Which of the following is a fundamental right under the Indian Constitution?",
+            "options": [
+              "Right to property",
+              "Right to freedom of speech and expression",
+              "Right to education",
+              "Right to privacy"
+            ],
+            "correctIndex": 3,
+            "explanation": "Right to privacy is a fundamental right under the Indian Constitution.",
+            "difficulty": "Medium",
+            "topicId": "gs-polity",
+            "source": "ai_generated",
+            "generatedDate": "2026-08-14"
+          },
+          {
+            "question": "The West Bengal Panchayat Act of 1973 is based on which provision of the Indian Constitution?",
+            "options": [
+              "Article 243 of the Indian Constitution",
+              "Article 40 of the Indian Constitution",
+              "Article 39 of the Indian Constitution",
+              "Article 29 of the Indian Constitution"
+            ],
+            "correctIndex": 0,
+            "explanation": "Article 243 of the Indian Constitution deals with the establishment of the Panchayati Raj system.",
+            "difficulty": "Medium",
+            "topicId": "gs-polity",
+            "source": "ai_generated",
+            "generatedDate": "2026-08-14"
+          }
+        ],
+        "questionCount": 5
+      },
+      "gs-freedom": {
+        "topicName": "Indian Freedom Struggle & Bengal",
+        "subjectName": "General Studies",
+        "questions": [
+          {
+            "question": "Who among the following was a key figure in the Swadeshi Movement in Bengal?",
+            "options": [
+              "Aurobindo Ghosh",
+              "Pramatha Chowdhury",
+              "Barindra Kumar Ghosh",
+              "Satish Chandra Mukherjee"
+            ],
+            "correctIndex": 2,
+            "explanation": "He was a key figure in the Anushilan Samiti.",
+            "difficulty": "Medium",
+            "topicId": "gs-freedom",
+            "source": "ai_generated",
+            "generatedDate": "2026-08-14"
+          },
+          {
+            "question": "Which of the following acts was a major factor in the Bengali Renaissance of the 19th century?",
+            "options": [
+              "British Indian Association Act, 1857",
+              "Indian Press Act, 1910",
+              "Ilbert Bill, 1883",
+              "The Bengal Education Act, 1835"
+            ],
+            "correctIndex": 3,
+            "explanation": "It led to the establishment of the University of Calcutta.",
+            "difficulty": "Medium",
+            "topicId": "gs-freedom",
+            "source": "ai_generated",
+            "generatedDate": "2026-08-14"
+          },
+          {
+            "question": "The Partition of Bengal in 1905 led to a surge in",
+            "options": [
+              "Hindu-Muslim unity in Bengal",
+              "Bengali nationalism",
+              "Anti-British movement in India",
+              "Hindu-Mohammedan riots in Bengal"
+            ],
+            "correctIndex": 2,
+            "explanation": "This movement was spearheaded by the Indian National Congress.",
+            "difficulty": "Medium",
+            "topicId": "gs-freedom",
+            "source": "ai_generated",
+            "generatedDate": "2026-08-14"
+          },
+          {
+            "question": "The Chauri Chaura incident occurred in",
+            "options": [
+              "Bihar",
+              "Uttar Pradesh",
+              "Bengal",
+              "Madhya Pradesh"
+            ],
+            "correctIndex": 1,
+            "explanation": "It was a major blow to the Indian independence movement.",
+            "difficulty": "Medium",
+            "topicId": "gs-freedom",
+            "source": "ai_generated",
+            "generatedDate": "2026-08-14"
+          },
+          {
+            "question": "Who among the following Bengal leaders was associated with the Jugantar movement?",
+            "options": [
+              "Satish Chandra Mukherjee",
+              "Bipin Chandra Pal",
+              "Sachindra Nath Sanyal",
+              "Pramatha Chowdhury"
+            ],
+            "correctIndex": 2,
+            "explanation": "He was a key figure in the revolution against the British.",
+            "difficulty": "Medium",
+            "topicId": "gs-freedom",
+            "source": "ai_generated",
+            "generatedDate": "2026-08-14"
+          }
+        ],
+        "questionCount": 5
+      },
+      "gs-wb-geo": {
+        "topicName": "West Bengal Geography",
+        "subjectName": "General Studies",
+        "questions": [
+          {
+            "question": "Which of the following rivers does not flow through the state of West Bengal?",
+            "options": [
+              "Ganga",
+              "Brahmaputra",
+              "Meghna",
+              "Damodar"
+            ],
+            "correctIndex": 2,
+            "explanation": "Meghna river is located in Bangladesh.",
+            "difficulty": "Medium",
+            "topicId": "gs-wb-geo",
+            "source": "ai_generated",
+            "generatedDate": "2026-08-14"
+          },
+          {
+            "question": "Which of the following mountain ranges is found in the northern part of West Bengal?",
+            "options": [
+              "Eastern Ghats",
+              "Cherrapunji Hills",
+              "Naga Hills",
+              "Sikkim Himalayas"
+            ],
+            "correctIndex": 3,
+            "explanation": "Sikkim Himalayas are a part of the Himalayan mountain range.",
+            "difficulty": "Medium",
+            "topicId": "gs-wb-geo",
+            "source": "ai_generated",
+            "generatedDate": "2026-08-14"
+          },
+          {
+            "question": "Which of the following deltas is located in the state of West Bengal?",
+            "options": [
+              "Ganges-Brahmaputra Delta",
+              "Meghna Delta",
+              "Sundarbans Delta",
+              "All of the above"
+            ],
+            "correctIndex": 0,
+            "explanation": "The Ganges-Brahmaputra Delta is located in West Bengal.",
+            "difficulty": "Medium",
+            "topicId": "gs-wb-geo",
+            "source": "ai_generated",
+            "generatedDate": "2026-08-14"
+          },
+          {
+            "question": "Which of the following cities is the capital of the Indian state of West Bengal?",
+            "options": [
+              "Kolkata",
+              "Siliguri",
+              "Darjeeling",
+              "Asansol"
+            ],
+            "correctIndex": 0,
+            "explanation": "Kolkata is the capital of West Bengal.",
+            "difficulty": "Easy",
+            "topicId": "gs-wb-geo",
+            "source": "ai_generated",
+            "generatedDate": "2026-08-14"
+          },
+          {
+            "question": "Which of the following islands is located in the Sundarbans region of West Bengal?",
+            "options": [
+              "Bakkhali Island",
+              "Henry Island",
+              "Fraser Island",
+              "Sagar Island"
+            ],
+            "correctIndex": 3,
+            "explanation": "Sagar Island is located in the Sundarbans region of West Bengal.",
+            "difficulty": "Medium",
+            "topicId": "gs-wb-geo",
+            "source": "ai_generated",
+            "generatedDate": "2026-08-14"
+          }
+        ],
+        "questionCount": 5
+      },
+      "gs-current": {
+        "topicName": "Current Affairs (Last 12 Months)",
+        "subjectName": "General Studies",
+        "questions": [
+          {
+            "question": "The West Bengal government launched the 'Duare Dastak' campaign in 2022 to increase COVID-19 vaccination coverage. Which of the following was a primary goal of this campaign?",
+            "options": [
+              "To provide free COVID-19 treatment to all eligible citizens",
+              "To increase vaccination coverage among the rural population",
+              "To create awareness about the importance of COVID-19 vaccination",
+              "To conduct door-to-door COVID-19 testing"
+            ],
+            "correctIndex": 1,
+            "explanation": "Increase vaccination coverage among the rural population.",
+            "difficulty": "Medium",
+            "topicId": "gs-current",
+            "source": "ai_generated",
+            "generatedDate": "2026-08-14"
+          },
+          {
+            "question": "The Kolkata Metro Line 3, which was inaugurated recently, connects the following areas of Kolkata?",
+            "options": [
+              "Bowbazar to Howrah Maidan",
+              "Esplanade to Kavi Subhash",
+              "Salt Lake Sector V to Dakshineswar",
+              "Tollygunge to Joka"
+            ],
+            "correctIndex": 2,
+            "explanation": "Salt Lake Sector V to Dakshineswar.",
+            "difficulty": "Medium",
+            "topicId": "gs-current",
+            "source": "ai_generated",
+            "generatedDate": "2026-08-14"
+          },
+          {
+            "question": "Which of the following is a major outcome of the 'Sonar Bangla Abhiyan' launched by the West Bengal government in 2022?",
+            "options": [
+              "Implementation of the Swachh Bharat Abhiyan in all districts",
+              "Increased focus on improving the state's agricultural sector",
+              "Rural electrification of all villages in the state",
+              "Development of 100 new industrial parks across the state"
+            ],
+            "correctIndex": 1,
+            "explanation": "Increased focus on improving the state's agricultural sector.",
+            "difficulty": "Medium",
+            "topicId": "gs-current",
+            "source": "ai_generated",
+            "generatedDate": "2026-08-14"
+          },
+          {
+            "question": "The West Bengal government announced a new policy to promote the use of solar energy in the state. Which of the following is a key benefit of this policy?",
+            "options": [
+              "Reduced dependence on fossil fuels for electricity generation",
+              "Increased employment opportunities in the solar energy sector",
+              "Improved air quality in urban areas",
+              "Enhanced economic growth through increased energy production"
+            ],
+            "correctIndex": 0,
+            "explanation": "Reduced dependence on fossil fuels for electricity generation.",
+            "difficulty": "Medium",
+            "topicId": "gs-current",
+            "source": "ai_generated",
+            "generatedDate": "2026-08-14"
+          },
+          {
+            "question": "The West Bengal government launched a new initiative to promote digital literacy among the state's population. Which of the following is a key feature of this initiative?",
+            "options": [
+              "Free computer training for all citizens",
+              "Online certification programs in digital skills",
+              "Mobile apps for learning digital skills",
+              "Digital literacy centers in all districts"
+            ],
+            "correctIndex": 2,
+            "explanation": "Mobile apps for learning digital skills.",
+            "difficulty": "Medium",
+            "topicId": "gs-current",
+            "source": "ai_generated",
+            "generatedDate": "2026-08-14"
+          }
+        ],
+        "questionCount": 5
+      }
+    },
+    "math": {
+      "math-percent": {
+        "topicName": "Percentage & Profit-Loss",
+        "subjectName": "Arithmetic",
+        "questions": [
+          {
+            "question": "A shopkeeper sells 100 kg of potatoes at 15% profit. If the cost price is ₹ 80 per kg, what is the profit made from selling potatoes?",
+            "options": [
+              "₹ 1000",
+              "₹ 1200",
+              "₹ 1500",
+              "₹ 1800"
+            ],
+            "correctIndex": 1,
+            "explanation": "15% of the total cost price.",
+            "difficulty": "Medium",
+            "topicId": "math-profit-loss",
+            "source": "ai_generated",
+            "generatedDate": "2026-08-14"
+          },
+          {
+            "question": "A certain amount of money is invested at a 12% rate of interest for 2 years. If the simple interest is ₹ 360, what is the principal amount?",
+            "options": [
+              "₹ 800",
+              "₹ 900",
+              "₹ 1000",
+              "₹ 1100"
+            ],
+            "correctIndex": 2,
+            "explanation": "Simple interest formula is I = (P * R * T) / 100.",
+            "difficulty": "Medium",
+            "topicId": "math-si",
+            "source": "ai_generated",
+            "generatedDate": "2026-08-14"
+          },
+          {
+            "question": "A man buys a plot of land worth ₹ 40000. If he sells it at a loss of 15%, what is the selling price?",
+            "options": [
+              "₹ 34000",
+              "₹ 36000",
+              "₹ 38000",
+              "₹ 40000"
+            ],
+            "correctIndex": 0,
+            "explanation": "15% of the total value of the land.",
+            "difficulty": "Easy",
+            "topicId": "math-profit-loss",
+            "source": "ai_generated",
+            "generatedDate": "2026-08-14"
+          },
+          {
+            "question": "A group of friends want to share some money in the ratio 3:5:7. If the total amount is ₹ 4200, how much will the person with the ratio 5 get?",
+            "options": [
+              "₹ 600",
+              "₹ 800",
+              "₹ 1000",
+              "₹ 1200"
+            ],
+            "correctIndex": 2,
+            "explanation": "Total parts are 3 + 5 + 7 = 15.",
+            "difficulty": "Medium",
+            "topicId": "math-ratios",
+            "source": "ai_generated",
+            "generatedDate": "2026-08-14"
+          },
+          {
+            "question": "A bank offers an interest rate of 10% per annum. If a certain amount of money is deposited for 3 years, what is the approximate rate of interest for each year, if the total interest earned is ₹ 1200?",
+            "options": [
+              "9%",
+              "10%",
+              "11%",
+              "12%"
+            ],
+            "correctIndex": 0,
+            "explanation": "Using simple interest formula.",
+            "difficulty": "Medium",
+            "topicId": "math-si",
+            "source": "ai_generated",
+            "generatedDate": "2026-08-14"
+          }
+        ],
+        "questionCount": 5
+      },
+      "math-tsd": {
+        "topicName": "Time, Speed & Distance",
+        "subjectName": "Arithmetic",
+        "questions": [
+          {
+            "question": "A train travels from Howrah Junction to Bokaro Steel City at an average speed of 120 km/h. If the distance between the two cities is 450 km, how many hours will the train take to cover this distance?",
+            "options": [
+              "5 hours",
+              "6 hours",
+              "7.5 hours",
+              "8 hours"
+            ],
+            "correctIndex": 2,
+            "explanation": "Time taken can be calculated using the formula time = distance/speed.",
+            "difficulty": "Medium",
+            "topicId": "math-tsd",
+            "source": "ai_generated",
+            "generatedDate": "2026-08-14"
+          },
+          {
+            "question": "A speed limit of 60 km/h is marked on a board in a village near Siliguri. A car travels from the village to Gangtok at a speed of 80 km/h. What is the time taken by the car to cover a distance of 240 km?",
+            "options": [
+              "2 hours",
+              "2.5 hours",
+              "3 hours",
+              "3.5 hours"
+            ],
+            "correctIndex": 1,
+            "explanation": "Time taken can be calculated using the formula time = distance/speed.",
+            "difficulty": "Medium",
+            "topicId": "math-tsd",
+            "source": "ai_generated",
+            "generatedDate": "2026-08-14"
+          },
+          {
+            "question": "A person walks from Dum Dum to Esplanade with a speed of 5 km/h. He covers half of the distance in 2 hours. What is the total distance between Dum Dum and Esplanade?",
+            "options": [
+              "20 km",
+              "25 km",
+              "30 km",
+              "35 km"
+            ],
+            "correctIndex": 3,
+            "explanation": "Since the person covers half of the distance in 2 hours, the total time taken to cover the distance is 4 hours.",
+            "difficulty": "Medium",
+            "topicId": "math-tsd",
+            "source": "ai_generated",
+            "generatedDate": "2026-08-14"
+          },
+          {
+            "question": "A car travels from Kolkata to Asansol with an average speed of 80 km/h. If the distance between the two cities is 120 km, what is the time taken by the car to cover this distance?",
+            "options": [
+              "1.5 hours",
+              "1 hour",
+              "1.25 hours",
+              "1.75 hours"
+            ],
+            "correctIndex": 0,
+            "explanation": "Time taken can be calculated using the formula time = distance/speed.",
+            "difficulty": "Medium",
+            "topicId": "math-tsd",
+            "source": "ai_generated",
+            "generatedDate": "2026-08-14"
+          },
+          {
+            "question": "A bus travels from Durgapur to Kalyani with an average speed of 60 km/h. If the time taken by the bus to cover the distance is 4 hours, what is the distance between the two cities?",
+            "options": [
+              "160 km",
+              "240 km",
+              "200 km",
+              "180 km"
+            ],
+            "correctIndex": 3,
+            "explanation": "Distance can be calculated using the formula distance = speed * time.",
+            "difficulty": "Medium",
+            "topicId": "math-tsd",
+            "source": "ai_generated",
+            "generatedDate": "2026-08-14"
+          }
+        ],
+        "questionCount": 5
+      }
+    },
+    "reasoning": {
+      "rs-blood": {
+        "topicName": "Blood Relations",
+        "subjectName": "Reasoning",
+        "questions": [
+          {
+            "question": "Kumar's father is the son of Radha's father. How is Radha related to Kumar?",
+            "options": [
+              "Mother",
+              "Sister",
+              "Daughter",
+              "Aunt"
+            ],
+            "correctIndex": 2,
+            "explanation": "Radha is Kumar's paternal grandmother.",
+            "difficulty": "Medium",
+            "topicId": "rs-blood",
+            "source": "ai_generated",
+            "generatedDate": "2026-08-14"
+          },
+          {
+            "question": "If A is the brother of B, B is the sister of C, and C is the daughter of D, then how is A related to D?",
+            "options": [
+              "Grandfather",
+              "Uncle",
+              "Father",
+              "Nephew"
+            ],
+            "correctIndex": 3,
+            "explanation": "A is the nephew of D.",
+            "difficulty": "Medium",
+            "topicId": "rs-blood",
+            "source": "ai_generated",
+            "generatedDate": "2026-08-14"
+          },
+          {
+            "question": "In a family, S is the mother of R, and R is the wife of T. How is S related to T?",
+            "options": [
+              "Father",
+              "Mother",
+              "Son",
+              "Husband"
+            ],
+            "correctIndex": 1,
+            "explanation": "S is the mother-in-law of T.",
+            "difficulty": "Medium",
+            "topicId": "rs-blood",
+            "source": "ai_generated",
+            "generatedDate": "2026-08-14"
+          },
+          {
+            "question": "A is the daughter of B and B is the wife of C. How is A related to C?",
+            "options": [
+              "Mother",
+              "Father",
+              "Daughter",
+              "Brother"
+            ],
+            "correctIndex": 1,
+            "explanation": "A is the daughter of C.",
+            "difficulty": "Medium",
+            "topicId": "rs-blood",
+            "source": "ai_generated",
+            "generatedDate": "2026-08-14"
+          },
+          {
+            "question": "P is the brother of Q, Q is the son of R and the husband of S. How is P related to S?",
+            "options": [
+              "Father",
+              "Mother",
+              "Sister",
+              "Brother-in-law"
+            ],
+            "correctIndex": 3,
+            "explanation": "P is the brother-in-law of S.",
+            "difficulty": "Medium",
+            "topicId": "rs-blood",
+            "source": "ai_generated",
+            "generatedDate": "2026-08-14"
+          }
+        ],
+        "questionCount": 5
+      },
+      "rs-direction": {
+        "topicName": "Direction Sense",
+        "subjectName": "Reasoning",
+        "questions": [
+          {
+            "question": "A man is standing at the bank of a river, which is 60 meters wide. He can see the top of a tree on the opposite bank, entirely above the surrounding area. He moves 30 meters towards the river and can then see 4 meters of the tree's trunk, which was previously hidden. How wide is the tree?",
+            "options": [
+              "40 meters",
+              "50 meters",
+              "60 meters",
+              "70 meters"
+            ],
+            "correctIndex": 3,
+            "explanation": "The man's new position changes the angle of elevation.",
+            "difficulty": "Medium",
+            "topicId": "rs-direction",
+            "source": "ai_generated",
+            "generatedDate": "2026-08-14"
+          },
+          {
+            "question": "If a person walks 15 km east from a point A and then walks 10 km north from that point, how far is he from point A?",
+            "options": [
+              "10 km",
+              "15 km",
+              "16 km",
+              "20 km"
+            ],
+            "correctIndex": 2,
+            "explanation": "Using Pythagoras theorem to calculate the distance.",
+            "difficulty": "Medium",
+            "topicId": "rs-direction",
+            "source": "ai_generated",
+            "generatedDate": "2026-08-14"
+          },
+          {
+            "question": "A person reaches a destination 30 km away in 5 hours and then reaches another destination 24 km away in 3 hours. How far is the second destination from the first?",
+            "options": [
+              "12 km",
+              "18 km",
+              "24 km",
+              "30 km"
+            ],
+            "correctIndex": 0,
+            "explanation": "By calculating the difference in distances.",
+            "difficulty": "Medium",
+            "topicId": "rs-direction",
+            "source": "ai_generated",
+            "generatedDate": "2026-08-14"
+          },
+          {
+            "question": "A person is walking in a park with a path that is 100 meters long. He walks 60 meters towards the east and then 40 meters towards the north. What is the shortest distance between the starting point and his current position?",
+            "options": [
+              "20 meters",
+              "40 meters",
+              "60 meters",
+              "80 meters"
+            ],
+            "correctIndex": 0,
+            "explanation": "Using Pythagoras theorem to find the shortest distance.",
+            "difficulty": "Medium",
+            "topicId": "rs-direction",
+            "source": "ai_generated",
+            "generatedDate": "2026-08-14"
+          },
+          {
+            "question": "In a village, the main road runs east-west. A person walks 5 km east and then 2 km north. Then he walks 6 km east and 3 km south. How far is he from the main road?",
+            "options": [
+              "3 km",
+              "4 km",
+              "5 km",
+              "6 km"
+            ],
+            "correctIndex": 1,
+            "explanation": "By analyzing the north-south movements.",
+            "difficulty": "Medium",
+            "topicId": "rs-direction",
+            "source": "ai_generated",
+            "generatedDate": "2026-08-14"
+          }
+        ],
+        "questionCount": 5
+      }
+    }
+  }
+}
