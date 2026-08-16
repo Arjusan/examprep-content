@@ -1,12 +1,12 @@
 {
   "exam": "si",
   "generatedDate": "2026-08-16",
-  "generatedAt": "2026-08-16T02:06:37.802Z",
+  "generatedAt": "2026-08-16T13:08:05.559Z",
   "model": "llama-3.1-8b-instant",
   "provider": "groq",
   "source": "ai_generated",
   "reviewStatus": "pending",
-  "totalQuestions": 60,
+  "totalQuestions": 45,
   "subjects": {
     "gs": {
       "gs-polity": {
@@ -14,159 +14,77 @@
         "subjectName": "General Studies",
         "questions": [
           {
-            "question": "The Panchayat (Extension to Scheduled Areas) Act of 1996 is also known as which Act of the Indian Parliament?",
+            "question": "The Panchayat Raj System in West Bengal is based on the recommendations of which of the following committees?",
             "options": [
-              "Scheduled Caste and Scheduled Tribe (Prevention of Atrocities) Act",
-              "The Right to Fair Compensation and Transparency in Land Acquisition Act",
-              "The Panchayats (Extension to Scheduled Areas) Act",
-              "The Scheduled Castes and Scheduled Tribes (Prevention of Atrocities) Amendment Act"
+              "Lokur Committee",
+              "Mysore Committee",
+              "Ashok Mehta Committee",
+              "Balwantray Mehta Committee"
             ],
             "correctIndex": 2,
-            "explanation": "The Panchayats (Extension to Scheduled Areas) Act.",
+            "explanation": "The Panchayat Raj System in West Bengal is based on the recommendations of the Ashok Mehta Committee.",
             "difficulty": "Medium",
             "topicId": "gs-polity",
             "source": "ai_generated",
             "generatedDate": "2026-08-16"
           },
           {
-            "question": "Which article of the Indian Constitution provides for the protection of the rights of the Scheduled Castes and Scheduled Tribes?",
+            "question": "The concept of social and economic justice is enshrined in which part of the Indian Constitution?",
             "options": [
-              "Article 14",
-              "Article 15",
-              "Article 16",
-              "Article 17"
-            ],
-            "correctIndex": 0,
-            "explanation": "Article 15.",
-            "difficulty": "Medium",
-            "topicId": "gs-polity",
-            "source": "ai_generated",
-            "generatedDate": "2026-08-16"
-          },
-          {
-            "question": "The concept of 'Panchayati Raj' was first introduced in which state of India?",
-            "options": [
-              "Rajasthan",
-              "Uttar Pradesh",
-              "West Bengal",
-              "Madhya Pradesh"
-            ],
-            "correctIndex": 2,
-            "explanation": "West Bengal.",
-            "difficulty": "Medium",
-            "topicId": "gs-polity",
-            "source": "ai_generated",
-            "generatedDate": "2026-08-16"
-          },
-          {
-            "question": "Which of the following is a fundamental duty under the Indian Constitution?",
-            "options": [
-              "To abide by the Constitution and respect its ideals",
-              "To strive towards excellence in all spheres of life",
-              "To cherish and follow the noble qualities of life",
-              "All the above"
-            ],
-            "correctIndex": 3,
-            "explanation": "All the above.",
-            "difficulty": "Medium",
-            "topicId": "gs-polity",
-            "source": "ai_generated",
-            "generatedDate": "2026-08-16"
-          },
-          {
-            "question": "The concept of 'Directive Principles of State Policy' is mentioned in which part of the Indian Constitution?",
-            "options": [
-              "Part I",
-              "Part II",
               "Part III",
-              "Part IV"
+              "Part IV",
+              "Part IX",
+              "Part X"
             ],
-            "correctIndex": 3,
-            "explanation": "Part IV.",
+            "correctIndex": 1,
+            "explanation": "The concept of social and economic justice is enshrined in Part IV of the Indian Constitution.",
             "difficulty": "Easy",
             "topicId": "gs-polity",
             "source": "ai_generated",
             "generatedDate": "2026-08-16"
-          }
-        ],
-        "questionCount": 5
-      },
-      "gs-freedom": {
-        "topicName": "Indian Freedom Struggle & Bengal",
-        "subjectName": "General Studies",
-        "questions": [
+          },
           {
-            "question": "The Indian National Army was formed by which leader in 1943?",
+            "question": "Which of the following is not a fundamental duty as per the Indian Constitution?",
             "options": [
-              "Subhas Chandra Bose",
-              "Mahatma Gandhi",
-              "Jawaharlal Nehru",
-              "Bhagat Singh"
+              "To strive towards excellence in all spheres of individual and collective activity",
+              "To cherish and follow the noble ideals which inspired our national struggle for freedom",
+              "To maintain public order and to be a member of the defence services",
+              "To promote harmony and the spirit of common brotherhood amongst all the people residing in the territory of India"
             ],
-            "correctIndex": 0,
-            "explanation": "He was the head of the Indian National Army.",
+            "correctIndex": 2,
+            "explanation": "To maintain public order and to be a member of the defence services is not a fundamental duty as per the Indian Constitution.",
             "difficulty": "Medium",
-            "topicId": "gs-freedom",
+            "topicId": "gs-polity",
             "source": "ai_generated",
             "generatedDate": "2026-08-16"
           },
           {
-            "question": "The famous Non-Cooperation Movement was led by which leader in 1920?",
+            "question": "The 73rd Amendment Act, 1992, was enacted to give constitutional status to which of the following?",
             "options": [
-              "Subhas Chandra Bose",
-              "Mahatma Gandhi",
-              "Netaji P.C. Joshi",
-              "C.R. Das"
-            ],
-            "correctIndex": 1,
-            "explanation": "He was the key figure behind the movement.",
-            "difficulty": "Easy",
-            "topicId": "gs-freedom",
-            "source": "ai_generated",
-            "generatedDate": "2026-08-16"
-          },
-          {
-            "question": "Bengal's famous 'Noakhali Riots' occurred in which year?",
-            "options": [
-              "1946",
-              "1947",
-              "1948",
-              "1949"
+              "Panchayats",
+              "Municipalities",
+              "Wakfs",
+              "Cooperatives"
             ],
             "correctIndex": 0,
-            "explanation": "The Noakhali Riots were a major communal disturbance in Bengal.",
-            "difficulty": "Hard",
-            "topicId": "gs-freedom",
+            "explanation": "The 73rd Amendment Act, 1992, was enacted to give constitutional status to Panchayats.",
+            "difficulty": "Easy",
+            "topicId": "gs-polity",
             "source": "ai_generated",
             "generatedDate": "2026-08-16"
           },
           {
-            "question": "The Quit India Movement was launched by which leader in 1942?",
+            "question": "Which of the following is the principal motto of the West Bengal government?",
             "options": [
-              "Subhas Chandra Bose",
-              "Mahatma Gandhi",
-              "Jawaharlal Nehru",
-              "Sardar Vallabhbhai Patel"
+              "Yatra He Yatra Prema",
+              "Sabhyata O Sanskriti",
+              "Banga Bharati",
+              "Jai Bangla"
             ],
-            "correctIndex": 1,
-            "explanation": "He was the key figure behind the movement.",
+            "correctIndex": 0,
+            "explanation": "Yatra He Yatra Prema is the principal motto of the West Bengal government.",
             "difficulty": "Medium",
-            "topicId": "gs-freedom",
-            "source": "ai_generated",
-            "generatedDate": "2026-08-16"
-          },
-          {
-            "question": "The 'Champaran Satyagraha' was led by which leader in 1917?",
-            "options": [
-              "Mahatma Gandhi",
-              "Subhas Chandra Bose",
-              "Bal Gangadhar Tilak",
-              "Lala Lajpat Rai"
-            ],
-            "correctIndex": 0,
-            "explanation": "He led a famous satyagraha in Champaran, Bihar.",
-            "difficulty": "Easy",
-            "topicId": "gs-freedom",
+            "topicId": "gs-polity",
             "source": "ai_generated",
             "generatedDate": "2026-08-16"
           }
@@ -178,75 +96,75 @@
         "subjectName": "General Studies",
         "questions": [
           {
-            "question": "The Sundarbans, the largest mangrove forest in the world, lies in which of the following districts of West Bengal?",
+            "question": "Which of the following rivers is the main water source of the Sundarbans Delta?",
             "options": [
-              "South 24 Parganas",
-              "North 24 Parganas",
-              "Howrah",
-              "Hooghly"
+              "Ganges River",
+              "Brahmaputra River",
+              "Meghna River",
+              "Hooghly River"
             ],
             "correctIndex": 0,
-            "explanation": "It is spread across South 24 Parganas.",
+            "explanation": "The Ganges River is the primary water source of the Sundarbans Delta.",
             "difficulty": "Medium",
             "topicId": "gs-wb-geo",
             "source": "ai_generated",
             "generatedDate": "2026-08-16"
           },
           {
-            "question": "Which of the following rivers forms the northern border of West Bengal?",
+            "question": "What is the highest peak in the Darjeeling Himalayan hill region of West Bengal?",
             "options": [
-              "Tista River",
-              "Bhagirathi River",
-              "Damodar River",
-              "Ganges River"
+              "Sandakphu Peak",
+              "Siniolchu Peak",
+              "Kangchenjunga Peak",
+              "Mount Kanchenjunga"
             ],
-            "correctIndex": 1,
-            "explanation": "The Bhagirathi River forms the northern border of West Bengal.",
-            "difficulty": "Easy",
-            "topicId": "gs-wb-geo",
-            "source": "ai_generated",
-            "generatedDate": "2026-08-16"
-          },
-          {
-            "question": "The Darjeeling Himalayan Railway, a UNESCO World Heritage Site, passes through which of the following districts of West Bengal?",
-            "options": [
-              "Darjeeling",
-              "Kalimpong",
-              "Jalpaiguri",
-              "Mirik"
-            ],
-            "correctIndex": 0,
-            "explanation": "It passes through the Darjeeling district.",
+            "correctIndex": 2,
+            "explanation": "Mount Kanchenjunga is the highest peak in the Darjeeling Himalayan hill region of West Bengal.",
             "difficulty": "Medium",
             "topicId": "gs-wb-geo",
             "source": "ai_generated",
             "generatedDate": "2026-08-16"
           },
           {
-            "question": "Which of the following mountain ranges is located in the northern part of West Bengal?",
+            "question": "Which of the following districts of West Bengal is known as the 'Cradle of Indian Communism'?",
             "options": [
-              "Eastern Ghats",
-              "Sikkim Himalayas",
-              "Chhotanagpur Plateau",
-              "Garo Hills"
+              "Darjeeling District",
+              "Dumkal Division of Murshidabad District",
+              "Asansol Coalfield of Bardhaman District",
+              "Naxalbari of Darjeeling District"
             ],
-            "correctIndex": 1,
-            "explanation": "The Sikkim Himalayas are located in the northern part of West Bengal.",
-            "difficulty": "Easy",
+            "correctIndex": 3,
+            "explanation": "Naxalbari of Darjeeling District is known as the 'Cradle of Indian Communism'.",
+            "difficulty": "Medium",
             "topicId": "gs-wb-geo",
             "source": "ai_generated",
             "generatedDate": "2026-08-16"
           },
           {
-            "question": "Which of the following deltas is located in the southern part of West Bengal?",
+            "question": "What is the name of the largest mangrove forest in the world, located in West Bengal?",
             "options": [
-              "Ganges-Brahmaputra Delta",
-              "Hugli River Delta",
-              "Damodar River Delta",
-              "Subarnarekha River Delta"
+              "Sundarbans Mangrove Forest",
+              "Bhitarkanika Mangrove Forest",
+              "Sagarmatha Mangrove Forest",
+              "Kakdwip Mangrove Forest"
             ],
             "correctIndex": 0,
-            "explanation": "The Ganges-Brahmaputra Delta is located in the southern part of West Bengal.",
+            "explanation": "The Sundarbans Mangrove Forest is the largest mangrove forest in the world, located in West Bengal.",
+            "difficulty": "Medium",
+            "topicId": "gs-wb-geo",
+            "source": "ai_generated",
+            "generatedDate": "2026-08-16"
+          },
+          {
+            "question": "Which of the following mountain ranges passes through the state of West Bengal?",
+            "options": [
+              "Himalayan Mountain Range",
+              "Eastern Ghats Mountain Range",
+              "Arakan-Yoma Mountain Range",
+              "Patkai-Bum Mountain Range"
+            ],
+            "correctIndex": 0,
+            "explanation": "The Himalayan Mountain Range passes through the state of West Bengal.",
             "difficulty": "Medium",
             "topicId": "gs-wb-geo",
             "source": "ai_generated",
@@ -260,75 +178,75 @@
         "subjectName": "General Studies",
         "questions": [
           {
-            "question": "Which company has recently partnered with the Government of West Bengal to set up a data center in Kolkata?",
+            "question": "The West Bengal government has recently announced a new initiative to improve the state's riverine ecosystem. What is the name of this initiative?",
             "options": [
-              "Amazon",
-              "Microsoft",
-              "Google",
-              "IBM"
+              "Bhagirathi Prayas",
+              "Ganga Sathi",
+              "River Resurgence",
+              "Bengal Jalabhi"
             ],
             "correctIndex": 2,
-            "explanation": "Google partnered with the Government of West Bengal to set up a data center in Kolkata.",
+            "explanation": "This initiative aims to improve the state's riverine ecosystem.",
             "difficulty": "Medium",
             "topicId": "gs-current",
             "source": "ai_generated",
             "generatedDate": "2026-08-16"
           },
           {
-            "question": "Which scheme has been launched by the Government of West Bengal to provide financial assistance to small and medium enterprises?",
+            "question": "Which of the following schemes has been launched by the West Bengal government to support women entrepreneurs in the state?",
             "options": [
-              "Udayan",
-              "Sabooj Sathi",
-              "Unnayan",
-              "Karmasangsthan"
-            ],
-            "correctIndex": 2,
-            "explanation": "The Unnayan scheme has been launched by the Government of West Bengal to provide financial assistance to small and medium enterprises.",
-            "difficulty": "Easy",
-            "topicId": "gs-current",
-            "source": "ai_generated",
-            "generatedDate": "2026-08-16"
-          },
-          {
-            "question": "Who is the current Chairperson of the West Bengal State Women's Commission?",
-            "options": [
-              "Smt. Sharmila Samaddar",
-              "Smt. Shilpa Chakraborty",
-              "Smt. Madhusree Chatterjee",
-              "Smt. Debasree Roy"
+              "Udyogini",
+              "Bengal Mahila Udyog",
+              "Shakti Sathi",
+              "Kanyashree Kalyan"
             ],
             "correctIndex": 0,
-            "explanation": "Smt. Sharmila Samaddar is the current Chairperson of the West Bengal State Women's Commission.",
+            "explanation": "This scheme aims to empower women entrepreneurs in West Bengal.",
             "difficulty": "Medium",
             "topicId": "gs-current",
             "source": "ai_generated",
             "generatedDate": "2026-08-16"
           },
           {
-            "question": "Which international organization has partnered with the Government of West Bengal to launch the 'Saksham' program?",
+            "question": "The recently held 'Parakram Divas' in West Bengal commemorated the bravery of which group of freedom fighters?",
             "options": [
-              "USAID",
-              "UNICEF",
-              "World Bank",
-              "ADB"
+              "Sarada Sannyasins",
+              "Bengal Sepoys",
+              "Sannyasi Rebellion, Bengal",
+              "Sannyasi Rebellions"
             ],
             "correctIndex": 2,
-            "explanation": "The World Bank has partnered with the Government of West Bengal to launch the 'Saksham' program.",
-            "difficulty": "Easy",
+            "explanation": "Sannyasi rebellion in Bengal was a significant event in Indian history.",
+            "difficulty": "Hard",
             "topicId": "gs-current",
             "source": "ai_generated",
             "generatedDate": "2026-08-16"
           },
           {
-            "question": "Which river is the main source of water for the Sundarbans National Park in West Bengal?",
+            "question": "The government of West Bengal has recently announced a new policy to provide incentives to the state's IT sector. What is the name of this policy?",
             "options": [
-              "Ganges",
-              "Brahmaputra",
-              "Hooghly",
-              "Mahanadi"
+              "Bengal IT Policy 2025",
+              "Digital Bengal",
+              "IT Bengal",
+              "West Bengal IT Incentives"
             ],
             "correctIndex": 0,
-            "explanation": "The Ganges river is the main source of water for the Sundarbans National Park in West Bengal.",
+            "explanation": "This policy aims to boost the growth of the IT sector in West Bengal.",
+            "difficulty": "Medium",
+            "topicId": "gs-current",
+            "source": "ai_generated",
+            "generatedDate": "2026-08-16"
+          },
+          {
+            "question": "The West Bengal government has recently launched a new mobile app to facilitate the payment of various government dues. What is the name of this mobile app?",
+            "options": [
+              "Bengal Pay",
+              "Punarbandhan",
+              "Pay Bengal",
+              "West Bengal Payment Gateway"
+            ],
+            "correctIndex": 1,
+            "explanation": "This app aims to simplify the payment process for various government dues.",
             "difficulty": "Medium",
             "topicId": "gs-current",
             "source": "ai_generated",
@@ -342,75 +260,75 @@
         "subjectName": "General Studies",
         "questions": [
           {
-            "question": "Which of the following is a flagship programme of the West Bengal Government for the development of rural areas?",
+            "question": "The Swasthya Sathi scheme was launched by the Government of West Bengal in which year?",
             "options": [
-              "Swasthya Sathi",
-              "Duare Duare Berojogey Karmasuchi Abhiyan",
-              "Sabujgram",
-              "Sabooj Sathi"
+              "2016",
+              "2017",
+              "2018",
+              "2019"
+            ],
+            "correctIndex": 0,
+            "explanation": "It was launched in 2016.",
+            "difficulty": "Medium",
+            "topicId": "gs-wb-schemes",
+            "source": "ai_generated",
+            "generatedDate": "2026-08-16"
+          },
+          {
+            "question": "The Unnayan scheme is primarily aimed at which group of people in West Bengal?",
+            "options": [
+              "Scheduled Castes",
+              "Scheduled Tribes",
+              "Backward Classes",
+              "All of the above"
             ],
             "correctIndex": 2,
-            "explanation": "Sabujgram is a rural development programme.",
+            "explanation": "It is primarily aimed at Backward Classes.",
+            "difficulty": "Easy",
+            "topicId": "gs-wb-schemes",
+            "source": "ai_generated",
+            "generatedDate": "2026-08-16"
+          },
+          {
+            "question": "The Parayatan Sanjukta Abhidhan is a government scheme aimed at promoting which sector in West Bengal?",
+            "options": [
+              "Tourism",
+              "Agriculture",
+              "Small-scale industries",
+              "Education"
+            ],
+            "correctIndex": 0,
+            "explanation": "It is aimed at promoting the tourism sector.",
             "difficulty": "Medium",
             "topicId": "gs-wb-schemes",
             "source": "ai_generated",
             "generatedDate": "2026-08-16"
           },
           {
-            "question": "What is the name of the scholarship scheme launched by the West Bengal Government for the students belonging to economically weaker sections?",
+            "question": "The Kanyashree Prakalpa is a government scheme aimed at promoting the education and empowerment of which group of people?",
             "options": [
-              "Swami Vivekananda Merit-Cum-Means Scholarship",
-              "Mukhyamantri Prakashtut Byabastha Unnayan Bursar",
-              "Shiksha Sathi",
-              "Pandit Raghunath Murmu Scholarship"
+              "Girls",
+              "Boys",
+              "Women",
+              "Children"
+            ],
+            "correctIndex": 0,
+            "explanation": "It is aimed at promoting the education and empowerment of girls.",
+            "difficulty": "Easy",
+            "topicId": "gs-wb-schemes",
+            "source": "ai_generated",
+            "generatedDate": "2026-08-16"
+          },
+          {
+            "question": "The Bangla Sahayata Yojana is a government scheme aimed at providing financial assistance to which group of people in West Bengal?",
+            "options": [
+              "Artisans",
+              "Cottage industries",
+              "Small-scale industries",
+              "Weavers"
             ],
             "correctIndex": 2,
-            "explanation": "Shiksha Sathi is a scholarship scheme for economically weaker students.",
-            "difficulty": "Medium",
-            "topicId": "gs-wb-schemes",
-            "source": "ai_generated",
-            "generatedDate": "2026-08-16"
-          },
-          {
-            "question": "Which of the following is a housing scheme of the West Bengal Government for the economically weaker sections of the society?",
-            "options": [
-              "Aropan",
-              "Sukanya Samriddhi Yojana",
-              "Unnayan",
-              "Duare Duare Berojogey Karmasuchi Abhiyan"
-            ],
-            "correctIndex": 0,
-            "explanation": "Aropan is a housing scheme for economically weaker sections.",
-            "difficulty": "Medium",
-            "topicId": "gs-wb-schemes",
-            "source": "ai_generated",
-            "generatedDate": "2026-08-16"
-          },
-          {
-            "question": "What is the name of the health insurance scheme launched by the West Bengal Government for the citizens of the state?",
-            "options": [
-              "Swasthya Sathi",
-              "Ayushman Bharat",
-              "Pradhan Mantri Jan Arogya Yojana",
-              "Atal Amrit Abhiyan"
-            ],
-            "correctIndex": 0,
-            "explanation": "Swasthya Sathi is a health insurance scheme.",
-            "difficulty": "Medium",
-            "topicId": "gs-wb-schemes",
-            "source": "ai_generated",
-            "generatedDate": "2026-08-16"
-          },
-          {
-            "question": "Which of the following is a job scheme of the West Bengal Government for the youth who are unemployed?",
-            "options": [
-              "Duare Duare Berojogey Karmasuchi Abhiyan",
-              "Shiksha Sathi",
-              "Arunima",
-              "Sabujgram"
-            ],
-            "correctIndex": 0,
-            "explanation": "Duare Duare Berojogey Karmasuchi Abhiyan is a job scheme for unemployed youth.",
+            "explanation": "It provides financial assistance to small-scale industries.",
             "difficulty": "Medium",
             "topicId": "gs-wb-schemes",
             "source": "ai_generated",
@@ -421,82 +339,82 @@
       }
     },
     "math": {
-      "math-interest": {
-        "topicName": "Simple & Compound Interest",
+      "math-percent": {
+        "topicName": "Percentage & Profit-Loss",
         "subjectName": "Arithmetic",
         "questions": [
           {
-            "question": "A sum of Rs. 50,000 is invested for 3 years at 10% interest rate. What is the amount including simple interest?",
+            "question": "A shopkeeper in Kolkata sells 100 items at a profit of 15% on the cost price. If he sells 1000 items at the same profit percentage, what is the total profit percentage on the overall transaction?",
             "options": [
-              "Rs. 63,000",
-              "Rs. 65,000",
-              "Rs. 61,500",
-              "Rs. 59,500"
+              "10%",
+              "15%",
+              "20%",
+              "25%"
             ],
-            "correctIndex": 0,
-            "explanation": "Simple interest is calculated as principal * rate * time.",
+            "correctIndex": 1,
+            "explanation": "Total profit percentage remains the same.",
             "difficulty": "Medium",
-            "topicId": "math-interest",
+            "topicId": "math-percent",
             "source": "ai_generated",
             "generatedDate": "2026-08-16"
           },
           {
-            "question": "What is the compound interest for 2 years on a principal of Rs. 15,000 at 12% p.a. annual interest rate?",
+            "question": "A farmer in Murshidabad buys potatoes at a price of Rs. 5 per kg and sells them at a price of Rs. 7 per kg. What is the percentage profit made by the farmer on the transaction?",
             "options": [
-              "Rs. 3,048",
-              "Rs. 3,120",
-              "Rs. 3,200",
-              "Rs. 3,240"
+              "20%",
+              "25%",
+              "40%",
+              "50%"
             ],
             "correctIndex": 2,
-            "explanation": "Compound interest is calculated by the formula A = P(1 + r/n)^(nt).",
-            "difficulty": "Hard",
-            "topicId": "math-interest",
-            "source": "ai_generated",
-            "generatedDate": "2026-08-16"
-          },
-          {
-            "question": "A sum of Rs. 10,000 is borrowed at 15% p.a. simple interest rate. What is the interest amount after 2 years?",
-            "options": [
-              "Rs. 450",
-              "Rs. 480",
-              "Rs. 500",
-              "Rs. 550"
-            ],
-            "correctIndex": 3,
-            "explanation": "Interest is calculated as principal * rate * time.",
+            "explanation": "Profit percentage is calculated on the cost price.",
             "difficulty": "Easy",
-            "topicId": "math-interest",
+            "topicId": "math-profit_loss",
             "source": "ai_generated",
             "generatedDate": "2026-08-16"
           },
           {
-            "question": "If Rs. 8,000 is deposited for 5 years at 9% per annum compound interest, what is the amount including compound interest?",
+            "question": "In a shop in Darjeeling, a customer purchases a T-shirt at a discount of 10% on the marked price. If the marked price is Rs. 1000, what is the percentage discount on the T-shirt?",
             "options": [
-              "Rs. 11,108",
-              "Rs. 11,200",
-              "Rs. 11,300",
-              "Rs. 11,500"
+              "5%",
+              "8.33%",
+              "9%",
+              "10%"
             ],
-            "correctIndex": 0,
-            "explanation": "Compound interest is calculated by the formula A = P(1 + r/n)^(nt).",
+            "correctIndex": 1,
+            "explanation": "Percentage discount is calculated on the marked price.",
+            "difficulty": "Easy",
+            "topicId": "math-percent",
+            "source": "ai_generated",
+            "generatedDate": "2026-08-16"
+          },
+          {
+            "question": "A man in Howrah buys a bike at a price of Rs. 10000. If he sells it at a profit of 12%, what is the selling price of the bike?",
+            "options": [
+              "11200",
+              "11,200",
+              "12000",
+              "11200"
+            ],
+            "correctIndex": 1,
+            "explanation": "Profit is calculated on the cost price.",
             "difficulty": "Medium",
-            "topicId": "math-interest",
+            "topicId": "math-profit_loss",
             "source": "ai_generated",
             "generatedDate": "2026-08-16"
           },
           {
-            "question": "A sum of Rs. 20,000 is invested for 2 years at 8% interest rate. What is the simple interest amount?",
+            "question": "A retailer in Birbhum buys apples at a price of Rs. 5 per kg and sells them at a price of Rs. 7 per kg. What is the profit percentage made by the retailer on the transaction?",
             "options": [
-              "Rs. 1,600",
-              "Rs. 1,800",
-              "Rs. 1,920",
-              "Rs. 2,000"
+              "25%",
+              "35%",
+              "40%",
+              "50%"
             ],
-            "correctIndex": 2,
-            "explanation": "Simple interest is calculated as principal * rate * time.",
+            "correctIndex": 1,
+            "explanation": "Profit percentage is calculated on the cost price.",
             "difficulty": "Easy",
-            "topicId": "math-interest",
+            "topicId": "math-profit_loss",
             "source": "ai_generated",
             "generatedDate": "2026-08-16"
           }
@@ -508,159 +426,77 @@
         "subjectName": "Arithmetic",
         "questions": [
           {
-            "question": "A water tank can be filled by two pipes, one filling the tank at 1/4 per hour and the other at 1/6 per hour. If both pipes work together, how long will it take to fill the tank?",
+            "question": "A man can finish a certain job in 30 days. If he works with another man for 8 hours daily, how many days will it take to complete the work?",
             "options": [
-              "4 hours",
-              "6 hours",
-              "8 hours",
+              "25 days",
+              "30 days",
+              "35 days",
+              "40 days"
+            ],
+            "correctIndex": 0,
+            "explanation": "Their combined work rate is double that of the first man.",
+            "difficulty": "Medium",
+            "topicId": "math-tw",
+            "source": "ai_generated",
+            "generatedDate": "2026-08-16"
+          },
+          {
+            "question": "If a pump can fill 1/4th of a tank in 30 minutes, another pump can fill 1/8th of the tank in the same time. What is the ratio of their filling capacities?",
+            "options": [
+              "1:2",
+              "2:1",
+              "1:4",
+              "4:1"
+            ],
+            "correctIndex": 2,
+            "explanation": "Filling capacity is inversely proportional to time.",
+            "difficulty": "Medium",
+            "topicId": "math-tw",
+            "source": "ai_generated",
+            "generatedDate": "2026-08-16"
+          },
+          {
+            "question": "A tap can fill 1/3rd of a bucket in 3 minutes. In how many minutes will the tap fill 3/4th of the bucket?",
+            "options": [
+              "12 minutes",
+              "15 minutes",
+              "18 minutes",
+              "20 minutes"
+            ],
+            "correctIndex": 2,
+            "explanation": "The tap fills 1/3rd of the bucket in 3 minutes, so it fills 3/4th in 18 minutes.",
+            "difficulty": "Medium",
+            "topicId": "math-tw",
+            "source": "ai_generated",
+            "generatedDate": "2026-08-16"
+          },
+          {
+            "question": "Two pipes A and B can fill a tank in 20 hours and 15 hours respectively. If both pipes work together, in how many hours will the tank be filled?",
+            "options": [
+              "7.5 hours",
+              "9 hours",
+              "10.5 hours",
               "12 hours"
             ],
-            "correctIndex": 2,
-            "explanation": "The combined rate of filling the tank is 1/4 + 1/6 = 1/3 per hour.",
+            "correctIndex": 0,
+            "explanation": "Their combined work rate is (1/20 + 1/15) tanks per hour.",
             "difficulty": "Medium",
             "topicId": "math-tw",
             "source": "ai_generated",
             "generatedDate": "2026-08-16"
           },
           {
-            "question": "A man can complete 1/5 of a work in 2 hours. How many hours will he take to complete 3/4 of the work?",
+            "question": "A pipe can fill 1/5th of a tank in 5 minutes. In how many minutes will it fill 3/5th of the tank?",
             "options": [
-              "4 hours",
-              "6 hours",
-              "8 hours",
-              "10 hours"
+              "12.5 minutes",
+              "15 minutes",
+              "17.5 minutes",
+              "20 minutes"
             ],
-            "correctIndex": 1,
-            "explanation": "The man works at a rate of 1/10 of the work per hour.",
+            "correctIndex": 2,
+            "explanation": "Filling 3/5th of the tank is 3/2 times filling 1/5th of the tank.",
             "difficulty": "Medium",
             "topicId": "math-tw",
-            "source": "ai_generated",
-            "generatedDate": "2026-08-16"
-          },
-          {
-            "question": "A well contains 420 litres of water. If 7/10 of the water is pumped out every hour, what is the total time taken to pump out 336 litres of water?",
-            "options": [
-              "4 hours",
-              "5 hours",
-              "6 hours",
-              "8 hours"
-            ],
-            "correctIndex": 2,
-            "explanation": "The rate of water pumping out is 7/10 of 420 litres per hour.",
-            "difficulty": "Medium",
-            "topicId": "math-tw",
-            "source": "ai_generated",
-            "generatedDate": "2026-08-16"
-          },
-          {
-            "question": "Two pipes can fill a tank in 20 hours and 15 hours respectively. If both pipes work together, how long will it take to fill 3/4 of the tank?",
-            "options": [
-              "8 hours",
-              "10 hours",
-              "12 hours",
-              "15 hours"
-            ],
-            "correctIndex": 2,
-            "explanation": "The combined rate of filling the tank is 1/20 + 1/15 = 1/12 per hour.",
-            "difficulty": "Medium",
-            "topicId": "math-tw",
-            "source": "ai_generated",
-            "generatedDate": "2026-08-16"
-          },
-          {
-            "question": "A person can complete 1/6 of a work in 5 hours. If he works at the same rate, how many hours will he take to complete 3/4 of the work?",
-            "options": [
-              "10 hours",
-              "12 hours",
-              "15 hours",
-              "18 hours"
-            ],
-            "correctIndex": 2,
-            "explanation": "The time taken to complete 1/6 of the work is 5 hours.",
-            "difficulty": "Medium",
-            "topicId": "math-tw",
-            "source": "ai_generated",
-            "generatedDate": "2026-08-16"
-          }
-        ],
-        "questionCount": 5
-      },
-      "math-tsd": {
-        "topicName": "Time, Speed & Distance",
-        "subjectName": "Arithmetic",
-        "questions": [
-          {
-            "question": "A train travels from Sealdah to Howrah, covering a distance of 15 km in 30 minutes. What is the approximate speed of the train in km/hr?",
-            "options": [
-              "40 km/hr",
-              "60 km/hr",
-              "80 km/hr",
-              "100 km/hr"
-            ],
-            "correctIndex": 1,
-            "explanation": "Speed = Distance / Time.",
-            "difficulty": "Medium",
-            "topicId": "math-tsd",
-            "source": "ai_generated",
-            "generatedDate": "2026-08-16"
-          },
-          {
-            "question": "A bus travels from Kolkata to Siliguri, a distance of 630 km in 10 hours. How many more hours will it take to cover the remaining distance of 140 km?",
-            "options": [
-              "2 hours",
-              "4 hours",
-              "6 hours",
-              "8 hours"
-            ],
-            "correctIndex": 2,
-            "explanation": "Remaining distance / Remaining speed = Time.",
-            "difficulty": "Medium",
-            "topicId": "math-tsd",
-            "source": "ai_generated",
-            "generatedDate": "2026-08-16"
-          },
-          {
-            "question": "A cyclist covers a distance of 12 km in 30 minutes. How long will it take to cover a distance of 36 km?",
-            "options": [
-              "1 hour",
-              "2 hours",
-              "3 hours",
-              "4 hours"
-            ],
-            "correctIndex": 2,
-            "explanation": "Proportional reasoning.",
-            "difficulty": "Medium",
-            "topicId": "math-tsd",
-            "source": "ai_generated",
-            "generatedDate": "2026-08-16"
-          },
-          {
-            "question": "A car travels from Asansol to Durgapur, a distance of 50 km in 1 hour. What is the speed of the car?",
-            "options": [
-              "30 km/hr",
-              "40 km/hr",
-              "50 km/hr",
-              "60 km/hr"
-            ],
-            "correctIndex": 2,
-            "explanation": "Speed = Distance / Time.",
-            "difficulty": "Easy",
-            "topicId": "math-tsd",
-            "source": "ai_generated",
-            "generatedDate": "2026-08-16"
-          },
-          {
-            "question": "A truck travels from Kolkata to Kharagpur, a distance of 220 km in 4 hours. What is the speed of the truck?",
-            "options": [
-              "40 km/hr",
-              "50 km/hr",
-              "55 km/hr",
-              "60 km/hr"
-            ],
-            "correctIndex": 2,
-            "explanation": "Speed = Distance / Time.",
-            "difficulty": "Medium",
-            "topicId": "math-tsd",
             "source": "ai_generated",
             "generatedDate": "2026-08-16"
           }
@@ -674,75 +510,75 @@
         "subjectName": "Reasoning",
         "questions": [
           {
-            "question": "A series of letters is given: D E H G F C. The next letter in the series will be?",
+            "question": "In the given series 3, 6, 12, 24, 48, which comes next?",
             "options": [
-              "B",
-              "A",
-              "D",
-              "C"
-            ],
-            "correctIndex": 0,
-            "explanation": "The series follows a reverse alphabetical order.",
-            "difficulty": "Medium",
-            "topicId": "rs-coding",
-            "source": "ai_generated",
-            "generatedDate": "2026-08-16"
-          },
-          {
-            "question": "If 'TOMORROW' is coded as 'TOMORWOR', then what will be the code for 'CLOUDY'?",
-            "options": [
-              "CLUDY",
-              "CLOUDU",
-              "CLOUDYU",
-              "CLUDYU"
-            ],
-            "correctIndex": 0,
-            "explanation": "Each letter is shifted by one position to the right.",
-            "difficulty": "Medium",
-            "topicId": "rs-coding",
-            "source": "ai_generated",
-            "generatedDate": "2026-08-16"
-          },
-          {
-            "question": "A code is given: A1, B2, C3, D4. Which of the following is the code for 'E'?",
-            "options": [
-              "E5",
-              "E6",
-              "E7",
-              "E8"
-            ],
-            "correctIndex": 2,
-            "explanation": "Each letter is followed by its corresponding numerical position in the alphabet.",
-            "difficulty": "Medium",
-            "topicId": "rs-coding",
-            "source": "ai_generated",
-            "generatedDate": "2026-08-16"
-          },
-          {
-            "question": "If 'KOLKATA' is coded as 'KOLKAAT', then what will be the code for 'BENGAL'?",
-            "options": [
-              "BENGAAL",
-              "BENGAA",
-              "BENGAL",
-              "BENGAA"
-            ],
-            "correctIndex": 2,
-            "explanation": "Each pair of letters is separated by a single letter.",
-            "difficulty": "Medium",
-            "topicId": "rs-coding",
-            "source": "ai_generated",
-            "generatedDate": "2026-08-16"
-          },
-          {
-            "question": "A series of numbers is given: 3, 6, 9, 12. The next number in the series will be?",
-            "options": [
-              "15",
+              "8",
+              "10",
               "12",
+              "16"
+            ],
+            "correctIndex": 2,
+            "explanation": "Each term is multiplied by 2.",
+            "difficulty": "Medium",
+            "topicId": "rs-coding",
+            "source": "ai_generated",
+            "generatedDate": "2026-08-16"
+          },
+          {
+            "question": "In the given code, a = b + c, and b = c^2. What is the value of a if c = 3?",
+            "options": [
+              "10",
               "18",
-              "20"
+              "36",
+              "63"
             ],
             "correctIndex": 1,
-            "explanation": "The numbers increase by 3 each time.",
+            "explanation": "Substitute the values in the equation.",
+            "difficulty": "Medium",
+            "topicId": "rs-coding",
+            "source": "ai_generated",
+            "generatedDate": "2026-08-16"
+          },
+          {
+            "question": "If the code for 'SWAMI' is 5 1 13 9 1, then what is the code for 'RAMBO'?",
+            "options": [
+              "18 1 14 15 15",
+              "18 14 1 16 15",
+              "18 1 14 1 15",
+              "18 1 14 15 1"
+            ],
+            "correctIndex": 0,
+            "explanation": "Use the alphabetical order of the letters.",
+            "difficulty": "Medium",
+            "topicId": "rs-coding",
+            "source": "ai_generated",
+            "generatedDate": "2026-08-16"
+          },
+          {
+            "question": "In the given series 1, 5, 13, 25, which comes next?",
+            "options": [
+              "37",
+              "41",
+              "49",
+              "53"
+            ],
+            "correctIndex": 2,
+            "explanation": "Each term is 3 more than the previous term squared.",
+            "difficulty": "Medium",
+            "topicId": "rs-coding",
+            "source": "ai_generated",
+            "generatedDate": "2026-08-16"
+          },
+          {
+            "question": "In the given code, a = b - 2, and b = c^2 + 1. What is the value of a if c = 4?",
+            "options": [
+              "15",
+              "21",
+              "27",
+              "33"
+            ],
+            "correctIndex": 0,
+            "explanation": "Substitute the values in the equation.",
             "difficulty": "Medium",
             "topicId": "rs-coding",
             "source": "ai_generated",
@@ -756,76 +592,76 @@
         "subjectName": "Reasoning",
         "questions": [
           {
-            "question": "Kakali is the wife of Shibu, the brother of Arjun. How is Kakali related to Arjun?",
+            "question": "A man is the father of a boy and the husband of a woman. If the boy's mother is the sister of the man's father, how is the woman related to the boy?",
             "options": [
               "Mother",
               "Sister",
-              "Daughter",
-              "Cousin"
-            ],
-            "correctIndex": 1,
-            "explanation": "Kakali is Shibu's wife and Arjun is Shibu's brother, so Kakali is Arjun's sister.",
-            "difficulty": "Medium",
-            "topicId": "rs-blood",
-            "source": "ai_generated",
-            "generatedDate": "2026-08-16"
-          },
-          {
-            "question": "Rohan is the son of a grandmother. His mother's sister is his?",
-            "options": [
-              "Father",
-              "Mother",
-              "Son",
-              "Uncle"
+              "Grandmother",
+              "Aunt"
             ],
             "correctIndex": 2,
-            "explanation": "Rohan's mother's sister is his mother, so Rohan's mother is his Aunt.",
-            "difficulty": "Easy",
-            "topicId": "rs-blood",
-            "source": "ai_generated",
-            "generatedDate": "2026-08-16"
-          },
-          {
-            "question": "In a family, there is a person who is the son of the father of a person who is the daughter of a person who is the mother of a person who is the husband of the questioner. How is the questioner related to this person?",
-            "options": [
-              "Grandson",
-              "Father",
-              "Son",
-              "Brother"
-            ],
-            "correctIndex": 3,
-            "explanation": "The questioner is the husband of the person who is the mother of the person who is the daughter of the person who is the father of the person who is the father of the person in question.",
-            "difficulty": "Hard",
-            "topicId": "rs-blood",
-            "source": "ai_generated",
-            "generatedDate": "2026-08-16"
-          },
-          {
-            "question": "Bhaskar is the father of the son of the brother of the father of Rina. How is Rina related to Bhaskar?",
-            "options": [
-              "Daughter",
-              "Sister",
-              "Mother",
-              "Wife"
-            ],
-            "correctIndex": 3,
-            "explanation": "Rina's father is the brother of Bhaskar, whose son is Rina's brother, making Rina Bhaskar's daughter.",
+            "explanation": "The woman is the boy's grandmother.",
             "difficulty": "Medium",
             "topicId": "rs-blood",
             "source": "ai_generated",
             "generatedDate": "2026-08-16"
           },
           {
-            "question": "A person says, 'My wife's father is the father-in-law of my father-in-law.' What is the relationship of the person with his father-in-law?",
+            "question": "If Soma is the mother of Raja and the wife of Prasun, and Soma's sister is married to Raja's father, then who is Soma's sister-in-law?",
             "options": [
-              "Brother",
-              "Sister",
-              "Father",
-              "Uncle"
+              "Mother-in-law of Raja",
+              "Father-in-law of Raja",
+              "Mother of Raja",
+              "Sister of Raja"
             ],
             "correctIndex": 0,
-            "explanation": "The person's father-in-law is the husband of the person's mother-in-law, making the person's father-in-law the person's father.",
-            "difficulty": "Hard",
+            "explanation": "Soma's sister-in-law is the mother-in-law of Raja.",
+            "difficulty": "Medium",
+            "topicId": "rs-blood",
+            "source": "ai_generated",
+            "generatedDate": "2026-08-16"
+          },
+          {
+            "question": "Amar is the son of Bimal and the grandson of Jaya. If Jaya's brother's son is Amar's father, then how is Amar related to Jaya?",
+            "options": [
+              "Son",
+              "Grandson",
+              "Father",
+              "Brother"
+            ],
+            "correctIndex": 1,
+            "explanation": "Amar is the grandson of Jaya.",
+            "difficulty": "Medium",
+            "topicId": "rs-blood",
+            "source": "ai_generated",
+            "generatedDate": "2026-08-16"
+          },
+          {
+            "question": "If Tapas is the father of a boy and the husband of a woman, and the boy's mother is the daughter of the woman's mother, then how is the woman related to the boy?",
+            "options": [
+              "Mother",
+              "Sister",
+              "Grandmother",
+              "Aunt"
+            ],
+            "correctIndex": 1,
+            "explanation": "The woman is the boy's mother.",
+            "difficulty": "Medium",
+            "topicId": "rs-blood",
+            "source": "ai_generated",
+            "generatedDate": "2026-08-16"
+          },
+          {
+            "question": "A person is the son of the daughter of a person's mother. How is the person related to his mother?",
+            "options": [
+              "Father",
+              "Son",
+              "Brother",
+              "Grandson"
+            ],
+            "correctIndex": 2,
+            "explanation": "The person is the son of his mother.",
+            "difficulty": "Medium",
             "topicId": "rs-blood",
             "source": "ai_generated",
             "generatedDate": "2026-08-16"
@@ -838,159 +674,77 @@
         "subjectName": "Reasoning",
         "questions": [
           {
-            "question": "A person starts his journey from Howrah and walks 9 km towards the east. Then, he turns left and walks 12 km. Next, he turns right and walks 15 km. Finally, he turns left and walks 5 km. In which direction is he now from Howrah?",
-            "options": [
-              "South",
-              "North",
-              "East",
-              "West"
-            ],
-            "correctIndex": 3,
-            "explanation": "He is now to the west of Howrah.",
-            "difficulty": "Medium",
-            "topicId": "rs-direction",
-            "source": "ai_generated",
-            "generatedDate": "2026-08-16"
-          },
-          {
-            "question": "A man is facing a temple at 3 O'clock. If he turns 135 degrees from this position and then turns 270 degrees, in which direction is he now facing?",
-            "options": [
-              "South",
-              "North",
-              "East",
-              "West"
-            ],
-            "correctIndex": 0,
-            "explanation": "He is now facing the south direction.",
-            "difficulty": "Medium",
-            "topicId": "rs-direction",
-            "source": "ai_generated",
-            "generatedDate": "2026-08-16"
-          },
-          {
-            "question": "A person is standing at a point P in the city of Kolkata. He moves 4 km to the north, then 3 km to the east, then 2 km to the south, and finally 1 km to the west. What is the shortest distance from point P to his final position?",
-            "options": [
-              "1 km",
-              "2 km",
-              "3 km",
-              "4 km"
-            ],
-            "correctIndex": 0,
-            "explanation": "The shortest distance is 1 km.",
-            "difficulty": "Medium",
-            "topicId": "rs-direction",
-            "source": "ai_generated",
-            "generatedDate": "2026-08-16"
-          },
-          {
-            "question": "A person starts his journey from a point A, 1 km away from a railway line. He walks 2 km perpendicular to the railway line and then 2 km along the railway line. How many metres is he away from point A?",
-            "options": [
-              "2 m",
-              "1 m",
-              "4 m",
-              "3 m"
-            ],
-            "correctIndex": 1,
-            "explanation": "He is 1 m away from point A.",
-            "difficulty": "Medium",
-            "topicId": "rs-direction",
-            "source": "ai_generated",
-            "generatedDate": "2026-08-16"
-          },
-          {
-            "question": "A person is standing at a point A, 5 km away from a straight road. He walks 10 km along the road and then 5 km perpendicular to the road. In which direction is he now from point A?",
+            "question": "Kolkata's Victoria Memorial is facing north. If one walks 200 meters towards east, then turns right and walks 150 meters, in which direction is the person facing now?",
             "options": [
               "North",
               "South",
-              "East",
-              "West"
-            ],
-            "correctIndex": 0,
-            "explanation": "He is now to the north of point A.",
-            "difficulty": "Medium",
-            "topicId": "rs-direction",
-            "source": "ai_generated",
-            "generatedDate": "2026-08-16"
-          }
-        ],
-        "questionCount": 5
-      },
-      "rs-series": {
-        "topicName": "Number & Letter Series",
-        "subjectName": "Reasoning",
-        "questions": [
-          {
-            "question": "Complete the series: 1, 2, 4, 7, 11, ?",
-            "options": [
-              "15",
-              "13",
-              "16",
-              "18"
-            ],
-            "correctIndex": 0,
-            "explanation": "It is an arithmetic series with a common difference of 1, 2, and 3.",
-            "difficulty": "Medium",
-            "topicId": "rs-series",
-            "source": "ai_generated",
-            "generatedDate": "2026-08-16"
-          },
-          {
-            "question": "In the series: A, B, C, D, E, ?",
-            "options": [
-              "F",
-              "G",
-              "H",
-              "I"
-            ],
-            "correctIndex": 3,
-            "explanation": "It is an alphabetical series starting from A.",
-            "difficulty": "Easy",
-            "topicId": "ls-series",
-            "source": "ai_generated",
-            "generatedDate": "2026-08-16"
-          },
-          {
-            "question": "Find the next term in the series: 2, 6, 12, 20, 30, ?",
-            "options": [
-              "42",
-              "40",
-              "38",
-              "36"
-            ],
-            "correctIndex": 0,
-            "explanation": "It is an arithmetic series with a common difference of 4, 6, and 8.",
-            "difficulty": "Medium",
-            "topicId": "rs-series",
-            "source": "ai_generated",
-            "generatedDate": "2026-08-16"
-          },
-          {
-            "question": "Complete the series: K, R, U, ?",
-            "options": [
-              "Y",
-              "Z",
-              "E",
-              "X"
+              "West",
+              "East"
             ],
             "correctIndex": 2,
-            "explanation": "It is an alphabetical series with a common difference of 3.",
-            "difficulty": "Easy",
-            "topicId": "ls-series",
+            "explanation": "The person turns right after walking east, which means they turned towards their left side.",
+            "difficulty": "Medium",
+            "topicId": "rs-direction",
             "source": "ai_generated",
             "generatedDate": "2026-08-16"
           },
           {
-            "question": "In the series: 3, 6, 9, 12, 15, ?",
+            "question": "A person is standing in a room with a table clock. The hour hand is pointing towards the door, and the minute hand is at 12. If the person turns around 180 degrees, in which direction is the door?",
             "options": [
-              "18",
-              "20",
-              "19",
-              "17"
+              "North",
+              "South",
+              "East",
+              "West"
+            ],
+            "correctIndex": 3,
+            "explanation": "The door is opposite to the direction the hour hand is pointing.",
+            "difficulty": "Medium",
+            "topicId": "rs-direction",
+            "source": "ai_generated",
+            "generatedDate": "2026-08-16"
+          },
+          {
+            "question": "A man is standing at an intersection of two roads, one leading to Howrah and the other to Durgapur. He is facing the road to Howrah. If he turns 135 degrees to his right, in which direction is he facing now?",
+            "options": [
+              "Toward Durgapur",
+              "Away from Durgapur",
+              "North",
+              "South"
+            ],
+            "correctIndex": 1,
+            "explanation": "Since he is facing the road to Howrah initially, 135 degrees to the right means he is turning towards Durgapur's road.",
+            "difficulty": "Medium",
+            "topicId": "rs-direction",
+            "source": "ai_generated",
+            "generatedDate": "2026-08-16"
+          },
+          {
+            "question": "A woman is standing in a room with a wall clock. The short hand is at 6 and the long hand is at 12. If she turns 90 degrees to her left, in which direction is the long hand now?",
+            "options": [
+              "At 6",
+              "At 9",
+              "At 3",
+              "At 12"
+            ],
+            "correctIndex": 1,
+            "explanation": "Since the woman turns 90 degrees to her left, the long hand will appear to be at 9 from her new position.",
+            "difficulty": "Low",
+            "topicId": "rs-direction",
+            "source": "ai_generated",
+            "generatedDate": "2026-08-16"
+          },
+          {
+            "question": "If a person is facing south and walks 50 meters towards the river Ganges, then turns right and walks 75 meters, in which direction is the person facing now?",
+            "options": [
+              "North",
+              "South",
+              "East",
+              "West"
             ],
             "correctIndex": 0,
-            "explanation": "It is an arithmetic series with a common difference of 3.",
-            "difficulty": "Easy",
-            "topicId": "rs-series",
+            "explanation": "The person turns right after walking south, which means they turned towards their left side.",
+            "difficulty": "Medium",
+            "topicId": "rs-direction",
             "source": "ai_generated",
             "generatedDate": "2026-08-16"
           }
