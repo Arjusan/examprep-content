@@ -1,0 +1,1002 @@
+{
+  "exam": "si",
+  "generatedDate": "2026-08-17",
+  "generatedAt": "2026-08-17T02:04:18.081Z",
+  "model": "llama-3.1-8b-instant",
+  "provider": "groq",
+  "source": "ai_generated",
+  "reviewStatus": "pending",
+  "totalQuestions": 60,
+  "subjects": {
+    "gs": {
+      "gs-polity": {
+        "topicName": "Indian Constitution & Polity",
+        "subjectName": "General Studies",
+        "questions": [
+          {
+            "question": "Which part of the Indian Constitution deals with the fundamental rights of citizens?",
+            "options": [
+              "Part II",
+              "Part III",
+              "Part IV",
+              "Part V"
+            ],
+            "correctIndex": 2,
+            "explanation": "It contains Directive Principles of State Policy.",
+            "difficulty": "Medium",
+            "topicId": "gs-polity",
+            "source": "ai_generated",
+            "generatedDate": "2026-08-17"
+          },
+          {
+            "question": "Which of the following is a feature of the Panchayati Raj System in West Bengal?",
+            "options": [
+              "Gram Panchayat is the lowest unit of administration",
+              "Zilla Parishad is the highest unit of administration",
+              "Panchayats are elected for a period of 5 years",
+              "All of the above"
+            ],
+            "correctIndex": 3,
+            "explanation": "All the mentioned features are part of the Panchayati Raj System.",
+            "difficulty": "Medium",
+            "topicId": "gs-polity",
+            "source": "ai_generated",
+            "generatedDate": "2026-08-17"
+          },
+          {
+            "question": "Who is the head of the West Bengal State Election Commission?",
+            "options": [
+              "Chief Minister of West Bengal",
+              "Chairperson of State Election Commission",
+              "Speaker of Legislative Assembly",
+              "Governor of West Bengal"
+            ],
+            "correctIndex": 1,
+            "explanation": "The Chairperson of the State Election Commission is the head.",
+            "difficulty": "Medium",
+            "topicId": "gs-polity",
+            "source": "ai_generated",
+            "generatedDate": "2026-08-17"
+          },
+          {
+            "question": "Which of the following is a fundamental duty of a citizen of India?",
+            "options": [
+              "To follow the Constitution",
+              "To respect the national flag",
+              "To protect the environment",
+              "All of the above"
+            ],
+            "correctIndex": 3,
+            "explanation": "All the mentioned fundamental duties are part of the Indian Constitution.",
+            "difficulty": "Medium",
+            "topicId": "gs-polity",
+            "source": "ai_generated",
+            "generatedDate": "2026-08-17"
+          },
+          {
+            "question": "What is the name of the scheme launched by the Government of West Bengal for the empowerment of women?",
+            "options": [
+              "Swasthya Sathi",
+              "Disha",
+              "Swami Vivekananda Arogya Yojana",
+              "Kanyashree Prakalpa"
+            ],
+            "correctIndex": 3,
+            "explanation": "Kanyashree Prakalpa is the scheme for the empowerment of women.",
+            "difficulty": "Medium",
+            "topicId": "gs-polity",
+            "source": "ai_generated",
+            "generatedDate": "2026-08-17"
+          }
+        ],
+        "questionCount": 5
+      },
+      "gs-freedom": {
+        "topicName": "Indian Freedom Struggle & Bengal",
+        "subjectName": "General Studies",
+        "questions": [
+          {
+            "question": "Who was the founder of the Indian National Congress in Bengal?",
+            "options": [
+              "Deshbandhu Chitta Ranjan Das",
+              "Surendranath Banerjee",
+              "Aurobindo Ghosh",
+              "Subhas Chandra Bose"
+            ],
+            "correctIndex": 1,
+            "explanation": "Surendranath Banerjee was the founder of the Indian National Congress in Bengal.",
+            "difficulty": "Easy",
+            "topicId": "gs-freedom",
+            "source": "ai_generated",
+            "generatedDate": "2026-08-17"
+          },
+          {
+            "question": "Which of the following events took place at the Barabati Ground in Kolkata during the Non-Cooperation Movement?",
+            "options": [
+              "Dandi March",
+              "Simon Commission protests",
+              "Barabati Ground procession",
+              "Noakhali Riots"
+            ],
+            "correctIndex": 2,
+            "explanation": "The Simon Commission protests took place at the Barabati Ground in Kolkata.",
+            "difficulty": "Medium",
+            "topicId": "gs-freedom",
+            "source": "ai_generated",
+            "generatedDate": "2026-08-17"
+          },
+          {
+            "question": "Who was the Indian revolutionary who was hanged for his involvement in the Howrah-Sibpur ferry bomb explosion in 1915?",
+            "options": [
+              "Barindra Kumar Ghosh",
+              "Jugantar group members",
+              "Vivekananda",
+              "Bhupendranath Dutta"
+            ],
+            "correctIndex": 0,
+            "explanation": "Barindra Kumar Ghosh was hanged for his involvement in the Howrah-Sibpur ferry bomb explosion in 1915.",
+            "difficulty": "Medium",
+            "topicId": "gs-freedom",
+            "source": "ai_generated",
+            "generatedDate": "2026-08-17"
+          },
+          {
+            "question": "The famous Doordarshan film 'Ghare Baire' based on the novel by Rabindranath Tagore was a critique of the?",
+            "options": [
+              "Swadeshi Movement",
+              "Non-Cooperation Movement",
+              "Khilafat Movement",
+              "Revolutionary movement in Bengal"
+            ],
+            "correctIndex": 0,
+            "explanation": "The film 'Ghare Baire' was a critique of the Swadeshi Movement.",
+            "difficulty": "Medium",
+            "topicId": "gs-freedom",
+            "source": "ai_generated",
+            "generatedDate": "2026-08-17"
+          },
+          {
+            "question": "The first non-violent resistance movement in Bengal was led by?",
+            "options": [
+              "Champaran Satyagraha by Mahatma Gandhi",
+              "Khilafat Movement",
+              "Barisal Conspiracy Case",
+              "Revolutionary movement in Bengal"
+            ],
+            "correctIndex": 0,
+            "explanation": "Champaran Satyagraha by Mahatma Gandhi was the first non-violent resistance movement in Bengal.",
+            "difficulty": "Medium",
+            "topicId": "gs-freedom",
+            "source": "ai_generated",
+            "generatedDate": "2026-08-17"
+          }
+        ],
+        "questionCount": 5
+      },
+      "gs-wb-geo": {
+        "topicName": "West Bengal Geography",
+        "subjectName": "General Studies",
+        "questions": [
+          {
+            "question": "Which river originates in the Himalayas and flows through the state of West Bengal in India?",
+            "options": [
+              "Ganges",
+              "Brahmaputra",
+              "Subarnarekha",
+              "Hooghly"
+            ],
+            "correctIndex": 0,
+            "explanation": "It is the largest river flowing through West Bengal.",
+            "difficulty": "Medium",
+            "topicId": "gs-wb-geo",
+            "source": "ai_generated",
+            "generatedDate": "2026-08-17"
+          },
+          {
+            "question": "What is the name of the Sundarbans delta in West Bengal that is home to the Bengal tiger?",
+            "options": [
+              "Ganges Delta",
+              "Meghna Delta",
+              "Sundarbans Delta",
+              "Ganga-Brahmaputra Delta"
+            ],
+            "correctIndex": 2,
+            "explanation": "It is the largest mangrove forest in the world.",
+            "difficulty": "Medium",
+            "topicId": "gs-wb-geo",
+            "source": "ai_generated",
+            "generatedDate": "2026-08-17"
+          },
+          {
+            "question": "Which mountain range runs along the northern border of West Bengal, India?",
+            "options": [
+              "Eastern Ghats",
+              "Himalayas",
+              "Bhutan Himalayas",
+              "Khasi Hills"
+            ],
+            "correctIndex": 1,
+            "explanation": "It is the world's highest mountain range.",
+            "difficulty": "Medium",
+            "topicId": "gs-wb-geo",
+            "source": "ai_generated",
+            "generatedDate": "2026-08-17"
+          },
+          {
+            "question": "What is the name of the largest island in the Sundarbans delta in West Bengal?",
+            "options": [
+              "Sagardwip",
+              "Ghoramara",
+              "Lohachara",
+              "Sundarbans Island"
+            ],
+            "correctIndex": 0,
+            "explanation": "It is a popular tourist destination.",
+            "difficulty": "Easy",
+            "topicId": "gs-wb-geo",
+            "source": "ai_generated",
+            "generatedDate": "2026-08-17"
+          },
+          {
+            "question": "Which major port in West Bengal is located in the Hooghly River?",
+            "options": [
+              "Kolkata Port",
+              "Haldia Port",
+              "Tolly's Nullah",
+              "Narayana Port"
+            ],
+            "correctIndex": 0,
+            "explanation": "It is one of the oldest ports in India.",
+            "difficulty": "Medium",
+            "topicId": "gs-wb-geo",
+            "source": "ai_generated",
+            "generatedDate": "2026-08-17"
+          }
+        ],
+        "questionCount": 5
+      },
+      "gs-current": {
+        "topicName": "Current Affairs (Last 12 Months)",
+        "subjectName": "General Studies",
+        "questions": [
+          {
+            "question": "Which West Bengal based company was recently granted approval to set up a Rs 12,000 crore semiconductor manufacturing unit in the state?",
+            "options": [
+              "Tata Consultancy Services",
+              "Hindustan Copper",
+              "NTPC",
+              "Emerson"
+            ],
+            "correctIndex": 0,
+            "explanation": "Tata Consultancy Services was granted approval.",
+            "difficulty": "Medium",
+            "topicId": "gs-current",
+            "source": "ai_generated",
+            "generatedDate": "2026-08-17"
+          },
+          {
+            "question": "Which of the following rivers is not a major tributary of the Ganges river in West Bengal?",
+            "options": [
+              "Rupnarayan",
+              "Mayurakshi",
+              "Bhairab",
+              "Damodar"
+            ],
+            "correctIndex": 2,
+            "explanation": "Bhairab is not a major tributary of the Ganges in West Bengal.",
+            "difficulty": "Medium",
+            "topicId": "gs-current",
+            "source": "ai_generated",
+            "generatedDate": "2026-08-17"
+          },
+          {
+            "question": "Who is the current Chief Minister of West Bengal?",
+            "options": [
+              "Mamata Banerjee",
+              "Yogi Adityanath",
+              "Uddhav Thackeray",
+              "Nitish Kumar"
+            ],
+            "correctIndex": 0,
+            "explanation": "Mamata Banerjee is the current Chief Minister.",
+            "difficulty": "Easy",
+            "topicId": "gs-current",
+            "source": "ai_generated",
+            "generatedDate": "2026-08-17"
+          },
+          {
+            "question": "Which of the following West Bengal based institutions has been ranked as the top engineering college in India?",
+            "options": [
+              "Indian Institute of Engineering Science and Technology",
+              "Jadavpur University",
+              "Indian Institute of Chemical Biology",
+              "Indian Institute of Science Education and Research"
+            ],
+            "correctIndex": 0,
+            "explanation": "Indian Institute of Engineering Science and Technology is ranked as the top engineering college in India.",
+            "difficulty": "Medium",
+            "topicId": "gs-current",
+            "source": "ai_generated",
+            "generatedDate": "2026-08-17"
+          },
+          {
+            "question": "What is the total area of the Sundarbans National Park in West Bengal?",
+            "options": [
+              "925 km²",
+              "1,330 km²",
+              "1,046 km²",
+              "1,200 km²"
+            ],
+            "correctIndex": 1,
+            "explanation": "The Sundarbans National Park covers an area of 1,330 km².",
+            "difficulty": "Medium",
+            "topicId": "gs-current",
+            "source": "ai_generated",
+            "generatedDate": "2026-08-17"
+          }
+        ],
+        "questionCount": 5
+      },
+      "gs-wb-schemes": {
+        "topicName": "West Bengal Government Schemes",
+        "subjectName": "General Studies",
+        "questions": [
+          {
+            "question": "What is the main objective of the 'Swasthya Sathi' health insurance scheme launched by the West Bengal government?",
+            "options": [
+              "To provide free medical treatment to all citizens",
+              "To provide health insurance to BPL families",
+              "To provide health insurance to all citizens of West Bengal",
+              "To provide free sanitary pads to school girls"
+            ],
+            "correctIndex": 2,
+            "explanation": "It provides health insurance to all citizens of West Bengal.",
+            "difficulty": "Medium",
+            "topicId": "gs-wb-schemes",
+            "source": "ai_generated",
+            "generatedDate": "2026-08-17"
+          },
+          {
+            "question": "What is the name of the West Bengal government's scheme to provide assistance to the families of martyred police personnel?",
+            "options": [
+              "Sarba Shiksha Abhiyan",
+              "Kanyashree Prakalpa",
+              "Saptarshi Scheme",
+              "Sishu Shiksha Sathi"
+            ],
+            "correctIndex": 0,
+            "explanation": "It provides financial assistance to the families of martyred police personnel.",
+            "difficulty": "Medium",
+            "topicId": "gs-wb-schemes",
+            "source": "ai_generated",
+            "generatedDate": "2026-08-17"
+          },
+          {
+            "question": "Which of the following is a flagship scheme of the West Bengal government to promote entrepreneurship among women?",
+            "options": [
+              "Kanyashree Prakalpa",
+              "Mukhyamantri Swarojgar Yojana",
+              "Mamata Scheme for Women Empowerment",
+              "West Bengal Women Entrepreneurship Scheme"
+            ],
+            "correctIndex": 1,
+            "explanation": "It provides financial assistance and skill training to women to promote entrepreneurship.",
+            "difficulty": "Medium",
+            "topicId": "gs-wb-schemes",
+            "source": "ai_generated",
+            "generatedDate": "2026-08-17"
+          },
+          {
+            "question": "What is the name of the West Bengal government's scheme to provide assistance to the farmers for purchasing agricultural inputs?",
+            "options": [
+              "Krishi Samman Nidhi Yojana",
+              "Mukhyamantri Krishi Protsahan Yojana",
+              "West Bengal Farmer Assistance Scheme",
+              "Krishi Rin Mukt Yojana"
+            ],
+            "correctIndex": 1,
+            "explanation": "It provides financial assistance to farmers for purchasing agricultural inputs.",
+            "difficulty": "Medium",
+            "topicId": "gs-wb-schemes",
+            "source": "ai_generated",
+            "generatedDate": "2026-08-17"
+          },
+          {
+            "question": "Which of the following is a West Bengal government's scheme to provide free education to all children in the state?",
+            "options": [
+              "Sarba Shiksha Abhiyan",
+              "Sishu Shiksha Sathi",
+              "Siksha Sathi",
+              "Swastha Sathi"
+            ],
+            "correctIndex": 0,
+            "explanation": "It provides free education to all children in West Bengal.",
+            "difficulty": "Medium",
+            "topicId": "gs-wb-schemes",
+            "source": "ai_generated",
+            "generatedDate": "2026-08-17"
+          }
+        ],
+        "questionCount": 5
+      }
+    },
+    "math": {
+      "math-percent": {
+        "topicName": "Percentage & Profit-Loss",
+        "subjectName": "Arithmetic",
+        "questions": [
+          {
+            "question": "An article is bought for Rs. 750 and is sold at a 25% profit. What is the cost price of the article if it is sold for Rs. 1,012.50?",
+            "options": [
+              "Rs. 900",
+              "Rs. 1,000",
+              "Rs. 1,050",
+              "Rs. 1,150"
+            ],
+            "correctIndex": 2,
+            "explanation": "Cost price can be calculated using the formula: Selling price = Cost price + Profit.",
+            "difficulty": "Medium",
+            "topicId": "math-profit-loss",
+            "source": "ai_generated",
+            "generatedDate": "2026-08-17"
+          },
+          {
+            "question": "In a shop, the marked price of a sweater is Rs. 600. If it is sold at a discount of 15%, what is the new selling price?",
+            "options": [
+              "Rs. 510",
+              "Rs. 540",
+              "Rs. 510.00",
+              "Rs. 510.50"
+            ],
+            "correctIndex": 0,
+            "explanation": "Discount amount is the percentage of the marked price that is deducted from it.",
+            "difficulty": "Easy",
+            "topicId": "math-discount",
+            "source": "ai_generated",
+            "generatedDate": "2026-08-17"
+          },
+          {
+            "question": "If an item is available for Rs. 2,400 and a discount of 12% is available, how much amount will be saved?",
+            "options": [
+              "Rs. 240",
+              "Rs. 288",
+              "Rs. 288.00",
+              "Rs. 288.50"
+            ],
+            "correctIndex": 1,
+            "explanation": "Discount amount can be calculated using the formula: Discount = Marked price * (Discount percentage / 100).",
+            "difficulty": "Easy",
+            "topicId": "math-discount",
+            "source": "ai_generated",
+            "generatedDate": "2026-08-17"
+          },
+          {
+            "question": "A person bought a plot of land for Rs. 1,80,000. If he sells it at a 7% profit, then what amount will he get?",
+            "options": [
+              "Rs. 1,90,000",
+              "Rs. 1,91,000",
+              "Rs. 1,91,000",
+              "Rs. 1,92,000"
+            ],
+            "correctIndex": 2,
+            "explanation": "Profit amount is the percentage of the cost price that is added to it.",
+            "difficulty": "Medium",
+            "topicId": "math-profit-loss",
+            "source": "ai_generated",
+            "generatedDate": "2026-08-17"
+          },
+          {
+            "question": "In a shop, the cost price of a book is Rs. 240. If it is sold for Rs. 288, what is the percentage profit made?",
+            "options": [
+              "10%",
+              "12%",
+              "15%",
+              "18%"
+            ],
+            "correctIndex": 2,
+            "explanation": "Profit percentage can be calculated using the formula: Profit percentage = (Profit / Cost price) * 100.",
+            "difficulty": "Medium",
+            "topicId": "math-profit-loss",
+            "source": "ai_generated",
+            "generatedDate": "2026-08-17"
+          }
+        ],
+        "questionCount": 5
+      },
+      "math-interest": {
+        "topicName": "Simple & Compound Interest",
+        "subjectName": "Arithmetic",
+        "questions": [
+          {
+            "question": "If the principal amount is ₹ 10,000 and the simple interest rate is 6% per annum for 2 years, what is the total amount after 2 years?",
+            "options": [
+              "₹ 11,200",
+              "₹ 11,020",
+              "₹ 11,200",
+              "₹ 10,600"
+            ],
+            "correctIndex": 0,
+            "explanation": "It is the sum of the principal and the simple interest.",
+            "difficulty": "Easy",
+            "topicId": "math-interest",
+            "source": "ai_generated",
+            "generatedDate": "2026-08-17"
+          },
+          {
+            "question": "An individual invested ₹ 5,000 in a fixed deposit for 3 years at an annual compound interest rate of 8%. What is the amount at the end of 3 years?",
+            "options": [
+              "₹ 6,200.27",
+              "₹ 6,200.19",
+              "₹ 6,200.27",
+              "₹ 6,200.00"
+            ],
+            "correctIndex": 0,
+            "explanation": "It is calculated by using the formula A = P(1 + r/100)^n.",
+            "difficulty": "Medium",
+            "topicId": "math-interest",
+            "source": "ai_generated",
+            "generatedDate": "2026-08-17"
+          },
+          {
+            "question": "If the compound interest for 2 years on ₹ 15,000 at 4% per annum is ₹ 124.4, what is the rate of interest per annum?",
+            "options": [
+              "3.99",
+              "4.00",
+              "4.01",
+              "4.02"
+            ],
+            "correctIndex": 1,
+            "explanation": "It can be calculated by using the formula A = P(1 + r/100)^n.",
+            "difficulty": "Medium",
+            "topicId": "math-interest",
+            "source": "ai_generated",
+            "generatedDate": "2026-08-17"
+          },
+          {
+            "question": "A person deposited ₹ 8,000 into a savings account that earns a simple interest of 5% per annum. What is the interest earned after 4 years?",
+            "options": [
+              "₹ 1,600",
+              "₹ 1,600.25",
+              "₹ 1,600",
+              "₹ 1,600.01"
+            ],
+            "correctIndex": 0,
+            "explanation": "Simple interest is calculated as (P*r*n)/100.",
+            "difficulty": "Easy",
+            "topicId": "math-interest",
+            "source": "ai_generated",
+            "generatedDate": "2026-08-17"
+          },
+          {
+            "question": "If the compound interest on ₹ 12,000 at 7% per annum for 1 year is ₹ 420, what is the amount at the end of 1 year?",
+            "options": [
+              "₹ 12,420",
+              "₹ 12,420.00",
+              "₹ 12,420",
+              "₹ 12,300"
+            ],
+            "correctIndex": 0,
+            "explanation": "Compound interest is calculated by subtracting the principal from the amount.",
+            "difficulty": "Medium",
+            "topicId": "math-interest",
+            "source": "ai_generated",
+            "generatedDate": "2026-08-17"
+          }
+        ],
+        "questionCount": 5
+      },
+      "math-tw": {
+        "topicName": "Time, Work & Pipes",
+        "subjectName": "Arithmetic",
+        "questions": [
+          {
+            "question": "A pipe can fill 3/4th of a tank in 6 hours. How long will it take to fill 7/8th of the tank?",
+            "options": [
+              "10 hours",
+              "8 hours",
+              "12 hours",
+              "9 hours"
+            ],
+            "correctIndex": 2,
+            "explanation": "Since 3/4th of the tank is filled in 6 hours, 1/4th of the tank is filled in 2 hours. To find the time for 7/8th of the tank, we need to fill 7/8 - 3/4 = 1/8 of the tank as well.",
+            "difficulty": "Medium",
+            "topicId": "math-tw",
+            "source": "ai_generated",
+            "generatedDate": "2026-08-17"
+          },
+          {
+            "question": "If 6 men can finish a work in 12 days, how many men are required to finish the same work in 9 days?",
+            "options": [
+              "8 men",
+              "9 men",
+              "10 men",
+              "7 men"
+            ],
+            "correctIndex": 1,
+            "explanation": "The number of men required is inversely proportional to the number of days. So, we can use the inverse proportion formula to find the answer.",
+            "difficulty": "Medium",
+            "topicId": "math-tw",
+            "source": "ai_generated",
+            "generatedDate": "2026-08-17"
+          },
+          {
+            "question": "A man can do a piece of work in 6 days, but while working, he is assisted by his wife for half of the time. In how many days will the work be completed?",
+            "options": [
+              "4 days",
+              "5 days",
+              "6 days",
+              "8 days"
+            ],
+            "correctIndex": 1,
+            "explanation": "The man works alone for half of the time, and assisted for the other half. So, the total work done in a day is the work done by the man alone plus the work done by the man and his wife together.",
+            "difficulty": "Medium",
+            "topicId": "math-tw",
+            "source": "ai_generated",
+            "generatedDate": "2026-08-17"
+          },
+          {
+            "question": "A cistern can be filled by a pipe A in 6 hours and by pipe B in 8 hours. How long will it take to fill the cistern if both pipes are opened simultaneously?",
+            "options": [
+              "4.5 hours",
+              "5 hours",
+              "6 hours",
+              "7 hours"
+            ],
+            "correctIndex": 0,
+            "explanation": "The rate of filling of the cistern by both pipes together is the sum of their individual rates of filling.",
+            "difficulty": "Medium",
+            "topicId": "math-tw",
+            "source": "ai_generated",
+            "generatedDate": "2026-08-17"
+          },
+          {
+            "question": "A tap can fill 5/6th of a tank in 10 hours. In how many hours will the tap fill the remaining 1/6th part of the tank?",
+            "options": [
+              "1 hour",
+              "2 hours",
+              "5 hours",
+              "10 hours"
+            ],
+            "correctIndex": 3,
+            "explanation": "Since 5/6th of the tank is filled in 10 hours, 1/6th of the tank is filled in 2 hours.",
+            "difficulty": "Medium",
+            "topicId": "math-tw",
+            "source": "ai_generated",
+            "generatedDate": "2026-08-17"
+          }
+        ],
+        "questionCount": 5
+      }
+    },
+    "reasoning": {
+      "rs-coding": {
+        "topicName": "Coding-Decoding",
+        "subjectName": "Reasoning",
+        "questions": [
+          {
+            "question": "In the given series 2, 6, 12, 20, 30, what will be the next number?",
+            "options": [
+              "8",
+              "10",
+              "12",
+              "14"
+            ],
+            "correctIndex": 1,
+            "explanation": "The series is obtained by adding 4, 6, 8, 10, ...",
+            "difficulty": "Medium",
+            "topicId": "rs-coding",
+            "source": "ai_generated",
+            "generatedDate": "2026-08-17"
+          },
+          {
+            "question": "If A means +, B means -, C means ×, D means ÷, then 2D3A4C1 equals?",
+            "options": [
+              "6",
+              "7",
+              "8",
+              "9"
+            ],
+            "correctIndex": 2,
+            "explanation": "2 ÷ 3 + 4 × 1",
+            "difficulty": "Medium",
+            "topicId": "rs-coding",
+            "source": "ai_generated",
+            "generatedDate": "2026-08-17"
+          },
+          {
+            "question": "In the given series 11, 13, 15, 17, 19, what will be the next number?",
+            "options": [
+              "21",
+              "22",
+              "23",
+              "25"
+            ],
+            "correctIndex": 0,
+            "explanation": "The series is obtained by adding 2, 2, 2, 2, ...",
+            "difficulty": "Medium",
+            "topicId": "rs-coding",
+            "source": "ai_generated",
+            "generatedDate": "2026-08-17"
+          },
+          {
+            "question": "If A means 2, B means 3, C means 4, D means 5, then 2C1B3D equals?",
+            "options": [
+              "1",
+              "2",
+              "3",
+              "4"
+            ],
+            "correctIndex": 2,
+            "explanation": "2 × 4 + 3 - 5",
+            "difficulty": "Medium",
+            "topicId": "rs-coding",
+            "source": "ai_generated",
+            "generatedDate": "2026-08-17"
+          },
+          {
+            "question": "In the given series 1, 4, 9, 16, 25, what will be the next number?",
+            "options": [
+              "36",
+              "49",
+              "64",
+              "100"
+            ],
+            "correctIndex": 2,
+            "explanation": "The series is obtained by squaring the natural numbers 1, 2, 3, 4, ...",
+            "difficulty": "Medium",
+            "topicId": "rs-coding",
+            "source": "ai_generated",
+            "generatedDate": "2026-08-17"
+          }
+        ],
+        "questionCount": 5
+      },
+      "rs-blood": {
+        "topicName": "Blood Relations",
+        "subjectName": "Reasoning",
+        "questions": [
+          {
+            "question": "Kakali is the wife of Prasenjit. If Prasenjit is the son of Supriya, then what is the relationship of Kakali with Supriya?",
+            "options": [
+              "Daughter-in-law",
+              "Mother-in-law",
+              "Granddaughter",
+              "Sister-in-law"
+            ],
+            "correctIndex": 0,
+            "explanation": "Daughter-in-law is the wife of one's son.",
+            "difficulty": "Medium",
+            "topicId": "rs-blood",
+            "source": "ai_generated",
+            "generatedDate": "2026-08-17"
+          },
+          {
+            "question": "Rahul is the brother of Suman. Suman is married to Abhijit. If Abhijit is the son of a person, then what is the relationship of Rahul with Abhijit's father?",
+            "options": [
+              "Grandson",
+              "Brother-in-law",
+              "Uncle",
+              "Cousin"
+            ],
+            "correctIndex": 2,
+            "explanation": "Brother-in-law is the husband of one's sister.",
+            "difficulty": "Medium",
+            "topicId": "rs-blood",
+            "source": "ai_generated",
+            "generatedDate": "2026-08-17"
+          },
+          {
+            "question": "A person's wife is the daughter of his father's brother. If the person's father is married to his mother, then what is the relationship of the person with his wife?",
+            "options": [
+              "Cousin",
+              "Daughter",
+              "Son",
+              "Brother"
+            ],
+            "correctIndex": 0,
+            "explanation": "Cousin is the child of one's parent's sibling.",
+            "difficulty": "Medium",
+            "topicId": "rs-blood",
+            "source": "ai_generated",
+            "generatedDate": "2026-08-17"
+          },
+          {
+            "question": "A person's daughter is married to the son of his mother's sister's husband. If the person is married to his wife, then what is the relationship of the person's daughter with the person's wife?",
+            "options": [
+              "Daughter-in-law",
+              "Mother-in-law",
+              "Granddaughter",
+              "Sister-in-law"
+            ],
+            "correctIndex": 2,
+            "explanation": "Granddaughter is the child of one's child.",
+            "difficulty": "Medium",
+            "topicId": "rs-blood",
+            "source": "ai_generated",
+            "generatedDate": "2026-08-17"
+          },
+          {
+            "question": "A person's husband is the son of his mother's brother. If the person's mother is married to his father, then what is the relationship of the person's husband with the person?",
+            "options": [
+              "Son-in-law",
+              "Daughter-in-law",
+              "Brother-in-law",
+              "Cousin"
+            ],
+            "correctIndex": 1,
+            "explanation": "Daughter-in-law is the wife of one's son.",
+            "difficulty": "Medium",
+            "topicId": "rs-blood",
+            "source": "ai_generated",
+            "generatedDate": "2026-08-17"
+          }
+        ],
+        "questionCount": 5
+      },
+      "rs-direction": {
+        "topicName": "Direction Sense",
+        "subjectName": "Reasoning",
+        "questions": [
+          {
+            "question": "Rahul is standing at a crossroad in Kolkata, facing East. He walks 400 meters in the North direction, then 300 meters in the West direction and finally 200 meters in the South direction. Which direction is Rahul facing?",
+            "options": [
+              "South",
+              "North",
+              "East",
+              "West"
+            ],
+            "correctIndex": 1,
+            "explanation": "He turned to the right twice.",
+            "difficulty": "Medium",
+            "topicId": "rs-direction",
+            "source": "ai_generated",
+            "generatedDate": "2026-08-17"
+          },
+          {
+            "question": "A man starts from point A, moves 15 kilometers towards North, then turns left and moves 12 kilometers. Which direction is he facing now?",
+            "options": [
+              "North",
+              "South",
+              "East",
+              "West"
+            ],
+            "correctIndex": 2,
+            "explanation": "He is facing east after turning left.",
+            "difficulty": "Medium",
+            "topicId": "rs-direction",
+            "source": "ai_generated",
+            "generatedDate": "2026-08-17"
+          },
+          {
+            "question": "A person is standing at a point in Howrah, facing the Ganges River. He walks 20 meters towards the South direction and then 15 meters towards the East direction. Which direction is he facing?",
+            "options": [
+              "North",
+              "South",
+              "East",
+              "West"
+            ],
+            "correctIndex": 3,
+            "explanation": "He turned to the right, so he is facing east now.",
+            "difficulty": "Medium",
+            "topicId": "rs-direction",
+            "source": "ai_generated",
+            "generatedDate": "2026-08-17"
+          },
+          {
+            "question": "A person is at a crossroad in Siliguri, he is facing a temple in the North direction. He turns right and walks 500 meters. Which direction is he facing now?",
+            "options": [
+              "North",
+              "South",
+              "East",
+              "West"
+            ],
+            "correctIndex": 0,
+            "explanation": "He turned right, so he is now facing east.",
+            "difficulty": "Medium",
+            "topicId": "rs-direction",
+            "source": "ai_generated",
+            "generatedDate": "2026-08-17"
+          },
+          {
+            "question": "A boy is standing at a bus stop in Asansol, he is facing the bus going towards Durgapur. He turns left and walks 200 meters. Which direction is he facing now?",
+            "options": [
+              "East",
+              "West",
+              "North",
+              "South"
+            ],
+            "correctIndex": 1,
+            "explanation": "He is facing north after turning left.",
+            "difficulty": "Medium",
+            "topicId": "rs-direction",
+            "source": "ai_generated",
+            "generatedDate": "2026-08-17"
+          }
+        ],
+        "questionCount": 5
+      },
+      "rs-series": {
+        "topicName": "Number & Letter Series",
+        "subjectName": "Reasoning",
+        "questions": [
+          {
+            "question": "If 6, 11, 16, 21, 26, _ appears to be a series, which number will replace the blank space?",
+            "options": [
+              "5",
+              "10",
+              "15",
+              "20"
+            ],
+            "correctIndex": 3,
+            "explanation": "The series is based on adding 5 to each number.",
+            "difficulty": "Medium",
+            "topicId": "rs-series",
+            "source": "ai_generated",
+            "generatedDate": "2026-08-17"
+          },
+          {
+            "question": "What will be the next number in the series 3, 6, 9, 12, 15, _?",
+            "options": [
+              "18",
+              "20",
+              "22",
+              "24"
+            ],
+            "correctIndex": 2,
+            "explanation": "The series is based on adding 3 to each number.",
+            "difficulty": "Medium",
+            "topicId": "rs-series",
+            "source": "ai_generated",
+            "generatedDate": "2026-08-17"
+          },
+          {
+            "question": "If the first letter of the series A, B, C, D, E, F is missing, which letter will replace it?",
+            "options": [
+              "G",
+              "H",
+              "I",
+              "J"
+            ],
+            "correctIndex": 0,
+            "explanation": "The series continues with the next alphabet.",
+            "difficulty": "Medium",
+            "topicId": "ls-series",
+            "source": "ai_generated",
+            "generatedDate": "2026-08-17"
+          },
+          {
+            "question": "Which number will replace the blank space in the series 2, 6, 12, 20, 30, _?",
+            "options": [
+              "40",
+              "42",
+              "46",
+              "50"
+            ],
+            "correctIndex": 3,
+            "explanation": "The series is based on adding 4, 6, 8, 10, ... to each number.",
+            "difficulty": "Medium",
+            "topicId": "rs-series",
+            "source": "ai_generated",
+            "generatedDate": "2026-08-17"
+          },
+          {
+            "question": "Which number will be the next in the series 5, 10, 17, 26, 37, _?",
+            "options": [
+              "50",
+              "52",
+              "53",
+              "55"
+            ],
+            "correctIndex": 3,
+            "explanation": "The series is based on adding 5, 7, 9, 11, ... to each number.",
+            "difficulty": "Medium",
+            "topicId": "rs-series",
+            "source": "ai_generated",
+            "generatedDate": "2026-08-17"
+          }
+        ],
+        "questionCount": 5
+      }
+    }
+  }
+}
